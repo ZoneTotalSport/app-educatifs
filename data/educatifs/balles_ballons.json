@@ -1,0 +1,1054 @@
+[
+  {
+    "titre": "Lancer contre le mur",
+    "niveau": "1er cycle",
+    "difficulte": "debutant",
+    "desc": "L'élève lance une balle contre le mur et la rattrape à deux mains, puis à une main. Progressions: augmenter la distance, alterner les mains, ajouter des rebonds au sol, imposer la main non dominante, introduire un rebond contre le mur avant la réception.",
+    "competence": "Manipulation",
+    "variantes": "Lancer en dessous, lancer en cloche, lancer avec rotation, lancer en reculant d'un pas à chaque réception réussie.",
+    "adaptation": "Utiliser une balle plus grosse ou plus légère pour les élèves en difficulté. Réduire la distance.",
+    "duree": 10,
+    "materiel": [
+      "1 balle de tennis par élève",
+      "Mur lisse"
+    ],
+    "tags": [
+      "lancer",
+      "attraper",
+      "mur",
+      "précision"
+    ]
+  },
+  {
+    "titre": "Jonglerie 2 balles",
+    "niveau": "2e cycle",
+    "difficulte": "intermediaire",
+    "desc": "L'élève maîtrise la cascade à 2 balles: partir avec 1 balle, puis introduire la 2e. Séquence: lancer balle A, attraper balle A, lancer balle B... Travailler les croises, l'envoi simultané (fontaine), la synchronisation œil-main.",
+    "competence": "Manipulation",
+    "variantes": "Jonglerie assise, en marchant, passer de 2 à 3 balles, jongler en duo (échange).",
+    "adaptation": "Commencer avec des foulards (descente lente) avant les balles. Travailler d'abord une main puis l'autre.",
+    "duree": 15,
+    "materiel": [
+      "2 balles de jonglerie par élève",
+      "Foulards de jonglerie en option pour débutants"
+    ],
+    "tags": [
+      "jonglerie",
+      "coordination",
+      "yeux-mains",
+      "rythme"
+    ]
+  },
+  {
+    "titre": "Passe-et-va",
+    "niveau": "2e cycle",
+    "difficulte": "intermediaire",
+    "desc": "En dyade, l'élève A passe le ballon à l'élève B et se déplace immédiatement vers une nouvelle position. L'élève B reçoit, passe, et se déplace à son tour. Travailler la passe à deux mains, la passe à une main, la passe sur la course du partenaire.",
+    "competence": "Manipulation",
+    "variantes": "Ajouter un défenseur passif, intégrer dans un circuit, imposer type de passe (rebond, poitrine, lob).",
+    "adaptation": "Réduire la distance de passe, utiliser un ballon plus léger ou plus gros.",
+    "duree": 15,
+    "materiel": [
+      "1 ballon par duo (basketball ou volleyball)"
+    ],
+    "tags": [
+      "passe",
+      "déplacement",
+      "duo",
+      "coordination"
+    ]
+  },
+  {
+    "titre": "Circuit de dribble",
+    "niveau": "3e cycle",
+    "difficulte": "avance",
+    "desc": "Parcours de 6 cônes en slalom avec dribble constant (basketball ou soccer). Aller en dribble main droite, retour main gauche. Intégrer des arrêts contrôlés, des changements de direction, des pivots à chaque cône. Chronométrer et progresser.",
+    "competence": "Manipulation",
+    "variantes": "Dribble les yeux fermés sur dernier cône, course à relais, ajout de défi au dernier cône (tir, passe).",
+    "adaptation": "Élargir l'espace entre les cônes, ralentir le rythme, éliminer le chronométrage.",
+    "duree": 20,
+    "materiel": [
+      "6 cônes",
+      "1 ballon par élève",
+      "Chronomètre"
+    ],
+    "tags": [
+      "dribble",
+      "slalom",
+      "agilité",
+      "coordination"
+    ]
+  },
+  {
+    "titre": "Aérotball ballon prisonnier",
+    "niveau": "1er cycle",
+    "difficulte": "debutant",
+    "desc": "L'élève lance un ballon gonflable vers le plafond et le rattrape avant qu'il touche le sol. Défi progressif: 1 main, 2 mains, dos tourné, clap avant attraper, s'asseoir et se relever. Excellent pour développer le suivi visuel et les réflexes de base.",
+    "competence": "Manipulation",
+    "variantes": "Lancers en duo (l'un lance, l'autre attrape), lancer en groupe en cercle.",
+    "adaptation": "Ballon plus gros et plus léger pour faciliter. Éliminer la contrainte de temps.",
+    "duree": 12,
+    "materiel": [
+      "1 ballon gonflable léger par élève"
+    ],
+    "tags": [
+      "lancer",
+      "attraper",
+      "réflexes",
+      "suivi visuel"
+    ]
+  },
+  {
+    "titre": "Soccer freestyle touches",
+    "niveau": "3e cycle",
+    "difficulte": "avance",
+    "desc": "L'élève réalise des jongleries avec un ballon de soccer: pied droit, pied gauche, genou, tête. Objectif progressif: 5 touches, puis 10, puis 20 sans que le ballon touche le sol. Travailler la surface de contact (milieu du pied), l'amortissement et la régularité du rythme.",
+    "competence": "Manipulation",
+    "variantes": "Jonglerie en mouvement, jonglerie en duo avec passes hautes, comptage en groupe.",
+    "adaptation": "Permettre les rebonds au sol entre chaque touche. Commencer en position assise.",
+    "duree": 20,
+    "materiel": [
+      "1 ballon de soccer par élève"
+    ],
+    "tags": [
+      "soccer",
+      "jonglerie",
+      "équilibre",
+      "coordination"
+    ]
+  },
+  {
+    "titre": "Balle-cible précision",
+    "niveau": "2e cycle",
+    "difficulte": "intermediaire",
+    "desc": "Lancer une balle pour toucher des cibles dessinées au sol ou fixées au mur à différentes distances (2 m, 4 m, 6 m). 3 essais par distance, compter les points. Varier le type de lancer: par en haut, par en bas, roulé au sol.",
+    "competence": "Manipulation",
+    "variantes": "Cibles mobiles (ballon suspendu), lancer par-dessus une haie, lancer en courant.",
+    "adaptation": "Rapprocher les cibles, agrandir les cibles, utiliser une plus grosse balle.",
+    "duree": 12,
+    "materiel": [
+      "3 balles par élève",
+      "Cibles (cerceaux au sol ou cibles au mur)"
+    ],
+    "tags": [
+      "précision",
+      "lancer",
+      "viser",
+      "cible"
+    ]
+  },
+  {
+    "titre": "Rouler-attraper maternelle",
+    "niveau": "maternelle",
+    "difficulte": "debutant",
+    "desc": "Assis face à face en duo, les élèves roulent une balle au sol vers leur partenaire. L'élève doit recevoir la balle à deux mains et la renvoyer doucement. Progresser vers la position debout, puis ajouter un rebond au sol avant la réception.",
+    "competence": "Manipulation",
+    "variantes": "Rouler avec la main gauche, rouler entre les jambes, rouler vers une cible (cône).",
+    "adaptation": "Utiliser un gros ballon léger. Réduire la distance entre les partenaires à 1 mètre.",
+    "duree": 8,
+    "materiel": [
+      "1 balle en mousse par duo"
+    ],
+    "tags": [
+      "rouler",
+      "attraper",
+      "maternelle",
+      "duo"
+    ]
+  },
+  {
+    "titre": "Ballon musical",
+    "niveau": "maternelle",
+    "difficulte": "debutant",
+    "desc": "Les élèves se passent un ballon en cercle au rythme de la musique. Quand la musique s'arrête, celui qui tient le ballon réalise un défi moteur (sauter 5 fois, tourner sur soi-même). Développe l'écoute, la coordination et le passage d'objet.",
+    "competence": "Manipulation",
+    "variantes": "Deux ballons en circulation, passer par-dessus la tête, passer entre les jambes.",
+    "adaptation": "Ballon plus léger, ralentir le tempo de la musique, donner plus de temps pour passer le ballon.",
+    "duree": 10,
+    "materiel": [
+      "1 ballon léger",
+      "Système de musique"
+    ],
+    "tags": [
+      "musique",
+      "cercle",
+      "passe",
+      "maternelle"
+    ]
+  },
+  {
+    "titre": "Lancer par-dessus la ligne",
+    "niveau": "maternelle",
+    "difficulte": "debutant",
+    "desc": "L'élève lance une balle de mousse par-dessus une corde tendue à 1,5 m de hauteur, puis court de l'autre côté pour la récupérer. Travailler le lancer par-dessus l'épaule et le lancer à deux mains. Varier la hauteur de la corde progressivement.",
+    "competence": "Manipulation",
+    "variantes": "Lancer en reculant, lancer assis, lancer avec la main non dominante.",
+    "adaptation": "Baisser la corde, utiliser un ballon gonflable plus léger, permettre le lancer roulé.",
+    "duree": 10,
+    "materiel": [
+      "1 balle de mousse par élève",
+      "Corde ou élastique tendu"
+    ],
+    "tags": [
+      "lancer",
+      "trajectoire",
+      "maternelle",
+      "coordination"
+    ]
+  },
+  {
+    "titre": "Balle brûlante",
+    "niveau": "1er cycle",
+    "difficulte": "debutant",
+    "desc": "En cercle, les élèves se passent une balle le plus rapidement possible comme si elle était brûlante. Au signal, celui qui tient la balle s'assoit. Dernier debout gagne. Travailler la prise rapide, le relâchement contrôlé et la vigilance.",
+    "competence": "Manipulation",
+    "variantes": "Deux balles en même temps, passer dans le sens inverse au signal, ajouter un lancer en l'air avant de passer.",
+    "adaptation": "Ballon plus gros, cercle plus petit, donner un temps de réaction plus long.",
+    "duree": 10,
+    "materiel": [
+      "1 balle de mousse"
+    ],
+    "tags": [
+      "rapidité",
+      "passe",
+      "cercle",
+      "réaction"
+    ]
+  },
+  {
+    "titre": "Dribble stationnaire basketball",
+    "niveau": "1er cycle",
+    "difficulte": "debutant",
+    "desc": "L'élève dribble sur place avec un ballon de basketball junior. Commencer à deux mains, puis alterner droite et gauche. Objectif: 20 dribbles consécutifs sans perdre le ballon. Insister sur le poignet souple, les doigts écartés et le regard vers l'avant.",
+    "competence": "Manipulation",
+    "variantes": "Dribble assis, dribble un genou au sol, dribble en comptant à voix haute.",
+    "adaptation": "Utiliser un ballon plus petit ou un ballon de mousse. Permettre le dribble à deux mains.",
+    "duree": 10,
+    "materiel": [
+      "1 ballon de basketball junior par élève"
+    ],
+    "tags": [
+      "basketball",
+      "dribble",
+      "stationnaire",
+      "contrôle"
+    ]
+  },
+  {
+    "titre": "Passe poitrine basketball",
+    "niveau": "2e cycle",
+    "difficulte": "debutant",
+    "desc": "En duo face à face à 3 mètres, pratiquer la passe poitrine: ballon à la hauteur de la poitrine, pouces derrière, pousser en extension complète des bras. Réception: doigts en cible, amortir vers la poitrine. Augmenter progressivement la distance.",
+    "competence": "Manipulation",
+    "variantes": "Passe à rebond, passe au-dessus de la tête, passe baseball (une main).",
+    "adaptation": "Réduire la distance, utiliser un ballon plus léger, permettre la passe à deux mains sans contrainte de forme.",
+    "duree": 12,
+    "materiel": [
+      "1 ballon de basketball par duo"
+    ],
+    "tags": [
+      "basketball",
+      "passe",
+      "poitrine",
+      "technique"
+    ]
+  },
+  {
+    "titre": "Tir au panier progressif",
+    "niveau": "2e cycle",
+    "difficulte": "intermediaire",
+    "desc": "L'élève tire au panier depuis 5 positions marquées au sol, de plus en plus éloignées. Travailler la position des pieds, la flexion des genoux, l'extension du bras tireur et le suivi du poignet. Compter les paniers réussis sur 10 tentatives par position.",
+    "competence": "Manipulation",
+    "variantes": "Tir en mouvement, tir après dribble, concours entre élèves, tir de la main faible.",
+    "adaptation": "Abaisser le panier si possible, se rapprocher, utiliser un ballon plus léger.",
+    "duree": 15,
+    "materiel": [
+      "1 ballon de basketball par élève",
+      "Panier de basketball",
+      "5 marques au sol"
+    ],
+    "tags": [
+      "basketball",
+      "tir",
+      "panier",
+      "précision"
+    ]
+  },
+  {
+    "titre": "Volleyball service par en bas",
+    "niveau": "3e cycle",
+    "difficulte": "debutant",
+    "desc": "L'élève apprend le service par en bas au volleyball: pied opposé à la main de frappe en avant, ballon tenu dans la main non dominante, frapper avec le talon de la main. Objectif: passer le filet 7 fois sur 10. Distance réduite au départ (4 m du filet).",
+    "competence": "Manipulation",
+    "variantes": "Service vers zone ciblée, service puissant, service flottant.",
+    "adaptation": "Rapprocher la ligne de service, baisser le filet, utiliser un ballon plus léger.",
+    "duree": 15,
+    "materiel": [
+      "1 ballon de volleyball par élève",
+      "Filet de volleyball"
+    ],
+    "tags": [
+      "volleyball",
+      "service",
+      "technique",
+      "débutant"
+    ]
+  },
+  {
+    "titre": "Touche volleyball",
+    "niveau": "3e cycle",
+    "difficulte": "intermediaire",
+    "desc": "Pratiquer la touche haute (manchette et passe): doigts en forme de triangle, contact au-dessus du front, extension des bras. En duo, enchaîner 10 passes consécutives sans que le ballon tombe. Travailler la position sous le ballon et le placement des pieds.",
+    "competence": "Manipulation",
+    "variantes": "Touche haute contre le mur, touche en mouvement, alterner touche haute et manchette.",
+    "adaptation": "Utiliser un ballon léger ou un ballon de plage. Permettre un rebond entre chaque touche.",
+    "duree": 15,
+    "materiel": [
+      "1 ballon de volleyball par duo"
+    ],
+    "tags": [
+      "volleyball",
+      "touche",
+      "manchette",
+      "passe"
+    ]
+  },
+  {
+    "titre": "Manchette volleyball",
+    "niveau": "secondaire 1-2",
+    "difficulte": "intermediaire",
+    "desc": "L'élève travaille la manchette: bras tendus joints, contact sur les avant-bras, poussée des jambes. Un lanceur envoie le ballon en arc, le réceptionneur dirige la manchette vers une cible. Séries de 10 réceptions, viser la constance de la direction.",
+    "competence": "Manipulation",
+    "variantes": "Manchette en déplacement latéral, manchette après rotation, manchette en plongeon.",
+    "adaptation": "Lancer le ballon plus doucement, utiliser un ballon plus léger, réduire la distance.",
+    "duree": 15,
+    "materiel": [
+      "1 ballon de volleyball par duo",
+      "Cible au sol (cerceau)"
+    ],
+    "tags": [
+      "volleyball",
+      "manchette",
+      "réception",
+      "technique"
+    ]
+  },
+  {
+    "titre": "Soccer passe en triangle",
+    "niveau": "2e cycle",
+    "difficulte": "intermediaire",
+    "desc": "En trio, les élèves forment un triangle de 5 mètres de côté. Passes au sol de l'intérieur du pied: passer et se replacer. Travailler la précision, le contrôle de balle (amorti), et la passe du premier toucher. Compter le nombre de passes réussies en 2 minutes.",
+    "competence": "Manipulation",
+    "variantes": "Passes en un toucher, ajouter un défenseur au centre, agrandir le triangle.",
+    "adaptation": "Réduire la distance, autoriser l'arrêt du ballon avant de passer, utiliser un ballon plus mou.",
+    "duree": 12,
+    "materiel": [
+      "1 ballon de soccer par trio",
+      "3 cônes"
+    ],
+    "tags": [
+      "soccer",
+      "passe",
+      "triangle",
+      "contrôle"
+    ]
+  },
+  {
+    "titre": "Tir au but soccer",
+    "niveau": "3e cycle",
+    "difficulte": "intermediaire",
+    "desc": "L'élève tire au but depuis différents angles et distances. Travailler le tir de l'intérieur du pied (précision) et du coup de pied (puissance). Installer des cibles dans les coins du but (cônes). 5 tirs par position, noter les réussites.",
+    "competence": "Manipulation",
+    "variantes": "Tir après dribble, tir en une touche sur passe, tir de la tête.",
+    "adaptation": "Agrandir le but, rapprocher le point de tir, enlever le gardien.",
+    "duree": 15,
+    "materiel": [
+      "Ballons de soccer",
+      "But ou filet",
+      "Cônes pour cibles"
+    ],
+    "tags": [
+      "soccer",
+      "tir",
+      "but",
+      "précision"
+    ]
+  },
+  {
+    "titre": "Handball passe et tir",
+    "niveau": "secondaire 1-2",
+    "difficulte": "intermediaire",
+    "desc": "En trio, enchaîner 3 passes puis tir au but. Le porteur de balle ne peut pas marcher (3 pas maximum). Travailler l'armé du bras, le tir en suspension et le placement du corps. Rotation des rôles: passeur, pivot, tireur.",
+    "competence": "Manipulation",
+    "variantes": "Ajouter un défenseur, imposer un tir en suspension, varier les angles de tir.",
+    "adaptation": "Utiliser un ballon plus petit, permettre plus de pas, agrandir le but.",
+    "duree": 20,
+    "materiel": [
+      "1 ballon de handball par trio",
+      "But de handball",
+      "Dossards"
+    ],
+    "tags": [
+      "handball",
+      "passe",
+      "tir",
+      "collectif"
+    ]
+  },
+  {
+    "titre": "Lancer précision poches de sable",
+    "niveau": "1er cycle",
+    "difficulte": "debutant",
+    "desc": "L'élève lance des poches de sable dans des cerceaux disposés au sol à 2, 3 et 4 mètres. 3 essais par distance. Travailler le lancer par en dessous et par en haut. Compter les points: cerceau le plus éloigné vaut le plus de points.",
+    "competence": "Manipulation",
+    "variantes": "Lancer les yeux fermés, lancer derrière le dos, lancer en équilibre sur un pied.",
+    "adaptation": "Rapprocher les cerceaux, agrandir les cibles, permettre le lancer à deux mains.",
+    "duree": 10,
+    "materiel": [
+      "3 poches de sable par élève",
+      "6 cerceaux"
+    ],
+    "tags": [
+      "lancer",
+      "précision",
+      "poches",
+      "cibles"
+    ]
+  },
+  {
+    "titre": "Relais ballon au-dessus de la tête",
+    "niveau": "1er cycle",
+    "difficulte": "debutant",
+    "desc": "En file indienne, les élèves passent un ballon au-dessus de la tête vers l'arrière. Le dernier court en avant pour recommencer. Travailler la coordination, la communication et la vitesse de passage. Première équipe dont tous les joueurs ont couru gagne.",
+    "competence": "Manipulation",
+    "variantes": "Passer entre les jambes, alterner dessus-dessous, passer sur le côté.",
+    "adaptation": "Ballon plus léger, file plus courte, permettre de se retourner pour passer.",
+    "duree": 10,
+    "materiel": [
+      "1 ballon par équipe de 6-8"
+    ],
+    "tags": [
+      "relais",
+      "passe",
+      "équipe",
+      "vitesse"
+    ]
+  },
+  {
+    "titre": "Attraper en mouvement",
+    "niveau": "2e cycle",
+    "difficulte": "intermediaire",
+    "desc": "L'enseignant ou un partenaire lance le ballon tandis que l'élève est en déplacement (marche, trot, course). L'élève doit ajuster sa trajectoire pour attraper le ballon sans s'arrêter. Progresser vers des lancers plus rapides et des angles variés.",
+    "competence": "Manipulation",
+    "variantes": "Attraper d'une main, attraper en sautant, attraper en reculant.",
+    "adaptation": "Ralentir le déplacement, utiliser un ballon plus gros, lancer à hauteur de poitrine.",
+    "duree": 12,
+    "materiel": [
+      "1 ballon par duo"
+    ],
+    "tags": [
+      "attraper",
+      "mouvement",
+      "coordination",
+      "ajustement"
+    ]
+  },
+  {
+    "titre": "Balle au mur rebond",
+    "niveau": "2e cycle",
+    "difficulte": "intermediaire",
+    "desc": "L'élève lance la balle au mur, la laisse rebondir une fois au sol, puis la rattrape. Progresser vers zéro rebond. Varier les hauteurs de lancer pour modifier l'angle de rebond. Travailler la lecture de trajectoire et le positionnement rapide.",
+    "competence": "Manipulation",
+    "variantes": "Rattraper avec une seule main, faire un tour sur soi avant d'attraper, lancer en plongeon.",
+    "adaptation": "Permettre 2 rebonds, utiliser une balle qui rebondit bien, se placer plus près du mur.",
+    "duree": 10,
+    "materiel": [
+      "1 balle rebondissante par élève",
+      "Mur lisse"
+    ],
+    "tags": [
+      "rebond",
+      "mur",
+      "trajectoire",
+      "réaction"
+    ]
+  },
+  {
+    "titre": "Lancer-attraper en duo progressif",
+    "niveau": "1er cycle",
+    "difficulte": "debutant",
+    "desc": "En duo à 2 mètres, se lancer un ballon à deux mains. Après 5 réussites consécutives, reculer d'un pas. Continuer jusqu'à la distance maximale. Travailler le lancer dosé et la réception à deux mains en amortissant vers la poitrine.",
+    "competence": "Manipulation",
+    "variantes": "Lancer avec rebond, lancer d'une main, ajouter un clap entre le lancer et la réception.",
+    "adaptation": "Rester à la même distance, utiliser un ballon plus gros et léger.",
+    "duree": 10,
+    "materiel": [
+      "1 ballon mousse par duo"
+    ],
+    "tags": [
+      "lancer",
+      "attraper",
+      "duo",
+      "progression"
+    ]
+  },
+  {
+    "titre": "Soccer conduite de balle",
+    "niveau": "2e cycle",
+    "difficulte": "debutant",
+    "desc": "L'élève conduit le ballon de soccer en marchant, puis en trottinant, dans un espace délimité. Utiliser l'intérieur du pied, l'extérieur, et la semelle pour contrôler le ballon. Garder le ballon près de soi, lever la tête régulièrement pour éviter les autres.",
+    "competence": "Manipulation",
+    "variantes": "Conduite en slalom, conduite avec arrêts sur signal, conduite main sur la tête.",
+    "adaptation": "Espace plus grand, ballon plus lent (dégonflé légèrement), moins d'élèves dans la zone.",
+    "duree": 12,
+    "materiel": [
+      "1 ballon de soccer par élève",
+      "Cônes pour délimiter la zone"
+    ],
+    "tags": [
+      "soccer",
+      "conduite",
+      "contrôle",
+      "pieds"
+    ]
+  },
+  {
+    "titre": "Basketball lay-up initiation",
+    "niveau": "3e cycle",
+    "difficulte": "avance",
+    "desc": "L'élève apprend le double pas et le tir en course (lay-up). Séquence: dribble d'approche, ramasser le ballon, pas droit-gauche (ou gauche-droit), déposer le ballon sur la planche. Répéter 10 fois de chaque côté. Travailler le pied d'appel correct.",
+    "competence": "Manipulation",
+    "variantes": "Lay-up main gauche, lay-up après passe, lay-up en revers.",
+    "adaptation": "Faire le double pas sans ballon d'abord, puis avec ballon sans tir, puis complet.",
+    "duree": 20,
+    "materiel": [
+      "1 ballon de basketball par élève",
+      "Panier de basketball"
+    ],
+    "tags": [
+      "basketball",
+      "lay-up",
+      "tir",
+      "technique"
+    ]
+  },
+  {
+    "titre": "Jeu de quilles ballon",
+    "niveau": "maternelle",
+    "difficulte": "debutant",
+    "desc": "Disposer 6 quilles (ou bouteilles d'eau) en triangle. L'élève fait rouler un ballon pour renverser le maximum de quilles depuis 3 mètres. Compter les quilles renversées, replacer et recommencer. Travailler la visée et le dosage de la force.",
+    "competence": "Manipulation",
+    "variantes": "Augmenter la distance, lancer au lieu de rouler, utiliser la main non dominante.",
+    "adaptation": "Rapprocher les quilles, utiliser un ballon plus gros, permettre 2 lancers par tour.",
+    "duree": 10,
+    "materiel": [
+      "6 quilles ou bouteilles",
+      "1 ballon par élève"
+    ],
+    "tags": [
+      "quilles",
+      "rouler",
+      "viser",
+      "maternelle"
+    ]
+  },
+  {
+    "titre": "Échange volleyball mur",
+    "niveau": "secondaire 1-2",
+    "difficulte": "intermediaire",
+    "desc": "L'élève frappe le ballon de volleyball contre le mur en alternant touche haute et manchette. Objectif: 20 frappes consécutives sans que le ballon touche le sol. Le mur permet un rythme régulier et un entraînement autonome de la technique.",
+    "competence": "Manipulation",
+    "variantes": "Manchette uniquement, touche uniquement, alterner avec déplacement latéral.",
+    "adaptation": "Se rapprocher du mur, utiliser un ballon plus léger, permettre un rebond au sol.",
+    "duree": 10,
+    "materiel": [
+      "1 ballon de volleyball par élève",
+      "Mur lisse"
+    ],
+    "tags": [
+      "volleyball",
+      "mur",
+      "touche",
+      "manchette"
+    ]
+  },
+  {
+    "titre": "Passe rebond basketball",
+    "niveau": "3e cycle",
+    "difficulte": "intermediaire",
+    "desc": "En duo à 4 mètres, pratiquer la passe à rebond: viser le sol aux 2/3 de la distance pour que le ballon arrive à la poitrine du partenaire. Alterner passe rebond à deux mains et à une main. Intégrer un déplacement latéral après la passe.",
+    "competence": "Manipulation",
+    "variantes": "Passe rebond en mouvement, avec défenseur, passe derrière le dos.",
+    "adaptation": "Réduire la distance, utiliser un ballon plus petit, marquer le point de rebond au sol.",
+    "duree": 12,
+    "materiel": [
+      "1 ballon de basketball par duo"
+    ],
+    "tags": [
+      "basketball",
+      "passe",
+      "rebond",
+      "technique"
+    ]
+  },
+  {
+    "titre": "Smash volleyball initiation",
+    "niveau": "secondaire 1-2",
+    "difficulte": "avance",
+    "desc": "L'élève apprend le smash: approche en 3 pas, saut, armé du bras et frappe vers le bas. Commencer avec un ballon tenu en hauteur par un partenaire, puis avec un lancer en arc. Travailler le timing de l'impulsion et le contact au point le plus haut.",
+    "competence": "Manipulation",
+    "variantes": "Smash croisé, smash ligne, feinte de smash (amorti au filet).",
+    "adaptation": "Frapper un ballon posé sur un support en hauteur, baisser le filet, ballon plus léger.",
+    "duree": 20,
+    "materiel": [
+      "Ballons de volleyball",
+      "Filet de volleyball"
+    ],
+    "tags": [
+      "volleyball",
+      "smash",
+      "attaque",
+      "saut"
+    ]
+  },
+  {
+    "titre": "Balle chasseur immobile",
+    "niveau": "1er cycle",
+    "difficulte": "debutant",
+    "desc": "Version simplifiée du ballon chasseur: les lanceurs ne peuvent pas se déplacer. Ils doivent viser les joueurs en mouvement. Quand un joueur est touché sous la ceinture, il devient lanceur. Travailler le lancer dosé et l'esquive.",
+    "competence": "Manipulation",
+    "variantes": "Deux ballons en jeu, zone de protection au centre, touché libéré par un coéquipier.",
+    "adaptation": "Balle en mousse très légère, espace plus grand, touché au sol devant le joueur plutôt que sur lui.",
+    "duree": 15,
+    "materiel": [
+      "2 balles en mousse",
+      "Dossards",
+      "Cônes pour délimiter la zone"
+    ],
+    "tags": [
+      "ballon chasseur",
+      "esquive",
+      "lancer",
+      "jeu"
+    ]
+  },
+  {
+    "titre": "Passe football (flag)",
+    "niveau": "secondaire 1-2",
+    "difficulte": "intermediaire",
+    "desc": "L'élève apprend la passe du quart-arrière: prise du ballon football, position latérale, transfert de poids, rotation du tronc et spirale. En duo à 8 m, 10 passes chacun. Travailler la spirale serrée et la trajectoire en arc vers le receveur.",
+    "competence": "Manipulation",
+    "variantes": "Passe en mouvement, passe longue (15 m), passe sous pression d'un défenseur.",
+    "adaptation": "Ballon de football junior, distance réduite, permettre la passe à deux mains.",
+    "duree": 15,
+    "materiel": [
+      "1 ballon de football par duo"
+    ],
+    "tags": [
+      "football",
+      "passe",
+      "spirale",
+      "quart-arrière"
+    ]
+  },
+  {
+    "titre": "Dribble basketball en déplacement",
+    "niveau": "2e cycle",
+    "difficulte": "intermediaire",
+    "desc": "L'élève dribble en marchant, puis en trottinant sur la longueur du gymnase. Main droite à l'aller, main gauche au retour. Insister sur le dribble bas, le regard vers l'avant et le rythme constant. Ajouter progressivement des changements de direction.",
+    "competence": "Manipulation",
+    "variantes": "Dribble entre les jambes, dribble derrière le dos, changement de main croisé.",
+    "adaptation": "Marche seulement, espace libre sans obstacles, ballon de taille réduite.",
+    "duree": 12,
+    "materiel": [
+      "1 ballon de basketball par élève"
+    ],
+    "tags": [
+      "basketball",
+      "dribble",
+      "déplacement",
+      "contrôle"
+    ]
+  },
+  {
+    "titre": "Soccer dribble slalom",
+    "niveau": "3e cycle",
+    "difficulte": "intermediaire",
+    "desc": "Parcours de 8 cônes en slalom avec conduite de balle au pied. Utiliser l'intérieur et l'extérieur du pied alternativement. Chronométrer les parcours et tenter de battre son propre record. Maintenir le ballon proche à chaque changement de direction.",
+    "competence": "Manipulation",
+    "variantes": "Pied droit uniquement, pied gauche uniquement, slalom en marche arrière.",
+    "adaptation": "Espacement plus grand entre les cônes, allure réduite, moins de cônes.",
+    "duree": 15,
+    "materiel": [
+      "8 cônes",
+      "1 ballon de soccer par élève",
+      "Chronomètre"
+    ],
+    "tags": [
+      "soccer",
+      "dribble",
+      "slalom",
+      "agilité"
+    ]
+  },
+  {
+    "titre": "Lancer et compter maternelle",
+    "niveau": "maternelle",
+    "difficulte": "debutant",
+    "desc": "L'élève lance une poche de sable dans un panier ou un bac à 2 mètres. Chaque réussite vaut un point. Objectif: atteindre 5 points. Travailler le lancer par en dessous avec une main et le dosage de la force. Combiner motricité et numératie.",
+    "competence": "Manipulation",
+    "variantes": "Varier les contenants (cerceaux, bacs, seaux), augmenter la distance, lancer avec l'autre main.",
+    "adaptation": "Rapprocher la cible, utiliser un contenant plus grand, guider la main de l'élève.",
+    "duree": 8,
+    "materiel": [
+      "3 poches de sable par élève",
+      "1 panier ou bac"
+    ],
+    "tags": [
+      "lancer",
+      "compter",
+      "maternelle",
+      "précision"
+    ]
+  },
+  {
+    "titre": "Volleyball jeu modifié 2 contre 2",
+    "niveau": "secondaire 1-2",
+    "difficulte": "avance",
+    "desc": "Jeu de volleyball 2 contre 2 sur terrain réduit (badminton). Chaque équipe a droit à 3 touches. Obliger une touche haute et une manchette avant l'attaque. Parties de 7 points, rotation des équipes. Développe la communication et le jeu tactique.",
+    "competence": "Manipulation",
+    "variantes": "3 contre 3, terrain plus grand, obligation de placement précis.",
+    "adaptation": "Permettre un rebond, ballon plus léger, filet plus bas.",
+    "duree": 20,
+    "materiel": [
+      "1 ballon de volleyball par terrain",
+      "Filet de badminton",
+      "Cônes"
+    ],
+    "tags": [
+      "volleyball",
+      "jeu",
+      "2v2",
+      "tactique"
+    ]
+  },
+  {
+    "titre": "Soccer jeu de la taupe",
+    "niveau": "1er cycle",
+    "difficulte": "debutant",
+    "desc": "Chaque élève a un ballon de soccer au pied. Au signal de l'enseignant qui nomme une couleur de cône, tous les élèves conduisent leur ballon vers le cône de cette couleur. Le dernier arrivé fait 5 sauts. Travailler la conduite de balle et l'écoute active.",
+    "competence": "Manipulation",
+    "variantes": "Utiliser des chiffres au lieu de couleurs, ajouter un passage obligé (entre 2 cônes).",
+    "adaptation": "Réduire l'espace, permettre de porter le ballon au lieu de le conduire.",
+    "duree": 10,
+    "materiel": [
+      "1 ballon de soccer par élève",
+      "Cônes de 4 couleurs"
+    ],
+    "tags": [
+      "soccer",
+      "conduite",
+      "réaction",
+      "écoute"
+    ]
+  },
+  {
+    "titre": "Passe volleyball par-dessus le filet",
+    "niveau": "3e cycle",
+    "difficulte": "intermediaire",
+    "desc": "En duo de chaque côté du filet, l'élève A fait une touche haute par-dessus le filet, l'élève B réceptionne en manchette et renvoie en touche haute. Objectif: maintenir l'échange 10 fois. Travailler le positionnement sous le ballon et la qualité de la passe.",
+    "competence": "Manipulation",
+    "variantes": "Imposer uniquement manchette, varier la zone de réception, ajouter un 3e joueur.",
+    "adaptation": "Baisser le filet, utiliser un ballon de plage, permettre de toucher le ballon plusieurs fois.",
+    "duree": 15,
+    "materiel": [
+      "1 ballon de volleyball par duo",
+      "Filet de volleyball"
+    ],
+    "tags": [
+      "volleyball",
+      "échange",
+      "filet",
+      "touche"
+    ]
+  },
+  {
+    "titre": "Lancer de balle à une main au mur",
+    "niveau": "1er cycle",
+    "difficulte": "intermediaire",
+    "desc": "L'élève lance une balle de tennis d'une main contre le mur et la rattrape de la même main. Alterner main droite et main gauche toutes les 5 réceptions. Progresser vers un lancer plus fort et une réception plus rapide. Développe la dominance latérale.",
+    "competence": "Manipulation",
+    "variantes": "Lancer main droite, attraper main gauche; ajouter un clap entre lancer et réception.",
+    "adaptation": "Permettre la réception à deux mains, se rapprocher du mur, balle plus grosse.",
+    "duree": 10,
+    "materiel": [
+      "1 balle de tennis par élève",
+      "Mur lisse"
+    ],
+    "tags": [
+      "lancer",
+      "une main",
+      "mur",
+      "latéralité"
+    ]
+  },
+  {
+    "titre": "Basketball étoile de passes",
+    "niveau": "secondaire 1-2",
+    "difficulte": "intermediaire",
+    "desc": "5 joueurs forment une étoile (pentagone). Le ballon est passé en suivant le tracé de l'étoile (sauter un joueur). Passe poitrine, puis passe à rebond, puis passe baseball. Augmenter le rythme progressivement. Ajouter un 2e ballon pour le défi.",
+    "competence": "Manipulation",
+    "variantes": "Inverser le sens, 2 ballons simultanés, déplacement après la passe.",
+    "adaptation": "Réduire à 4 joueurs (carré), ralentir le rythme, un seul type de passe.",
+    "duree": 12,
+    "materiel": [
+      "1-2 ballons de basketball"
+    ],
+    "tags": [
+      "basketball",
+      "passe",
+      "étoile",
+      "rythme"
+    ]
+  },
+  {
+    "titre": "Soccer tête au but",
+    "niveau": "secondaire 1-2",
+    "difficulte": "avance",
+    "desc": "L'élève pratique le jeu de tête: un lanceur envoie le ballon en arc, le joueur frappe de la tête en direction du but. Travailler le contact avec le front (pas le dessus de la tête), les yeux ouverts, la poussée du cou et le timing de l'impulsion.",
+    "competence": "Manipulation",
+    "variantes": "Tête en extension (saut), tête plongeante, tête en déviation.",
+    "adaptation": "Utiliser un ballon en mousse, commencer avec le ballon tenu par le partenaire, pas de saut requis.",
+    "duree": 15,
+    "materiel": [
+      "Ballons de soccer",
+      "But"
+    ],
+    "tags": [
+      "soccer",
+      "tête",
+      "tir",
+      "technique"
+    ]
+  },
+  {
+    "titre": "Circuit 6 stations ballons",
+    "niveau": "3e cycle",
+    "difficulte": "avance",
+    "desc": "Circuit de 6 stations avec rotation aux 3 minutes: 1) Dribble basketball slalom, 2) Passe soccer en triangle, 3) Service volleyball au mur, 4) Tir au but handball, 5) Lancer de précision balle de tennis, 6) Jonglerie soccer. Fiche d'autoévaluation à chaque station.",
+    "competence": "Manipulation",
+    "variantes": "Chronométrer chaque station, ajouter des défis bonus, varier l'ordre.",
+    "adaptation": "Réduire à 4 stations, augmenter le temps par station, simplifier les critères.",
+    "duree": 25,
+    "materiel": [
+      "Ballons variés (basketball, soccer, volleyball, handball)",
+      "Balle de tennis",
+      "Cônes",
+      "Filet",
+      "But"
+    ],
+    "tags": [
+      "circuit",
+      "stations",
+      "polyvalence",
+      "ballons"
+    ]
+  },
+  {
+    "titre": "Handball dribble et tir",
+    "niveau": "secondaire 1-2",
+    "difficulte": "intermediaire",
+    "desc": "L'élève dribble le ballon de handball en course, s'arrête à la ligne des 6 mètres et exécute un tir en appui. Travailler l'armé du bras au-dessus de l'épaule, le transfert de poids et la visée dans les coins du but. 5 tirs de chaque côté.",
+    "competence": "Manipulation",
+    "variantes": "Tir en suspension, tir après feinte, tir en contre-attaque.",
+    "adaptation": "Tir arrêté sans dribble, but plus grand, pas de gardien.",
+    "duree": 15,
+    "materiel": [
+      "1 ballon de handball par élève",
+      "But de handball"
+    ],
+    "tags": [
+      "handball",
+      "dribble",
+      "tir",
+      "technique"
+    ]
+  },
+  {
+    "titre": "Volleyball block initiation",
+    "niveau": "secondaire 3-5",
+    "difficulte": "avance",
+    "desc": "L'élève apprend le contre (block) au volleyball: position près du filet, lecture de l'attaquant, saut vertical avec les mains au-dessus du filet, doigts écartés et rigides. Travailler le timing avec un attaquant qui frappe un ballon tenu. Séries de 10 sauts.",
+    "competence": "Manipulation",
+    "variantes": "Block à deux joueurs, block en déplacement latéral, block après lecture de la passe.",
+    "adaptation": "Baisser le filet, réduire la puissance de l'attaque, travailler le saut seul d'abord.",
+    "duree": 20,
+    "materiel": [
+      "Ballons de volleyball",
+      "Filet de volleyball"
+    ],
+    "tags": [
+      "volleyball",
+      "block",
+      "filet",
+      "saut"
+    ]
+  },
+  {
+    "titre": "Passe en cloche par-dessus",
+    "niveau": "2e cycle",
+    "difficulte": "intermediaire",
+    "desc": "En trio, l'élève A lance un ballon en cloche par-dessus l'élève B (qui est au centre) vers l'élève C. B essaie d'intercepter sans quitter sa zone. Travailler la trajectoire en arc, la hauteur de lancer et le dosage de la force. Rotation des rôles toutes les 2 minutes.",
+    "competence": "Manipulation",
+    "variantes": "B peut sauter pour intercepter, lancer roulé au sol entre les jambes de B, lancer latéral.",
+    "adaptation": "Augmenter l'espace entre A et C, permettre un rebond, utiliser un ballon plus léger.",
+    "duree": 12,
+    "materiel": [
+      "1 ballon léger par trio"
+    ],
+    "tags": [
+      "passe",
+      "trajectoire",
+      "trio",
+      "interception"
+    ]
+  },
+  {
+    "titre": "Basketball arrêt et pivot",
+    "niveau": "3e cycle",
+    "difficulte": "intermediaire",
+    "desc": "L'élève dribble vers un cône, exécute un arrêt à deux temps (1-2), protège le ballon et pivote sur un pied pour trouver un partenaire libre. Travailler le pied de pivot, le regard vers l'avant et la protection du ballon avec le corps. Rotation après chaque essai.",
+    "competence": "Manipulation",
+    "variantes": "Arrêt en saut (deux pieds simultanés), pivot avec feinte de passe, ajout d'un défenseur.",
+    "adaptation": "Arrêt sans dribble d'abord, pivot lent, marquer le pied de pivot au sol.",
+    "duree": 15,
+    "materiel": [
+      "1 ballon de basketball par élève",
+      "Cônes"
+    ],
+    "tags": [
+      "basketball",
+      "pivot",
+      "arrêt",
+      "protection"
+    ]
+  },
+  {
+    "titre": "Balle au panier inversé",
+    "niveau": "1er cycle",
+    "difficulte": "debutant",
+    "desc": "Des bacs ou paniers sont posés au sol. L'élève lance une balle de mousse en arc pour la faire tomber dans le contenant. Varier les distances (1 m, 2 m, 3 m) et les types de contenants. Excellent exercice de dosage de force et de trajectoire pour les plus jeunes.",
+    "competence": "Manipulation",
+    "variantes": "Lancer derrière le dos, lancer les yeux fermés, compétition par équipes.",
+    "adaptation": "Contenants plus grands, distance réduite, permettre le lancer roulé.",
+    "duree": 10,
+    "materiel": [
+      "3 balles de mousse par élève",
+      "3 bacs ou paniers"
+    ],
+    "tags": [
+      "lancer",
+      "panier",
+      "trajectoire",
+      "dosage"
+    ]
+  },
+  {
+    "titre": "Soccer passe longue",
+    "niveau": "secondaire 1-2",
+    "difficulte": "avance",
+    "desc": "L'élève pratique la passe longue au soccer: coup de pied avec le dessus du pied, corps penché en arrière, suivi de la jambe. Envoyer le ballon à 15-20 mètres vers un partenaire. Travailler la précision et la hauteur de la trajectoire. 10 passes chacun.",
+    "competence": "Manipulation",
+    "variantes": "Passe longue en mouvement, contrôle de la poitrine à la réception, passe lobée vers zone précise.",
+    "adaptation": "Réduire la distance, permettre la passe roulée, utiliser un ballon plus léger.",
+    "duree": 15,
+    "materiel": [
+      "1 ballon de soccer par duo"
+    ],
+    "tags": [
+      "soccer",
+      "passe longue",
+      "technique",
+      "précision"
+    ]
+  },
+  {
+    "titre": "Spikeball initiation",
+    "niveau": "secondaire 1-2",
+    "difficulte": "intermediaire",
+    "desc": "Apprendre les bases du spikeball: service en frappant la balle sur le filet rond, réception et renvoi en 3 touches maximum. En duo coopératif d'abord (maintenir l'échange le plus longtemps possible), puis en 2 contre 2. Travailler le positionnement à 360 degrés autour du filet.",
+    "competence": "Manipulation",
+    "variantes": "Imposer le service alterné, jeu en 3 contre 3, jeu avec ballon de mousse.",
+    "adaptation": "Utiliser une balle plus grosse, permettre plus de touches, filet plus haut.",
+    "duree": 20,
+    "materiel": [
+      "1 ensemble de spikeball",
+      "1 balle de spikeball"
+    ],
+    "tags": [
+      "spikeball",
+      "filet",
+      "réaction",
+      "collectif"
+    ]
+  },
+  {
+    "titre": "Ballon captif maternelle",
+    "niveau": "maternelle",
+    "difficulte": "debutant",
+    "desc": "L'élève tient un ballon entre ses deux mains et réalise différentes actions: le lever au-dessus de la tête, le passer derrière le dos, le mettre entre ses genoux et marcher, le faire rouler autour de sa taille. Développe la conscience corporelle et la préhension.",
+    "competence": "Manipulation",
+    "variantes": "Faire les mouvements en musique, en duo miroir, en ajoutant des déplacements.",
+    "adaptation": "Ballon plus petit, mouvements plus lents, démonstration de l'enseignant à chaque étape.",
+    "duree": 8,
+    "materiel": [
+      "1 ballon léger par élève"
+    ],
+    "tags": [
+      "maternelle",
+      "ballon",
+      "conscience corporelle",
+      "préhension"
+    ]
+  },
+  {
+    "titre": "Handball passe en mouvement",
+    "niveau": "secondaire 3-5",
+    "difficulte": "avance",
+    "desc": "En colonne de 3, les joueurs avancent vers le but en se faisant des passes rapides sans s'arrêter. Le dernier passeur tire au but. Travailler le timing des appels, la communication et la passe en extension. Alterner les positions à chaque vague.",
+    "competence": "Manipulation",
+    "variantes": "Ajouter un défenseur, imposer la passe à rebond, enchaîner 2 vagues rapidement.",
+    "adaptation": "Passer en marchant, réduire la vitesse, permettre un arrêt avant la passe.",
+    "duree": 20,
+    "materiel": [
+      "1 ballon de handball par trio",
+      "But de handball"
+    ],
+    "tags": [
+      "handball",
+      "passe",
+      "mouvement",
+      "attaque"
+    ]
+  },
+  {
+    "titre": "Basketball 21",
+    "niveau": "secondaire 3-5",
+    "difficulte": "avance",
+    "desc": "Jeu classique de basketball à 3-4 joueurs sur un panier. Après un tir manqué, rebond et tir. Panier à 2 points du périmètre, 1 point au lancer franc. Premier à 21 gagne. Travailler le tir en situation de jeu, le rebond et la lecture du jeu.",
+    "competence": "Manipulation",
+    "variantes": "Obliger une passe avant le tir, maximum 3 dribbles, jeu à reculons.",
+    "adaptation": "Réduire à 15 points, rapprocher le périmètre, jouer sans contact physique strict.",
+    "duree": 20,
+    "materiel": [
+      "1 ballon de basketball",
+      "1 panier"
+    ],
+    "tags": [
+      "basketball",
+      "jeu",
+      "tir",
+      "compétition"
+    ]
+  }
+]

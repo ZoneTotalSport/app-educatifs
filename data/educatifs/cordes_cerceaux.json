@@ -1,0 +1,976 @@
+[
+  {
+    "titre": "Saut à la corde individuel",
+    "niveau": "1er cycle",
+    "difficulte": "debutant",
+    "desc": "L'élève saute à la corde individuelle en rythme. Démarrer avec la corde devant, passer par-dessus. Objectif: 10 sauts consécutifs, puis 20, puis 50. Travailler le rythme, la hauteur de saut minimale, et la posture (dos droit, genoux légèrement fléchis).",
+    "competence": "Locomotion",
+    "variantes": "Saut alterné, saut rapide (poivrier), saut à reculons, double saut.",
+    "adaptation": "Corde tenue à faible hauteur par deux camarades. Sauter sur place sans corde d'abord.",
+    "duree": 12,
+    "materiel": [
+      "1 corde à sauter par élève"
+    ],
+    "tags": [
+      "corde",
+      "saut",
+      "rythme",
+      "coordination"
+    ]
+  },
+  {
+    "titre": "Parcours cerceaux au sol",
+    "niveau": "maternelle",
+    "difficulte": "debutant",
+    "desc": "Cerceaux disposés au sol en ligne ou en patterns. L'élève saute d'un pied, deux pieds, galope, esquive. Varier les patterns: ligne droite, zigzag, largeur variable. Excellent pour développer la coordination bilatérale et la proprioception.",
+    "competence": "Locomotion",
+    "variantes": "Sauter avec objet dans les mains, sauter dos à dos avec un partenaire, patterns en duo.",
+    "adaptation": "Élargir les cerceaux, réduire le nombre d'étapes, guider l'élève à la main.",
+    "duree": 10,
+    "materiel": [
+      "10 cerceaux par parcours"
+    ],
+    "tags": [
+      "cerceaux",
+      "saut",
+      "parcours",
+      "coordination"
+    ]
+  },
+  {
+    "titre": "Hula-hoop record",
+    "niveau": "2e cycle",
+    "difficulte": "intermediaire",
+    "desc": "L'élève fait tourner un cerceau autour de la taille le plus longtemps possible. Travailler le mouvement de hanches, l'accélération initiale, le maintien du rythme. Défis progressifs: autour des bras, des jambes, du cou. Compétition de record de classe.",
+    "competence": "Coordination",
+    "variantes": "Hula-hoop en marchant, en avançant, passer le cerceau d'une partie du corps à l'autre.",
+    "adaptation": "Cerceau plus lourd (tourne plus lentement), plus grand, ou tenir légèrement la hanche.",
+    "duree": 15,
+    "materiel": [
+      "1 grand cerceau (hula-hoop) par élève"
+    ],
+    "tags": [
+      "cerceau",
+      "rythme",
+      "coordination",
+      "hanches"
+    ]
+  },
+  {
+    "titre": "Corde à sauter en duo",
+    "niveau": "2e cycle",
+    "difficulte": "intermediaire",
+    "desc": "Deux élèves sautent ensemble dans la même corde: l'un tourne, les deux sautent. Puis essayer face à face avec une seule corde tenue par les deux. Travailler la synchronisation, la communication et le rythme partagé. Objectif: 20 sauts en duo.",
+    "competence": "Manipulation",
+    "variantes": "Entrer et sortir en mouvement, ajouter un 3e sauteur, changer de vitesse.",
+    "adaptation": "Un élève tourne la corde au sol, l'autre saute par-dessus. Corde plus longue.",
+    "duree": 12,
+    "materiel": [
+      "1 grande corde à sauter par duo"
+    ],
+    "tags": [
+      "corde",
+      "duo",
+      "synchronisation",
+      "coopération"
+    ]
+  },
+  {
+    "titre": "Cerceaux cibles de lancer",
+    "niveau": "1er cycle",
+    "difficulte": "debutant",
+    "desc": "Cerceaux disposés au sol à différentes distances. L'élève lance des poches de sable ou des balles pour les faire atterrir dans les cerceaux. Chaque cerceau vaut un nombre de points différent selon la distance. 5 lancers par tour.",
+    "competence": "Manipulation",
+    "variantes": "Lancer par-dessous, lancer avec la main faible, lancer en équilibre sur un pied.",
+    "adaptation": "Rapprocher les cerceaux, utiliser des cerceaux plus grands, permettre le lancer roulé.",
+    "duree": 10,
+    "materiel": [
+      "5 cerceaux",
+      "3 poches de sable par élève"
+    ],
+    "tags": [
+      "cerceaux",
+      "lancer",
+      "précision",
+      "cibles"
+    ]
+  },
+  {
+    "titre": "Grande corde collective",
+    "niveau": "2e cycle",
+    "difficulte": "intermediaire",
+    "desc": "Deux tourneurs font tourner une grande corde. Les élèves entrent un par un, sautent 5 fois et sortent. Travailler le timing d'entrée (courir quand la corde est au point le plus haut), le rythme de saut et la sortie sans toucher la corde.",
+    "competence": "Locomotion",
+    "variantes": "Entrer à deux, faire une figure pendant les sauts, changer de direction.",
+    "adaptation": "Tourner la corde plus lentement, balancer au lieu de tourner, guider l'entrée verbalement.",
+    "duree": 15,
+    "materiel": [
+      "1 grande corde à sauter (5 m minimum)"
+    ],
+    "tags": [
+      "corde",
+      "collectif",
+      "timing",
+      "saut"
+    ]
+  },
+  {
+    "titre": "Cerceau roulant",
+    "niveau": "1er cycle",
+    "difficulte": "debutant",
+    "desc": "L'élève fait rouler un cerceau debout sur le sol en le poussant avec la main. Maintenir le cerceau en mouvement le plus longtemps possible. Travailler l'impulsion initiale, la direction et le suivi. Course de cerceaux sur une distance de 10 mètres.",
+    "competence": "Manipulation",
+    "variantes": "Rouler et courir à côté, faire rouler en reculant, rouler avec un bâton.",
+    "adaptation": "Cerceau plus grand et plus lourd (roule plus facilement), terrain plat et lisse.",
+    "duree": 10,
+    "materiel": [
+      "1 cerceau par élève"
+    ],
+    "tags": [
+      "cerceau",
+      "rouler",
+      "contrôle",
+      "adresse"
+    ]
+  },
+  {
+    "titre": "Double Dutch initiation",
+    "niveau": "3e cycle",
+    "difficulte": "avance",
+    "desc": "Deux tourneurs font tourner deux grandes cordes en sens inverse. Un sauteur entre et saute en rythme. Commencer par le balancement (sans tour complet), puis passer au tour complet. Travailler le rythme des tourneurs et le timing du sauteur. Progression très graduelle.",
+    "competence": "Locomotion",
+    "variantes": "Figures acrobatiques, entrer à deux, chorégraphie de groupe.",
+    "adaptation": "Commencer avec une seule corde, balancer au lieu de tourner, pratiquer le rythme à vide.",
+    "duree": 20,
+    "materiel": [
+      "2 grandes cordes à sauter (5 m chacune)"
+    ],
+    "tags": [
+      "double dutch",
+      "corde",
+      "rythme",
+      "avancé"
+    ]
+  },
+  {
+    "titre": "Parcours cerceaux et cordes combiné",
+    "niveau": "2e cycle",
+    "difficulte": "intermediaire",
+    "desc": "Parcours en 4 étapes: 1) Sauter dans 5 cerceaux au sol, 2) Sauter 10 fois à la corde individuelle, 3) Passer à travers un cerceau tenu verticalement, 4) Traverser une corde tendue en passant en dessous. Chronométrer et tenter de battre son record.",
+    "competence": "Locomotion",
+    "variantes": "Parcours en relais, ajouter des étapes, parcours à reculons.",
+    "adaptation": "Réduire les répétitions, élargir les passages, accompagner verbalement.",
+    "duree": 15,
+    "materiel": [
+      "5 cerceaux",
+      "1 corde à sauter par élève",
+      "2 cerceaux verticaux (tenus par des partenaires)",
+      "1 corde tendue à 60 cm du sol"
+    ],
+    "tags": [
+      "parcours",
+      "cerceaux",
+      "corde",
+      "combiné"
+    ]
+  },
+  {
+    "titre": "Cerceau-tunnel",
+    "niveau": "maternelle",
+    "difficulte": "debutant",
+    "desc": "Des cerceaux sont tenus verticalement par des partenaires pour former un tunnel. Les élèves passent à travers en rampant, marchant à quatre pattes ou en se faufilant. Travailler la conscience corporelle, la souplesse et le contrôle du déplacement dans un espace restreint.",
+    "competence": "Locomotion",
+    "variantes": "Tunnel de hauteurs variées, passer avec un objet dans les mains, tunnel en zigzag.",
+    "adaptation": "Cerceaux plus grands, écarter les cerceaux, permettre le passage debout.",
+    "duree": 10,
+    "materiel": [
+      "8 cerceaux"
+    ],
+    "tags": [
+      "cerceaux",
+      "tunnel",
+      "maternelle",
+      "déplacement"
+    ]
+  },
+  {
+    "titre": "Saut corde à reculons",
+    "niveau": "3e cycle",
+    "difficulte": "intermediaire",
+    "desc": "L'élève saute à la corde individuelle en faisant tourner la corde vers l'arrière. Commencer lentement, maintenir le rythme. Objectif: 20 sauts consécutifs à reculons. Travailler la coordination inversée et la proprioception. Excellent défi pour ceux qui maîtrisent le saut avant.",
+    "competence": "Locomotion",
+    "variantes": "Alterner avant-arrière toutes les 5 sauts, à reculons en marchant, vitesse rapide.",
+    "adaptation": "Pratiquer le mouvement de bras sans sauter, corde plus longue, sauter sur place d'abord.",
+    "duree": 12,
+    "materiel": [
+      "1 corde à sauter par élève"
+    ],
+    "tags": [
+      "corde",
+      "reculons",
+      "coordination",
+      "défi"
+    ]
+  },
+  {
+    "titre": "Cerceaux musicaux",
+    "niveau": "maternelle",
+    "difficulte": "debutant",
+    "desc": "Comme les chaises musicales mais avec des cerceaux au sol. Les élèves se déplacent en musique autour des cerceaux. Quand la musique s'arrête, chaque élève doit se placer dans un cerceau. Retirer un cerceau à chaque tour. Version coopérative: partager les cerceaux (pas d'élimination).",
+    "competence": "Locomotion",
+    "variantes": "Se déplacer en sautant, en rampant, en galopant. Changer le type de musique.",
+    "adaptation": "Cerceaux plus grands, ne pas éliminer (tout le monde partage), musique prévisible.",
+    "duree": 10,
+    "materiel": [
+      "1 cerceau par élève (puis en retirer)",
+      "Système de musique"
+    ],
+    "tags": [
+      "cerceaux",
+      "musique",
+      "maternelle",
+      "déplacement"
+    ]
+  },
+  {
+    "titre": "Corde à sauter croisé",
+    "niveau": "3e cycle",
+    "difficulte": "avance",
+    "desc": "L'élève exécute le saut croisé: croiser les bras devant le corps pendant que la corde passe sous les pieds, puis décroiser au tour suivant. Alterner un saut normal et un saut croisé. Travailler la coordination bras-jambes et le timing du croisement.",
+    "competence": "Locomotion",
+    "variantes": "Double croisé, croisé à reculons, croisé en alternant pieds.",
+    "adaptation": "Pratiquer le croisement à vide (sans corde), corde plus longue, ralentir le rythme.",
+    "duree": 15,
+    "materiel": [
+      "1 corde à sauter par élève"
+    ],
+    "tags": [
+      "corde",
+      "croisé",
+      "coordination",
+      "technique"
+    ]
+  },
+  {
+    "titre": "Cerceau-lancer au partenaire",
+    "niveau": "2e cycle",
+    "difficulte": "intermediaire",
+    "desc": "En duo à 4 mètres, un élève lance le cerceau verticalement en le faisant rouler vers le partenaire qui doit l'attraper avant qu'il tombe. Puis le partenaire le renvoie. Travailler l'impulsion de lancer, la trajectoire droite et la réception en douceur.",
+    "competence": "Manipulation",
+    "variantes": "Lancer en faisant tourner le cerceau sur lui-même, attraper avec un bras dans le cerceau.",
+    "adaptation": "Distance réduite, cerceau plus gros, permettre le rebond au sol avant de rattraper.",
+    "duree": 10,
+    "materiel": [
+      "1 cerceau par duo"
+    ],
+    "tags": [
+      "cerceau",
+      "lancer",
+      "duo",
+      "réception"
+    ]
+  },
+  {
+    "titre": "Saut à la corde vitesse (poivrier)",
+    "niveau": "secondaire 1-2",
+    "difficulte": "avance",
+    "desc": "L'élève saute à la corde le plus rapidement possible pendant 30 secondes. Compter le nombre de sauts et tenter de battre son record. Travailler le saut minimaliste (juste assez haut), la rotation rapide des poignets et l'endurance cardiovasculaire. Test de condition physique.",
+    "competence": "Locomotion",
+    "variantes": "1 minute de vitesse, alterner 30s rapide et 30s lent, compétition en équipe.",
+    "adaptation": "Durée réduite à 15 secondes, saut régulier au lieu de rapide, pauses permises.",
+    "duree": 10,
+    "materiel": [
+      "1 corde à sauter par élève",
+      "Chronomètre"
+    ],
+    "tags": [
+      "corde",
+      "vitesse",
+      "cardio",
+      "record"
+    ]
+  },
+  {
+    "titre": "Cerceaux en équilibre",
+    "niveau": "1er cycle",
+    "difficulte": "debutant",
+    "desc": "L'élève tient un cerceau sur sa tranche au sol et le fait tourner comme une toupie. Observer combien de temps le cerceau tourne avant de tomber. Puis essayer de faire tourner le cerceau autour du bras tendu. Développe la dextérité et la fascination pour la physique du mouvement.",
+    "competence": "Manipulation",
+    "variantes": "Faire tourner sur chaque bras, comparer les records, faire tourner 2 cerceaux simultanément.",
+    "adaptation": "Cerceau plus lourd (tourne plus longtemps), aider à lancer la rotation.",
+    "duree": 8,
+    "materiel": [
+      "1 cerceau par élève"
+    ],
+    "tags": [
+      "cerceau",
+      "équilibre",
+      "rotation",
+      "dextérité"
+    ]
+  },
+  {
+    "titre": "Corde à sauter double saut",
+    "niveau": "secondaire 1-2",
+    "difficulte": "avance",
+    "desc": "L'élève exécute le double saut (double under): la corde passe deux fois sous les pieds en un seul saut. Travailler le saut plus haut que la normale, la rotation ultra-rapide des poignets et le gainage du corps. Objectif: 5 doubles consécutifs.",
+    "competence": "Locomotion",
+    "variantes": "Triple saut, alterner simple et double, séries de doubles sans arrêt.",
+    "adaptation": "Pratiquer le saut haut sans corde, puis un seul double à la fois, corde à perles (plus lourde, tourne mieux).",
+    "duree": 15,
+    "materiel": [
+      "1 corde à sauter (de préférence à roulement à billes) par élève"
+    ],
+    "tags": [
+      "corde",
+      "double saut",
+      "puissance",
+      "technique"
+    ]
+  },
+  {
+    "titre": "Parcours cerceaux couleurs",
+    "niveau": "maternelle",
+    "difficulte": "debutant",
+    "desc": "Cerceaux de différentes couleurs au sol. L'enseignant nomme une couleur, les élèves doivent courir vers un cerceau de cette couleur et s'y placer. Travailler la reconnaissance des couleurs, la réactivité et le déplacement dans l'espace. Varier les modes de déplacement.",
+    "competence": "Locomotion",
+    "variantes": "Nommer 2 couleurs (sauter de l'une à l'autre), se déplacer en animal, fermer les yeux et deviner.",
+    "adaptation": "Moins de couleurs, cerceaux plus grands, donner plus de temps de réaction.",
+    "duree": 10,
+    "materiel": [
+      "Cerceaux de 4 couleurs différentes (3-4 de chaque couleur)"
+    ],
+    "tags": [
+      "cerceaux",
+      "couleurs",
+      "maternelle",
+      "réaction"
+    ]
+  },
+  {
+    "titre": "Corde à sauter en chanson",
+    "niveau": "1er cycle",
+    "difficulte": "debutant",
+    "desc": "Les élèves sautent à la corde en récitant des comptines traditionnelles (ex: 'Un, deux, trois, nous irons au bois'). Le rythme des mots guide le rythme des sauts. Travailler la coordination parole-mouvement et la mémoire. Activité joyeuse et motivante.",
+    "competence": "Locomotion",
+    "variantes": "Inventer de nouvelles comptines, sauter en duo avec la chanson, accélérer le tempo.",
+    "adaptation": "Réciter la comptine sans sauter d'abord, puis combiner. Rythme très lent au début.",
+    "duree": 12,
+    "materiel": [
+      "1 corde à sauter par élève"
+    ],
+    "tags": [
+      "corde",
+      "chanson",
+      "rythme",
+      "comptine"
+    ]
+  },
+  {
+    "titre": "Cerceau-frisbee",
+    "niveau": "2e cycle",
+    "difficulte": "intermediaire",
+    "desc": "L'élève lance un cerceau comme un frisbee vers un partenaire à 5 mètres. Le receveur attrape le cerceau en vol. Travailler la prise à l'horizontale, le snap du poignet et la trajectoire stable. Augmenter progressivement la distance.",
+    "competence": "Manipulation",
+    "variantes": "Lancer vertical, lancer en rotation arrière, attraper avec un bras seulement.",
+    "adaptation": "Cerceau plus léger, distance réduite, permettre un rebond au sol.",
+    "duree": 10,
+    "materiel": [
+      "1 cerceau léger par duo"
+    ],
+    "tags": [
+      "cerceau",
+      "lancer",
+      "frisbee",
+      "coordination"
+    ]
+  },
+  {
+    "titre": "Grande corde figures collectives",
+    "niveau": "3e cycle",
+    "difficulte": "avance",
+    "desc": "Avec une grande corde tournée par deux élèves, le groupe entre et réalise des figures: sauter à deux, sauter en se tenant par les mains, toucher le sol et se relever, faire un tour sur soi. Chorégraphie de groupe à créer et présenter. Travailler la créativité et le travail d'équipe.",
+    "competence": "Locomotion",
+    "variantes": "Ajouter de la musique, figures en miroir, concours entre groupes.",
+    "adaptation": "Figures simplifiées, corde balancée au lieu de tournée, entrer seul pour les figures.",
+    "duree": 20,
+    "materiel": [
+      "1 grande corde à sauter (6 m)"
+    ],
+    "tags": [
+      "corde",
+      "figures",
+      "collectif",
+      "chorégraphie"
+    ]
+  },
+  {
+    "titre": "Cerceaux marelle",
+    "niveau": "1er cycle",
+    "difficulte": "debutant",
+    "desc": "Disposer les cerceaux au sol en forme de marelle (1-2-1-2-1). L'élève saute à un pied dans les cerceaux simples et à deux pieds dans les cerceaux doubles. Aller et retour. Travailler l'équilibre unipodal, la coordination et le rythme du saut.",
+    "competence": "Locomotion",
+    "variantes": "Sauter les yeux fermés, lancer une poche dans un cerceau et sauter par-dessus, marelle géante.",
+    "adaptation": "Tous les sauts à deux pieds, cerceaux plus grands, entraide d'un partenaire.",
+    "duree": 10,
+    "materiel": [
+      "7-8 cerceaux"
+    ],
+    "tags": [
+      "cerceaux",
+      "marelle",
+      "saut",
+      "équilibre"
+    ]
+  },
+  {
+    "titre": "Corde à sauter alternée pieds",
+    "niveau": "2e cycle",
+    "difficulte": "intermediaire",
+    "desc": "L'élève saute à la corde en alternant le pied d'appui (comme un jogging sur place). Commencer lentement puis accélérer. Objectif: 30 secondes sans arrêt. Travailler le transfert de poids fluide, le rythme régulier et la posture haute.",
+    "competence": "Locomotion",
+    "variantes": "En avançant, en montant les genoux, avec un pied devant-derrière.",
+    "adaptation": "Pratiquer le jogging sur place sans corde, rythme très lent, corde plus longue.",
+    "duree": 10,
+    "materiel": [
+      "1 corde à sauter par élève"
+    ],
+    "tags": [
+      "corde",
+      "alterné",
+      "rythme",
+      "jogging"
+    ]
+  },
+  {
+    "titre": "Cerceau-cible vertical",
+    "niveau": "3e cycle",
+    "difficulte": "intermediaire",
+    "desc": "Un cerceau est suspendu ou tenu verticalement à 1,5 m du sol. L'élève lance une balle à travers le cerceau depuis 3 m, puis 5 m. Compter les réussites sur 10 lancers. Travailler la précision, la trajectoire et la concentration. Défi en équipes.",
+    "competence": "Manipulation",
+    "variantes": "Cerceau en mouvement (balancé), lancer en courant, lancer avec la main non dominante.",
+    "adaptation": "Cerceau plus grand, distance réduite, lancer roulé au sol à travers le cerceau couché.",
+    "duree": 12,
+    "materiel": [
+      "Cerceaux",
+      "Balles de tennis",
+      "Support ou partenaire pour tenir le cerceau"
+    ],
+    "tags": [
+      "cerceau",
+      "cible",
+      "lancer",
+      "précision"
+    ]
+  },
+  {
+    "titre": "Corde traction duo",
+    "niveau": "3e cycle",
+    "difficulte": "intermediaire",
+    "desc": "En duo, chaque élève tient une extrémité d'une corde courte. Ils tirent simultanément pour essayer de faire avancer l'autre au-delà d'une ligne. Travailler la force, la posture basse (centre de gravité), l'ancrage des pieds. 3 manches de 10 secondes.",
+    "competence": "Manipulation",
+    "variantes": "Traction assis, traction sur un pied, traction en équipes (2 contre 2).",
+    "adaptation": "Partenaires de taille similaire, surface antidérapante, corde plus longue.",
+    "duree": 10,
+    "materiel": [
+      "1 corde courte (2 m) par duo",
+      "Ligne au sol (ruban)"
+    ],
+    "tags": [
+      "corde",
+      "traction",
+      "force",
+      "duo"
+    ]
+  },
+  {
+    "titre": "Cerceaux empilés défi",
+    "niveau": "2e cycle",
+    "difficulte": "debutant",
+    "desc": "L'élève doit transporter des cerceaux un par un depuis un point A vers un point B (8 m) et les empiler debout contre un mur. Le cerceau doit rester debout sans tomber. Course à relais: l'équipe qui empile 6 cerceaux en premier gagne. Travailler la vitesse et la dextérité.",
+    "competence": "Manipulation",
+    "variantes": "Transporter 2 cerceaux à la fois, empiler en les faisant rouler, parcours avec obstacles.",
+    "adaptation": "Distance réduite, cerceaux plus grands, permettre de les poser au sol au lieu de les empiler debout.",
+    "duree": 10,
+    "materiel": [
+      "6 cerceaux par équipe"
+    ],
+    "tags": [
+      "cerceaux",
+      "relais",
+      "vitesse",
+      "dextérité"
+    ]
+  },
+  {
+    "titre": "Corde limbo",
+    "niveau": "1er cycle",
+    "difficulte": "debutant",
+    "desc": "Deux élèves tiennent une corde horizontalement. Les autres passent en dessous en se penchant vers l'arrière (limbo). La corde descend d'un cran à chaque tour. Travailler la flexibilité du dos, l'équilibre et le contrôle du corps. Musique festive recommandée.",
+    "competence": "Locomotion",
+    "variantes": "Passer en rampant, passer avec un objet sur la tête, limbo en duo.",
+    "adaptation": "Commencer avec la corde plus haute, permettre de toucher la corde sans être éliminé.",
+    "duree": 10,
+    "materiel": [
+      "1 corde longue (3 m)",
+      "Système de musique (optionnel)"
+    ],
+    "tags": [
+      "corde",
+      "limbo",
+      "flexibilité",
+      "plaisir"
+    ]
+  },
+  {
+    "titre": "Cerceau-hoop relay",
+    "niveau": "2e cycle",
+    "difficulte": "intermediaire",
+    "desc": "En file indienne par équipes, les élèves se tiennent par la main. Un cerceau est passé d'un bout à l'autre de la file sans lâcher les mains: passer le cerceau par-dessus la tête, les épaules, le corps et les pieds. Première équipe à faire passer le cerceau gagne.",
+    "competence": "Manipulation",
+    "variantes": "Deux cerceaux en même temps (un de chaque bout), file en cercle, chronométrer.",
+    "adaptation": "Cerceau plus grand, lâcher les mains momentanément, file plus courte.",
+    "duree": 12,
+    "materiel": [
+      "1 cerceau par équipe de 6-8"
+    ],
+    "tags": [
+      "cerceau",
+      "relais",
+      "coopération",
+      "équipe"
+    ]
+  },
+  {
+    "titre": "Corde à sauter freestyle",
+    "niveau": "secondaire 1-2",
+    "difficulte": "avance",
+    "desc": "L'élève crée une routine de corde à sauter de 1 minute combinant au moins 4 techniques différentes: saut de base, croisé, alterné, double sous, côte à côte, etc. Présenter à la classe. Évaluer la fluidité, la variété et la créativité.",
+    "competence": "Locomotion",
+    "variantes": "Routine en duo, routine sur musique imposée, ajout de mouvements de danse.",
+    "adaptation": "Routine de 30 secondes, 2 techniques minimum, permettre les arrêts.",
+    "duree": 20,
+    "materiel": [
+      "1 corde à sauter par élève",
+      "Système de musique"
+    ],
+    "tags": [
+      "corde",
+      "freestyle",
+      "routine",
+      "créativité"
+    ]
+  },
+  {
+    "titre": "Cerceaux île en île",
+    "niveau": "maternelle",
+    "difficulte": "debutant",
+    "desc": "Les cerceaux sont des îles sur un océan imaginaire (le plancher). L'élève doit traverser le gymnase en sautant d'île en île sans toucher l'eau. Varier les distances entre les cerceaux. Développe l'imagination, la coordination et la puissance des jambes.",
+    "competence": "Locomotion",
+    "variantes": "Transporter un trésor (balle), sauter à deux pieds, îles qui bougent (déplacées par l'enseignant).",
+    "adaptation": "Cerceaux plus proches, permettre de marcher entre les cerceaux, îles plus grandes.",
+    "duree": 10,
+    "materiel": [
+      "12-15 cerceaux"
+    ],
+    "tags": [
+      "cerceaux",
+      "imaginaire",
+      "saut",
+      "maternelle"
+    ]
+  },
+  {
+    "titre": "Corde à sauter endurance",
+    "niveau": "secondaire 1-2",
+    "difficulte": "intermediaire",
+    "desc": "L'élève saute à la corde de façon continue pendant 3 minutes sans arrêt. Rythme modéré et régulier. Si l'élève rate, il reprend immédiatement. Mesurer la fréquence cardiaque avant et après. Excellent exercice cardiovasculaire et test de persévérance.",
+    "competence": "Locomotion",
+    "variantes": "5 minutes, intervalles (30s rapide, 30s lent), intégrer dans un circuit cardio.",
+    "adaptation": "Durée réduite à 1 minute, pauses de 10 secondes permises, saut très lent.",
+    "duree": 10,
+    "materiel": [
+      "1 corde à sauter par élève",
+      "Chronomètre"
+    ],
+    "tags": [
+      "corde",
+      "endurance",
+      "cardio",
+      "condition physique"
+    ]
+  },
+  {
+    "titre": "Cerceaux formes géométriques",
+    "niveau": "1er cycle",
+    "difficulte": "debutant",
+    "desc": "L'enseignant demande aux élèves de placer les cerceaux au sol pour former des formes géométriques: cercle, carré, triangle, ligne. Puis les élèves se déplacent autour et à travers les formes. Combiner éducation physique et mathématiques. Développe la coopération et la perception spatiale.",
+    "competence": "Manipulation",
+    "variantes": "Former des lettres, des chiffres, des formes libres. Sauter d'une forme à l'autre.",
+    "adaptation": "Formes simples (ligne, cercle), moins de cerceaux, guider la disposition.",
+    "duree": 12,
+    "materiel": [
+      "15-20 cerceaux"
+    ],
+    "tags": [
+      "cerceaux",
+      "formes",
+      "géométrie",
+      "coopération"
+    ]
+  },
+  {
+    "titre": "Corde à sauter en groupe synchronisé",
+    "niveau": "secondaire 3-5",
+    "difficulte": "avance",
+    "desc": "Groupe de 4-6 élèves qui sautent à la corde individuelle en synchronisation parfaite. Créer une chorégraphie de 2 minutes avec des formations (ligne, cercle, carré), des techniques variées et des transitions. Présentation à la classe avec musique.",
+    "competence": "Locomotion",
+    "variantes": "Ajouter des grandes cordes, intégrer des éléments de danse, compétition entre groupes.",
+    "adaptation": "Groupe de 2-3, routine plus courte, moins de techniques différentes.",
+    "duree": 25,
+    "materiel": [
+      "1 corde à sauter par élève",
+      "Système de musique"
+    ],
+    "tags": [
+      "corde",
+      "synchronisé",
+      "chorégraphie",
+      "groupe"
+    ]
+  },
+  {
+    "titre": "Cerceau-obstacle course",
+    "niveau": "3e cycle",
+    "difficulte": "intermediaire",
+    "desc": "Parcours d'obstacles intégrant des cerceaux de multiples façons: sauter dedans, passer à travers (verticaux), ramper en dessous, les lancer sur des cônes, les faire rouler vers une cible. 8 obstacles, chronométrer le parcours. Course contre soi-même ou contre un adversaire.",
+    "competence": "Locomotion",
+    "variantes": "Parcours à reculons, parcours en duo enchaîné, ajout de contraintes motrices.",
+    "adaptation": "Réduire à 5 obstacles, augmenter le temps, éliminer les obstacles les plus difficiles.",
+    "duree": 15,
+    "materiel": [
+      "10 cerceaux",
+      "Cônes",
+      "Chronomètre"
+    ],
+    "tags": [
+      "cerceaux",
+      "obstacles",
+      "parcours",
+      "chronomètre"
+    ]
+  },
+  {
+    "titre": "Corde élastique saut",
+    "niveau": "2e cycle",
+    "difficulte": "debutant",
+    "desc": "Un élastique (ou corde élastique) est tendu entre deux chaises à 20 cm du sol. L'élève saute par-dessus en utilisant différentes techniques: pieds joints, un pied, ciseaux. Monter progressivement la hauteur. Travailler l'impulsion et la réception amortie.",
+    "competence": "Locomotion",
+    "variantes": "Sauter en tournant, sauter à reculons, enchaîner plusieurs élastiques.",
+    "adaptation": "Élastique au sol pour commencer, hauteur minimale, permettre le passage en enjambant.",
+    "duree": 12,
+    "materiel": [
+      "1 élastique ou corde par station",
+      "2 chaises ou supports"
+    ],
+    "tags": [
+      "élastique",
+      "saut",
+      "hauteur",
+      "impulsion"
+    ]
+  },
+  {
+    "titre": "Cerceaux lancé au cône",
+    "niveau": "3e cycle",
+    "difficulte": "intermediaire",
+    "desc": "Des cônes hauts sont placés à 3, 5 et 7 mètres. L'élève lance un cerceau pour le faire atterrir autour du cône (comme un jeu de fer à cheval). Points selon la distance. 5 lancers par tour. Travailler la visée, le dosage et la trajectoire horizontale du cerceau.",
+    "competence": "Manipulation",
+    "variantes": "Lancer de la main faible, lancer en reculant, lancer assis.",
+    "adaptation": "Cônes plus proches, cerceaux plus grands, permettre de se rapprocher.",
+    "duree": 12,
+    "materiel": [
+      "3 cerceaux par élève",
+      "3 cônes hauts"
+    ],
+    "tags": [
+      "cerceaux",
+      "lancer",
+      "cône",
+      "précision"
+    ]
+  },
+  {
+    "titre": "Corde tug-of-war collectif",
+    "niveau": "secondaire 1-2",
+    "difficulte": "intermediaire",
+    "desc": "Souque à la corde classique en équipes de 6-8. Deux équipes tirent la corde en sens opposés, l'équipe qui tire l'autre au-delà de la ligne gagne. Travailler la force collective, la coordination (tirer en même temps) et la stratégie de placement. 3 manches de 15 secondes.",
+    "competence": "Manipulation",
+    "variantes": "Traction assise, traction sur un seul bras, équipes mixtes par force.",
+    "adaptation": "Équipes de taille égale, surface non glissante, gants si la corde est rugueuse.",
+    "duree": 15,
+    "materiel": [
+      "1 grosse corde de traction (10 m)",
+      "Ligne au sol"
+    ],
+    "tags": [
+      "corde",
+      "souque",
+      "force",
+      "équipe"
+    ]
+  },
+  {
+    "titre": "Cerceaux relais dépôt",
+    "niveau": "1er cycle",
+    "difficulte": "debutant",
+    "desc": "Course à relais: chaque élève court déposer un cerceau à un endroit désigné et revient toucher le prochain. L'équipe doit déposer 5 cerceaux en ligne droite, un à côté de l'autre. Travailler la course, la coordination et le travail d'équipe. Première équipe à terminer gagne.",
+    "competence": "Locomotion",
+    "variantes": "Déposer les cerceaux en forme de bonhomme, les rapporter au lieu de les déposer.",
+    "adaptation": "Distance plus courte, cerceaux plus légers, accompagner l'élève en difficulté.",
+    "duree": 10,
+    "materiel": [
+      "5 cerceaux par équipe"
+    ],
+    "tags": [
+      "cerceaux",
+      "relais",
+      "course",
+      "équipe"
+    ]
+  },
+  {
+    "titre": "Corde à sauter chinoise (élastique)",
+    "niveau": "2e cycle",
+    "difficulte": "intermediaire",
+    "desc": "Deux élèves tiennent un élastique autour de leurs chevilles. Un 3e élève exécute des figures en sautant dedans, dehors, dessus: droite-gauche, croisé, twist. Monter la hauteur (chevilles, genoux, cuisses). Jeu traditionnel excellent pour la coordination et la mémoire motrice.",
+    "competence": "Locomotion",
+    "variantes": "Figures plus complexes, deux sauteurs en même temps, chanson pour accompagner.",
+    "adaptation": "Hauteur cheville seulement, figures simplifiées, élastique plus large.",
+    "duree": 15,
+    "materiel": [
+      "1 élastique large (3 m) par trio"
+    ],
+    "tags": [
+      "élastique",
+      "chinoise",
+      "figures",
+      "saut"
+    ]
+  },
+  {
+    "titre": "Cerceaux circuit fitness",
+    "niveau": "secondaire 1-2",
+    "difficulte": "avance",
+    "desc": "Circuit de 6 cerceaux, chacun contient une fiche d'exercice: 1) 10 sauts dans le cerceau, 2) 10 squats dans le cerceau, 3) Planche 20s dans le cerceau, 4) 10 burpees avec saut dans le cerceau, 5) Mountain climbers 20s, 6) 10 pompes avec mains dans le cerceau. Rotation toutes les 45 secondes.",
+    "competence": "Locomotion",
+    "variantes": "Augmenter les répétitions, ajouter des stations, réduire le temps de transition.",
+    "adaptation": "Réduire les répétitions, exercices modifiés (pompes sur genoux), plus de temps par station.",
+    "duree": 20,
+    "materiel": [
+      "6 cerceaux",
+      "6 fiches d'exercices",
+      "Chronomètre"
+    ],
+    "tags": [
+      "cerceaux",
+      "fitness",
+      "circuit",
+      "musculation"
+    ]
+  },
+  {
+    "titre": "Corde ondulante",
+    "niveau": "maternelle",
+    "difficulte": "debutant",
+    "desc": "Un adulte ou un élève fait onduler une corde au sol (comme un serpent). Les autres élèves doivent sauter par-dessus la corde sans la toucher. Commencer lentement, puis augmenter la vitesse. Développe le timing, la réactivité et la motricité globale des tout-petits.",
+    "competence": "Locomotion",
+    "variantes": "Corde plus rapide, passer en rampant quand la corde est haute, deux cordes en même temps.",
+    "adaptation": "Corde très lente, permettre de toucher la corde, largeur de passage plus grande.",
+    "duree": 8,
+    "materiel": [
+      "1 corde longue (3-4 m)"
+    ],
+    "tags": [
+      "corde",
+      "serpent",
+      "saut",
+      "maternelle"
+    ]
+  },
+  {
+    "titre": "Cerceaux horloge",
+    "niveau": "3e cycle",
+    "difficulte": "avance",
+    "desc": "12 cerceaux disposés en cercle comme une horloge. L'enseignant appelle une heure (ex: 3 heures). L'élève au centre doit courir au cerceau correspondant et revenir au centre. Enchaîner plusieurs heures rapidement. Développe l'orientation spatiale, la réactivité et le cardio.",
+    "competence": "Locomotion",
+    "variantes": "Appeler 2 heures à la suite, se déplacer en crabe, ajouter un exercice à chaque cerceau.",
+    "adaptation": "Cercle plus petit, moins de cerceaux (6 au lieu de 12), plus de temps entre les appels.",
+    "duree": 12,
+    "materiel": [
+      "12 cerceaux"
+    ],
+    "tags": [
+      "cerceaux",
+      "horloge",
+      "réactivité",
+      "orientation"
+    ]
+  },
+  {
+    "titre": "Corde à sauter défi 100",
+    "niveau": "secondaire 3-5",
+    "difficulte": "intermediaire",
+    "desc": "L'élève doit exécuter 100 sauts à la corde sans arrêt. Choisir son rythme et sa technique. Fiche de suivi hebdomadaire pour noter les progrès. Objectif à atteindre en 4 semaines. Travailler l'endurance, la persévérance et la fixation d'objectifs personnels.",
+    "competence": "Locomotion",
+    "variantes": "Défi 200, défi avec techniques variées, défi en duo (sauts synchronisés).",
+    "adaptation": "Défi 50, permettre une pause de 5 secondes, compter même avec les erreurs.",
+    "duree": 10,
+    "materiel": [
+      "1 corde à sauter par élève",
+      "Fiche de suivi"
+    ],
+    "tags": [
+      "corde",
+      "défi",
+      "endurance",
+      "objectif"
+    ]
+  },
+  {
+    "titre": "Cerceaux danse créative",
+    "niveau": "2e cycle",
+    "difficulte": "intermediaire",
+    "desc": "Chaque élève a un cerceau et crée une séquence de 8 mouvements avec le cerceau: tourner autour du corps, rouler, lancer-attraper, sauter dedans, le tenir en cadre, etc. Accompagner de musique. Présenter sa séquence au groupe. Développe la créativité et l'expression corporelle.",
+    "competence": "Manipulation",
+    "variantes": "Créer en duo, imposer 3 mouvements obligatoires, thème musical imposé.",
+    "adaptation": "Séquence de 4 mouvements, mouvements guidés par l'enseignant, pas de présentation obligatoire.",
+    "duree": 20,
+    "materiel": [
+      "1 cerceau par élève",
+      "Système de musique"
+    ],
+    "tags": [
+      "cerceaux",
+      "danse",
+      "créativité",
+      "expression"
+    ]
+  },
+  {
+    "titre": "Corde à sauter côte à côte",
+    "niveau": "3e cycle",
+    "difficulte": "intermediaire",
+    "desc": "Deux élèves côte à côte partagent une seule corde: chacun tient une poignée et ils sautent ensemble en synchronisation. Travailler la coordination à deux, le rythme partagé et la communication non verbale. Objectif: 20 sauts consécutifs sans erreur.",
+    "competence": "Locomotion",
+    "variantes": "Trois élèves côte à côte, sauter à reculons en duo, ajouter des figures.",
+    "adaptation": "Corde plus longue, rythme très lent, pratiquer la synchronisation sans corde d'abord.",
+    "duree": 12,
+    "materiel": [
+      "1 corde à sauter longue par duo"
+    ],
+    "tags": [
+      "corde",
+      "duo",
+      "synchronisation",
+      "coordination"
+    ]
+  },
+  {
+    "titre": "Cerceaux tour du monde",
+    "niveau": "1er cycle",
+    "difficulte": "debutant",
+    "desc": "L'élève fait passer un cerceau autour de son corps de la tête aux pieds et vice-versa sans lâcher le cerceau. Commencer par les bras, puis ajouter le passage par les pieds. Travailler la souplesse, la conscience corporelle et la coordination segmentaire.",
+    "competence": "Manipulation",
+    "variantes": "Tour du monde en équipe (passer le cerceau sans lâcher les mains), chronométrer.",
+    "adaptation": "Cerceau plus grand, passage bras seulement, aide d'un partenaire.",
+    "duree": 8,
+    "materiel": [
+      "1 cerceau par élève"
+    ],
+    "tags": [
+      "cerceau",
+      "tour du monde",
+      "souplesse",
+      "conscience corporelle"
+    ]
+  },
+  {
+    "titre": "Corde à sauter course",
+    "niveau": "secondaire 1-2",
+    "difficulte": "intermediaire",
+    "desc": "L'élève saute à la corde en se déplaçant vers l'avant sur 20 mètres. Maintenir le rythme de la corde tout en avançant. Course aller en sautant, retour en joggant. Travailler la coordination locomotion-manipulation et l'endurance. Compétition par équipes possible.",
+    "competence": "Locomotion",
+    "variantes": "Course à reculons avec corde, parcours en slalom, course en duo côte à côte.",
+    "adaptation": "Marcher en sautant, distance réduite à 10 m, rythme très lent.",
+    "duree": 12,
+    "materiel": [
+      "1 corde à sauter par élève"
+    ],
+    "tags": [
+      "corde",
+      "course",
+      "déplacement",
+      "coordination"
+    ]
+  },
+  {
+    "titre": "Cerceaux empilage vertical",
+    "niveau": "maternelle",
+    "difficulte": "debutant",
+    "desc": "L'élève empile des cerceaux de différentes tailles sur un cône haut, du plus grand au plus petit. Travailler la discrimination des tailles, la motricité fine et la patience. Chaque élève fait sa tour puis la défait. Activité calme et structurante.",
+    "competence": "Manipulation",
+    "variantes": "Empiler par couleur, empiler les yeux fermés, empiler en équipe.",
+    "adaptation": "Moins de cerceaux, cerceaux de tailles très différentes, cône plus large.",
+    "duree": 8,
+    "materiel": [
+      "5 cerceaux de tailles différentes",
+      "1 cône haut par élève"
+    ],
+    "tags": [
+      "cerceaux",
+      "empilage",
+      "maternelle",
+      "motricité fine"
+    ]
+  },
+  {
+    "titre": "Corde à sauter tricks",
+    "niveau": "secondaire 3-5",
+    "difficulte": "avance",
+    "desc": "L'élève explore les figures avancées de corde à sauter: criss-cross (bras croisés), side swing (corde balancée sur le côté), toad (jambes écartées avec croisement), awesome annie. Créer une routine de 1 minute avec au moins 3 figures différentes. Présenter à la classe.",
+    "competence": "Locomotion",
+    "variantes": "Routine en musique, routine en duo, compétition de figures.",
+    "adaptation": "2 figures suffisantes, routine de 30 secondes, pas de présentation obligatoire.",
+    "duree": 20,
+    "materiel": [
+      "1 corde à sauter par élève",
+      "Système de musique"
+    ],
+    "tags": [
+      "corde",
+      "tricks",
+      "figures",
+      "routine"
+    ]
+  },
+  {
+    "titre": "Cerceaux rivière traversée",
+    "niveau": "2e cycle",
+    "difficulte": "intermediaire",
+    "desc": "En duo, les élèves ont 3 cerceaux pour traverser le gymnase sans toucher le sol (la rivière). Un élève place les cerceaux devant, l'autre avance. Il faut récupérer le cerceau arrière pour le placer devant. Coopération essentielle. Première équipe à traverser gagne.",
+    "competence": "Locomotion",
+    "variantes": "2 cerceaux seulement (plus difficile), traverser plus vite, traverser en trio.",
+    "adaptation": "4 cerceaux, cerceaux plus grands, rivière plus courte.",
+    "duree": 15,
+    "materiel": [
+      "3 cerceaux par duo"
+    ],
+    "tags": [
+      "cerceaux",
+      "rivière",
+      "coopération",
+      "stratégie"
+    ]
+  }
+]

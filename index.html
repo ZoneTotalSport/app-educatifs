@@ -1,0 +1,166 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>🏋️ Éducatifs ÉPS — Zone Total Sport</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Outfit:wght@600;700;800&family=Plus+Jakarta+Sans:wght@400;500;600&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+  <!-- Canvas feu particules -->
+  <canvas id="fire-canvas"></canvas>
+
+  <!-- Loading screen -->
+  <div id="loading-screen">
+    <div class="loading-inner">
+      <div class="loading-flame">🔥</div>
+      <div class="loading-spinner"></div>
+      <p class="loading-text">Chargement des éducatifs…</p>
+    </div>
+  </div>
+
+  <!-- Header fixe -->
+  <header id="main-header">
+    <div class="header-inner">
+      <div class="header-logo">
+        <span class="logo-icon">🏋️</span>
+        <div class="logo-text">
+          <span class="logo-title">Éducatifs ÉPS</span>
+          <span class="logo-sub">Zone Total Sport</span>
+        </div>
+      </div>
+      <div class="header-stats">
+        <div class="stat-pill">
+          <span class="stat-num" id="stat-total">1000+</span>
+          <span class="stat-label">éducatifs</span>
+        </div>
+        <div class="stat-pill">
+          <span class="stat-num">21</span>
+          <span class="stat-label">catégories</span>
+        </div>
+        <div class="stat-pill">
+          <span class="stat-num">Mat→S5</span>
+          <span class="stat-label">niveaux</span>
+        </div>
+      </div>
+      <nav class="header-nav">
+        <a href="#" class="nav-link active">Éducatifs</a>
+        <a href="#" class="nav-link">SAÉ</a>
+        <a href="#" class="nav-link">Jeux</a>
+        <a href="#" class="nav-link">Audio</a>
+      </nav>
+    </div>
+  </header>
+
+  <!-- Hero section -->
+  <section class="hero">
+    <div class="hero-content">
+      <div class="hero-badge">
+        <span class="badge-dot"></span>
+        PFEQ Québec · Maternelle → Secondaire 5
+      </div>
+      <h1 class="hero-title">ÉDUCATIFS PAR<br><span class="gradient-text">MOYENS D'ACTION</span></h1>
+      <p class="hero-subtitle">1000+ exercices par geste moteur · Progressions complètes · Descriptions pédagogiques détaillées</p>
+      <div class="hero-cta">
+        <button class="btn-primary" onclick="document.getElementById('taxonomy-section').scrollIntoView({behavior:'smooth'})">
+          Explorer les catégories
+          <span class="btn-arrow">↓</span>
+        </button>
+      </div>
+    </div>
+    <div class="hero-visual">
+      <div class="floating-emoji" style="--delay:0s">🎾</div>
+      <div class="floating-emoji" style="--delay:0.4s">🏀</div>
+      <div class="floating-emoji" style="--delay:0.8s">🏒</div>
+      <div class="floating-emoji" style="--delay:1.2s">🤸</div>
+      <div class="floating-emoji" style="--delay:1.6s">🏃</div>
+      <div class="floating-emoji" style="--delay:2s">💃</div>
+    </div>
+  </section>
+
+  <!-- Section taxonomie -->
+  <main id="taxonomy-section">
+
+    <!-- Barre de contrôles (cachée initialement) -->
+    <div id="controls-bar" class="controls-bar hidden">
+      <button id="back-btn" class="back-btn" onclick="goBack()">
+        <span class="back-icon">←</span>
+        Retour aux catégories
+      </button>
+      <div class="controls-filters">
+        <div class="filter-group">
+          <label class="filter-label">Niveau</label>
+          <select id="filter-niveau" class="filter-select" onchange="applyFilters()">
+            <option value="">Tous les niveaux</option>
+            <option value="maternelle">Maternelle</option>
+            <option value="1er cycle">1er cycle</option>
+            <option value="2e cycle">2e cycle</option>
+            <option value="3e cycle">3e cycle</option>
+            <option value="secondaire">Secondaire</option>
+            <option value="tous cycles">Tous cycles</option>
+          </select>
+        </div>
+        <div class="filter-group">
+          <label class="filter-label">Difficulté</label>
+          <select id="filter-diff" class="filter-select" onchange="applyFilters()">
+            <option value="">Toutes difficultés</option>
+            <option value="debutant">Débutant</option>
+            <option value="intermediaire">Intermédiaire</option>
+            <option value="avance">Avancé</option>
+          </select>
+        </div>
+        <div id="filter-count" class="filter-count"></div>
+      </div>
+    </div>
+
+    <!-- Container taxonomie (affiché par défaut) -->
+    <div id="taxonomy-container"></div>
+
+    <!-- Grille d'éducatifs (cachée par défaut) -->
+    <div id="edu-section" class="hidden">
+      <div id="category-header" class="category-header"></div>
+      <div id="edu-grid" class="edu-grid"></div>
+    </div>
+
+  </main>
+
+  <!-- Stats bar bottom -->
+  <div class="stats-bar">
+    <div class="stats-bar-inner">
+      <div class="sbar-item">
+        <span class="sbar-icon">🎯</span>
+        <span>Aligné sur le PFEQ</span>
+      </div>
+      <div class="sbar-divider"></div>
+      <div class="sbar-item">
+        <span class="sbar-icon">📐</span>
+        <span>Progressions par niveau</span>
+      </div>
+      <div class="sbar-divider"></div>
+      <div class="sbar-item">
+        <span class="sbar-icon">♿</span>
+        <span>Adaptations incluses</span>
+      </div>
+      <div class="sbar-divider"></div>
+      <div class="sbar-item">
+        <span class="sbar-icon">🔄</span>
+        <span>Variantes et progressions</span>
+      </div>
+    </div>
+  </div>
+
+  <!-- Modal éducatif -->
+  <div id="modal-overlay" class="modal-overlay hidden" onclick="closeModal(event)">
+    <div class="modal-card" id="modal-card">
+      <button class="modal-close" onclick="closeModal()">✕</button>
+      <div id="modal-content"></div>
+    </div>
+  </div>
+
+  <script src="app.js"></script>
+</body>
+</html>

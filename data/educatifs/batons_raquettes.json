@@ -1,0 +1,1052 @@
+[
+  {
+    "titre": "Dribble hockey débutant",
+    "niveau": "1er cycle",
+    "difficulte": "debutant",
+    "desc": "L'élève dribble avec une balle de mousse en utilisant les deux faces du bâton de hockey (revers et coup droit). Ligne droite d'abord, puis en slalom autour de 4 cônes espacés de 2 m. Insister sur la prise de bâton basse, les deux mains, et le contrôle du regard.",
+    "competence": "Manipulation",
+    "variantes": "Dribble latéral, dribble en reculant, slalom dos au mur.",
+    "adaptation": "Utiliser un bâton plus court, balle plus grande, espace plus large entre les cônes.",
+    "duree": 12,
+    "materiel": [
+      "1 bâton de hockey par élève",
+      "1 balle de mousse par élève",
+      "4 cônes"
+    ],
+    "tags": [
+      "hockey",
+      "dribble",
+      "slalom",
+      "bâton"
+    ]
+  },
+  {
+    "titre": "Passe bâton vs cible",
+    "niveau": "2e cycle",
+    "difficulte": "intermediaire",
+    "desc": "Tirs de précision avec bâton hockey vers des cibles au mur (cercles de 30 cm à différentes hauteurs). Pratiquer le tir coup droit et le tir revers depuis 3 m, puis 5 m. Travailler la posture, le transfert du poids, le suivi du regard vers la cible.",
+    "competence": "Manipulation",
+    "variantes": "Tir en déplacement, tir après dribble, tir en duel.",
+    "adaptation": "Agrandir les cibles, réduire la distance, tirer d'une position arrêtée uniquement.",
+    "duree": 15,
+    "materiel": [
+      "1 bâton par élève",
+      "2-3 balles",
+      "Cibles au mur"
+    ],
+    "tags": [
+      "hockey",
+      "tir",
+      "précision",
+      "cible"
+    ]
+  },
+  {
+    "titre": "Service badminton débutant",
+    "niveau": "2e cycle",
+    "difficulte": "debutant",
+    "desc": "L'élève apprend le service court par en dessous: tenir le volant au niveau de la hanche, raquette derrière, frapper en avant-haut. Objectif: faire passer le volant par-dessus un filet bas (à 1,5 m) et tomber dans la zone adverse. Répétitions par paquets de 10.",
+    "competence": "Manipulation",
+    "variantes": "Service long, service croisé, service dans zone délimitée.",
+    "adaptation": "Baisser le filet ou utiliser une corde. Guider le geste avec l'enseignant. Ballon gonflable à la place du volant.",
+    "duree": 15,
+    "materiel": [
+      "1 raquette de badminton par élève",
+      "3 volants par élève",
+      "Filet bas ou corde à 1,5 m"
+    ],
+    "tags": [
+      "badminton",
+      "service",
+      "raquette",
+      "technique"
+    ]
+  },
+  {
+    "titre": "Échange badminton",
+    "niveau": "3e cycle",
+    "difficulte": "intermediaire",
+    "desc": "En duo, enchaîner le plus grand nombre d'échanges consécutifs sans que le volant touche le sol. Alterner les types de coups: clear, smash léger, dégagé. Objectif collectif: battre le record de la classe. Travailler les déplacements et le retour au centre.",
+    "competence": "Manipulation",
+    "variantes": "Échange en imposant zones (fond, filet), jeu en trios, comptage de record.",
+    "adaptation": "Utiliser un ballon gonflable. Baisser le filet. Autoriser un rebond au sol.",
+    "duree": 15,
+    "materiel": [
+      "1 raquette par joueur",
+      "1 volant par duo",
+      "Filet de badminton"
+    ],
+    "tags": [
+      "badminton",
+      "échange",
+      "déplacement",
+      "coordination"
+    ]
+  },
+  {
+    "titre": "Slalom raquette-balle",
+    "niveau": "2e cycle",
+    "difficulte": "intermediaire",
+    "desc": "L'élève transporte une balle de tennis sur une raquette de badminton en slalom autour de 6 cônes, sans que la balle tombe. Varier l'allure: marche, trot, course. Introduire des obstacles (passer sous une haie, franchir une ligne).",
+    "competence": "Manipulation",
+    "variantes": "Ajouter 2 balles, tenir la raquette derrière le dos, yeux partiellement fermés.",
+    "adaptation": "Utiliser une raquette à surface plus grande (raquette de squash), balle plus grosse.",
+    "duree": 12,
+    "materiel": [
+      "1 raquette de badminton par élève",
+      "1 balle de tennis par élève",
+      "6 cônes"
+    ],
+    "tags": [
+      "raquette",
+      "équilibre",
+      "slalom",
+      "contrôle"
+    ]
+  },
+  {
+    "titre": "Circuit raquette-balle varié",
+    "niveau": "3e cycle",
+    "difficulte": "avance",
+    "desc": "Parcours en 6 stations de 2 minutes: 1) Lancer-attraper mur avec raquette, 2) Slalom balle sur raquette, 3) Service contre mur, 4) Échange avec partenaire, 5) Tir précision cible, 6) Volant sur raquette en équilibre. Rotation toutes les 2 min.",
+    "competence": "Manipulation",
+    "variantes": "Chronométrer chaque station, défi en équipe, modifier l'ordre des stations.",
+    "adaptation": "Réduire la durée de chaque station, simplifier les consignes, raquettes plus légères.",
+    "duree": 20,
+    "materiel": [
+      "Raquettes variées",
+      "Balles de tennis",
+      "Volants",
+      "Cônes",
+      "Cibles"
+    ],
+    "tags": [
+      "circuit",
+      "raquette",
+      "polyvalence",
+      "stations"
+    ]
+  },
+  {
+    "titre": "Tir précision hockey",
+    "niveau": "3e cycle",
+    "difficulte": "avance",
+    "desc": "Tirs en mouvement vers des zones numérotées dans un filet (6 zones). L'élève reçoit une passe de l'enseignant, canalise et tire vers la zone annoncée. Travailler la précision, la puissance contrôlée, les angles de tir, et la décision rapide.",
+    "competence": "Manipulation",
+    "variantes": "Tir en se déplaçant de côté, tir en contre-attaque, tir avec défenseur.",
+    "adaptation": "Tirer d'une position arrêtée, agrandir les zones cibles, balle plus lente.",
+    "duree": 15,
+    "materiel": [
+      "Bâtons de hockey",
+      "Balles",
+      "Filet ou but",
+      "Cibles numérotées dans le but"
+    ],
+    "tags": [
+      "hockey",
+      "tir",
+      "précision",
+      "zone"
+    ]
+  },
+  {
+    "titre": "Raquette-ballon maternelle",
+    "niveau": "maternelle",
+    "difficulte": "debutant",
+    "desc": "L'élève tient une raquette en mousse et frappe un ballon gonflable vers le haut pour le maintenir en l'air. Compter le nombre de frappes consécutives. Travailler la coordination œil-main, la posture et le contact au centre de la raquette.",
+    "competence": "Manipulation",
+    "variantes": "Frapper en marchant, alterner main droite et gauche, frapper vers un partenaire.",
+    "adaptation": "Ballon plus gros et plus lent, raquette à manche plus court, laisser un rebond entre chaque frappe.",
+    "duree": 8,
+    "materiel": [
+      "1 raquette en mousse par élève",
+      "1 ballon gonflable par élève"
+    ],
+    "tags": [
+      "raquette",
+      "maternelle",
+      "coordination",
+      "ballon gonflable"
+    ]
+  },
+  {
+    "titre": "Hockey passe en duo",
+    "niveau": "1er cycle",
+    "difficulte": "debutant",
+    "desc": "En duo face à face à 3 mètres, les élèves se font des passes au sol avec le bâton de hockey. Passe du coup droit d'abord, puis du revers. Insister sur le contact balle-bâton doux, la réception en amortissant la balle et le regard vers le partenaire.",
+    "competence": "Manipulation",
+    "variantes": "Augmenter la distance, passe en mouvement, passe en triangle (trio).",
+    "adaptation": "Balle plus grosse, distance réduite, passe avec les mains si nécessaire pour comprendre le geste.",
+    "duree": 10,
+    "materiel": [
+      "1 bâton de hockey par élève",
+      "1 balle de mousse par duo"
+    ],
+    "tags": [
+      "hockey",
+      "passe",
+      "duo",
+      "contrôle"
+    ]
+  },
+  {
+    "titre": "Badminton dégagé fond de terrain",
+    "niveau": "3e cycle",
+    "difficulte": "intermediaire",
+    "desc": "L'élève pratique le dégagé (clear) au fond du terrain adverse. Position de base, raquette haute, frappe au-dessus de la tête avec extension complète. Le partenaire renvoie et l'échange continue en dégagés. Objectif: 10 échanges consécutifs au fond.",
+    "competence": "Manipulation",
+    "variantes": "Dégagé offensif (plus rapide et plus bas), alterner dégagé et amorti, dégagé de revers.",
+    "adaptation": "Terrain plus court, filet plus bas, permettre de frapper en dessous si nécessaire.",
+    "duree": 15,
+    "materiel": [
+      "1 raquette de badminton par élève",
+      "Volants",
+      "Filet de badminton"
+    ],
+    "tags": [
+      "badminton",
+      "dégagé",
+      "fond",
+      "technique"
+    ]
+  },
+  {
+    "titre": "Hockey relais slalom",
+    "niveau": "2e cycle",
+    "difficulte": "intermediaire",
+    "desc": "Course à relais en équipes de 4. Chaque joueur conduit la balle en slalom autour de 6 cônes avec le bâton de hockey, fait le tour du dernier cône et revient en ligne droite. Passe la balle au suivant. Équipe la plus rapide gagne. Travailler la vitesse et le contrôle.",
+    "competence": "Manipulation",
+    "variantes": "Slalom en reculant, conduire un anneau au lieu d'une balle, ajouter un tir au but à la fin.",
+    "adaptation": "Moins de cônes, espace plus large, marche rapide au lieu de course.",
+    "duree": 15,
+    "materiel": [
+      "1 bâton de hockey par équipe",
+      "1 balle par équipe",
+      "6 cônes par parcours"
+    ],
+    "tags": [
+      "hockey",
+      "relais",
+      "slalom",
+      "vitesse"
+    ]
+  },
+  {
+    "titre": "Badminton amorti au filet",
+    "niveau": "secondaire 1-2",
+    "difficulte": "avance",
+    "desc": "L'élève pratique l'amorti (drop shot) au filet: frappe douce qui fait tomber le volant juste de l'autre côté du filet. Le partenaire lance des volants hauts, le joueur amortit. Travailler le toucher délicat, l'angle de la raquette et la dissimulation du geste.",
+    "competence": "Manipulation",
+    "variantes": "Amorti de revers, amorti après déplacement arrière, amorti suivi d'un rush.",
+    "adaptation": "Filet plus bas, volant plus lent, zone de chute élargie.",
+    "duree": 15,
+    "materiel": [
+      "1 raquette de badminton par élève",
+      "Volants",
+      "Filet de badminton"
+    ],
+    "tags": [
+      "badminton",
+      "amorti",
+      "filet",
+      "finesse"
+    ]
+  },
+  {
+    "titre": "Ringuette dribble et passe",
+    "niveau": "2e cycle",
+    "difficulte": "intermediaire",
+    "desc": "L'élève apprend à contrôler l'anneau de ringuette avec le bâton: piquer l'anneau et le transporter en dribble. En duo, pratiquer la passe par projection de l'anneau. Travailler le geste de poignet pour libérer l'anneau en direction du partenaire.",
+    "competence": "Manipulation",
+    "variantes": "Passe en mouvement, passe par-dessus un obstacle, slalom avec l'anneau.",
+    "adaptation": "Anneau plus léger, bâton plus court, passe à courte distance.",
+    "duree": 12,
+    "materiel": [
+      "1 bâton de ringuette par élève",
+      "1 anneau par duo"
+    ],
+    "tags": [
+      "ringuette",
+      "dribble",
+      "passe",
+      "anneau"
+    ]
+  },
+  {
+    "titre": "Tennis de table coup droit",
+    "niveau": "3e cycle",
+    "difficulte": "debutant",
+    "desc": "L'élève apprend le coup droit au tennis de table: prise porte-plume ou classique, mouvement du coude, contact au sommet du rebond. Un partenaire lance des balles régulières, l'élève renvoie en coup droit. Objectif: 10 renvois consécutifs sur la table.",
+    "competence": "Manipulation",
+    "variantes": "Coup droit croisé, coup droit long de ligne, coup droit lifté.",
+    "adaptation": "Balle plus grosse (balle de tennis sur grande table), rythme plus lent, table contre le mur.",
+    "duree": 15,
+    "materiel": [
+      "1 raquette de tennis de table par élève",
+      "Balles de tennis de table",
+      "Table de tennis de table"
+    ],
+    "tags": [
+      "tennis de table",
+      "coup droit",
+      "raquette",
+      "technique"
+    ]
+  },
+  {
+    "titre": "Hockey tir-passe-tir",
+    "niveau": "3e cycle",
+    "difficulte": "avance",
+    "desc": "En trio, enchaîner passe-tir en mouvement vers le but: A passe à B, B contrôle et passe à C, C tire au but. Rotation des rôles après chaque vague. Travailler le contrôle en réception, la passe précise en déplacement et le tir rapide.",
+    "competence": "Manipulation",
+    "variantes": "Ajouter un défenseur, imposer le tir du revers, enchaîner 2 passes avant le tir.",
+    "adaptation": "Ralentir le rythme, passe à l'arrêt avant de tirer, but plus large.",
+    "duree": 15,
+    "materiel": [
+      "1 bâton de hockey par élève",
+      "Balles",
+      "But"
+    ],
+    "tags": [
+      "hockey",
+      "passe",
+      "tir",
+      "trio"
+    ]
+  },
+  {
+    "titre": "Badminton smash",
+    "niveau": "secondaire 1-2",
+    "difficulte": "avance",
+    "desc": "L'élève apprend le smash au badminton: préparation haute, rotation du tronc, frappe en pronation au point le plus haut. Le partenaire envoie des volants hauts au centre, le joueur smash vers le sol adverse. Travailler la puissance et l'angle d'attaque.",
+    "competence": "Manipulation",
+    "variantes": "Smash croisé, demi-smash (contrôlé), smash suivi d'une préparation défensive.",
+    "adaptation": "Filet plus bas, volant lancé à la main (contrôle de hauteur), smash en position arrêtée.",
+    "duree": 15,
+    "materiel": [
+      "1 raquette de badminton par élève",
+      "Volants",
+      "Filet de badminton"
+    ],
+    "tags": [
+      "badminton",
+      "smash",
+      "attaque",
+      "puissance"
+    ]
+  },
+  {
+    "titre": "Crosse au sol initiation",
+    "niveau": "2e cycle",
+    "difficulte": "debutant",
+    "desc": "L'élève découvre la crosse: tenir le bâton correctement, ramasser la balle au sol en la couvrant, la transporter en courant. Pratiquer le ramassage en mouvement et la protection de la balle contre un adversaire passif. Parcours aller-retour de 15 mètres.",
+    "competence": "Manipulation",
+    "variantes": "Ramassage après lancer au mur, passe en duo avec crosse, slalom.",
+    "adaptation": "Balle plus grosse, bâton adapté, crosse avec panier plus grand.",
+    "duree": 12,
+    "materiel": [
+      "1 bâton de crosse par élève",
+      "1 balle de crosse par élève"
+    ],
+    "tags": [
+      "crosse",
+      "ramassage",
+      "transport",
+      "initiation"
+    ]
+  },
+  {
+    "titre": "Tennis de table revers",
+    "niveau": "secondaire 1-2",
+    "difficulte": "intermediaire",
+    "desc": "L'élève apprend le revers au tennis de table: rotation du poignet, contact devant le corps, mouvement compact. Échange en revers uniquement avec un partenaire, en visant le côté revers adverse. Séries de 20 échanges. Travailler la régularité.",
+    "competence": "Manipulation",
+    "variantes": "Revers coupé, revers lifté, alterner coup droit et revers.",
+    "adaptation": "Échange contre le mur, balle plus lente, permettre le coup droit si l'élève est bloqué.",
+    "duree": 15,
+    "materiel": [
+      "1 raquette de tennis de table par élève",
+      "Balles de tennis de table",
+      "Table de tennis de table"
+    ],
+    "tags": [
+      "tennis de table",
+      "revers",
+      "échange",
+      "technique"
+    ]
+  },
+  {
+    "titre": "Bâton d'équilibre maternelle",
+    "niveau": "maternelle",
+    "difficulte": "debutant",
+    "desc": "L'élève tient un bâton léger (manche à balai coupé) en équilibre sur la paume de la main ouverte. Objectif: maintenir le bâton 5 secondes sans qu'il tombe. Travailler la stabilité du bras, la fixation du regard sur le sommet du bâton et les micro-ajustements.",
+    "competence": "Manipulation",
+    "variantes": "Tenir sur le doigt, marcher en tenant le bâton, alterner les mains.",
+    "adaptation": "Bâton plus court et plus léger, permettre de tenir avec 2 mains, assis sur un banc.",
+    "duree": 8,
+    "materiel": [
+      "1 bâton léger par élève (50-60 cm)"
+    ],
+    "tags": [
+      "équilibre",
+      "bâton",
+      "maternelle",
+      "concentration"
+    ]
+  },
+  {
+    "titre": "Hockey 2 contre 1",
+    "niveau": "secondaire 1-2",
+    "difficulte": "avance",
+    "desc": "Situation de surnombre 2 contre 1 vers le but. Les attaquants doivent utiliser les passes pour déjouer le défenseur et créer un tir ouvert. Travailler la prise de décision: quand passer, quand tirer, comment lire le défenseur. Rotation après chaque action.",
+    "competence": "Manipulation",
+    "variantes": "3 contre 2, 2 contre 2, ajout d'un gardien.",
+    "adaptation": "Défenseur passif (ne fait que gêner), espace plus large, pas de limite de temps.",
+    "duree": 20,
+    "materiel": [
+      "Bâtons de hockey",
+      "Balle",
+      "But",
+      "Dossards"
+    ],
+    "tags": [
+      "hockey",
+      "surnombre",
+      "tactique",
+      "décision"
+    ]
+  },
+  {
+    "titre": "Badminton déplacement en étoile",
+    "niveau": "3e cycle",
+    "difficulte": "intermediaire",
+    "desc": "L'élève se positionne au centre du terrain de badminton et se déplace vers 6 coins du terrain en étoile: avant gauche, avant droit, latéral gauche, latéral droit, arrière gauche, arrière droit. À chaque coin, frapper un volant posé sur un cône et revenir au centre.",
+    "competence": "Manipulation",
+    "variantes": "Enchaîner les 6 positions en temps limité, avec un partenaire qui lance les volants.",
+    "adaptation": "Réduire à 4 positions, déplacement en marchant, éliminer la frappe et toucher le cône seulement.",
+    "duree": 12,
+    "materiel": [
+      "1 raquette de badminton",
+      "6 volants",
+      "6 cônes"
+    ],
+    "tags": [
+      "badminton",
+      "déplacement",
+      "étoile",
+      "vitesse"
+    ]
+  },
+  {
+    "titre": "Hockey gardien de but",
+    "niveau": "2e cycle",
+    "difficulte": "intermediaire",
+    "desc": "L'élève joue le rôle de gardien de but: posture de base (genoux fléchis, bâton au sol, regard sur la balle). Des tireurs lancent depuis 5 m, le gardien bloque avec le bâton ou le corps. Travailler le positionnement, l'angle de couverture et la réaction rapide.",
+    "competence": "Manipulation",
+    "variantes": "Tirs de différents angles, tirs surélevés, tirs après passe.",
+    "adaptation": "But plus petit, tirs plus lents, protections supplémentaires pour le gardien.",
+    "duree": 15,
+    "materiel": [
+      "Bâtons de hockey",
+      "Balles de mousse",
+      "But",
+      "Équipement de gardien (jambières, gant)"
+    ],
+    "tags": [
+      "hockey",
+      "gardien",
+      "réaction",
+      "blocage"
+    ]
+  },
+  {
+    "titre": "Raquette murale tennis",
+    "niveau": "2e cycle",
+    "difficulte": "debutant",
+    "desc": "L'élève frappe une balle de tennis contre le mur avec une raquette de tennis junior. Coup droit uniquement d'abord: se placer de profil, balancer le bras, frapper après le rebond. Objectif: 10 frappes consécutives sans perdre la balle. Travailler la posture latérale.",
+    "competence": "Manipulation",
+    "variantes": "Ajouter le revers, alterner coup droit et revers, viser une zone précise du mur.",
+    "adaptation": "Raquette plus courte, balle en mousse, se rapprocher du mur.",
+    "duree": 12,
+    "materiel": [
+      "1 raquette de tennis junior par élève",
+      "1 balle de tennis par élève",
+      "Mur lisse"
+    ],
+    "tags": [
+      "tennis",
+      "mur",
+      "coup droit",
+      "raquette"
+    ]
+  },
+  {
+    "titre": "Hockey 3 contre 3 mini-match",
+    "niveau": "secondaire 1-2",
+    "difficulte": "avance",
+    "desc": "Mini-matchs de hockey 3 contre 3 sur terrain réduit (demi-gymnase). Buts larges sans gardien. Matchs de 3 minutes, rotation des équipes. Insister sur le jeu collectif: démarquage, passes, soutien. Pas de lever de bâton au-dessus de la taille.",
+    "competence": "Manipulation",
+    "variantes": "Ajouter un gardien, élargir le terrain, imposer un nombre de passes avant le tir.",
+    "adaptation": "Balle plus lente, pas de contact, zone protégée autour du but.",
+    "duree": 25,
+    "materiel": [
+      "Bâtons de hockey",
+      "Balle de mousse",
+      "2 buts",
+      "Dossards"
+    ],
+    "tags": [
+      "hockey",
+      "match",
+      "3v3",
+      "collectif"
+    ]
+  },
+  {
+    "titre": "Badminton service long",
+    "niveau": "secondaire 1-2",
+    "difficulte": "intermediaire",
+    "desc": "L'élève pratique le service long: frapper le volant avec force par en dessous pour l'envoyer haut et loin au fond du terrain adverse. Travailler le transfert de poids, le suivi du bras et la hauteur du volant. 10 services, viser la zone arrière du terrain.",
+    "competence": "Manipulation",
+    "variantes": "Alterner service long et court, service en revers, service dans zone précise.",
+    "adaptation": "Terrain plus court, permettre un service plus bas, filet plus bas.",
+    "duree": 12,
+    "materiel": [
+      "1 raquette de badminton par élève",
+      "Volants",
+      "Filet de badminton"
+    ],
+    "tags": [
+      "badminton",
+      "service long",
+      "technique",
+      "puissance"
+    ]
+  },
+  {
+    "titre": "Ringuette tir au but",
+    "niveau": "3e cycle",
+    "difficulte": "intermediaire",
+    "desc": "L'élève s'approche du but en dribblant l'anneau de ringuette et exécute un tir. Travailler le balayage rapide du bâton pour propulser l'anneau vers les coins du but. 5 tirs de chaque côté. Attention à la posture et au transfert de poids lors du tir.",
+    "competence": "Manipulation",
+    "variantes": "Tir après passe, tir en surnombre, tir du revers.",
+    "adaptation": "But plus grand, tir à l'arrêt, anneau plus léger.",
+    "duree": 15,
+    "materiel": [
+      "1 bâton de ringuette par élève",
+      "Anneaux",
+      "But"
+    ],
+    "tags": [
+      "ringuette",
+      "tir",
+      "but",
+      "technique"
+    ]
+  },
+  {
+    "titre": "Tennis de table service",
+    "niveau": "secondaire 1-2",
+    "difficulte": "intermediaire",
+    "desc": "L'élève apprend le service au tennis de table: balle lancée à 16 cm minimum, contact derrière la ligne de fond, rebond dans son camp puis dans le camp adverse. Travailler le service coupé, lifté et latéral. Séries de 10 services en visant les coins.",
+    "competence": "Manipulation",
+    "variantes": "Service court, service long, service avec variation d'effet.",
+    "adaptation": "Permettre le service sans lancer (poser la balle sur la raquette), zone de réception élargie.",
+    "duree": 12,
+    "materiel": [
+      "1 raquette de tennis de table par élève",
+      "Balles de tennis de table",
+      "Table de tennis de table"
+    ],
+    "tags": [
+      "tennis de table",
+      "service",
+      "effet",
+      "technique"
+    ]
+  },
+  {
+    "titre": "Crosse passe et attraper",
+    "niveau": "3e cycle",
+    "difficulte": "intermediaire",
+    "desc": "En duo à 5 mètres, les élèves se passent la balle avec la crosse. Le lanceur catapulte la balle en arc, le receveur la capte dans le panier de sa crosse. Travailler l'amorti à la réception et la visée à l'envoi. 10 passes chacun, puis augmenter la distance.",
+    "competence": "Manipulation",
+    "variantes": "Passe en mouvement, passe au sol, passe avec interception possible.",
+    "adaptation": "Distance réduite, panier de crosse plus grand, balle plus molle.",
+    "duree": 15,
+    "materiel": [
+      "1 bâton de crosse par élève",
+      "1 balle par duo"
+    ],
+    "tags": [
+      "crosse",
+      "passe",
+      "réception",
+      "duo"
+    ]
+  },
+  {
+    "titre": "Pickleball initiation",
+    "niveau": "3e cycle",
+    "difficulte": "debutant",
+    "desc": "L'élève découvre le pickleball: prise de la palette, service par en dessous, échange de base. Terrain de badminton avec filet à 86 cm. Pratiquer le service et les échanges en coopération. Objectif: maintenir l'échange 10 fois de suite.",
+    "competence": "Manipulation",
+    "variantes": "Jeu en double, introduction du dink (amorti au filet), jeu en points.",
+    "adaptation": "Balle plus lente, permettre 2 rebonds, palette plus grande.",
+    "duree": 20,
+    "materiel": [
+      "1 palette de pickleball par élève",
+      "Balles de pickleball",
+      "Filet (badminton adapté)"
+    ],
+    "tags": [
+      "pickleball",
+      "initiation",
+      "raquette",
+      "échange"
+    ]
+  },
+  {
+    "titre": "Hockey dribble protégé",
+    "niveau": "2e cycle",
+    "difficulte": "intermediaire",
+    "desc": "L'élève conduit la balle avec le bâton de hockey dans un espace restreint. Un adversaire essaie de voler la balle. L'attaquant doit protéger la balle avec son corps entre le défenseur et la balle. Travailler le changement de direction et la vision périphérique.",
+    "competence": "Manipulation",
+    "variantes": "2 défenseurs, zone encore plus petite, ajout de cônes obstacles.",
+    "adaptation": "Défenseur passif (gêne sans voler), espace plus grand, balle plus grosse.",
+    "duree": 12,
+    "materiel": [
+      "1 bâton de hockey par élève",
+      "1 balle par duo",
+      "Cônes"
+    ],
+    "tags": [
+      "hockey",
+      "dribble",
+      "protection",
+      "1v1"
+    ]
+  },
+  {
+    "titre": "Badminton jeu en double",
+    "niveau": "secondaire 1-2",
+    "difficulte": "avance",
+    "desc": "Jeu de badminton en double: travailler le placement côte à côte en défense et avant-arrière en attaque. Communication entre partenaires pour la couverture du terrain. Matchs de 11 points avec rotation des équipes. Insister sur la stratégie de placement.",
+    "competence": "Manipulation",
+    "variantes": "Double mixte, imposer un type de service, zone interdite au centre.",
+    "adaptation": "Terrain plus petit, volant plus lent, score réduit à 7 points.",
+    "duree": 25,
+    "materiel": [
+      "1 raquette de badminton par joueur",
+      "Volants",
+      "Filet de badminton"
+    ],
+    "tags": [
+      "badminton",
+      "double",
+      "tactique",
+      "communication"
+    ]
+  },
+  {
+    "titre": "Bâton hockey maniement",
+    "niveau": "1er cycle",
+    "difficulte": "debutant",
+    "desc": "L'élève découvre le maniement du bâton de hockey: prise correcte (main haute en haut, main basse au milieu), balancer du coup droit au revers, faire rouler la balle de gauche à droite sur place. Insister sur la sécurité: bâton toujours sous la taille.",
+    "competence": "Manipulation",
+    "variantes": "Rouler la balle en cercle autour de soi, transférer la balle entre les pieds.",
+    "adaptation": "Bâton plus court, balle plus grosse et plus lente, exercice à genoux.",
+    "duree": 10,
+    "materiel": [
+      "1 bâton de hockey par élève",
+      "1 balle de mousse par élève"
+    ],
+    "tags": [
+      "hockey",
+      "maniement",
+      "prise",
+      "initiation"
+    ]
+  },
+  {
+    "titre": "Tennis de table match",
+    "niveau": "secondaire 3-5",
+    "difficulte": "avance",
+    "desc": "Matchs de tennis de table en simple: parties en 3 sets de 11 points. Appliquer les règles officielles (service alterné tous les 2 points, changement de côté entre les sets). Travailler les stratégies: varier les effets, placer la balle, changer de rythme.",
+    "competence": "Manipulation",
+    "variantes": "Tournoi à élimination, match en double, handicap pour les meilleurs joueurs.",
+    "adaptation": "Sets de 7 points, permettre le service simplifié, conseils de l'enseignant entre les points.",
+    "duree": 25,
+    "materiel": [
+      "1 raquette par joueur",
+      "Balles de tennis de table",
+      "Table de tennis de table"
+    ],
+    "tags": [
+      "tennis de table",
+      "match",
+      "stratégie",
+      "compétition"
+    ]
+  },
+  {
+    "titre": "Pickleball dink",
+    "niveau": "secondaire 1-2",
+    "difficulte": "intermediaire",
+    "desc": "L'élève pratique le dink au pickleball: frappe douce qui fait passer la balle juste au-dessus du filet et tombe dans la zone de non-volée adverse. En duo, échanger uniquement en dinks. Travailler le toucher délicat, la patience et le placement des pieds.",
+    "competence": "Manipulation",
+    "variantes": "Dink croisé, dink suivi d'un drive, rallye de dinks le plus long possible.",
+    "adaptation": "Filet plus bas, balle plus lente, zone de chute élargie.",
+    "duree": 15,
+    "materiel": [
+      "1 palette de pickleball par élève",
+      "Balles de pickleball",
+      "Filet"
+    ],
+    "tags": [
+      "pickleball",
+      "dink",
+      "finesse",
+      "contrôle"
+    ]
+  },
+  {
+    "titre": "Hockey tir du poignet",
+    "niveau": "secondaire 1-2",
+    "difficulte": "intermediaire",
+    "desc": "L'élève apprend le tir du poignet (wrist shot) au hockey: balle placée au milieu de la palette, tirer en faisant glisser la balle vers l'avant avec une rotation du poignet. Viser les coins du but depuis 5 mètres. Travailler la rapidité du geste et la discrétion du mouvement.",
+    "competence": "Manipulation",
+    "variantes": "Tir du poignet en mouvement, tir rapide après réception, tir du revers.",
+    "adaptation": "Tir à l'arrêt, but plus grand, balle plus légère.",
+    "duree": 15,
+    "materiel": [
+      "1 bâton de hockey par élève",
+      "Balles",
+      "But"
+    ],
+    "tags": [
+      "hockey",
+      "tir",
+      "poignet",
+      "technique"
+    ]
+  },
+  {
+    "titre": "Badminton jeu de points tactique",
+    "niveau": "secondaire 3-5",
+    "difficulte": "avance",
+    "desc": "Match de badminton en simple avec focus tactique: l'enseignant attribue des points bonus pour les amortis réussis, les smashes gagnants et les dégagés au fond. L'élève doit varier ses coups et exploiter les faiblesses de l'adversaire. Sets de 15 points.",
+    "competence": "Manipulation",
+    "variantes": "Points bonus différents chaque match, analyse vidéo entre les sets, tournoi.",
+    "adaptation": "Réduire les points bonus, terrain plus petit, permettre le jeu en double.",
+    "duree": 25,
+    "materiel": [
+      "1 raquette par joueur",
+      "Volants",
+      "Filet de badminton",
+      "Feuille de pointage"
+    ],
+    "tags": [
+      "badminton",
+      "tactique",
+      "match",
+      "stratégie"
+    ]
+  },
+  {
+    "titre": "Ringuette jeu modifié",
+    "niveau": "secondaire 1-2",
+    "difficulte": "avance",
+    "desc": "Jeu de ringuette 4 contre 4 sur demi-gymnase. Règles: pas de lever de bâton au-dessus de la taille, pas de contact, anneau au sol obligatoire. Travailler le jeu collectif, le démarquage et les passes en mouvement. Matchs de 4 minutes avec rotation.",
+    "competence": "Manipulation",
+    "variantes": "5 contre 5, ajout d'un gardien, obligation de 3 passes avant le tir.",
+    "adaptation": "3 contre 3, espace plus grand, anneau plus visible (couleur vive).",
+    "duree": 25,
+    "materiel": [
+      "1 bâton de ringuette par élève",
+      "Anneaux",
+      "2 buts",
+      "Dossards"
+    ],
+    "tags": [
+      "ringuette",
+      "match",
+      "collectif",
+      "stratégie"
+    ]
+  },
+  {
+    "titre": "Circuit hockey 4 stations",
+    "niveau": "2e cycle",
+    "difficulte": "intermediaire",
+    "desc": "Circuit de 4 stations de 3 minutes: 1) Dribble slalom, 2) Passe au mur et contrôle, 3) Tir de précision sur cibles, 4) Duel 1 contre 1 dans un carré. Rotation au signal. Fiche d'autoévaluation pour chaque station. Excellent pour travailler les habiletés variées.",
+    "competence": "Manipulation",
+    "variantes": "Ajouter une 5e station (gardien de but), chronométrer, compétition entre équipes.",
+    "adaptation": "Réduire à 3 stations, augmenter le temps, simplifier les consignes.",
+    "duree": 20,
+    "materiel": [
+      "Bâtons de hockey",
+      "Balles de mousse",
+      "Cônes",
+      "Cibles",
+      "But"
+    ],
+    "tags": [
+      "hockey",
+      "circuit",
+      "stations",
+      "variété"
+    ]
+  },
+  {
+    "titre": "Badminton lob défensif",
+    "niveau": "secondaire 3-5",
+    "difficulte": "avance",
+    "desc": "L'élève pratique le lob défensif: quand l'adversaire smash, renvoyer le volant haut et loin au fond du terrain pour gagner du temps de replacement. Travailler la lecture du smash, le placement de la raquette et la trajectoire haute. Séries de 10 avec un smasheur.",
+    "competence": "Manipulation",
+    "variantes": "Lob croisé, lob suivi d'un contre-amorti, enchaîner défense-attaque.",
+    "adaptation": "Smash moins puissant, filet plus bas, permettre un rebond.",
+    "duree": 15,
+    "materiel": [
+      "1 raquette par joueur",
+      "Volants",
+      "Filet de badminton"
+    ],
+    "tags": [
+      "badminton",
+      "lob",
+      "défense",
+      "technique avancée"
+    ]
+  },
+  {
+    "titre": "Hockey interception",
+    "niveau": "3e cycle",
+    "difficulte": "intermediaire",
+    "desc": "En trio: 2 passeurs et 1 intercepteur au milieu. Les passeurs se font des passes avec le bâton, l'intercepteur essaie de couper la passe. Quand il intercepte, il échange avec le passeur fautif. Travailler l'anticipation, la lecture du jeu et la réactivité.",
+    "competence": "Manipulation",
+    "variantes": "Zone plus petite, 3 passeurs et 2 intercepteurs, passes obligatoires du revers.",
+    "adaptation": "Zone plus grande, passe plus lente, intercepteur sur une ligne seulement.",
+    "duree": 12,
+    "materiel": [
+      "1 bâton de hockey par élève",
+      "1 balle par trio",
+      "Cônes pour zone"
+    ],
+    "tags": [
+      "hockey",
+      "interception",
+      "anticipation",
+      "défense"
+    ]
+  },
+  {
+    "titre": "Raquette coopérative maternelle",
+    "niveau": "maternelle",
+    "difficulte": "debutant",
+    "desc": "En duo, les élèves tiennent chacun une raquette en mousse et transportent ensemble un ballon gonflable coincé entre les deux raquettes. Parcourir un trajet de 10 mètres sans faire tomber le ballon. Travailler la coordination à deux et la communication.",
+    "competence": "Manipulation",
+    "variantes": "Ajouter des obstacles, augmenter la vitesse, transporter 2 ballons.",
+    "adaptation": "Parcours plus court, ballon plus gros, permettre de toucher le ballon avec les mains.",
+    "duree": 10,
+    "materiel": [
+      "2 raquettes en mousse par duo",
+      "1 ballon gonflable par duo"
+    ],
+    "tags": [
+      "raquette",
+      "coopération",
+      "maternelle",
+      "duo"
+    ]
+  },
+  {
+    "titre": "Pickleball match simplifié",
+    "niveau": "secondaire 3-5",
+    "difficulte": "avance",
+    "desc": "Match de pickleball en double avec règles complètes: service croisé, zone de non-volée, score en 11 points. Travailler la stratégie: dominer le filet, utiliser les dinks et les drives. Rotation des partenaires toutes les 2 parties pour varier les combinaisons.",
+    "competence": "Manipulation",
+    "variantes": "Simple au lieu de double, tournoi, handicap pour les meilleurs.",
+    "adaptation": "Score réduit à 7, zone de non-volée agrandie, permettre la volée.",
+    "duree": 25,
+    "materiel": [
+      "1 palette par joueur",
+      "Balles de pickleball",
+      "Filet"
+    ],
+    "tags": [
+      "pickleball",
+      "match",
+      "double",
+      "stratégie"
+    ]
+  },
+  {
+    "titre": "Crosse tir et réception",
+    "niveau": "secondaire 1-2",
+    "difficulte": "avance",
+    "desc": "L'élève pratique le tir avec la crosse: catapulter la balle depuis le panier de la crosse vers un but à 8 mètres. Travailler l'armé au-dessus de l'épaule, le transfert de poids et la visée. Après le tir, recevoir une passe en retour et contrôler. Séries de 10.",
+    "competence": "Manipulation",
+    "variantes": "Tir en mouvement, tir après esquive, tir de différents angles.",
+    "adaptation": "Tir plus rapproché, but plus grand, balle plus molle.",
+    "duree": 15,
+    "materiel": [
+      "1 bâton de crosse par élève",
+      "Balles de crosse",
+      "But"
+    ],
+    "tags": [
+      "crosse",
+      "tir",
+      "réception",
+      "technique"
+    ]
+  },
+  {
+    "titre": "Tennis service simplifié",
+    "niveau": "secondaire 1-2",
+    "difficulte": "intermediaire",
+    "desc": "L'élève apprend le service au tennis: lancer la balle en l'air avec la main non dominante, frapper au point le plus haut avec la raquette. Commencer par un service cuillère (par en dessous), puis évoluer vers le service plat. Viser le carré de service à 6 mètres.",
+    "competence": "Manipulation",
+    "variantes": "Service slicé, service vers les coins, service en puissance.",
+    "adaptation": "Service par en dessous uniquement, balle en mousse, filet plus bas.",
+    "duree": 15,
+    "materiel": [
+      "1 raquette de tennis par élève",
+      "Balles de tennis",
+      "Filet ou corde"
+    ],
+    "tags": [
+      "tennis",
+      "service",
+      "technique",
+      "raquette"
+    ]
+  },
+  {
+    "titre": "Badminton rush au filet",
+    "niveau": "secondaire 1-2",
+    "difficulte": "intermediaire",
+    "desc": "L'élève pratique le rush au filet: après un amorti court, sprinter vers le filet et frapper le volant en kill (frappe descendante rapide). Travailler la transition arrière-avant, la lecture du jeu et la frappe au point le plus haut possible au filet.",
+    "competence": "Manipulation",
+    "variantes": "Rush après dégagé, rush en double, rush suivi d'un retour défensif.",
+    "adaptation": "Rush en marchant, volant lancé à la main, filet plus bas.",
+    "duree": 15,
+    "materiel": [
+      "1 raquette de badminton par élève",
+      "Volants",
+      "Filet de badminton"
+    ],
+    "tags": [
+      "badminton",
+      "rush",
+      "filet",
+      "vitesse"
+    ]
+  },
+  {
+    "titre": "Hockey passe au mur",
+    "niveau": "1er cycle",
+    "difficulte": "debutant",
+    "desc": "L'élève pousse la balle avec le bâton de hockey vers le mur et la réceptionne au retour. Travailler le contrôle du bâton, l'amortissement à la réception et la régularité du geste. Objectif: 10 passes-réceptions consécutives. Excellent exercice individuel pour le contrôle.",
+    "competence": "Manipulation",
+    "variantes": "Passe du revers, passe avec obstacle devant, passe en mouvement latéral.",
+    "adaptation": "Balle plus grosse, se rapprocher du mur, passe très douce.",
+    "duree": 10,
+    "materiel": [
+      "1 bâton de hockey par élève",
+      "1 balle de mousse par élève",
+      "Mur lisse"
+    ],
+    "tags": [
+      "hockey",
+      "passe",
+      "mur",
+      "contrôle"
+    ]
+  },
+  {
+    "titre": "Tennis de table top spin",
+    "niveau": "secondaire 3-5",
+    "difficulte": "avance",
+    "desc": "L'élève apprend le top spin: frotter la balle de bas en haut avec un mouvement de brosse de la raquette. La balle accélère après le rebond. Pratiquer le top spin coup droit et revers. Séries de 20 échanges en top spin uniquement avec un partenaire.",
+    "competence": "Manipulation",
+    "variantes": "Top spin puissant, top spin de loin, contre-top spin.",
+    "adaptation": "Mouvement de brosse au ralenti, balle lancée à la main, table contre le mur.",
+    "duree": 15,
+    "materiel": [
+      "1 raquette de tennis de table par élève",
+      "Balles de tennis de table",
+      "Table de tennis de table"
+    ],
+    "tags": [
+      "tennis de table",
+      "top spin",
+      "effet",
+      "avancé"
+    ]
+  },
+  {
+    "titre": "Pickleball volley au filet",
+    "niveau": "secondaire 1-2",
+    "difficulte": "avance",
+    "desc": "L'élève pratique la volée au filet au pickleball: frapper la balle avant le rebond en position proche du filet. Pieds plantés, palette devant, geste court et compact. Travailler le réflexe, le blocage (pas de swing) et le placement dans les pieds de l'adversaire.",
+    "competence": "Manipulation",
+    "variantes": "Volée en revers, volée en drive, rally de volées en duo.",
+    "adaptation": "Balle plus lente, position plus reculée, permettre un rebond.",
+    "duree": 15,
+    "materiel": [
+      "1 palette de pickleball par élève",
+      "Balles de pickleball",
+      "Filet"
+    ],
+    "tags": [
+      "pickleball",
+      "volley",
+      "filet",
+      "réflexe"
+    ]
+  },
+  {
+    "titre": "Hockey feinte et tir",
+    "niveau": "secondaire 3-5",
+    "difficulte": "avance",
+    "desc": "L'élève apprend les feintes au hockey: feinte de tir (armé sans frapper), feinte de passe (regard trompeur), feinte de dribble (changement de direction brusque). Enchaîner une feinte puis un tir au but. Travailler la lecture du gardien et la prise de décision.",
+    "competence": "Manipulation",
+    "variantes": "Feinte face à un défenseur réel, enchaîner 2 feintes, feinte en surnombre.",
+    "adaptation": "Feinte au ralenti, pas de gardien, feinte arrêtée avant le tir.",
+    "duree": 15,
+    "materiel": [
+      "1 bâton de hockey par élève",
+      "Balles",
+      "But"
+    ],
+    "tags": [
+      "hockey",
+      "feinte",
+      "tir",
+      "décision"
+    ]
+  },
+  {
+    "titre": "Raquette de plage initiation",
+    "niveau": "1er cycle",
+    "difficulte": "debutant",
+    "desc": "L'élève utilise des raquettes de plage en bois pour frapper une balle légère. En duo à 2 mètres, se renvoyer la balle le plus de fois possible. Les raquettes de plage sont faciles à manier pour les débutants (surface large, pas de cordage). Travailler le contact au centre de la raquette.",
+    "competence": "Manipulation",
+    "variantes": "Jouer contre un mur, ajouter un filet bas, varier les types de balles.",
+    "adaptation": "Balle en mousse, distance réduite, raquette tenue à deux mains.",
+    "duree": 10,
+    "materiel": [
+      "1 paire de raquettes de plage par duo",
+      "1 balle légère par duo"
+    ],
+    "tags": [
+      "raquette",
+      "plage",
+      "initiation",
+      "duo"
+    ]
+  }
+]

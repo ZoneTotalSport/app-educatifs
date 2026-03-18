@@ -1,0 +1,999 @@
+[
+  {
+    "titre": "Lancer frisbee de base",
+    "niveau": "2e cycle",
+    "difficulte": "debutant",
+    "desc": "Apprendre la prise et le lancer du frisbee: prise backhand (pouce dessus, 4 doigts en dessous sur le bord). Lancer en ligne droite vers un partenaire à 5 m, puis 8 m, puis 12 m. Insister sur l'angle de relâchement, le snap du poignet, et l'horizontalité du disque.",
+    "competence": "Manipulation",
+    "variantes": "Lancer forehand, lancer en l'air (hammer), attraper derrière le dos.",
+    "adaptation": "Utiliser un frisbee en mousse, réduire la distance, cible au sol pour viser.",
+    "duree": 12,
+    "materiel": [
+      "1 frisbee par duo"
+    ],
+    "tags": [
+      "frisbee",
+      "lancer",
+      "technique",
+      "précision"
+    ]
+  },
+  {
+    "titre": "Ultimate initiation",
+    "niveau": "3e cycle",
+    "difficulte": "intermediaire",
+    "desc": "Introduction au Ultimate frisbee: règles de base (pas de contact, pivot, stall count). Jeu 4v4 sur terrain réduit. Insister sur le démarquage, la décision rapide, et l'esprit sportif (spirit of the game). Rotation des équipes toutes les 5 minutes.",
+    "competence": "Sport collectif",
+    "variantes": "Imposer type de passe, jeu en surnombre (3v2), conditions météo (vent).",
+    "adaptation": "Terrain plus petit, frisbee plus lent, règles simplifiées, arbitre enseignant.",
+    "duree": 20,
+    "materiel": [
+      "2-3 frisbees",
+      "Cônes pour délimiter le terrain",
+      "Dossards"
+    ],
+    "tags": [
+      "ultimate",
+      "collectif",
+      "démarquage",
+      "tactique"
+    ]
+  },
+  {
+    "titre": "Frisbee golf 6 trous",
+    "niveau": "3e cycle",
+    "difficulte": "intermediaire",
+    "desc": "Parcours de disc golf dans le gymnase ou la cour: 6 cibles (cerceaux, paniers, cônes) à atteindre en un minimum de lancers. Chaque cible est à une distance et un angle différents. L'élève note son score par trou. Travailler la précision, le dosage et la stratégie de parcours.",
+    "competence": "Manipulation",
+    "variantes": "9 trous, obstacles entre les trous, compétition par équipes, par en dessous et par-dessus.",
+    "adaptation": "Cibles plus proches et plus grandes, frisbee en mousse, parcours simplifié.",
+    "duree": 20,
+    "materiel": [
+      "1 frisbee par élève",
+      "6 cibles (cerceaux, paniers)",
+      "Feuille de pointage"
+    ],
+    "tags": [
+      "frisbee",
+      "golf",
+      "parcours",
+      "précision"
+    ]
+  },
+  {
+    "titre": "Lancer forehand (revers)",
+    "niveau": "secondaire 1-2",
+    "difficulte": "intermediaire",
+    "desc": "L'élève apprend le lancer forehand (flick): prise en V avec l'index et le majeur sous le disque, pouce sur le dessus. Rotation du poignet et de l'avant-bras. Pratiquer en duo à 8 m, viser le partenaire à hauteur de poitrine. Travailler la stabilité du disque et la direction.",
+    "competence": "Manipulation",
+    "variantes": "Forehand en courbe, forehand long, alterner backhand et forehand.",
+    "adaptation": "Disque plus léger, distance réduite, lancer contre un mur pour feedback immédiat.",
+    "duree": 15,
+    "materiel": [
+      "1 frisbee par duo"
+    ],
+    "tags": [
+      "frisbee",
+      "forehand",
+      "technique",
+      "prise"
+    ]
+  },
+  {
+    "titre": "Frisbee-cible murale",
+    "niveau": "2e cycle",
+    "difficulte": "debutant",
+    "desc": "Des cibles de différentes tailles sont fixées au mur ou dessinées (cerceaux collés). L'élève lance le frisbee depuis 4 m pour toucher les cibles. Points selon la difficulté de la cible. 5 lancers par tour. Travailler la trajectoire rectiligne et la régularité du lancer.",
+    "competence": "Manipulation",
+    "variantes": "Cibles mobiles, lancer de la main non dominante, lancer après course.",
+    "adaptation": "Cibles plus grandes, distance réduite à 2 m, frisbee en mousse.",
+    "duree": 12,
+    "materiel": [
+      "1 frisbee par élève",
+      "Cibles au mur (cerceaux, ruban)"
+    ],
+    "tags": [
+      "frisbee",
+      "cible",
+      "mur",
+      "précision"
+    ]
+  },
+  {
+    "titre": "Attraper le frisbee en mouvement",
+    "niveau": "3e cycle",
+    "difficulte": "intermediaire",
+    "desc": "En duo, l'élève A est immobile et lance, l'élève B court dans une direction et attrape le frisbee en mouvement. Travailler la lecture de la trajectoire, l'ajustement de course et la réception à une ou deux mains. 10 lancers chacun, varier les directions de course.",
+    "competence": "Manipulation",
+    "variantes": "Attraper d'une seule main, attraper en sautant, attraper en plongeon.",
+    "adaptation": "Course lente, frisbee lancé doucement, trajectoire prévisible.",
+    "duree": 15,
+    "materiel": [
+      "1 frisbee par duo"
+    ],
+    "tags": [
+      "frisbee",
+      "attraper",
+      "mouvement",
+      "ajustement"
+    ]
+  },
+  {
+    "titre": "Frisbee en mousse maternelle",
+    "niveau": "maternelle",
+    "difficulte": "debutant",
+    "desc": "L'élève découvre le frisbee en mousse souple: le lancer vers l'avant en le tenant bien à plat. Viser un cerceau au sol à 2 mètres. Travailler la prise, le mouvement de bras et le relâchement. Les frisbees en mousse sont sécuritaires et ne font pas mal à la réception.",
+    "competence": "Manipulation",
+    "variantes": "Lancer vers le haut et attraper, lancer à un partenaire, faire rouler le frisbee au sol.",
+    "adaptation": "Cible très proche, frisbee ultra-léger, guider la main de l'élève.",
+    "duree": 8,
+    "materiel": [
+      "1 frisbee en mousse par élève",
+      "Cerceaux cibles au sol"
+    ],
+    "tags": [
+      "frisbee",
+      "mousse",
+      "maternelle",
+      "initiation"
+    ]
+  },
+  {
+    "titre": "Frisbee hammer throw",
+    "niveau": "secondaire 1-2",
+    "difficulte": "avance",
+    "desc": "L'élève apprend le lancer hammer (par-dessus la tête): prise forehand, lever le bras au-dessus de la tête et lancer en arc vers le bas. Le disque fait une courbe descendante. Utile en ultimate pour passer par-dessus les défenseurs. Pratiquer à 8-10 m en duo.",
+    "competence": "Manipulation",
+    "variantes": "Hammer court, hammer long, hammer en situation de jeu.",
+    "adaptation": "Frisbee plus léger, lancer moins haut, cible large au sol.",
+    "duree": 15,
+    "materiel": [
+      "1 frisbee par duo"
+    ],
+    "tags": [
+      "frisbee",
+      "hammer",
+      "technique avancée",
+      "trajectoire"
+    ]
+  },
+  {
+    "titre": "Frisbee passe en triangle",
+    "niveau": "2e cycle",
+    "difficulte": "intermediaire",
+    "desc": "En trio, les élèves forment un triangle de 6 mètres de côté. Passer le frisbee dans un sens, puis dans l'autre. Travailler la passe rapide, la réception propre et le pivotement vers le prochain receveur. Compter le nombre de passes réussies en 2 minutes.",
+    "competence": "Manipulation",
+    "variantes": "Deux frisbees en circulation, triangle plus grand, imposer le lancer forehand.",
+    "adaptation": "Triangle plus petit, frisbee en mousse, permettre de rattraper après un rebond.",
+    "duree": 12,
+    "materiel": [
+      "1 frisbee par trio"
+    ],
+    "tags": [
+      "frisbee",
+      "passe",
+      "triangle",
+      "coopération"
+    ]
+  },
+  {
+    "titre": "Ultimate 3 contre 3",
+    "niveau": "secondaire 1-2",
+    "difficulte": "avance",
+    "desc": "Jeu d'ultimate frisbee 3 contre 3 sur terrain réduit (demi-gymnase). Zones d'en-but de 3 mètres. Le porteur ne peut pas courir (pivot seulement), les autres se démarquent. Insister sur la lecture du jeu, le changement rapide attaque-défense et l'esprit sportif.",
+    "competence": "Manipulation",
+    "variantes": "4 contre 4, terrain complet, stall count réduit à 5 secondes.",
+    "adaptation": "Frisbee en mousse, pas de stall count, défense en zone au lieu d'individuelle.",
+    "duree": 20,
+    "materiel": [
+      "1 frisbee",
+      "Cônes pour terrain et zones",
+      "Dossards"
+    ],
+    "tags": [
+      "ultimate",
+      "3v3",
+      "jeu",
+      "stratégie"
+    ]
+  },
+  {
+    "titre": "Frisbee courbe",
+    "niveau": "secondaire 1-2",
+    "difficulte": "intermediaire",
+    "desc": "L'élève apprend à lancer le frisbee en courbe: incliner le disque vers l'intérieur (angle hyzer) ou vers l'extérieur (angle anhyzer) au moment du lancer. Pratiquer les deux courbes pour contourner des obstacles (cônes). Travailler la compréhension de l'aérodynamique du disque.",
+    "competence": "Manipulation",
+    "variantes": "Courbe autour d'un obstacle, courbe en situation de jeu, alterner hyzer et anhyzer.",
+    "adaptation": "Disque plus léger (courbe plus marquée), pas d'obstacle, lancer court.",
+    "duree": 15,
+    "materiel": [
+      "1 frisbee par élève",
+      "Cônes obstacles"
+    ],
+    "tags": [
+      "frisbee",
+      "courbe",
+      "aérodynamique",
+      "technique"
+    ]
+  },
+  {
+    "titre": "Frisbee-bowling",
+    "niveau": "1er cycle",
+    "difficulte": "debutant",
+    "desc": "6 quilles (ou bouteilles) disposées en triangle à 4 mètres. L'élève fait glisser le frisbee au sol pour renverser les quilles, comme au bowling. 2 essais par tour. Travailler le lancer roulé au sol, le dosage de la force et la visée. Compter les quilles renversées.",
+    "competence": "Manipulation",
+    "variantes": "Augmenter la distance, 10 quilles, lancer de la main non dominante.",
+    "adaptation": "Rapprocher les quilles, quilles plus légères, permettre le lancer en l'air.",
+    "duree": 10,
+    "materiel": [
+      "1 frisbee par élève",
+      "6 quilles ou bouteilles"
+    ],
+    "tags": [
+      "frisbee",
+      "bowling",
+      "rouler",
+      "précision"
+    ]
+  },
+  {
+    "titre": "Frisbee réception acrobatique",
+    "niveau": "secondaire 3-5",
+    "difficulte": "avance",
+    "desc": "L'élève pratique des réceptions spectaculaires: réception à une main, réception derrière le dos, réception entre les jambes, réception en plongeon (sur matelas). Le lanceur envoie des frisbees précis et réguliers. Travailler la créativité et le contrôle du corps dans les airs.",
+    "competence": "Manipulation",
+    "variantes": "Concours de la meilleure réception, réception en courant, réception les yeux fermés.",
+    "adaptation": "Frisbee en mousse, réception à deux mains seulement, pas de plongeon.",
+    "duree": 20,
+    "materiel": [
+      "Frisbees",
+      "Matelas de réception"
+    ],
+    "tags": [
+      "frisbee",
+      "réception",
+      "acrobatique",
+      "créativité"
+    ]
+  },
+  {
+    "titre": "Frisbee relais",
+    "niveau": "2e cycle",
+    "difficulte": "intermediaire",
+    "desc": "Course à relais en équipes de 4. Chaque joueur lance le frisbee vers le suivant qui doit le rattraper. Si le frisbee tombe, recommencer le lancer. L'équipe qui fait traverser le frisbee à travers 4 stations le plus rapidement gagne. Travailler la passe précise sous pression.",
+    "competence": "Manipulation",
+    "variantes": "Stations plus éloignées, obligation de lancer forehand, ajout d'un obstacle à chaque station.",
+    "adaptation": "Stations rapprochées, frisbee en mousse, permettre de marcher vers le receveur si raté.",
+    "duree": 15,
+    "materiel": [
+      "1 frisbee par équipe",
+      "Cônes pour les stations"
+    ],
+    "tags": [
+      "frisbee",
+      "relais",
+      "équipe",
+      "passe"
+    ]
+  },
+  {
+    "titre": "Disc golf parcours extérieur",
+    "niveau": "secondaire 1-2",
+    "difficulte": "intermediaire",
+    "desc": "Parcours de disc golf en plein air avec 9 cibles naturelles ou artificielles (arbres, poteaux, paniers). Chaque joueur lance depuis un point de départ et progresse vers la cible en un minimum de lancers. Score comme au golf. Travailler les lancers longs, les approches et la stratégie.",
+    "competence": "Manipulation",
+    "variantes": "Parcours de 18 trous, différents types de disques, compétition par équipes.",
+    "adaptation": "Parcours de 6 trous, cibles plus faciles, pas de score (juste la pratique).",
+    "duree": 30,
+    "materiel": [
+      "1-2 frisbees par élève",
+      "Cibles (paniers, cônes)",
+      "Feuille de pointage"
+    ],
+    "tags": [
+      "disc golf",
+      "extérieur",
+      "parcours",
+      "stratégie"
+    ]
+  },
+  {
+    "titre": "Frisbee defense positioning",
+    "niveau": "secondaire 1-2",
+    "difficulte": "avance",
+    "desc": "Exercice défensif en ultimate: le défenseur doit se positionner entre le lanceur et le receveur pour bloquer la passe. Travailler le positionnement à 1 bras du receveur, les pieds rapides et la lecture de la direction du lancer. Rotation des rôles toutes les 2 minutes.",
+    "competence": "Manipulation",
+    "variantes": "Défense en zone, 2 défenseurs contre 3 attaquants, défense en espace ouvert.",
+    "adaptation": "Défenseur à distance fixe, pas de course rapide, frisbee plus lent.",
+    "duree": 15,
+    "materiel": [
+      "1 frisbee par trio",
+      "Cônes",
+      "Dossards"
+    ],
+    "tags": [
+      "frisbee",
+      "défense",
+      "positionnement",
+      "tactique"
+    ]
+  },
+  {
+    "titre": "Frisbee lancer à genoux",
+    "niveau": "1er cycle",
+    "difficulte": "debutant",
+    "desc": "L'élève lance le frisbee depuis une position à genoux vers un partenaire à 3 mètres. Cette position isole le mouvement du bras et du poignet, éliminant la rotation du tronc. Excellent pour apprendre le snap du poignet. 10 lancers chacun, puis se lever pour comparer.",
+    "competence": "Manipulation",
+    "variantes": "Lancer assis, lancer couché sur le ventre, lancer en position assise en V.",
+    "adaptation": "Distance réduite, frisbee en mousse, permettre le lancer libre.",
+    "duree": 10,
+    "materiel": [
+      "1 frisbee en mousse par duo"
+    ],
+    "tags": [
+      "frisbee",
+      "genoux",
+      "technique",
+      "poignet"
+    ]
+  },
+  {
+    "titre": "Frisbee keepaway",
+    "niveau": "3e cycle",
+    "difficulte": "intermediaire",
+    "desc": "Jeu de conservation 3 contre 1 dans un carré de 5 m. Les 3 passeurs doivent garder le frisbee en se faisant des passes, le défenseur essaie d'intercepter. Le porteur ne peut pas bouger (pivot seulement). Si intercepté, échange avec le passeur. 2 min par défenseur.",
+    "competence": "Manipulation",
+    "variantes": "3 contre 2, carré plus petit, comptage de stall (5 secondes pour passer).",
+    "adaptation": "Carré plus grand, défenseur passif, frisbee en mousse.",
+    "duree": 15,
+    "materiel": [
+      "1 frisbee",
+      "4 cônes"
+    ],
+    "tags": [
+      "frisbee",
+      "keepaway",
+      "conservation",
+      "décision"
+    ]
+  },
+  {
+    "titre": "Frisbee passe longue",
+    "niveau": "secondaire 1-2",
+    "difficulte": "avance",
+    "desc": "L'élève pratique le lancer longue distance: backhand puissant avec transfert de poids complet, rotation du tronc et suivi du bras. Objectif: atteindre 20 m, puis 30 m avec précision. Travailler l'angle du disque, la puissance du snap et la trajectoire stable en plein air.",
+    "competence": "Manipulation",
+    "variantes": "Passe longue forehand, passe longue hammer, passe longue en situation de jeu.",
+    "adaptation": "Distance réduite, disque plus léger, pas de vent.",
+    "duree": 15,
+    "materiel": [
+      "1 frisbee par duo"
+    ],
+    "tags": [
+      "frisbee",
+      "longue distance",
+      "puissance",
+      "technique"
+    ]
+  },
+  {
+    "titre": "Frisbee relay course obstacle",
+    "niveau": "3e cycle",
+    "difficulte": "avance",
+    "desc": "Parcours d'obstacles avec frisbee: 1) Lancer à travers un cerceau vertical, 2) Courir récupérer, 3) Slalom entre 4 cônes, 4) Lancer vers une cible au mur, 5) Sprint retour avec le frisbee. Chronométrer. Course individuelle ou relais en équipe.",
+    "competence": "Manipulation",
+    "variantes": "Obstacles supplémentaires, parcours plus long, compétition en équipes.",
+    "adaptation": "Moins d'obstacles, cibles plus grandes, pas de chronomètre.",
+    "duree": 15,
+    "materiel": [
+      "1 frisbee par élève",
+      "Cerceaux",
+      "Cônes",
+      "Cibles",
+      "Chronomètre"
+    ],
+    "tags": [
+      "frisbee",
+      "parcours",
+      "obstacles",
+      "relais"
+    ]
+  },
+  {
+    "titre": "Frisbee passe-muraille",
+    "niveau": "2e cycle",
+    "difficulte": "debutant",
+    "desc": "Deux élèves se font face de chaque côté d'un mur de cônes (hauteur 1 m). Le lanceur doit faire passer le frisbee par-dessus le mur pour que le receveur l'attrape de l'autre côté. Travailler la trajectoire en arc et le dosage de hauteur. 10 passes chacun.",
+    "competence": "Manipulation",
+    "variantes": "Mur plus haut, lancer par-dessous, receveur en mouvement.",
+    "adaptation": "Mur plus bas, frisbee en mousse, permettre un rebond.",
+    "duree": 10,
+    "materiel": [
+      "1 frisbee par duo",
+      "Cônes empilés pour le mur"
+    ],
+    "tags": [
+      "frisbee",
+      "trajectoire",
+      "arc",
+      "duo"
+    ]
+  },
+  {
+    "titre": "Ultimate zone strategy",
+    "niveau": "secondaire 3-5",
+    "difficulte": "avance",
+    "desc": "Jeu d'ultimate 5 contre 5 avec introduction des défenses de zone: cup (3-2), flat (3-3), clam. L'équipe en défense choisit sa formation, l'attaque doit trouver les failles. Arrêts fréquents pour analyser le positionnement. Développe la pensée tactique avancée.",
+    "competence": "Manipulation",
+    "variantes": "Alterner les formations défensives, défense mixte (zone + individuelle), scrimmage complet.",
+    "adaptation": "Terrain réduit, explications simplifiées, formation unique.",
+    "duree": 30,
+    "materiel": [
+      "1 frisbee",
+      "Cônes pour terrain",
+      "Dossards"
+    ],
+    "tags": [
+      "ultimate",
+      "zone",
+      "tactique avancée",
+      "collectif"
+    ]
+  },
+  {
+    "titre": "Frisbee précision cerceau au sol",
+    "niveau": "1er cycle",
+    "difficulte": "debutant",
+    "desc": "Des cerceaux sont posés au sol à 2, 3 et 4 mètres. L'élève lance le frisbee pour qu'il atterrisse dans le cerceau. 3 lancers par distance, noter les réussites. Travailler le contrôle de la puissance et l'angle de descente du disque. Défi personnel progressif.",
+    "competence": "Manipulation",
+    "variantes": "Cerceaux plus petits, distances plus grandes, lancer de la main faible.",
+    "adaptation": "Cerceaux plus grands, plus proches, frisbee en mousse souple.",
+    "duree": 10,
+    "materiel": [
+      "1 frisbee par élève",
+      "3 cerceaux"
+    ],
+    "tags": [
+      "frisbee",
+      "précision",
+      "cerceaux",
+      "dosage"
+    ]
+  },
+  {
+    "titre": "Frisbee hot box",
+    "niveau": "secondaire 1-2",
+    "difficulte": "intermediaire",
+    "desc": "Jeu 4 contre 4 dans un carré de 10 m. L'équipe en possession doit compléter 5 passes consécutives pour marquer un point. Le porteur ne peut pas bouger. Si le frisbee tombe ou est intercepté, changement de possession. Développe le démarquage rapide et la passe sous pression.",
+    "competence": "Manipulation",
+    "variantes": "7 passes pour un point, 2 frisbees en jeu, espace plus petit.",
+    "adaptation": "3 passes pour un point, espace plus grand, défense passive.",
+    "duree": 20,
+    "materiel": [
+      "1 frisbee",
+      "4 cônes",
+      "Dossards"
+    ],
+    "tags": [
+      "frisbee",
+      "hot box",
+      "passes",
+      "démarquage"
+    ]
+  },
+  {
+    "titre": "Frisbee trick shots",
+    "niveau": "secondaire 3-5",
+    "difficulte": "avance",
+    "desc": "L'élève explore les lancers spéciaux: scoober (envers par-dessus la tête), thumber (prise du pouce), blade (vertical), push pass (courte distance). Pratiquer chaque technique 10 fois vers un partenaire. Identifier les situations de jeu où chaque technique est utile.",
+    "competence": "Manipulation",
+    "variantes": "Intégrer en situation de jeu, concours de trick shots, créer de nouvelles figures.",
+    "adaptation": "Se concentrer sur 2 techniques, distance réduite, disque plus léger.",
+    "duree": 20,
+    "materiel": [
+      "1 frisbee par duo"
+    ],
+    "tags": [
+      "frisbee",
+      "trick shots",
+      "techniques spéciales",
+      "créativité"
+    ]
+  },
+  {
+    "titre": "Frisbee interception circle",
+    "niveau": "3e cycle",
+    "difficulte": "intermediaire",
+    "desc": "6 élèves en cercle avec 1-2 élèves au centre. Les élèves du cercle se passent le frisbee, ceux du centre essaient d'intercepter. Passe obligatoire en backhand. Si interception, échange avec le passeur. Travailler la passe rapide et la vision périphérique.",
+    "competence": "Manipulation",
+    "variantes": "2 frisbees, passe forehand obligatoire, cercle plus petit.",
+    "adaptation": "Cercle plus grand, un seul intercepteur, passes plus lentes.",
+    "duree": 12,
+    "materiel": [
+      "1-2 frisbees"
+    ],
+    "tags": [
+      "frisbee",
+      "interception",
+      "cercle",
+      "réaction"
+    ]
+  },
+  {
+    "titre": "Frisbee distance challenge",
+    "niveau": "secondaire 1-2",
+    "difficulte": "intermediaire",
+    "desc": "Concours de distance: chaque élève a 3 lancers pour envoyer le frisbee le plus loin possible. Mesurer et noter les distances. Travailler la puissance du lancer, l'angle optimal (environ 15 degrés vers le haut) et la rotation maximale du disque. Comparer les techniques.",
+    "competence": "Manipulation",
+    "variantes": "Concours backhand vs forehand, lancer contre le vent, lancer avec élan.",
+    "adaptation": "Frisbee plus léger, pas de compétition (objectif personnel), zone de lancer élargie.",
+    "duree": 15,
+    "materiel": [
+      "1 frisbee par élève",
+      "Cônes de distance (10 m, 15 m, 20 m, 25 m)"
+    ],
+    "tags": [
+      "frisbee",
+      "distance",
+      "puissance",
+      "concours"
+    ]
+  },
+  {
+    "titre": "Frisbee catch and throw",
+    "niveau": "2e cycle",
+    "difficulte": "debutant",
+    "desc": "En duo à 5 mètres, l'élève attrape le frisbee et le relance le plus rapidement possible (moins de 3 secondes). Travailler la transition rapide réception-lancer, la prise sécurisée et le pivot vers la cible. Compter le nombre d'échanges en 1 minute.",
+    "competence": "Manipulation",
+    "variantes": "Attraper et lancer forehand, attraper d'une main, augmenter la distance.",
+    "adaptation": "Plus de temps pour relancer (5 secondes), frisbee en mousse, distance réduite.",
+    "duree": 10,
+    "materiel": [
+      "1 frisbee par duo"
+    ],
+    "tags": [
+      "frisbee",
+      "rapidité",
+      "transition",
+      "échange"
+    ]
+  },
+  {
+    "titre": "Frisbee shuttle run",
+    "niveau": "3e cycle",
+    "difficulte": "avance",
+    "desc": "L'élève lance le frisbee à 10 m, sprint pour le récupérer, le relance vers le point de départ, sprint retour. Répéter 3 fois. Combiner la précision de lancer avec la vitesse de course. Travailler l'endurance, la coordination lancer-course et la gestion de l'effort.",
+    "competence": "Manipulation",
+    "variantes": "Distance de 15 m, ajouter des obstacles, compétition en équipe.",
+    "adaptation": "Distance réduite à 5 m, marche rapide au lieu de sprint, 2 répétitions.",
+    "duree": 12,
+    "materiel": [
+      "1 frisbee par élève",
+      "Cônes"
+    ],
+    "tags": [
+      "frisbee",
+      "course",
+      "cardio",
+      "combiné"
+    ]
+  },
+  {
+    "titre": "Frisbee MTA (maximum time aloft)",
+    "niveau": "secondaire 3-5",
+    "difficulte": "avance",
+    "desc": "L'élève lance le frisbee vers le haut et essaie de le maintenir en l'air le plus longtemps possible avant de l'attraper lui-même. Travailler l'angle de lancer quasi vertical, la rotation maximale du disque et l'anticipation de la zone de réception. Chronomètre les vols.",
+    "competence": "Manipulation",
+    "variantes": "Attraper d'une main, attraper derrière le dos, concours de la plus longue durée.",
+    "adaptation": "Frisbee plus léger, permettre de ne pas attraper (juste le lancer haut), intérieur sans vent.",
+    "duree": 15,
+    "materiel": [
+      "1 frisbee par élève",
+      "Chronomètre"
+    ],
+    "tags": [
+      "frisbee",
+      "temps de vol",
+      "technique",
+      "défi"
+    ]
+  },
+  {
+    "titre": "Frisbee passe en couloir",
+    "niveau": "2e cycle",
+    "difficulte": "intermediaire",
+    "desc": "Un couloir de 2 m de large est délimité par des cônes. L'élève doit lancer le frisbee dans ce couloir vers un partenaire à 8 m. Le disque ne doit pas sortir du couloir. 10 lancers, compter les réussites. Travailler la précision directionnelle et la constance.",
+    "competence": "Manipulation",
+    "variantes": "Couloir de 1 m, couloir en diagonale, lancer en mouvement.",
+    "adaptation": "Couloir de 3 m, distance réduite, frisbee en mousse.",
+    "duree": 12,
+    "materiel": [
+      "1 frisbee par duo",
+      "8 cônes pour le couloir"
+    ],
+    "tags": [
+      "frisbee",
+      "couloir",
+      "précision",
+      "direction"
+    ]
+  },
+  {
+    "titre": "Frisbee touchdown",
+    "niveau": "secondaire 1-2",
+    "difficulte": "intermediaire",
+    "desc": "Jeu simplifié d'ultimate: 2 équipes de 4, le but est de compléter une passe dans la zone d'en-but. Après chaque point, l'équipe qui a marqué lance (pull) vers l'autre. Matchs de 5 points. Travailler les concepts de base de l'ultimate: pivot, stall count, turnover.",
+    "competence": "Manipulation",
+    "variantes": "5 contre 5, terrain complet, ajout de règles avancées.",
+    "adaptation": "3 contre 3, pas de stall count, zone d'en-but plus large.",
+    "duree": 20,
+    "materiel": [
+      "1 frisbee",
+      "Cônes pour terrain",
+      "Dossards"
+    ],
+    "tags": [
+      "frisbee",
+      "touchdown",
+      "ultimate simplifié",
+      "collectif"
+    ]
+  },
+  {
+    "titre": "Frisbee accuracy ladder",
+    "niveau": "3e cycle",
+    "difficulte": "intermediaire",
+    "desc": "L'élève lance vers 5 cibles disposées à 3, 5, 7, 9 et 11 m. Il doit toucher la cible la plus proche d'abord, puis progresser. Un échec à une cible oblige à recommencer depuis cette distance. Développe la constance sous pression et la capacité à maintenir la technique.",
+    "competence": "Manipulation",
+    "variantes": "Temps limité (3 minutes), cibles plus petites, alterner backhand et forehand.",
+    "adaptation": "3 cibles seulement, distances réduites, 3 essais par cible.",
+    "duree": 15,
+    "materiel": [
+      "1 frisbee par élève",
+      "5 cibles (cerceaux ou cônes)"
+    ],
+    "tags": [
+      "frisbee",
+      "précision",
+      "progression",
+      "constance"
+    ]
+  },
+  {
+    "titre": "Frisbee duo coopératif maternelle",
+    "niveau": "maternelle",
+    "difficulte": "debutant",
+    "desc": "En duo, les deux élèves sont à 2 mètres. L'un roule le frisbee au sol vers l'autre qui le ramasse. Puis essayer un petit lancer en l'air. Travailler le partage, la patience et les premiers gestes de lancer-attraper avec un disque. Utiliser des frisbees en mousse souple.",
+    "competence": "Manipulation",
+    "variantes": "Rouler entre les jambes, lancer dans un cerceau, passer à 3 joueurs en cercle.",
+    "adaptation": "Frisbee ultra-souple, très courte distance, guider les gestes avec l'adulte.",
+    "duree": 8,
+    "materiel": [
+      "1 frisbee en mousse par duo"
+    ],
+    "tags": [
+      "frisbee",
+      "maternelle",
+      "coopération",
+      "initiation"
+    ]
+  },
+  {
+    "titre": "Frisbee bataille navale",
+    "niveau": "3e cycle",
+    "difficulte": "intermediaire",
+    "desc": "Chaque équipe place 5 cônes-bateaux sur sa moitié de terrain. L'autre équipe lance des frisbees pour renverser les cônes adverses. Chaque joueur a 2 lancers par tour. L'équipe qui renverse tous les cônes adverses en premier gagne. Travailler la précision à distance.",
+    "competence": "Manipulation",
+    "variantes": "Cônes cachés derrière des obstacles, lancer en mouvement, frisbees limités.",
+    "adaptation": "Cônes plus proches, plus gros, plus de lancers par tour.",
+    "duree": 20,
+    "materiel": [
+      "3-4 frisbees par équipe",
+      "5 cônes par équipe",
+      "Dossards"
+    ],
+    "tags": [
+      "frisbee",
+      "bataille",
+      "précision",
+      "stratégie"
+    ]
+  },
+  {
+    "titre": "Frisbee pivot et passe",
+    "niveau": "2e cycle",
+    "difficulte": "intermediaire",
+    "desc": "L'élève reçoit le frisbee, établit un pied de pivot et doit trouver un partenaire libre pour passer. Un défenseur passif gêne la passe. Travailler le pivot (faux pas, regard), la protection du disque et la prise de décision. Rotation des rôles toutes les 5 passes.",
+    "competence": "Manipulation",
+    "variantes": "Défenseur actif, 2 receveurs possibles, stall count de 5 secondes.",
+    "adaptation": "Pas de défenseur, partenaire fixe et visible, plus de temps pour pivoter.",
+    "duree": 12,
+    "materiel": [
+      "1 frisbee par trio"
+    ],
+    "tags": [
+      "frisbee",
+      "pivot",
+      "passe",
+      "décision"
+    ]
+  },
+  {
+    "titre": "Frisbee endzone run",
+    "niveau": "secondaire 3-5",
+    "difficulte": "avance",
+    "desc": "Le receveur court vers la zone d'en-but et le lanceur doit chronométrer sa passe pour que le disque arrive au bon moment. Varier les courses: diagonale, profonde, en L, en post. Travailler la lecture du timing, la puissance adaptée et la communication visuelle lanceur-receveur.",
+    "competence": "Manipulation",
+    "variantes": "Ajouter un défenseur, course au choix du receveur, passe surprise.",
+    "adaptation": "Course plus courte, pas de défenseur, frisbee plus lent.",
+    "duree": 15,
+    "materiel": [
+      "1 frisbee par duo",
+      "Cônes pour zone d'en-but"
+    ],
+    "tags": [
+      "frisbee",
+      "timing",
+      "course",
+      "endzone"
+    ]
+  },
+  {
+    "titre": "Frisbee boomerang",
+    "niveau": "1er cycle",
+    "difficulte": "debutant",
+    "desc": "L'élève lance un frisbee léger en inclinant le disque pour qu'il revienne vers lui (effet boomerang). Commencer dehors avec du vent léger. Expérimenter différents angles d'inclinaison pour comprendre comment le disque vole. Activité exploratoire et ludique.",
+    "competence": "Manipulation",
+    "variantes": "Concours de retour le plus proche, attraper le retour, lancer de l'autre main.",
+    "adaptation": "Simplement observer la courbe du disque sans exiger le retour, frisbee en mousse.",
+    "duree": 10,
+    "materiel": [
+      "1 frisbee léger par élève"
+    ],
+    "tags": [
+      "frisbee",
+      "boomerang",
+      "exploration",
+      "physique"
+    ]
+  },
+  {
+    "titre": "Frisbee KAN JAM",
+    "niveau": "secondaire 1-2",
+    "difficulte": "intermediaire",
+    "desc": "Jeu de KAN JAM: 2 équipes de 2. Un joueur lance le frisbee vers une poubelle (ou seau) à 10 m, le partenaire près de la cible peut dévier le disque vers ou dans la poubelle. Points: 1 pour toucher la poubelle, 2 pour déviation dedans, 3 pour lancer direct. Premier à 21 points.",
+    "competence": "Manipulation",
+    "variantes": "Distance variable, poubelle plus petite, matchs en tournoi.",
+    "adaptation": "Poubelle plus grande, distance réduite, pas de déviation (lancer direct seulement).",
+    "duree": 20,
+    "materiel": [
+      "1 frisbee par terrain",
+      "2 poubelles ou seaux par terrain"
+    ],
+    "tags": [
+      "frisbee",
+      "kan jam",
+      "jeu",
+      "duo"
+    ]
+  },
+  {
+    "titre": "Frisbee warm-up routine",
+    "niveau": "2e cycle",
+    "difficulte": "debutant",
+    "desc": "Échauffement structuré avec frisbee: 1) Lancer-attraper à 3 m (10 fois), 2) Lancer-attraper à 6 m (10 fois), 3) Lancer en mouvement (10 fois), 4) Attraper d'une main (5 chaque main). Routine de 8 minutes à faire avant chaque activité frisbee. Développe les automatismes.",
+    "competence": "Manipulation",
+    "variantes": "Ajouter des lancers forehand, inclure des pivots, augmenter les distances.",
+    "adaptation": "Réduire les répétitions, garder une seule distance, attraper à deux mains seulement.",
+    "duree": 8,
+    "materiel": [
+      "1 frisbee par duo"
+    ],
+    "tags": [
+      "frisbee",
+      "échauffement",
+      "routine",
+      "fondamentaux"
+    ]
+  },
+  {
+    "titre": "Ultimate esprit sportif",
+    "niveau": "secondaire 3-5",
+    "difficulte": "intermediaire",
+    "desc": "Match d'ultimate 5 contre 5 avec auto-arbitrage (spirit of the game). Les joueurs résolvent eux-mêmes les litiges par discussion. Après le match, chaque équipe évalue l'esprit sportif de l'autre sur 5 critères (respect, fair-play, communication, attitude, connaissance des règles). Développe la citoyenneté.",
+    "competence": "Manipulation",
+    "variantes": "Observateur externe qui note l'esprit sportif, bonus de points pour fair-play.",
+    "adaptation": "Enseignant arbitre les cas litigieux, grille d'évaluation simplifiée.",
+    "duree": 25,
+    "materiel": [
+      "1 frisbee",
+      "Cônes",
+      "Dossards",
+      "Grille d'évaluation spirit"
+    ],
+    "tags": [
+      "ultimate",
+      "esprit sportif",
+      "auto-arbitrage",
+      "citoyenneté"
+    ]
+  },
+  {
+    "titre": "Frisbee scoober throw",
+    "niveau": "secondaire 3-5",
+    "difficulte": "avance",
+    "desc": "L'élève apprend le lancer scoober: prise forehand inversée, le disque est lancé à l'envers (face vers le haut) par-dessus la tête. Le disque se retourne en vol et retombe à plat. Utile pour passer par-dessus un défenseur à courte distance. Pratiquer à 5-8 m en duo.",
+    "competence": "Manipulation",
+    "variantes": "Scoober long, scoober en situation de jeu, alterner scoober et hammer.",
+    "adaptation": "Disque plus léger, distance réduite, pratiquer le mouvement sans disque.",
+    "duree": 15,
+    "materiel": [
+      "1 frisbee par duo"
+    ],
+    "tags": [
+      "frisbee",
+      "scoober",
+      "technique avancée",
+      "lancer"
+    ]
+  },
+  {
+    "titre": "Frisbee cible mobile",
+    "niveau": "3e cycle",
+    "difficulte": "avance",
+    "desc": "Un partenaire se déplace lentement avec un cerceau tenu devant lui. Le lanceur doit envoyer le frisbee à travers le cerceau en mouvement. Travailler l'anticipation, le timing du lancer et la précision sur cible mobile. 10 lancers, compter les réussites.",
+    "competence": "Manipulation",
+    "variantes": "Cible qui change de direction, 2 cibles mobiles au choix, lancer en mouvement.",
+    "adaptation": "Cible presque immobile, cerceau plus grand, distance réduite.",
+    "duree": 12,
+    "materiel": [
+      "1 frisbee par duo",
+      "1 cerceau"
+    ],
+    "tags": [
+      "frisbee",
+      "cible mobile",
+      "anticipation",
+      "précision"
+    ]
+  },
+  {
+    "titre": "Frisbee passe par-dessous",
+    "niveau": "1er cycle",
+    "difficulte": "debutant",
+    "desc": "L'élève lance le frisbee par en dessous (comme une passe à rebond) vers un partenaire à 3 m. Le disque glisse au sol ou vole bas. Travailler le dosage pour que le disque reste bas et arrive au partenaire. Plus facile que le lancer standard pour les petits.",
+    "competence": "Manipulation",
+    "variantes": "Passe roulée au sol, passe entre les jambes, passe en se retournant.",
+    "adaptation": "Frisbee en mousse, distance réduite, permettre le lancer libre.",
+    "duree": 8,
+    "materiel": [
+      "1 frisbee en mousse par duo"
+    ],
+    "tags": [
+      "frisbee",
+      "par-dessous",
+      "initiation",
+      "duo"
+    ]
+  },
+  {
+    "titre": "Frisbee ultimate entraînement défensif",
+    "niveau": "secondaire 1-2",
+    "difficulte": "avance",
+    "desc": "Exercices défensifs en ultimate: 1) Suivre le receveur en miroir, 2) Forcer un côté (obliger backhand ou forehand), 3) Bloquer le lancer (main active sans contact). Séries de 5 répétitions par exercice. Travailler la lecture corporelle de l'adversaire et la vitesse de réaction.",
+    "competence": "Manipulation",
+    "variantes": "Défense zone, défense en match, défense avec handicap.",
+    "adaptation": "Défense passive (observation), vitesse réduite, exercices sans frisbee d'abord.",
+    "duree": 20,
+    "materiel": [
+      "1 frisbee par trio",
+      "Cônes",
+      "Dossards"
+    ],
+    "tags": [
+      "ultimate",
+      "défense",
+      "technique",
+      "réaction"
+    ]
+  },
+  {
+    "titre": "Frisbee tic-tac-toe",
+    "niveau": "2e cycle",
+    "difficulte": "debutant",
+    "desc": "Un jeu de tic-tac-toe géant est dessiné au sol avec 9 cerceaux. Deux équipes s'affrontent: chaque joueur lance un frisbee depuis 4 m pour le placer dans un cerceau. Première équipe à aligner 3 frisbees gagne. Combine précision de lancer et stratégie.",
+    "competence": "Manipulation",
+    "variantes": "Distance plus grande, cerceaux plus petits, version Connect 4 (4x4).",
+    "adaptation": "Lancer de plus près, cerceaux plus grands, lancer à la main au lieu du frisbee.",
+    "duree": 15,
+    "materiel": [
+      "9 cerceaux",
+      "3 frisbees de 2 couleurs (6 total)"
+    ],
+    "tags": [
+      "frisbee",
+      "tic-tac-toe",
+      "stratégie",
+      "précision"
+    ]
+  },
+  {
+    "titre": "Frisbee freestyle (style libre)",
+    "niveau": "secondaire 3-5",
+    "difficulte": "avance",
+    "desc": "L'élève explore le frisbee freestyle: faire tourner le disque sur le doigt, le passer sous la jambe, le lancer et le rattraper en tricks. Créer une routine de 1 minute en duo. Travailler la créativité, la coordination et la fluidité des transitions entre les figures.",
+    "competence": "Manipulation",
+    "variantes": "Routine individuelle, concours de tricks, intégrer de la musique.",
+    "adaptation": "3 figures seulement, disque plus stable, pas de routine (exploration libre).",
+    "duree": 20,
+    "materiel": [
+      "1 frisbee par élève"
+    ],
+    "tags": [
+      "frisbee",
+      "freestyle",
+      "tricks",
+      "créativité"
+    ]
+  },
+  {
+    "titre": "Frisbee lancer puissance",
+    "niveau": "secondaire 1-2",
+    "difficulte": "intermediaire",
+    "desc": "L'élève travaille la puissance du lancer backhand: transfert de poids du pied arrière au pied avant, rotation complète du tronc, extension du bras et snap final du poignet. 10 lancers en visant à la fois la distance et la ligne droite. Mesurer et noter les progrès.",
+    "competence": "Manipulation",
+    "variantes": "Puissance forehand, puissance avec élan, concours de distance en équipes.",
+    "adaptation": "Travailler la technique sans puissance, disque plus léger, pas de mesure.",
+    "duree": 12,
+    "materiel": [
+      "1 frisbee par élève",
+      "Cônes de distance"
+    ],
+    "tags": [
+      "frisbee",
+      "puissance",
+      "technique",
+      "distance"
+    ]
+  },
+  {
+    "titre": "Frisbee passe en carré",
+    "niveau": "3e cycle",
+    "difficulte": "debutant",
+    "desc": "4 élèves forment un carré de 5 m de côté. Le frisbee circule dans un sens. Après la passe, l'élève court à la position suivante (rotation). Travailler la passe en mouvement, la réception rapide et le déplacement après la passe. Augmenter la vitesse progressivement.",
+    "competence": "Manipulation",
+    "variantes": "2 frisbees en circulation, rotation inversée, passes croisées en diagonale.",
+    "adaptation": "Pas de rotation (rester en place), frisbee en mousse, carré plus petit.",
+    "duree": 12,
+    "materiel": [
+      "1 frisbee",
+      "4 cônes"
+    ],
+    "tags": [
+      "frisbee",
+      "carré",
+      "passe",
+      "déplacement"
+    ]
+  },
+  {
+    "titre": "Frisbee self-catch",
+    "niveau": "2e cycle",
+    "difficulte": "intermediaire",
+    "desc": "L'élève lance le frisbee en l'air avec un angle pour qu'il revienne et le rattrape lui-même. Commencer par un lancer doux incliné et attraper après un demi-tour du disque. Travailler la lecture de la trajectoire et le positionnement sous le disque. 10 essais par série.",
+    "competence": "Manipulation",
+    "variantes": "Attraper d'une main, attraper derrière le dos, attraper en sautant.",
+    "adaptation": "Lancer très bas, frisbee en mousse, permettre un rebond.",
+    "duree": 10,
+    "materiel": [
+      "1 frisbee par élève"
+    ],
+    "tags": [
+      "frisbee",
+      "self-catch",
+      "trajectoire",
+      "coordination"
+    ]
+  }
+]

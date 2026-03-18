@@ -1,0 +1,979 @@
+[
+  {
+    "titre": "Jonglerie 3 balles cascade",
+    "niveau": "3e cycle",
+    "difficulte": "avance",
+    "desc": "Maîtriser la cascade à 3 balles: lancer balle A (main D), lancer balle B (main G) au passage de A, attraper A, lancer C (main D) au passage de B, attraper B... Travailler lentement, par étapes. Le secret: ne jamais regarder ses mains, regarder le haut des trajectoires.",
+    "competence": "Coordination",
+    "variantes": "Cascade sous la jambe, cascade avec balle supplémentaire, cascade en duo synchronisé.",
+    "adaptation": "Revenir à 2 balles, utiliser des foulards, réduire la hauteur des lancers.",
+    "duree": 20,
+    "materiel": [
+      "3 balles de jonglerie par élève (même poids)"
+    ],
+    "tags": [
+      "jonglerie",
+      "3 balles",
+      "coordination",
+      "concentration"
+    ]
+  },
+  {
+    "titre": "Assiette chinoise débutant",
+    "niveau": "2e cycle",
+    "difficulte": "intermediaire",
+    "desc": "Apprendre à faire tourner une assiette sur un bâton: déposer l'assiette sur le bâton, donner de l'élan avec des petits cercles. Maintenir la rotation pendant 15 secondes, puis 30, puis 1 minute. Transférer d'une main à l'autre.",
+    "competence": "Coordination",
+    "variantes": "Tenir 2 assiettes, faire des figures (tenir bas, s'accroupir), défi en duo.",
+    "adaptation": "Bâton plus court, assiette plus lourde (tourne plus longtemps), tenir en position assise.",
+    "duree": 15,
+    "materiel": [
+      "1 assiette chinoise par élève",
+      "1 bâton"
+    ],
+    "tags": [
+      "assiette",
+      "cirque",
+      "équilibre",
+      "rotation"
+    ]
+  },
+  {
+    "titre": "Foulards de jonglerie initiation",
+    "niveau": "1er cycle",
+    "difficulte": "debutant",
+    "desc": "L'élève lance un foulard en l'air et le rattrape avant qu'il touche le sol. Le foulard descend lentement, ce qui donne du temps pour réagir. Progresser vers 2 foulards (un par main), puis 3 foulards en cascade. Excellent point de départ pour la jonglerie.",
+    "competence": "Manipulation",
+    "variantes": "Lancer avec rotation, attraper derrière le dos, jongler en marchant.",
+    "adaptation": "Un seul foulard, lancer moins haut, main dominante seulement.",
+    "duree": 10,
+    "materiel": [
+      "3 foulards de jonglerie par élève"
+    ],
+    "tags": [
+      "foulards",
+      "jonglerie",
+      "initiation",
+      "coordination"
+    ]
+  },
+  {
+    "titre": "Équilibre sur poutre basse",
+    "niveau": "1er cycle",
+    "difficulte": "debutant",
+    "desc": "L'élève marche sur une poutre basse (10-15 cm du sol) ou un banc inversé. Aller et retour sans tomber. Travailler le regard fixe vers l'avant, les bras écartés pour l'équilibre et les pas lents et contrôlés. Progresser vers la marche latérale et la marche à reculons.",
+    "competence": "Manipulation",
+    "variantes": "Marche avec objet sur la tête, marche en croisant les pieds, s'arrêter au milieu et tenir sur un pied.",
+    "adaptation": "Ligne au sol au lieu de poutre, main d'un partenaire pour l'équilibre, marche très lente.",
+    "duree": 10,
+    "materiel": [
+      "1 poutre basse ou banc renversé"
+    ],
+    "tags": [
+      "poutre",
+      "équilibre",
+      "marche",
+      "cirque"
+    ]
+  },
+  {
+    "titre": "Diabolo initiation",
+    "niveau": "3e cycle",
+    "difficulte": "intermediaire",
+    "desc": "L'élève apprend à faire tourner le diabolo sur la ficelle: mouvement de pompage avec la main dominante pour donner de la vitesse, main non dominante stable. Objectif: maintenir le diabolo en rotation 30 secondes. Travailler la coordination des deux mains indépendamment.",
+    "competence": "Manipulation",
+    "variantes": "Lancer et rattraper le diabolo, passer autour de la jambe, diabolo en duo.",
+    "adaptation": "Diabolo plus gros et plus lent, ficelle plus courte, assis pour plus de stabilité.",
+    "duree": 15,
+    "materiel": [
+      "1 diabolo avec baguettes par élève"
+    ],
+    "tags": [
+      "diabolo",
+      "cirque",
+      "rotation",
+      "coordination"
+    ]
+  },
+  {
+    "titre": "Acrobatie roulade avant",
+    "niveau": "1er cycle",
+    "difficulte": "debutant",
+    "desc": "L'élève exécute une roulade avant sur un tapis: menton à la poitrine, mains au sol, pousser avec les pieds, rouler sur le dos arrondi, se relever. Insister sur la sécurité: toujours sur tapis, rentrer la tête. Progression: roulade depuis la position accroupie, puis debout.",
+    "competence": "Manipulation",
+    "variantes": "Roulade enchaînée (2 de suite), roulade suivie d'un saut, roulade arrière.",
+    "adaptation": "Rouler sur un plan incliné, aide manuelle de l'enseignant, position assise pour commencer.",
+    "duree": 15,
+    "materiel": [
+      "Tapis de gymnastique"
+    ],
+    "tags": [
+      "acrobatie",
+      "roulade",
+      "gymnastique",
+      "sécurité"
+    ]
+  },
+  {
+    "titre": "Bâton du diable (flower stick)",
+    "niveau": "2e cycle",
+    "difficulte": "intermediaire",
+    "desc": "L'élève contrôle un bâton du diable (flower stick) avec deux baguettes. Mouvement de tic-tac: frapper alternativement de chaque côté pour maintenir le bâton vertical. Objectif: 10 frappes consécutives sans que le bâton tombe. Travailler le rythme et la coordination bilatérale.",
+    "competence": "Manipulation",
+    "variantes": "Lancer et rattraper, passer sous la jambe, jongler en marchant.",
+    "adaptation": "Bâton plus court et plus lourd (plus lent), baguettes plus longues, pratiquer contre un mur.",
+    "duree": 15,
+    "materiel": [
+      "1 bâton du diable et 2 baguettes par élève"
+    ],
+    "tags": [
+      "bâton du diable",
+      "cirque",
+      "tic-tac",
+      "coordination"
+    ]
+  },
+  {
+    "titre": "Pyramide humaine simple",
+    "niveau": "3e cycle",
+    "difficulte": "intermediaire",
+    "desc": "En groupe de 6, créer une pyramide humaine à 2 niveaux: 3 élèves à quatre pattes en bas, 2 au milieu, 1 au sommet. Insister sur la sécurité: dos plat pour les bases, monter doucement, jamais debout au sommet. Travailler la confiance, la communication et la force collective.",
+    "competence": "Manipulation",
+    "variantes": "Pyramide à 10 (3 niveaux), pyramide créative (formes variées), mini-pyramide à 3.",
+    "adaptation": "Pyramide à 2 niveaux seulement (3+1), pareur supplémentaire, tapis épais.",
+    "duree": 20,
+    "materiel": [
+      "Tapis de gymnastique épais"
+    ],
+    "tags": [
+      "pyramide",
+      "acrobatie",
+      "confiance",
+      "équipe"
+    ]
+  },
+  {
+    "titre": "Jonglerie avec anneaux",
+    "niveau": "secondaire 1-2",
+    "difficulte": "avance",
+    "desc": "L'élève jongle avec 3 anneaux en cascade: même principe que les balles mais les anneaux tournent à plat en l'air. Prise par le bord intérieur, lancer en rotation. Plus difficile que les balles car il faut contrôler l'angle de rotation. Objectif: 20 lancers consécutifs.",
+    "competence": "Manipulation",
+    "variantes": "Lancer en pancake (à plat), passer un anneau au partenaire, 4 anneaux.",
+    "adaptation": "Commencer à 2 anneaux, anneaux plus grands, revenir aux balles si blocage.",
+    "duree": 20,
+    "materiel": [
+      "3 anneaux de jonglerie par élève"
+    ],
+    "tags": [
+      "jonglerie",
+      "anneaux",
+      "cirque",
+      "avancé"
+    ]
+  },
+  {
+    "titre": "Monocycle initiation",
+    "niveau": "secondaire 1-2",
+    "difficulte": "avance",
+    "desc": "L'élève découvre le monocycle: monter avec l'aide d'un mur ou de 2 partenaires, trouver l'équilibre, pédaler 3 mètres. Progression très graduelle: 1) S'asseoir et tenir le mur, 2) Pédaler le long du mur, 3) Lâcher le mur. Sécurité: protège-poignets et casque obligatoires.",
+    "competence": "Manipulation",
+    "variantes": "Tourner, reculer, obstacles, monocycle à 2 (tandem).",
+    "adaptation": "Rester le long du mur tout le temps, selle plus basse, 2 pareurs en permanence.",
+    "duree": 25,
+    "materiel": [
+      "1 monocycle par élève",
+      "Casque",
+      "Protège-poignets"
+    ],
+    "tags": [
+      "monocycle",
+      "cirque",
+      "équilibre",
+      "défi"
+    ]
+  },
+  {
+    "titre": "Clown et expression corporelle",
+    "niveau": "maternelle",
+    "difficulte": "debutant",
+    "desc": "L'élève explore l'art du clown: marcher de façon exagérée, mimer des émotions (joie, surprise, peur), faire semblant de trébucher et se relever de façon comique. Travailler l'expression faciale, la conscience corporelle et la confiance en soi devant le groupe.",
+    "competence": "Manipulation",
+    "variantes": "Mini-spectacle de 1 minute, duo de clowns, mime d'animaux.",
+    "adaptation": "Imiter l'enseignant, pas d'obligation de présenter seul, mimer en groupe.",
+    "duree": 15,
+    "materiel": [
+      "Nez de clown (optionnel)",
+      "Accessoires de déguisement"
+    ],
+    "tags": [
+      "clown",
+      "expression",
+      "mime",
+      "confiance"
+    ]
+  },
+  {
+    "titre": "Échasses (bols renversés)",
+    "niveau": "2e cycle",
+    "difficulte": "intermediaire",
+    "desc": "L'élève marche sur des échasses basses (bols renversés avec corde): poser un pied sur chaque bol, tirer les cordes vers le haut pour maintenir le contact. Parcourir 5 mètres sans tomber. Travailler l'équilibre, la coordination pieds-mains et la posture droite.",
+    "competence": "Manipulation",
+    "variantes": "Parcours avec obstacles, slalom, course d'échasses.",
+    "adaptation": "Marcher sur des blocs plats au sol (sans élévation), partenaire qui aide à l'équilibre.",
+    "duree": 15,
+    "materiel": [
+      "1 paire d'échasses basses (bols avec cordes) par élève"
+    ],
+    "tags": [
+      "échasses",
+      "cirque",
+      "équilibre",
+      "coordination"
+    ]
+  },
+  {
+    "titre": "Roulade arrière",
+    "niveau": "2e cycle",
+    "difficulte": "intermediaire",
+    "desc": "L'élève exécute une roulade arrière: position accroupie, basculer en arrière, mains à côté des oreilles, pousser pour passer par-dessus la tête. Insister sur la tête rentrée et les mains qui poussent. Spotter (pareur) obligatoire au début pour guider les hanches.",
+    "competence": "Manipulation",
+    "variantes": "Roulade arrière enchaînée, roulade arrière vers position debout, roulade arrière épaule.",
+    "adaptation": "Plan incliné, aide du pareur à soulever les hanches, rouler sur un gros ballon d'exercice.",
+    "duree": 15,
+    "materiel": [
+      "Tapis de gymnastique épais"
+    ],
+    "tags": [
+      "roulade",
+      "arrière",
+      "acrobatie",
+      "gymnastique"
+    ]
+  },
+  {
+    "titre": "Jonglerie massues initiation",
+    "niveau": "secondaire 3-5",
+    "difficulte": "avance",
+    "desc": "L'élève apprend la jonglerie à 3 massues: même cascade que les balles mais avec rotation de la massue (un tour complet en l'air). Commencer avec 1 massue (lancer-rotation-attraper), puis 2, puis 3. La prise est au bout du manche, le lancer est vertical avec rotation.",
+    "competence": "Manipulation",
+    "variantes": "Double rotation, massues enflammées (démonstration enseignant seulement), passation en duo.",
+    "adaptation": "Massues en mousse, revenir aux balles, pratiquer la rotation avec 1 massue longuement.",
+    "duree": 25,
+    "materiel": [
+      "3 massues de jonglerie par élève"
+    ],
+    "tags": [
+      "jonglerie",
+      "massues",
+      "cirque",
+      "avancé"
+    ]
+  },
+  {
+    "titre": "Acro-yoga en duo",
+    "niveau": "secondaire 1-2",
+    "difficulte": "intermediaire",
+    "desc": "Un élève (base) est couché au sol, pieds en l'air. L'autre (voltigeur) s'appuie sur les pieds et se soulève en position planche. Travailler la confiance mutuelle, la communication et la force de gainage. Toujours un pareur à côté. Progression: genoux du base → pieds tendus.",
+    "competence": "Manipulation",
+    "variantes": "Oiseau (bras tendus), chaise (voltigeur assis sur les pieds), avion.",
+    "adaptation": "Le voltigeur garde les pieds au sol (appui partiel), base sur un tapis épais.",
+    "duree": 20,
+    "materiel": [
+      "Tapis de gymnastique"
+    ],
+    "tags": [
+      "acro-yoga",
+      "duo",
+      "confiance",
+      "force"
+    ]
+  },
+  {
+    "titre": "Boule d'équilibre",
+    "niveau": "3e cycle",
+    "difficulte": "avance",
+    "desc": "L'élève se tient debout sur une grosse boule d'équilibre (ou demi-boule Bosu). Trouver et maintenir l'équilibre 30 secondes. Progresser vers des mouvements: lever un pied, attraper un objet lancé, tourner. Toujours avoir un pareur et un tapis autour.",
+    "competence": "Manipulation",
+    "variantes": "Jongler debout sur la boule, se passer un ballon, mini-chorégraphie.",
+    "adaptation": "Bosu à plat, pieds plus écartés, main sur un support.",
+    "duree": 15,
+    "materiel": [
+      "1 boule d'équilibre ou Bosu par élève",
+      "Tapis de sécurité"
+    ],
+    "tags": [
+      "boule",
+      "équilibre",
+      "cirque",
+      "proprioception"
+    ]
+  },
+  {
+    "titre": "Mime et pantomime",
+    "niveau": "2e cycle",
+    "difficulte": "debutant",
+    "desc": "L'élève apprend les techniques de base du mime: mur invisible (mains à plat qui glissent), marche sur place, tirer une corde imaginaire, porter un objet lourd. Présenter une saynète de 30 secondes sans paroles. Travailler l'isolation des mouvements et l'expression corporelle.",
+    "competence": "Manipulation",
+    "variantes": "Mime en duo, mime d'une situation sportive, mime d'animaux en chaîne.",
+    "adaptation": "Imiter l'enseignant en miroir, pas de présentation solo, mime en groupe.",
+    "duree": 15,
+    "materiel": [
+      "Aucun (ou gants blancs optionnels)"
+    ],
+    "tags": [
+      "mime",
+      "expression",
+      "cirque",
+      "créativité"
+    ]
+  },
+  {
+    "titre": "Tissu aérien au sol",
+    "niveau": "secondaire 1-2",
+    "difficulte": "intermediaire",
+    "desc": "Avec un long tissu accroché bas (à 1,5 m), l'élève apprend les prises de base: enroulement du pied, prise de main, suspension simple. Pas de hauteur, tout se fait près du sol. Travailler la force de préhension, le gainage et la confiance. Toujours sur tapis.",
+    "competence": "Manipulation",
+    "variantes": "Figures de base (cocon, clé de pied), tissu en duo, petite séquence.",
+    "adaptation": "Tissu très bas (l'élève touche le sol), aide du pareur, exercice de suspension seulement.",
+    "duree": 20,
+    "materiel": [
+      "Tissu aérien fixé bas",
+      "Tapis de gymnastique épais"
+    ],
+    "tags": [
+      "tissu aérien",
+      "cirque",
+      "force",
+      "suspension"
+    ]
+  },
+  {
+    "titre": "Planche d'équilibre (wobble board)",
+    "niveau": "2e cycle",
+    "difficulte": "intermediaire",
+    "desc": "L'élève se tient debout sur une planche d'équilibre (planche sur cylindre ou demi-sphère). Objectif: maintenir l'équilibre 15 secondes sans que les bords touchent le sol. Progresser vers des défis: yeux fermés, attraper un ballon, se baisser et se relever.",
+    "competence": "Manipulation",
+    "variantes": "Planche en duo (se passer un ballon), squats sur la planche, planche plus instable.",
+    "adaptation": "Planche sur tapis (moins de mouvement), un pied par terre, main d'un partenaire.",
+    "duree": 12,
+    "materiel": [
+      "1 planche d'équilibre par élève",
+      "Tapis de sécurité"
+    ],
+    "tags": [
+      "planche",
+      "équilibre",
+      "proprioception",
+      "cirque"
+    ]
+  },
+  {
+    "titre": "Yo-yo basique",
+    "niveau": "3e cycle",
+    "difficulte": "debutant",
+    "desc": "L'élève apprend à manier un yo-yo: lancer vers le bas avec un mouvement sec du poignet, laisser dormir (spinner) et remonter d'un coup de poignet. Objectif: 5 lancers-remontées consécutifs. Travailler la coordination du poignet et le timing de la remontée.",
+    "competence": "Manipulation",
+    "variantes": "Tour du monde, bercer le bébé, ballade du chien, trapèze.",
+    "adaptation": "Yo-yo à retour automatique, pratiquer le lancer sans figures, yo-yo plus lourd.",
+    "duree": 15,
+    "materiel": [
+      "1 yo-yo par élève"
+    ],
+    "tags": [
+      "yo-yo",
+      "cirque",
+      "coordination",
+      "poignet"
+    ]
+  },
+  {
+    "titre": "Acrobatie roue latérale",
+    "niveau": "3e cycle",
+    "difficulte": "avance",
+    "desc": "L'élève exécute une roue latérale (cartwheel): départ debout, bras levés, basculer latéralement mains-pieds-pieds-mains. Pratiquer d'abord le placement des mains au sol, puis la montée des jambes contre un mur. Progresser vers la roue complète avec pareur.",
+    "competence": "Manipulation",
+    "variantes": "Roue une main, roue sans mains (rondade), roue enchaînée.",
+    "adaptation": "Montée à la verticale contre le mur seulement, pareur à la taille, surface souple.",
+    "duree": 20,
+    "materiel": [
+      "Tapis de gymnastique",
+      "Mur (pour pratique de la verticale)"
+    ],
+    "tags": [
+      "roue",
+      "acrobatie",
+      "gymnastique",
+      "cirque"
+    ]
+  },
+  {
+    "titre": "Cerceau de cirque (hoop dance)",
+    "niveau": "secondaire 1-2",
+    "difficulte": "intermediaire",
+    "desc": "L'élève explore le cerceau de cirque au-delà du hula-hoop: faire tourner autour de la main, du bras, en isolation (le cerceau semble flotter), passer le cerceau autour du corps. Créer une mini-chorégraphie de 1 minute avec musique. Développe la grâce et la coordination.",
+    "competence": "Manipulation",
+    "variantes": "Chorégraphie en duo, utiliser 2 cerceaux, intégrer des déplacements.",
+    "adaptation": "Cerceau plus grand, figures simplifiées, chorégraphie guidée par l'enseignant.",
+    "duree": 20,
+    "materiel": [
+      "1 cerceau par élève",
+      "Système de musique"
+    ],
+    "tags": [
+      "cerceau",
+      "danse",
+      "cirque",
+      "chorégraphie"
+    ]
+  },
+  {
+    "titre": "Contact juggling (balle transparente)",
+    "niveau": "secondaire 3-5",
+    "difficulte": "avance",
+    "desc": "L'élève fait rouler une balle acrylique sur les mains, les bras et le corps sans la lancer. Techniques de base: roulement sur le dos de la main, transfert main à main, isolation (la balle semble flotter). Travailler la douceur du mouvement et le contrôle musculaire fin.",
+    "competence": "Manipulation",
+    "variantes": "Multi-balles (2 mains), roulement sur les bras, intégrer dans une chorégraphie.",
+    "adaptation": "Balle de tennis au lieu d'acrylique, pratiquer sur une table, mouvements simplifiés.",
+    "duree": 20,
+    "materiel": [
+      "1 balle acrylique de contact juggling par élève"
+    ],
+    "tags": [
+      "contact juggling",
+      "balle",
+      "cirque",
+      "contrôle"
+    ]
+  },
+  {
+    "titre": "Funambule (slackline au sol)",
+    "niveau": "2e cycle",
+    "difficulte": "intermediaire",
+    "desc": "Une sangle (slackline) est tendue très basse, à 15-20 cm du sol. L'élève marche dessus en maintenant l'équilibre. Travailler le regard fixe devant, les bras écartés, les pas lents. Objectif: traverser 3 mètres sans tomber. Un pareur de chaque côté.",
+    "competence": "Manipulation",
+    "variantes": "Traverser plus vite, s'accroupir et se relever, passer un objet au milieu.",
+    "adaptation": "Ligne au sol (ruban large), sangle plus large, tenir la main d'un partenaire.",
+    "duree": 15,
+    "materiel": [
+      "1 slackline",
+      "2 points d'ancrage solides",
+      "Tapis sous la sangle"
+    ],
+    "tags": [
+      "slackline",
+      "funambule",
+      "équilibre",
+      "cirque"
+    ]
+  },
+  {
+    "titre": "Jonglerie foulards en groupe",
+    "niveau": "maternelle",
+    "difficulte": "debutant",
+    "desc": "En cercle, chaque élève lance son foulard en l'air au signal et doit attraper le foulard de son voisin. Commencer par lancer et attraper son propre foulard, puis progresser vers l'échange. Travailler le timing collectif, l'écoute et la coordination.",
+    "competence": "Manipulation",
+    "variantes": "Lancer de 2 foulards, lancer et tourner avant d'attraper, varier les couleurs à attraper.",
+    "adaptation": "Attraper son propre foulard seulement, cercle plus petit, foulards plus grands.",
+    "duree": 10,
+    "materiel": [
+      "1 foulard de jonglerie par élève"
+    ],
+    "tags": [
+      "foulards",
+      "groupe",
+      "maternelle",
+      "coordination"
+    ]
+  },
+  {
+    "titre": "Acrobatie chandelle (bougie)",
+    "niveau": "1er cycle",
+    "difficulte": "debutant",
+    "desc": "L'élève exécute la chandelle: couché sur le dos, monter les jambes et le bassin vers le haut, se soutenir avec les mains dans le bas du dos. Maintenir 10 secondes. Travailler le gainage, la verticalité et la conscience de l'alignement du corps. Toujours sur tapis.",
+    "competence": "Manipulation",
+    "variantes": "Chandelle avec écart, chandelle avec vélo dans les airs, chandelle vers roulade arrière.",
+    "adaptation": "Jambes à 45 degrés au lieu de verticales, dos appuyé au mur, aide du pareur.",
+    "duree": 10,
+    "materiel": [
+      "Tapis de gymnastique"
+    ],
+    "tags": [
+      "chandelle",
+      "acrobatie",
+      "gainage",
+      "posture"
+    ]
+  },
+  {
+    "titre": "Poi spinning initiation",
+    "niveau": "secondaire 1-2",
+    "difficulte": "intermediaire",
+    "desc": "L'élève fait tourner des poi (balles au bout de cordes) autour de son corps. Mouvements de base: cercles avant des deux mains, cercles arrière, papillon (cercles symétriques devant). Travailler la symétrie des bras et la régularité du rythme. Utiliser des poi en tissu souple.",
+    "competence": "Manipulation",
+    "variantes": "Poi lumineux (dans le noir), figures avancées (weave, wrap), poi en duo.",
+    "adaptation": "Poi plus courts, pratiquer avec des chaussettes remplies de riz, un seul poi à la fois.",
+    "duree": 15,
+    "materiel": [
+      "1 paire de poi en tissu par élève"
+    ],
+    "tags": [
+      "poi",
+      "cirque",
+      "rotation",
+      "coordination"
+    ]
+  },
+  {
+    "titre": "Équilibre main libre (handstand)",
+    "niveau": "secondaire 1-2",
+    "difficulte": "avance",
+    "desc": "L'élève apprend l'appui tendu renversé (ATR / handstand): mains au sol, montée des jambes contre le mur. Travailler l'alignement (épaules au-dessus des mains, corps droit), le gainage total et la poussée des doigts. Objectif: tenir 10 secondes contre le mur.",
+    "competence": "Manipulation",
+    "variantes": "ATR sans mur, marche sur les mains, ATR vers roulade.",
+    "adaptation": "Seulement la montée et redescente, aide du pareur aux jambes, demi-ATR (pieds au mur, corps en L).",
+    "duree": 20,
+    "materiel": [
+      "Tapis de gymnastique",
+      "Mur"
+    ],
+    "tags": [
+      "handstand",
+      "ATR",
+      "acrobatie",
+      "force"
+    ]
+  },
+  {
+    "titre": "Circuit arts du cirque",
+    "niveau": "3e cycle",
+    "difficulte": "intermediaire",
+    "desc": "Circuit de 6 stations de 3 minutes: 1) Jonglerie balles, 2) Assiette chinoise, 3) Diabolo, 4) Planche d'équilibre, 5) Bâton du diable, 6) Roulade avant/arrière. Rotation au signal. Fiche d'autoévaluation. Excellent pour découvrir la variété des arts du cirque.",
+    "competence": "Manipulation",
+    "variantes": "Ajouter des stations, augmenter la durée, permettre de choisir ses stations.",
+    "adaptation": "4 stations, plus de temps par station, pareur à chaque station.",
+    "duree": 25,
+    "materiel": [
+      "Matériel de jonglerie",
+      "Assiettes chinoises",
+      "Diabolos",
+      "Planches d'équilibre",
+      "Bâtons du diable",
+      "Tapis"
+    ],
+    "tags": [
+      "circuit",
+      "cirque",
+      "stations",
+      "découverte"
+    ]
+  },
+  {
+    "titre": "Jonglerie passing en duo",
+    "niveau": "secondaire 1-2",
+    "difficulte": "avance",
+    "desc": "Deux jongleurs face à face, chacun avec 3 balles. Ils jonglent en cascade et, au signal, lancent une balle au partenaire tout en continuant. Commencer par le passing avec 1 balle échangée sur 3 (every third), puis augmenter. Travailler le timing et la communication.",
+    "competence": "Manipulation",
+    "variantes": "Passing à 4, 5 balles partagées, passing avec massues.",
+    "adaptation": "Chacun jongle à 2 balles et échange 1, ralentir le rythme, pratiquer le lancer au partenaire sans jongler.",
+    "duree": 20,
+    "materiel": [
+      "6 balles de jonglerie par duo"
+    ],
+    "tags": [
+      "jonglerie",
+      "passing",
+      "duo",
+      "synchronisation"
+    ]
+  },
+  {
+    "titre": "Acrobatie saut périlleux assisté",
+    "niveau": "secondaire 3-5",
+    "difficulte": "avance",
+    "desc": "L'élève exécute un saut périlleux avant assisté: course d'élan, impulsion sur un mini-trampoline ou tremplin, rotation avant dans les airs, réception sur tapis épais. Toujours avec un pareur expérimenté qui soutient la rotation. Sécurité maximale obligatoire.",
+    "competence": "Manipulation",
+    "variantes": "Saut périlleux arrière (avec ceinture de sécurité), vrille, saut groupé vs étendu.",
+    "adaptation": "Saut sur le trampoline sans rotation, roulade sur plan incliné surélevé, pratique en mousse pit.",
+    "duree": 25,
+    "materiel": [
+      "Mini-trampoline ou tremplin",
+      "Tapis de réception épais (20 cm min)",
+      "Ceinture de parage (optionnel)"
+    ],
+    "tags": [
+      "saut périlleux",
+      "acrobatie",
+      "trampoline",
+      "avancé"
+    ]
+  },
+  {
+    "titre": "Spectacle de cirque mini-show",
+    "niveau": "3e cycle",
+    "difficulte": "intermediaire",
+    "desc": "En équipe de 4-5, les élèves préparent un mini-spectacle de cirque de 3 minutes combinant au moins 3 disciplines (jonglerie, acrobatie, équilibre, expression). Créer un enchaînement avec musique. Travailler la mise en scène, les transitions et la présentation. Présenter devant la classe.",
+    "competence": "Manipulation",
+    "variantes": "Spectacle thématique, ajout de costumes, spectacle devant d'autres classes.",
+    "adaptation": "Spectacle de 1 minute, 2 disciplines minimum, présentation en petit groupe.",
+    "duree": 30,
+    "materiel": [
+      "Matériel de cirque varié",
+      "Système de musique",
+      "Costumes ou accessoires (optionnel)"
+    ],
+    "tags": [
+      "spectacle",
+      "cirque",
+      "créativité",
+      "présentation"
+    ]
+  },
+  {
+    "titre": "Cracheur de feu imaginaire",
+    "niveau": "maternelle",
+    "difficulte": "debutant",
+    "desc": "L'élève mime le numéro du cracheur de feu: gonfler les joues, souffler fort en lançant les bras vers l'avant (avec des rubans colorés qui simulent les flammes). Travailler le souffle contrôlé, la posture dramatique et l'expression théâtrale. Activité ludique et imaginative.",
+    "competence": "Manipulation",
+    "variantes": "Ajouter une marche de cracheur, en duo (un crache, l'autre esquive), avec effets sonores.",
+    "adaptation": "Simplement souffler sur des plumes, mimer sans ruban, imiter l'enseignant.",
+    "duree": 8,
+    "materiel": [
+      "Rubans colorés (1 par élève)"
+    ],
+    "tags": [
+      "mime",
+      "souffle",
+      "maternelle",
+      "imagination"
+    ]
+  },
+  {
+    "titre": "Diabolo lancer et rattraper",
+    "niveau": "secondaire 1-2",
+    "difficulte": "avance",
+    "desc": "L'élève qui maîtrise la rotation du diabolo apprend à le lancer haut dans les airs et à le rattraper sur la ficelle. Commencer par des lancers bas (1 m), puis monter progressivement. Travailler la coordination du lancer (baguettes vers l'extérieur) et la réception en tendant la ficelle.",
+    "competence": "Manipulation",
+    "variantes": "Lancer et attraper derrière le dos, lancer en duo, figures aériennes.",
+    "adaptation": "Lancers très bas, diabolo plus gros, ficelle plus longue pour faciliter la réception.",
+    "duree": 15,
+    "materiel": [
+      "1 diabolo avec baguettes par élève"
+    ],
+    "tags": [
+      "diabolo",
+      "lancer",
+      "cirque",
+      "technique avancée"
+    ]
+  },
+  {
+    "titre": "Portés acrobatiques simples",
+    "niveau": "secondaire 1-2",
+    "difficulte": "intermediaire",
+    "desc": "En duo, apprendre les portés de base: le porteur (base) soulève le voltigeur dans des positions simples (assis sur les épaules, debout sur les cuisses). Insister sur la communication (3-2-1-go), la sécurité (toujours un pareur) et la confiance mutuelle. Progression très graduelle.",
+    "competence": "Manipulation",
+    "variantes": "Portés à 3, portés dynamiques (lancer-rattraper), portés avec figures.",
+    "adaptation": "Portés au sol uniquement (pas de hauteur), pareur en permanence, porteur assis.",
+    "duree": 20,
+    "materiel": [
+      "Tapis de gymnastique épais"
+    ],
+    "tags": [
+      "portés",
+      "acrobatie",
+      "duo",
+      "confiance"
+    ]
+  },
+  {
+    "titre": "Bolas tournoyantes",
+    "niveau": "3e cycle",
+    "difficulte": "intermediaire",
+    "desc": "L'élève fait tourner des bolas (2 balles reliées par une corde) autour de son corps. Mouvements de base: cercle vertical à côté du corps, cercle horizontal au-dessus de la tête, changement de direction. Utiliser des bolas en tissu souple pour la sécurité.",
+    "competence": "Manipulation",
+    "variantes": "Bolas lumineuses, figures croisées, bolas en duo synchronisé.",
+    "adaptation": "Bolas plus courtes, pratiquer avec une seule bola, mouvements lents.",
+    "duree": 15,
+    "materiel": [
+      "1 paire de bolas en tissu par élève"
+    ],
+    "tags": [
+      "bolas",
+      "cirque",
+      "rotation",
+      "coordination"
+    ]
+  },
+  {
+    "titre": "Trampoline mini-routine",
+    "niveau": "secondaire 1-2",
+    "difficulte": "intermediaire",
+    "desc": "L'élève exécute une routine de 5 sauts sur mini-trampoline: saut droit, saut groupé, saut écarté, demi-tour, saut assis et retour debout. Travailler la hauteur, le contrôle et l'esthétique de chaque saut. Réception finale stable sur tapis. Un pareur obligatoire.",
+    "competence": "Manipulation",
+    "variantes": "Routine de 8 sauts, ajout de vrilles, saut périlleux (avec ceinture).",
+    "adaptation": "3 sauts simples, sauts moins hauts, main du pareur disponible.",
+    "duree": 20,
+    "materiel": [
+      "1 mini-trampoline",
+      "Tapis de réception épais"
+    ],
+    "tags": [
+      "trampoline",
+      "routine",
+      "saut",
+      "acrobatie"
+    ]
+  },
+  {
+    "titre": "Diabolo tricks intermédiaires",
+    "niveau": "secondaire 3-5",
+    "difficulte": "avance",
+    "desc": "L'élève explore les figures intermédiaires du diabolo: grind (diabolo sur la baguette), fouet (corde qui fouette le diabolo pour accélérer), soleil (tour complet de la ficelle), escalator (montée le long de la baguette). Maîtriser 3 figures sur 4 pour réussir.",
+    "competence": "Manipulation",
+    "variantes": "Enchaîner les figures en routine, 2 diabolos simultanés, figures en duo.",
+    "adaptation": "Se concentrer sur 1 figure, diabolo plus gros, démonstration vidéo au ralenti.",
+    "duree": 20,
+    "materiel": [
+      "1 diabolo avec baguettes par élève"
+    ],
+    "tags": [
+      "diabolo",
+      "tricks",
+      "cirque",
+      "avancé"
+    ]
+  },
+  {
+    "titre": "Jonglerie 2 balles 1 main",
+    "niveau": "secondaire 1-2",
+    "difficulte": "avance",
+    "desc": "L'élève jongle avec 2 balles dans une seule main: lancer en colonne (intérieur-extérieur) ou en cercle. Commencer avec la main dominante, puis la main faible. Objectif: 20 lancers consécutifs. Développe l'indépendance des doigts et la finesse du contrôle moteur.",
+    "competence": "Manipulation",
+    "variantes": "2 balles chaque main simultanément, alterner colonne et cercle, en mouvement.",
+    "adaptation": "Balles plus grosses, commencer par le lancer sans rattraper (dans un seau), main dominante seulement.",
+    "duree": 15,
+    "materiel": [
+      "2 balles de jonglerie par élève"
+    ],
+    "tags": [
+      "jonglerie",
+      "une main",
+      "coordination fine",
+      "défi"
+    ]
+  },
+  {
+    "titre": "Rola bola",
+    "niveau": "secondaire 3-5",
+    "difficulte": "avance",
+    "desc": "L'élève se tient debout sur une planche posée sur un cylindre (rola bola). Trouver l'équilibre en ajustant constamment le poids de gauche à droite. Objectif: maintenir l'équilibre 20 secondes. Toujours sur tapis avec un pareur. Progression: toucher le sol d'un côté est permis au début.",
+    "competence": "Manipulation",
+    "variantes": "Jongler sur le rola bola, attraper des objets, routine chorégraphiée.",
+    "adaptation": "Cylindre plus large (plus stable), planche plus longue, pareur en permanence.",
+    "duree": 15,
+    "materiel": [
+      "1 rola bola par élève",
+      "Tapis de sécurité"
+    ],
+    "tags": [
+      "rola bola",
+      "équilibre",
+      "cirque",
+      "avancé"
+    ]
+  },
+  {
+    "titre": "Marionnette corporelle",
+    "niveau": "1er cycle",
+    "difficulte": "debutant",
+    "desc": "En duo, un élève est la marionnette et l'autre le marionnettiste. Le marionnettiste tire des ficelles imaginaires pour faire bouger les bras, les jambes et la tête de la marionnette. Travailler la conscience corporelle segmentaire, la créativité et la coopération.",
+    "competence": "Manipulation",
+    "variantes": "Marionnette debout, assise, couchée. Raconter une histoire en marionnette.",
+    "adaptation": "Guider physiquement les mouvements (toucher léger), limiter à bras et tête.",
+    "duree": 10,
+    "materiel": [
+      "Aucun"
+    ],
+    "tags": [
+      "marionnette",
+      "expression",
+      "duo",
+      "conscience corporelle"
+    ]
+  },
+  {
+    "titre": "Cyr wheel (roue Cyr) découverte",
+    "niveau": "secondaire 3-5",
+    "difficulte": "avance",
+    "desc": "L'élève découvre la roue Cyr: entrer dans un grand cerceau métallique et le faire tourner autour de soi. Apprendre l'entrée, la prise (mains à 10h et 2h), la mise en rotation et l'arrêt. Toujours sur surface plane et non glissante. Très spectaculaire et motivant.",
+    "competence": "Manipulation",
+    "variantes": "Figures (spirale, coin spin), routine chorégraphiée, roue Cyr en duo.",
+    "adaptation": "Observer et mimer sans roue, entrer dans la roue à l'arrêt, pareur en permanence.",
+    "duree": 25,
+    "materiel": [
+      "1 roue Cyr de taille adaptée",
+      "Surface plane et antidérapante"
+    ],
+    "tags": [
+      "roue Cyr",
+      "cirque",
+      "avancé",
+      "spectaculaire"
+    ]
+  },
+  {
+    "titre": "Jonglerie avec objets variés",
+    "niveau": "2e cycle",
+    "difficulte": "debutant",
+    "desc": "L'élève explore la jonglerie avec des objets du quotidien: éponges, petits coussins, fruits en plastique, chaussettes roulées. Commencer à 1 objet, puis 2. Découvrir que la jonglerie est accessible avec n'importe quel objet. Travailler la prise adaptée et le lancer régulier.",
+    "competence": "Manipulation",
+    "variantes": "Jongler avec des objets de tailles différentes, jongler en groupe, créer son propre défi.",
+    "adaptation": "Un seul objet, lancer et attraper seulement, objets plus faciles à saisir.",
+    "duree": 12,
+    "materiel": [
+      "Objets variés (éponges, coussins, fruits en plastique)"
+    ],
+    "tags": [
+      "jonglerie",
+      "objets variés",
+      "exploration",
+      "créativité"
+    ]
+  },
+  {
+    "titre": "Ruban de gymnastique rythmique",
+    "niveau": "1er cycle",
+    "difficulte": "debutant",
+    "desc": "L'élève manipule un ruban de gymnastique (bâtonnet avec ruban de 3 m) en réalisant des spirales, des serpentins, des cercles et des huit. Travailler le mouvement fluide du poignet, les grandes amplitudes de bras et le déplacement en dansant. Activité très visuelle et motivante.",
+    "competence": "Manipulation",
+    "variantes": "Ruban en marchant, ruban en courant, créer une mini-routine avec musique.",
+    "adaptation": "Ruban plus court, mouvements lents, imiter l'enseignant.",
+    "duree": 12,
+    "materiel": [
+      "1 ruban de gymnastique par élève"
+    ],
+    "tags": [
+      "ruban",
+      "gymnastique",
+      "cirque",
+      "expression"
+    ]
+  },
+  {
+    "titre": "Acrobatie pont (backbend)",
+    "niveau": "3e cycle",
+    "difficulte": "intermediaire",
+    "desc": "L'élève exécute le pont: couché sur le dos, mains à côté des oreilles, pieds au sol, pousser pour soulever le corps en arc. Maintenir 10 secondes. Travailler la flexibilité du dos, la force des bras et l'alignement. Toujours échauffer les poignets et le dos avant.",
+    "competence": "Manipulation",
+    "variantes": "Pont depuis la position debout (kick-over), pont sur un bras, pont avec lever de jambe.",
+    "adaptation": "Demi-pont (soulever seulement le bassin), pont avec aide du pareur, pont sur un ballon suisse.",
+    "duree": 15,
+    "materiel": [
+      "Tapis de gymnastique"
+    ],
+    "tags": [
+      "pont",
+      "acrobatie",
+      "flexibilité",
+      "gymnastique"
+    ]
+  },
+  {
+    "titre": "Équilibre sur les mains contre le mur",
+    "niveau": "2e cycle",
+    "difficulte": "intermediaire",
+    "desc": "L'élève fait un appui renversé (handstand) contre le mur avec l'aide d'un pareur. Poser les mains au sol à 30 cm du mur, lancer les jambes vers le mur. Maintenir 5 secondes. Travailler la poussée des épaules, le gainage et la posture droite. Toujours sur tapis épais.",
+    "competence": "Manipulation",
+    "variantes": "Tenir plus longtemps, décoller une jambe du mur, marcher sur les mains le long du mur.",
+    "adaptation": "Pieds au mur en position L (moins intimidant), aide du pareur aux jambes.",
+    "duree": 15,
+    "materiel": [
+      "Tapis de gymnastique",
+      "Mur"
+    ],
+    "tags": [
+      "handstand",
+      "équilibre",
+      "mur",
+      "force"
+    ]
+  },
+  {
+    "titre": "Clown nez rouge parcours",
+    "niveau": "1er cycle",
+    "difficulte": "debutant",
+    "desc": "L'élève porte un nez de clown et traverse un parcours en exagérant ses mouvements comme un clown: pas géants, glissades volontaires, réactions de surprise aux obstacles. Travailler l'expression corporelle, l'imagination et le dépassement de la gêne. Activité joyeuse et créative.",
+    "competence": "Manipulation",
+    "variantes": "Parcours en duo de clowns, ajout d'accessoires (chapeau, cravate), mini-spectacle au bout.",
+    "adaptation": "Pas de nez de clown si l'élève est gêné, parcours simplifié, imiter l'enseignant.",
+    "duree": 12,
+    "materiel": [
+      "Nez de clown",
+      "Cônes et obstacles pour le parcours"
+    ],
+    "tags": [
+      "clown",
+      "parcours",
+      "expression",
+      "créativité"
+    ]
+  },
+  {
+    "titre": "Trapèze bas initiation",
+    "niveau": "secondaire 3-5",
+    "difficulte": "avance",
+    "desc": "Un trapèze est installé bas (à 1 m du sol). L'élève apprend la montée, l'assise et les premières figures: ange (bras écartés en équilibre), genou accroché, suspension par les genoux. Toujours sur tapis avec pareur. Travailler la force de préhension et la confiance en inversion.",
+    "competence": "Manipulation",
+    "variantes": "Figures dynamiques (balancement), duo au trapèze, enchaînement de figures.",
+    "adaptation": "Suspension simple seulement, pareur en permanence, trapèze plus bas.",
+    "duree": 25,
+    "materiel": [
+      "1 trapèze bas fixé solidement",
+      "Tapis de gymnastique épais"
+    ],
+    "tags": [
+      "trapèze",
+      "cirque",
+      "suspension",
+      "force"
+    ]
+  },
+  {
+    "titre": "Jonglerie en colonne (shower)",
+    "niveau": "secondaire 3-5",
+    "difficulte": "avance",
+    "desc": "L'élève apprend la jonglerie en colonne (shower): toutes les balles sont lancées par une main et rattrapées par l'autre, en cercle. Plus difficile que la cascade car une main fait tout le travail de lancer. Commencer à 2 balles, puis 3. Travailler la cadence et la hauteur régulière.",
+    "competence": "Manipulation",
+    "variantes": "Shower inversé (changer la main de lancer), shower à 4 balles, shower en duo.",
+    "adaptation": "Pratiquer le mouvement à 1 balle, foulards au lieu de balles, rythme très lent.",
+    "duree": 20,
+    "materiel": [
+      "3 balles de jonglerie par élève"
+    ],
+    "tags": [
+      "jonglerie",
+      "shower",
+      "colonne",
+      "avancé"
+    ]
+  },
+  {
+    "titre": "Pédalo (pédalgo)",
+    "niveau": "3e cycle",
+    "difficulte": "intermediaire",
+    "desc": "L'élève monte sur un pédalgo (planche à roulettes avec pédales) et avance en pédalant. Travailler l'équilibre dynamique, la coordination des jambes et le regard vers l'avant. Toujours commencer avec l'aide d'un partenaire ou d'un mur. Parcours de 10 mètres.",
+    "competence": "Manipulation",
+    "variantes": "Parcours slalom, reculer, tourner, course de pédalgo.",
+    "adaptation": "Aide du partenaire en permanence, pédaler sur place avant de se déplacer.",
+    "duree": 15,
+    "materiel": [
+      "1 pédalgo par élève"
+    ],
+    "tags": [
+      "pédalgo",
+      "équilibre",
+      "cirque",
+      "coordination"
+    ]
+  }
+]
