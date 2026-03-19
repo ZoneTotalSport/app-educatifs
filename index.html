@@ -49,9 +49,9 @@
       </div>
       <nav class="header-nav">
         <a href="#" class="nav-link active">Éducatifs</a>
-        <a href="#" class="nav-link">SAÉ</a>
-        <a href="#" class="nav-link">Jeux</a>
-        <a href="#" class="nav-link">Audio</a>
+        <a href="https://zonetotalsport.github.io/app-sae" class="nav-link">SAÉ</a>
+        <a href="https://zonetotalsport.github.io/app-jeux" class="nav-link">Jeux</a>
+        <a href="https://zonetotalsport.github.io/app-musique" class="nav-link">Musique</a>
       </nav>
     </div>
   </header>
@@ -84,6 +84,15 @@
 
   <!-- Section taxonomie -->
   <main id="taxonomy-section">
+
+    <!-- Recherche globale -->
+    <div id="global-search-bar" class="global-search-bar">
+      <div class="global-search-inner">
+        <span class="global-search-icon">🔍</span>
+        <input type="text" id="global-search-input" class="global-search-input" placeholder="Rechercher dans les 1000+ éducatifs (titre, description, compétence, tags, niveau)..." autocomplete="off">
+        <button id="global-search-clear" class="global-search-clear hidden" onclick="clearGlobalSearch()" title="Effacer la recherche">✕</button>
+      </div>
+    </div>
 
     <!-- Barre de contrôles (cachée initialement) -->
     <div id="controls-bar" class="controls-bar hidden">
@@ -124,6 +133,7 @@
     <div id="edu-section" class="hidden">
       <div id="category-header" class="category-header"></div>
       <div id="edu-grid" class="edu-grid"></div>
+      <div id="pagination" class="pagination hidden"></div>
     </div>
 
   </main>

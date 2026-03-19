@@ -66,6 +66,14 @@ let currentEducatifs = [];
 let filtered = [];
 let totalCount = 0;
 
+// Pagination
+let currentPage = 0;
+const ITEMS_PER_PAGE = 30;
+
+// Recherche globale
+let searchDebounceTimer = null;
+let isSearchActive = false;
+
 // ─────────────────────────────────────────────────────
 // CHARGEMENT DES DONNÉES JSON
 // ─────────────────────────────────────────────────────
@@ -120,6 +128,7 @@ document.addEventListener('DOMContentLoaded', async () => {
   await loadAllData();
   renderTaxonomy();
   updateTotalCount();
+  initGlobalSearch();
   hideLoading();
 });
 
@@ -190,9 +199,17 @@ function selectCategory(key) {
   }
   if (!foundCat) return;
 
+  // Clear search state
+  isSearchActive = false;
+  const searchInput = document.getElementById('global-search-input');
+  const clearBtn = document.getElementById('global-search-clear');
+  if (searchInput) searchInput.value = '';
+  if (clearBtn) clearBtn.classList.add('hidden');
+
   currentCategory = foundCat;
   currentEducatifs = foundCat.educatifs;
   filtered = [...currentEducatifs];
+  currentPage = 0;
 
   document.getElementById('taxonomy-container').classList.add('hidden');
   document.getElementById('controls-bar').classList.remove('hidden');
@@ -226,15 +243,23 @@ function renderCategoryHeader(cat) {
 // RETOUR À LA TAXONOMIE
 // ─────────────────────────────────────────────────────
 function goBack() {
+  isSearchActive = false;
   currentCategory = null;
   currentEducatifs = [];
   filtered = [];
+  currentPage = 0;
+
+  const searchInput = document.getElementById('global-search-input');
+  const clearBtn = document.getElementById('global-search-clear');
+  if (searchInput) searchInput.value = '';
+  if (clearBtn) clearBtn.classList.add('hidden');
 
   document.getElementById('edu-section').classList.add('hidden');
   document.getElementById('controls-bar').classList.add('hidden');
   document.getElementById('taxonomy-container').classList.remove('hidden');
   document.getElementById('edu-grid').innerHTML = '';
   document.getElementById('category-header').innerHTML = '';
+  renderPagination(0);
 
   window.scrollTo({ top: 0, behavior: 'smooth' });
 }
@@ -252,6 +277,7 @@ function applyFilters() {
     return matchNiveau && matchDiff;
   });
 
+  currentPage = 0;
   renderEducatifs(filtered);
   updateFilterCount();
 }
@@ -277,13 +303,108 @@ function renderEducatifs(list) {
         <p>Aucun éducatif ne correspond aux filtres sélectionnés.</p>
       </div>
     `;
+    renderPagination(0);
     return;
   }
 
-  list.forEach((edu, index) => {
+  const totalPages = Math.ceil(list.length / ITEMS_PER_PAGE);
+  if (currentPage >= totalPages) currentPage = totalPages - 1;
+  if (currentPage < 0) currentPage = 0;
+
+  const start = currentPage * ITEMS_PER_PAGE;
+  const end = Math.min(start + ITEMS_PER_PAGE, list.length);
+  const page = list.slice(start, end);
+
+  page.forEach((edu, index) => {
     const card = createEducatifCard(edu, index);
     grid.appendChild(card);
   });
+
+  renderPagination(totalPages);
+}
+
+// ─────────────────────────────────────────────────────
+// PAGINATION
+// ─────────────────────────────────────────────────────
+function renderPagination(totalPages) {
+  const pag = document.getElementById('pagination');
+  if (!pag) return;
+
+  if (totalPages <= 1) {
+    pag.classList.add('hidden');
+    pag.innerHTML = '';
+    return;
+  }
+
+  pag.classList.remove('hidden');
+  pag.innerHTML = '';
+
+  // Prev button
+  const prevBtn = document.createElement('button');
+  prevBtn.className = 'pag-btn' + (currentPage === 0 ? ' disabled' : '');
+  prevBtn.textContent = '←';
+  prevBtn.disabled = currentPage === 0;
+  prevBtn.addEventListener('click', () => { if (currentPage > 0) goToPage(currentPage - 1); });
+  pag.appendChild(prevBtn);
+
+  // Page buttons with ellipsis logic
+  const maxVisible = 7;
+  const pages = buildPageNumbers(currentPage, totalPages, maxVisible);
+
+  pages.forEach(p => {
+    if (p === '...') {
+      const ell = document.createElement('span');
+      ell.className = 'pag-ellipsis';
+      ell.textContent = '...';
+      pag.appendChild(ell);
+    } else {
+      const btn = document.createElement('button');
+      btn.className = 'pag-btn' + (p === currentPage ? ' active' : '');
+      btn.textContent = p + 1;
+      btn.addEventListener('click', () => goToPage(p));
+      pag.appendChild(btn);
+    }
+  });
+
+  // Next button
+  const nextBtn = document.createElement('button');
+  nextBtn.className = 'pag-btn' + (currentPage >= totalPages - 1 ? ' disabled' : '');
+  nextBtn.textContent = '→';
+  nextBtn.disabled = currentPage >= totalPages - 1;
+  nextBtn.addEventListener('click', () => { if (currentPage < totalPages - 1) goToPage(currentPage + 1); });
+  pag.appendChild(nextBtn);
+
+  // Info
+  const info = document.createElement('span');
+  info.className = 'pag-info';
+  const activeList = isSearchActive ? filtered : filtered;
+  const start = currentPage * ITEMS_PER_PAGE + 1;
+  const end = Math.min((currentPage + 1) * ITEMS_PER_PAGE, filtered.length);
+  info.textContent = `${start}-${end} sur ${filtered.length}`;
+  pag.appendChild(info);
+}
+
+function buildPageNumbers(current, total, maxVisible) {
+  if (total <= maxVisible) {
+    return Array.from({ length: total }, (_, i) => i);
+  }
+  const pages = [];
+  pages.push(0);
+  let start = Math.max(1, current - 1);
+  let end = Math.min(total - 2, current + 1);
+  if (current <= 2) { start = 1; end = Math.min(total - 2, 3); }
+  if (current >= total - 3) { start = Math.max(1, total - 4); end = total - 2; }
+  if (start > 1) pages.push('...');
+  for (let i = start; i <= end; i++) pages.push(i);
+  if (end < total - 2) pages.push('...');
+  pages.push(total - 1);
+  return pages;
+}
+
+function goToPage(page) {
+  currentPage = page;
+  renderEducatifs(filtered);
+  document.getElementById('taxonomy-section').scrollIntoView({ behavior: 'smooth', block: 'start' });
 }
 
 function escapeHtml(str) {
@@ -304,10 +425,15 @@ function createEducatifCard(edu, index) {
   const diffLabel = { debutant: 'Débutant', intermediaire: 'Intermédiaire', avance: 'Avancé' };
   const diffEmoji = { debutant: '🟢', intermediaire: '🟠', avance: '🔴' };
 
+  const catBadge = (isSearchActive && edu._catEmoji && edu._catName)
+    ? `<span class="badge badge-category">${edu._catEmoji} ${escapeHtml(edu._catName)}</span>`
+    : '';
+
   card.innerHTML = `
     <div class="edu-card-header">
       <div class="edu-card-title">${escapeHtml(edu.titre)}</div>
     </div>
+    ${catBadge ? `<div class="edu-card-cat">${catBadge}</div>` : ''}
     <p class="edu-card-desc">${escapeHtml(edu.desc)}</p>
     <div class="edu-card-meta">
       <span class="badge badge-${edu.difficulte}">${diffEmoji[edu.difficulte]} ${diffLabel[edu.difficulte]}</span>
@@ -322,6 +448,112 @@ function createEducatifCard(edu, index) {
 
   card.addEventListener('click', () => openModal(edu));
   return card;
+}
+
+// ─────────────────────────────────────────────────────
+// RECHERCHE GLOBALE
+// ─────────────────────────────────────────────────────
+function initGlobalSearch() {
+  const input = document.getElementById('global-search-input');
+  if (!input) return;
+
+  input.addEventListener('input', () => {
+    clearTimeout(searchDebounceTimer);
+    searchDebounceTimer = setTimeout(() => {
+      performGlobalSearch(input.value.trim());
+    }, 250);
+  });
+
+  input.addEventListener('keydown', (e) => {
+    if (e.key === 'Escape') {
+      input.value = '';
+      clearGlobalSearch();
+    }
+  });
+}
+
+function performGlobalSearch(query) {
+  const clearBtn = document.getElementById('global-search-clear');
+
+  if (!query || query.length < 2) {
+    if (isSearchActive) clearGlobalSearch();
+    if (clearBtn) clearBtn.classList.add('hidden');
+    return;
+  }
+
+  if (clearBtn) clearBtn.classList.remove('hidden');
+
+  const terms = query.toLowerCase().split(/\s+/);
+
+  // Build a category lookup for display
+  const catLookup = {};
+  TAXONOMY.forEach(section => {
+    section.categories.forEach(cat => {
+      catLookup[cat.key] = { emoji: cat.emoji, name: cat.name };
+    });
+  });
+
+  const results = [];
+  for (const [key, edus] of Object.entries(educatifsData)) {
+    const catInfo = catLookup[key] || { emoji: '', name: key };
+    for (const edu of edus) {
+      const searchable = [
+        edu.titre || '',
+        edu.desc || '',
+        edu.competence || '',
+        edu.niveau || '',
+        (edu.tags || []).join(' ')
+      ].join(' ').toLowerCase();
+
+      const match = terms.every(t => searchable.includes(t));
+      if (match) {
+        results.push({ ...edu, _catKey: key, _catEmoji: catInfo.emoji, _catName: catInfo.name });
+      }
+    }
+  }
+
+  isSearchActive = true;
+  currentCategory = null;
+  currentEducatifs = results;
+  filtered = results;
+  currentPage = 0;
+
+  // Show results in edu-grid
+  document.getElementById('taxonomy-container').classList.add('hidden');
+  document.getElementById('controls-bar').classList.add('hidden');
+  document.getElementById('edu-section').classList.remove('hidden');
+  document.getElementById('global-search-bar').classList.remove('hidden');
+
+  const header = document.getElementById('category-header');
+  header.innerHTML = `
+    <div class="cat-header-emoji">🔍</div>
+    <div class="cat-header-info">
+      <h2>Résultats de recherche</h2>
+      <p>${results.length} éducatif${results.length > 1 ? 's' : ''} trouvé${results.length > 1 ? 's' : ''} pour « ${escapeHtml(query)} »</p>
+    </div>
+  `;
+
+  renderEducatifs(filtered);
+}
+
+function clearGlobalSearch() {
+  const input = document.getElementById('global-search-input');
+  const clearBtn = document.getElementById('global-search-clear');
+  if (input) input.value = '';
+  if (clearBtn) clearBtn.classList.add('hidden');
+
+  isSearchActive = false;
+  currentCategory = null;
+  currentEducatifs = [];
+  filtered = [];
+  currentPage = 0;
+
+  document.getElementById('edu-section').classList.add('hidden');
+  document.getElementById('controls-bar').classList.add('hidden');
+  document.getElementById('taxonomy-container').classList.remove('hidden');
+  document.getElementById('edu-grid').innerHTML = '';
+  document.getElementById('category-header').innerHTML = '';
+  renderPagination(0);
 }
 
 // ─────────────────────────────────────────────────────
