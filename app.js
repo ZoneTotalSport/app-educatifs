@@ -74,6 +74,57 @@ const ITEMS_PER_PAGE = 30;
 let searchDebounceTimer = null;
 let isSearchActive = false;
 
+// Favoris
+let showFavorisOnly = false;
+
+function getFavoris() {
+  try {
+    return JSON.parse(localStorage.getItem('favoris-educatifs') || '[]');
+  } catch { return []; }
+}
+
+function setFavoris(arr) {
+  localStorage.setItem('favoris-educatifs', JSON.stringify(arr));
+}
+
+function getEduId(edu) {
+  return edu.titre;
+}
+
+function isFavori(edu) {
+  return getFavoris().includes(getEduId(edu));
+}
+
+function toggleFavori(edu) {
+  const id = getEduId(edu);
+  let favs = getFavoris();
+  if (favs.includes(id)) {
+    favs = favs.filter(f => f !== id);
+  } else {
+    favs.push(id);
+  }
+  setFavoris(favs);
+  return favs.includes(id);
+}
+
+// Toast notification
+function showToast(message) {
+  let toast = document.getElementById('toast-notification');
+  if (!toast) {
+    toast = document.createElement('div');
+    toast.id = 'toast-notification';
+    toast.className = 'toast-notification';
+    document.body.appendChild(toast);
+  }
+  toast.textContent = message;
+  toast.classList.remove('toast-hidden');
+  toast.classList.add('toast-visible');
+  setTimeout(() => {
+    toast.classList.remove('toast-visible');
+    toast.classList.add('toast-hidden');
+  }, 2000);
+}
+
 // ─────────────────────────────────────────────────────
 // CHARGEMENT DES DONNÉES JSON
 // ─────────────────────────────────────────────────────
@@ -130,6 +181,7 @@ document.addEventListener('DOMContentLoaded', async () => {
   updateTotalCount();
   initGlobalSearch();
   hideLoading();
+  checkDeepLink();
 });
 
 function hideLoading() {
@@ -270,11 +322,13 @@ function goBack() {
 function applyFilters() {
   const niveau = document.getElementById('filter-niveau').value.toLowerCase();
   const diff = document.getElementById('filter-diff').value.toLowerCase();
+  const favs = getFavoris();
 
   filtered = currentEducatifs.filter(edu => {
     const matchNiveau = !niveau || edu.niveau.toLowerCase().includes(niveau);
     const matchDiff = !diff || edu.difficulte === diff;
-    return matchNiveau && matchDiff;
+    const matchFav = !showFavorisOnly || favs.includes(getEduId(edu));
+    return matchNiveau && matchDiff && matchFav;
   });
 
   currentPage = 0;
@@ -429,7 +483,9 @@ function createEducatifCard(edu, index) {
     ? `<span class="badge badge-category">${edu._catEmoji} ${escapeHtml(edu._catName)}</span>`
     : '';
 
+  const fav = isFavori(edu);
   card.innerHTML = `
+    <button class="fav-btn ${fav ? 'fav-active' : ''}" title="Ajouter aux favoris" aria-label="Favori">${fav ? '\u2605' : '\u2606'}</button>
     <div class="edu-card-header">
       <div class="edu-card-title">${escapeHtml(edu.titre)}</div>
     </div>
@@ -445,6 +501,19 @@ function createEducatifCard(edu, index) {
       <span class="footer-arrow">→</span>
     </div>
   `;
+
+  // Fav button click (stop propagation so card click doesn't fire)
+  const favBtn = card.querySelector('.fav-btn');
+  favBtn.addEventListener('click', (e) => {
+    e.stopPropagation();
+    const nowFav = toggleFavori(edu);
+    favBtn.textContent = nowFav ? '\u2605' : '\u2606';
+    favBtn.classList.toggle('fav-active', nowFav);
+    // If we're in favoris-only mode and just unfavorited, re-filter
+    if (showFavorisOnly && !nowFav) {
+      applyFilters();
+    }
+  });
 
   card.addEventListener('click', () => openModal(edu));
   return card;
@@ -574,6 +643,9 @@ function openModal(edu) {
     ? edu.tags.map(t => `<span class="tag">#${escapeHtml(t)}</span>`).join('')
     : '';
 
+  const modalFav = isFavori(edu);
+  const eduId = encodeURIComponent(getEduId(edu));
+
   content.innerHTML = `
     <div class="modal-header">
       <span class="modal-emoji">${currentCategory ? currentCategory.emoji : '🏋️'}</span>
@@ -582,6 +654,12 @@ function openModal(edu) {
         <span class="badge badge-${edu.difficulte}">${diffEmoji[edu.difficulte]} ${diffLabel[edu.difficulte]}</span>
         <span class="badge badge-niveau">${escapeHtml(edu.niveau)}</span>
       </div>
+    </div>
+
+    <div class="modal-actions">
+      <button class="modal-action-btn modal-fav-btn ${modalFav ? 'fav-active' : ''}" title="Favori">${modalFav ? '\u2605' : '\u2606'} Favori</button>
+      <button class="modal-action-btn modal-print-btn" title="Imprimer">🖨️ Imprimer</button>
+      <button class="modal-action-btn modal-share-btn" title="Partager">🔗 Partager</button>
     </div>
 
     <div class="modal-meta-grid">
@@ -629,6 +707,40 @@ function openModal(edu) {
     ` : ''}
   `;
 
+  // Modal fav button
+  const modalFavBtn = content.querySelector('.modal-fav-btn');
+  modalFavBtn.addEventListener('click', () => {
+    const nowFav = toggleFavori(edu);
+    modalFavBtn.textContent = (nowFav ? '\u2605' : '\u2606') + ' Favori';
+    modalFavBtn.classList.toggle('fav-active', nowFav);
+    // Update card star if visible
+    refreshCardFavState(edu);
+  });
+
+  // Print button
+  content.querySelector('.modal-print-btn').addEventListener('click', () => {
+    window.print();
+  });
+
+  // Share button
+  content.querySelector('.modal-share-btn').addEventListener('click', () => {
+    const url = `https://educatifs.zonetotalsport.ca/?id=${eduId}`;
+    navigator.clipboard.writeText(url).then(() => {
+      showToast('Lien copié !');
+    }).catch(() => {
+      // Fallback
+      const ta = document.createElement('textarea');
+      ta.value = url;
+      ta.style.position = 'fixed';
+      ta.style.opacity = '0';
+      document.body.appendChild(ta);
+      ta.select();
+      document.execCommand('copy');
+      document.body.removeChild(ta);
+      showToast('Lien copié !');
+    });
+  });
+
   overlay.classList.remove('hidden');
   document.body.style.overflow = 'hidden';
 }
@@ -644,6 +756,105 @@ function closeModal(event) {
 document.addEventListener('keydown', (e) => {
   if (e.key === 'Escape') closeModal();
 });
+
+// Refresh card fav star after toggling in modal
+function refreshCardFavState(edu) {
+  const cards = document.querySelectorAll('.edu-card');
+  const id = getEduId(edu);
+  cards.forEach(card => {
+    const titleEl = card.querySelector('.edu-card-title');
+    if (titleEl && titleEl.textContent === edu.titre) {
+      const btn = card.querySelector('.fav-btn');
+      if (btn) {
+        const nowFav = isFavori(edu);
+        btn.textContent = nowFav ? '\u2605' : '\u2606';
+        btn.classList.toggle('fav-active', nowFav);
+      }
+    }
+  });
+}
+
+// Toggle favoris filter
+function toggleFavorisFilter() {
+  showFavorisOnly = !showFavorisOnly;
+  const btn = document.getElementById('favoris-filter-btn');
+  if (btn) {
+    btn.classList.toggle('filter-active', showFavorisOnly);
+  }
+
+  if (showFavorisOnly && !currentCategory && !isSearchActive) {
+    // Show all favorited educatifs across all categories
+    const favs = getFavoris();
+    const catLookup = {};
+    TAXONOMY.forEach(section => {
+      section.categories.forEach(cat => {
+        catLookup[cat.key] = { emoji: cat.emoji, name: cat.name };
+      });
+    });
+
+    const results = [];
+    for (const [key, edus] of Object.entries(educatifsData)) {
+      const catInfo = catLookup[key] || { emoji: '', name: key };
+      for (const edu of edus) {
+        if (favs.includes(getEduId(edu))) {
+          results.push({ ...edu, _catKey: key, _catEmoji: catInfo.emoji, _catName: catInfo.name });
+        }
+      }
+    }
+
+    isSearchActive = true;
+    currentEducatifs = results;
+    filtered = results;
+    currentPage = 0;
+
+    document.getElementById('taxonomy-container').classList.add('hidden');
+    document.getElementById('controls-bar').classList.add('hidden');
+    document.getElementById('edu-section').classList.remove('hidden');
+
+    const header = document.getElementById('category-header');
+    header.innerHTML = `
+      <div class="cat-header-emoji">\u2b50</div>
+      <div class="cat-header-info">
+        <h2>Mes favoris</h2>
+        <p>${results.length} \u00e9ducatif${results.length > 1 ? 's' : ''} favori${results.length > 1 ? 's' : ''}</p>
+      </div>
+    `;
+
+    renderEducatifs(filtered);
+  } else if (!showFavorisOnly && !currentCategory) {
+    // Return to taxonomy view
+    isSearchActive = false;
+    currentEducatifs = [];
+    filtered = [];
+    currentPage = 0;
+    document.getElementById('edu-section').classList.add('hidden');
+    document.getElementById('controls-bar').classList.add('hidden');
+    document.getElementById('taxonomy-container').classList.remove('hidden');
+    document.getElementById('edu-grid').innerHTML = '';
+    document.getElementById('category-header').innerHTML = '';
+    renderPagination(0);
+  } else {
+    applyFilters();
+  }
+}
+
+// Deep link: check for ?id= on page load
+function checkDeepLink() {
+  const params = new URLSearchParams(window.location.search);
+  const id = params.get('id');
+  if (!id) return;
+
+  const decodedId = decodeURIComponent(id);
+  // Search across all data
+  for (const [key, edus] of Object.entries(educatifsData)) {
+    for (const edu of edus) {
+      if (edu.titre === decodedId) {
+        openModal(edu);
+        return;
+      }
+    }
+  }
+}
 
 // ─────────────────────────────────────────────────────
 // CANVAS — PARTICULES DE FEU

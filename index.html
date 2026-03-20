@@ -91,6 +91,7 @@
         <span class="global-search-icon">🔍</span>
         <input type="text" id="global-search-input" class="global-search-input" placeholder="Rechercher dans les 1000+ éducatifs (titre, description, compétence, tags, niveau)..." autocomplete="off">
         <button id="global-search-clear" class="global-search-clear hidden" onclick="clearGlobalSearch()" title="Effacer la recherche">✕</button>
+        <button id="favoris-filter-btn" class="favoris-filter-btn" onclick="toggleFavorisFilter()" title="Afficher les favoris">⭐ Favoris</button>
       </div>
     </div>
 
@@ -170,6 +171,9 @@
       <div id="modal-content"></div>
     </div>
   </div>
+
+  <!-- Toast notification -->
+  <div id="toast-notification" class="toast-notification toast-hidden"></div>
 
   <script src="app.js"></script>
 </body>
