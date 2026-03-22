@@ -1656,7 +1656,7 @@ button {
   position: fixed;
   inset: 0;
   z-index: 0;
-  background: url('img/gym-bg-roots.png') center/cover no-repeat;
+  background: url('img/gym-bg-roots.jpg') center/cover no-repeat;
   opacity: 1;
   pointer-events: none;
 }
