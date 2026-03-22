@@ -6,7 +6,7 @@
   <title>🏋️ Éducatifs ÉPS — Zone Total Sport</title>
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-  <link href="https://fonts.googleapis.com/css2?family=Fredoka:wght@400;500;600;700&family=Nunito:wght@400;600;700;800;900&display=swap" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css2?family=Bangers&family=Barriecito&family=Comic+Neue:wght@400;700&family=Fredoka:wght@400;500;600;700&family=Nunito:wght@400;600;700;800;900&display=swap" rel="stylesheet">
   <link rel="stylesheet" href="style.css">
 </head>
 <body>
@@ -65,18 +65,38 @@
         <span class="badge-dot"></span>
         PFEQ Québec · Maternelle → Secondaire 5
       </div>
-      <h1 class="hero-title">ÉDUCATIFS PAR<br><span class="gradient-text">MOYENS D'ACTION</span></h1>
-      <p class="hero-subtitle">1000+ exercices par geste moteur · Progressions complètes · Descriptions pédagogiques détaillées</p>
+      <div class="hero-title-wrap">
+        <img src="img/bucheron-educatifs.png" alt="Mr Root éducatifs" class="hero-mascot-edu" />
+        <h1 class="hero-title">ÉDUCATIFS PAR<br><span class="gradient-text">MOYENS D'ACTION</span></h1>
+      </div>
+      <p class="hero-subtitle">La plus grande banque d'éducatifs en éducation physique au Québec</p>
+      <div class="hero-features">
+        <div class="hero-feature">
+          <span class="hero-feature-icon">🔍</span>
+          <span>Explore <strong>1000+ éducatifs</strong> classés par moyens d'action</span>
+        </div>
+        <div class="hero-feature">
+          <span class="hero-feature-icon">📋</span>
+          <span><strong>Conçois ton cours</strong> en sélectionnant tes éducatifs favoris</span>
+        </div>
+        <div class="hero-feature">
+          <span class="hero-feature-icon">📄</span>
+          <span><strong>Imprime, sauvegarde en PDF</strong> ou partage ton cours en un clic</span>
+        </div>
+        <div class="hero-feature">
+          <span class="hero-feature-icon">⭐</span>
+          <span>Sauvegarde tes <strong>favoris</strong> et retrouve-les instantanément</span>
+        </div>
+      </div>
       <div class="hero-cta">
         <button class="btn-primary" onclick="document.getElementById('taxonomy-section').scrollIntoView({behavior:'smooth'})">
           Explorer les catégories
           <span class="btn-arrow">↓</span>
         </button>
+        <button class="btn-secondary" onclick="openCours()">
+          📋 Concevoir mon cours
+        </button>
       </div>
-    </div>
-    <div class="hero-visual">
-      <img src="img/bucheron-salut.png" alt="Mascotte bûcheron" class="hero-mascot hero-mascot-left">
-      <img src="img/bucheron-pointer.png" alt="Mascotte bûcheron" class="hero-mascot hero-mascot-right">
     </div>
   </section>
 
@@ -137,6 +157,104 @@
 
   </main>
 
+  <!-- Section Conception de mon cours (cachée par défaut) -->
+  <section id="cours-section" class="cours-section hidden">
+    <div class="cours-inner">
+      <div class="cours-header">
+        <button class="back-btn" onclick="closeCours()">
+          <span class="back-icon">←</span>
+          Retour aux éducatifs
+        </button>
+        <h2 class="cours-title">📋 Conception de mon cours</h2>
+        <p class="cours-subtitle">Organise tes éducatifs pour créer un cours personnalisé</p>
+      </div>
+
+      <div class="cours-config">
+        <div class="cours-config-row">
+          <div class="cours-field">
+            <label class="cours-label">Titre du cours</label>
+            <input type="text" id="cours-titre" class="cours-input" placeholder="Ex: Cours de manipulation — 2e cycle" />
+          </div>
+          <div class="cours-field">
+            <label class="cours-label">Niveau scolaire</label>
+            <select id="cours-niveau" class="cours-select">
+              <option value="">Sélectionner un niveau</option>
+              <option value="Maternelle">Maternelle</option>
+              <option value="1er cycle">1er cycle</option>
+              <option value="2e cycle">2e cycle</option>
+              <option value="3e cycle">3e cycle</option>
+              <option value="Secondaire 1-2">Secondaire 1-2</option>
+              <option value="Secondaire 3-5">Secondaire 3-5</option>
+            </select>
+          </div>
+          <div class="cours-field">
+            <label class="cours-label">Durée totale</label>
+            <input type="text" id="cours-duree" class="cours-input cours-input-sm" placeholder="Ex: 60 min" />
+          </div>
+        </div>
+        <div class="cours-field">
+          <label class="cours-label">Notes / consignes générales</label>
+          <textarea id="cours-notes" class="cours-textarea" rows="3" placeholder="Ajoute tes notes, objectifs ou consignes pour ce cours..."></textarea>
+        </div>
+      </div>
+
+      <!-- Browser d'éducatifs disponibles -->
+      <div class="cours-browser">
+        <h3 class="cours-browser-title">🔍 Ajouter des éducatifs à ton cours</h3>
+        <div class="cours-browser-filters">
+          <div class="cours-field">
+            <label class="cours-label">Moyen d'action</label>
+            <select id="cours-cat-select" class="cours-select" onchange="updateCoursBrowser()">
+              <option value="">— Choisir un moyen d'action —</option>
+            </select>
+          </div>
+          <div class="cours-field">
+            <label class="cours-label">Recherche rapide</label>
+            <input type="text" id="cours-browser-search" class="cours-input" placeholder="Filtrer par mot-clé..." oninput="updateCoursBrowser()" />
+          </div>
+        </div>
+        <div id="cours-browser-results" class="cours-browser-results">
+          <p class="cours-browser-hint">Sélectionne un niveau scolaire et un moyen d'action pour voir les éducatifs disponibles.</p>
+        </div>
+      </div>
+
+      <div class="cours-list-header">
+        <h3>Éducatifs sélectionnés (<span id="cours-count">0</span>)</h3>
+        <button class="cours-clear-btn" onclick="clearCours()" title="Vider le cours">🗑️ Tout vider</button>
+      </div>
+
+      <div id="cours-list" class="cours-list">
+        <div class="cours-empty">
+          <div class="cours-empty-icon">📭</div>
+          <p>Aucun éducatif ajouté. Retourne à la banque et clique sur le <strong>+</strong> des cartes pour ajouter des éducatifs à ton cours.</p>
+        </div>
+      </div>
+
+      <div id="cours-actions" class="cours-actions hidden">
+        <div class="cours-total-duration">
+          Durée estimée : <strong><span id="cours-total-min">0</span> minutes</strong>
+        </div>
+        <div class="cours-export-btns">
+          <button class="cours-btn cours-btn-print" onclick="printCours()">🖨️ Imprimer</button>
+          <button class="cours-btn cours-btn-pdf" onclick="exportCoursPDF()">📄 Sauvegarder PDF</button>
+          <button class="cours-btn cours-btn-share" onclick="shareCours()">🔗 Partager</button>
+        </div>
+      </div>
+
+      <div class="cours-footer-logo">
+        <a href="https://zonetotalsport.ca" target="_blank">
+          <img src="img/logo-zonetotalsport.png" alt="ZoneTotalSport.ca" />
+        </a>
+      </div>
+    </div>
+  </section>
+
+  <!-- Bouton flottant Mon Cours -->
+  <button id="cours-fab" class="cours-fab" onclick="openCours()" title="Mon cours">
+    📋
+    <span id="cours-fab-count" class="cours-fab-count hidden">0</span>
+  </button>
+
   <!-- Stats bar bottom -->
   <div class="stats-bar">
     <div class="stats-bar-inner">
@@ -161,6 +279,13 @@
       </div>
     </div>
   </div>
+
+  <!-- Footer logo -->
+  <footer class="site-footer">
+    <a href="https://zonetotalsport.ca" target="_blank">
+      <img src="img/logo-zonetotalsport.png" alt="ZoneTotalSport.ca" class="site-footer-logo" />
+    </a>
+  </footer>
 
   <!-- Modal éducatif -->
   <div id="modal-overlay" class="modal-overlay hidden" onclick="closeModal(event)">
