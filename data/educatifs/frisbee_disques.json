@@ -16,7 +16,48 @@
       "lancer",
       "technique",
       "précision"
-    ]
+    ],
+    "progression": {
+      "niveau1": {
+        "titre": "Débutant",
+        "description": "Le débutant explore les bases de l'activité avec un accompagnement soutenu. Pour « Lancer frisbee de base », voici les attentes à ce niveau.",
+        "consignes": [
+          "Exécuter les mouvements de base lentement et avec contrôle",
+          "Se concentrer sur la technique plutôt que la performance",
+          "Utiliser du matériel adapté (plus léger, plus gros, plus lent)"
+        ],
+        "criteres_reussite": [
+          "L'élève comprend et respecte les consignes de base",
+          "Le geste technique de base est reconnaissable"
+        ]
+      },
+      "niveau2": {
+        "titre": "Intermédiaire",
+        "description": "L'élève maîtrise les bases et cherche à améliorer sa constance et sa fluidité. Pour « Lancer frisbee de base », voici les attentes à ce niveau.",
+        "consignes": [
+          "Ajouter des contraintes de temps ou d'espace",
+          "Introduire des variantes avec partenaire ou en mouvement",
+          "Combiner deux habiletés dans un même exercice"
+        ],
+        "criteres_reussite": [
+          "L'élève exécute le geste avec régularité",
+          "L'élève s'ajuste aux consignes supplémentaires"
+        ]
+      },
+      "niveau3": {
+        "titre": "Avancé",
+        "description": "L'élève perfectionne sa technique et s'adapte à des situations complexes. Pour « Lancer frisbee de base », voici les attentes à ce niveau.",
+        "consignes": [
+          "Exécuter en situation de jeu réelle ou compétitive",
+          "Aider un pair moins expérimenté comme tuteur",
+          "S'auto-évaluer et identifier ses points d'amélioration"
+        ],
+        "criteres_reussite": [
+          "L'élève transfère ses apprentissages à de nouvelles situations",
+          "L'élève maîtrise le geste dans des situations complexes"
+        ]
+      }
+    }
   },
   {
     "titre": "Ultimate initiation",
@@ -37,7 +78,48 @@
       "collectif",
       "démarquage",
       "tactique"
-    ]
+    ],
+    "progression": {
+      "niveau1": {
+        "titre": "Débutant",
+        "description": "À ce stade, l'objectif est d'apprivoiser l'exercice sans pression de performance. Pour « Ultimate initiation », voici les attentes à ce niveau.",
+        "consignes": [
+          "Observer une démonstration avant chaque essai",
+          "Exécuter les mouvements de base lentement et avec contrôle",
+          "Utiliser du matériel adapté (plus léger, plus gros, plus lent)"
+        ],
+        "criteres_reussite": [
+          "Le geste technique de base est reconnaissable",
+          "L'élève comprend et respecte les consignes de base"
+        ]
+      },
+      "niveau2": {
+        "titre": "Intermédiaire",
+        "description": "L'intermédiaire travaille la régularité et commence à combiner les habiletés. Pour « Ultimate initiation », voici les attentes à ce niveau.",
+        "consignes": [
+          "Combiner deux habiletés dans un même exercice",
+          "Réduire le temps de réflexion entre les actions",
+          "Augmenter progressivement la complexité de l'exercice"
+        ],
+        "criteres_reussite": [
+          "L'élève exécute le geste avec régularité",
+          "L'élève s'ajuste aux consignes supplémentaires"
+        ]
+      },
+      "niveau3": {
+        "titre": "Avancé",
+        "description": "L'élève perfectionne sa technique et s'adapte à des situations complexes. Pour « Ultimate initiation », voici les attentes à ce niveau.",
+        "consignes": [
+          "Combiner plusieurs habiletés en séquence complexe",
+          "S'auto-évaluer et identifier ses points d'amélioration",
+          "Créer et proposer ses propres variantes avancées"
+        ],
+        "criteres_reussite": [
+          "L'exécution est fluide, précise et constante",
+          "L'élève transfère ses apprentissages à de nouvelles situations"
+        ]
+      }
+    }
   },
   {
     "titre": "Frisbee golf 6 trous",
@@ -58,7 +140,48 @@
       "golf",
       "parcours",
       "précision"
-    ]
+    ],
+    "progression": {
+      "niveau1": {
+        "titre": "Débutant",
+        "description": "L'élève découvre l'activité et se familiarise avec les mouvements fondamentaux. Pour « Frisbee golf 6 trous », voici les attentes à ce niveau.",
+        "consignes": [
+          "Utiliser du matériel adapté (plus léger, plus gros, plus lent)",
+          "Exécuter les mouvements de base lentement et avec contrôle",
+          "Pratiquer en situation simplifiée sans pression"
+        ],
+        "criteres_reussite": [
+          "L'élève participe activement et fait des efforts",
+          "L'élève comprend et respecte les consignes de base"
+        ]
+      },
+      "niveau2": {
+        "titre": "Intermédiaire",
+        "description": "À ce niveau, on ajoute de la complexité tout en consolidant les acquis. Pour « Frisbee golf 6 trous », voici les attentes à ce niveau.",
+        "consignes": [
+          "Augmenter progressivement la complexité de l'exercice",
+          "Combiner deux habiletés dans un même exercice",
+          "Réduire le temps de réflexion entre les actions"
+        ],
+        "criteres_reussite": [
+          "L'élève exécute le geste avec régularité",
+          "L'élève s'ajuste aux consignes supplémentaires"
+        ]
+      },
+      "niveau3": {
+        "titre": "Avancé",
+        "description": "L'élève démontre une maîtrise complète et peut enseigner aux autres. Pour « Frisbee golf 6 trous », voici les attentes à ce niveau.",
+        "consignes": [
+          "Créer et proposer ses propres variantes avancées",
+          "S'auto-évaluer et identifier ses points d'amélioration",
+          "Exécuter en situation de jeu réelle ou compétitive"
+        ],
+        "criteres_reussite": [
+          "L'élève maîtrise le geste dans des situations complexes",
+          "L'élève transfère ses apprentissages à de nouvelles situations"
+        ]
+      }
+    }
   },
   {
     "titre": "Lancer forehand (revers)",
@@ -77,7 +200,48 @@
       "forehand",
       "technique",
       "prise"
-    ]
+    ],
+    "progression": {
+      "niveau1": {
+        "titre": "Débutant",
+        "description": "L'élève découvre l'activité et se familiarise avec les mouvements fondamentaux. Pour « Lancer forehand (revers) », voici les attentes à ce niveau.",
+        "consignes": [
+          "Utiliser du matériel adapté (plus léger, plus gros, plus lent)",
+          "Se concentrer sur la technique plutôt que la performance",
+          "Pratiquer en situation simplifiée sans pression"
+        ],
+        "criteres_reussite": [
+          "L'élève comprend et respecte les consignes de base",
+          "Le geste technique de base est reconnaissable"
+        ]
+      },
+      "niveau2": {
+        "titre": "Intermédiaire",
+        "description": "À ce niveau, on ajoute de la complexité tout en consolidant les acquis. Pour « Lancer forehand (revers) », voici les attentes à ce niveau.",
+        "consignes": [
+          "Combiner deux habiletés dans un même exercice",
+          "Augmenter progressivement la complexité de l'exercice",
+          "Introduire des variantes avec partenaire ou en mouvement"
+        ],
+        "criteres_reussite": [
+          "L'élève s'ajuste aux consignes supplémentaires",
+          "L'élève exécute le geste avec régularité"
+        ]
+      },
+      "niveau3": {
+        "titre": "Avancé",
+        "description": "À ce stade avancé, l'élève crée, innove et aide ses pairs. Pour « Lancer forehand (revers) », voici les attentes à ce niveau.",
+        "consignes": [
+          "Aider un pair moins expérimenté comme tuteur",
+          "S'auto-évaluer et identifier ses points d'amélioration",
+          "Combiner plusieurs habiletés en séquence complexe"
+        ],
+        "criteres_reussite": [
+          "L'élève transfère ses apprentissages à de nouvelles situations",
+          "L'exécution est fluide, précise et constante"
+        ]
+      }
+    }
   },
   {
     "titre": "Frisbee-cible murale",
@@ -97,7 +261,48 @@
       "cible",
       "mur",
       "précision"
-    ]
+    ],
+    "progression": {
+      "niveau1": {
+        "titre": "Débutant",
+        "description": "L'élève découvre l'activité et se familiarise avec les mouvements fondamentaux. Pour « Frisbee-cible murale », voici les attentes à ce niveau.",
+        "consignes": [
+          "Se concentrer sur la technique plutôt que la performance",
+          "Utiliser du matériel adapté (plus léger, plus gros, plus lent)",
+          "Exécuter les mouvements de base lentement et avec contrôle"
+        ],
+        "criteres_reussite": [
+          "L'élève comprend et respecte les consignes de base",
+          "L'élève participe activement et fait des efforts"
+        ]
+      },
+      "niveau2": {
+        "titre": "Intermédiaire",
+        "description": "À ce niveau, on ajoute de la complexité tout en consolidant les acquis. Pour « Frisbee-cible murale », voici les attentes à ce niveau.",
+        "consignes": [
+          "Réduire le temps de réflexion entre les actions",
+          "Ajouter des contraintes de temps ou d'espace",
+          "Introduire des variantes avec partenaire ou en mouvement"
+        ],
+        "criteres_reussite": [
+          "L'élève s'ajuste aux consignes supplémentaires",
+          "L'élève exécute le geste avec régularité"
+        ]
+      },
+      "niveau3": {
+        "titre": "Avancé",
+        "description": "L'élève perfectionne sa technique et s'adapte à des situations complexes. Pour « Frisbee-cible murale », voici les attentes à ce niveau.",
+        "consignes": [
+          "S'auto-évaluer et identifier ses points d'amélioration",
+          "Créer et proposer ses propres variantes avancées",
+          "Exécuter en situation de jeu réelle ou compétitive"
+        ],
+        "criteres_reussite": [
+          "L'élève maîtrise le geste dans des situations complexes",
+          "L'élève transfère ses apprentissages à de nouvelles situations"
+        ]
+      }
+    }
   },
   {
     "titre": "Attraper le frisbee en mouvement",
@@ -116,7 +321,48 @@
       "attraper",
       "mouvement",
       "ajustement"
-    ]
+    ],
+    "progression": {
+      "niveau1": {
+        "titre": "Débutant",
+        "description": "À ce stade, l'objectif est d'apprivoiser l'exercice sans pression de performance. Pour « Attraper le frisbee en mouvement », voici les attentes à ce niveau.",
+        "consignes": [
+          "Observer une démonstration avant chaque essai",
+          "Se concentrer sur la technique plutôt que la performance",
+          "Exécuter les mouvements de base lentement et avec contrôle"
+        ],
+        "criteres_reussite": [
+          "Le geste technique de base est reconnaissable",
+          "L'élève comprend et respecte les consignes de base"
+        ]
+      },
+      "niveau2": {
+        "titre": "Intermédiaire",
+        "description": "À ce niveau, on ajoute de la complexité tout en consolidant les acquis. Pour « Attraper le frisbee en mouvement », voici les attentes à ce niveau.",
+        "consignes": [
+          "Augmenter progressivement la complexité de l'exercice",
+          "Réduire le temps de réflexion entre les actions",
+          "Ajouter des contraintes de temps ou d'espace"
+        ],
+        "criteres_reussite": [
+          "L'élève exécute le geste avec régularité",
+          "L'élève s'ajuste aux consignes supplémentaires"
+        ]
+      },
+      "niveau3": {
+        "titre": "Avancé",
+        "description": "L'expert peut exécuter l'activité dans des contextes variés et exigeants. Pour « Attraper le frisbee en mouvement », voici les attentes à ce niveau.",
+        "consignes": [
+          "Créer et proposer ses propres variantes avancées",
+          "S'auto-évaluer et identifier ses points d'amélioration",
+          "Combiner plusieurs habiletés en séquence complexe"
+        ],
+        "criteres_reussite": [
+          "L'élève maîtrise le geste dans des situations complexes",
+          "L'élève transfère ses apprentissages à de nouvelles situations"
+        ]
+      }
+    }
   },
   {
     "titre": "Frisbee en mousse maternelle",
@@ -136,7 +382,48 @@
       "mousse",
       "maternelle",
       "initiation"
-    ]
+    ],
+    "progression": {
+      "niveau1": {
+        "titre": "Débutant",
+        "description": "L'accent est mis sur la compréhension des consignes et la sécurité. Pour « Frisbee en mousse maternelle », voici les attentes à ce niveau.",
+        "consignes": [
+          "Observer une démonstration avant chaque essai",
+          "Utiliser du matériel adapté (plus léger, plus gros, plus lent)",
+          "Se concentrer sur la technique plutôt que la performance"
+        ],
+        "criteres_reussite": [
+          "L'élève participe activement et fait des efforts",
+          "Le geste technique de base est reconnaissable"
+        ]
+      },
+      "niveau2": {
+        "titre": "Intermédiaire",
+        "description": "À ce niveau, on ajoute de la complexité tout en consolidant les acquis. Pour « Frisbee en mousse maternelle », voici les attentes à ce niveau.",
+        "consignes": [
+          "Ajouter des contraintes de temps ou d'espace",
+          "Combiner deux habiletés dans un même exercice",
+          "Augmenter progressivement la complexité de l'exercice"
+        ],
+        "criteres_reussite": [
+          "La technique est maîtrisée dans des situations variées",
+          "L'élève exécute le geste avec régularité"
+        ]
+      },
+      "niveau3": {
+        "titre": "Avancé",
+        "description": "À ce stade avancé, l'élève crée, innove et aide ses pairs. Pour « Frisbee en mousse maternelle », voici les attentes à ce niveau.",
+        "consignes": [
+          "Créer et proposer ses propres variantes avancées",
+          "Aider un pair moins expérimenté comme tuteur",
+          "Exécuter en situation de jeu réelle ou compétitive"
+        ],
+        "criteres_reussite": [
+          "L'élève transfère ses apprentissages à de nouvelles situations",
+          "L'exécution est fluide, précise et constante"
+        ]
+      }
+    }
   },
   {
     "titre": "Frisbee hammer throw",
@@ -155,7 +442,48 @@
       "hammer",
       "technique avancée",
       "trajectoire"
-    ]
+    ],
+    "progression": {
+      "niveau1": {
+        "titre": "Débutant",
+        "description": "Le débutant explore les bases de l'activité avec un accompagnement soutenu. Pour « Frisbee hammer throw », voici les attentes à ce niveau.",
+        "consignes": [
+          "Se concentrer sur la technique plutôt que la performance",
+          "Pratiquer en situation simplifiée sans pression",
+          "Observer une démonstration avant chaque essai"
+        ],
+        "criteres_reussite": [
+          "Le geste technique de base est reconnaissable",
+          "L'élève participe activement et fait des efforts"
+        ]
+      },
+      "niveau2": {
+        "titre": "Intermédiaire",
+        "description": "À ce niveau, on ajoute de la complexité tout en consolidant les acquis. Pour « Frisbee hammer throw », voici les attentes à ce niveau.",
+        "consignes": [
+          "Réduire le temps de réflexion entre les actions",
+          "Augmenter progressivement la complexité de l'exercice",
+          "Ajouter des contraintes de temps ou d'espace"
+        ],
+        "criteres_reussite": [
+          "La technique est maîtrisée dans des situations variées",
+          "L'élève s'ajuste aux consignes supplémentaires"
+        ]
+      },
+      "niveau3": {
+        "titre": "Avancé",
+        "description": "L'élève démontre une maîtrise complète et peut enseigner aux autres. Pour « Frisbee hammer throw », voici les attentes à ce niveau.",
+        "consignes": [
+          "S'auto-évaluer et identifier ses points d'amélioration",
+          "Créer et proposer ses propres variantes avancées",
+          "Combiner plusieurs habiletés en séquence complexe"
+        ],
+        "criteres_reussite": [
+          "L'élève transfère ses apprentissages à de nouvelles situations",
+          "L'élève maîtrise le geste dans des situations complexes"
+        ]
+      }
+    }
   },
   {
     "titre": "Frisbee passe en triangle",
@@ -174,7 +502,48 @@
       "passe",
       "triangle",
       "coopération"
-    ]
+    ],
+    "progression": {
+      "niveau1": {
+        "titre": "Débutant",
+        "description": "Le débutant explore les bases de l'activité avec un accompagnement soutenu. Pour « Frisbee passe en triangle », voici les attentes à ce niveau.",
+        "consignes": [
+          "Se concentrer sur la technique plutôt que la performance",
+          "Exécuter les mouvements de base lentement et avec contrôle",
+          "Utiliser du matériel adapté (plus léger, plus gros, plus lent)"
+        ],
+        "criteres_reussite": [
+          "Le geste technique de base est reconnaissable",
+          "L'élève participe activement et fait des efforts"
+        ]
+      },
+      "niveau2": {
+        "titre": "Intermédiaire",
+        "description": "À ce niveau, on ajoute de la complexité tout en consolidant les acquis. Pour « Frisbee passe en triangle », voici les attentes à ce niveau.",
+        "consignes": [
+          "Ajouter des contraintes de temps ou d'espace",
+          "Réduire le temps de réflexion entre les actions",
+          "Introduire des variantes avec partenaire ou en mouvement"
+        ],
+        "criteres_reussite": [
+          "L'élève exécute le geste avec régularité",
+          "L'élève s'ajuste aux consignes supplémentaires"
+        ]
+      },
+      "niveau3": {
+        "titre": "Avancé",
+        "description": "L'élève perfectionne sa technique et s'adapte à des situations complexes. Pour « Frisbee passe en triangle », voici les attentes à ce niveau.",
+        "consignes": [
+          "Créer et proposer ses propres variantes avancées",
+          "Aider un pair moins expérimenté comme tuteur",
+          "Exécuter en situation de jeu réelle ou compétitive"
+        ],
+        "criteres_reussite": [
+          "L'exécution est fluide, précise et constante",
+          "L'élève maîtrise le geste dans des situations complexes"
+        ]
+      }
+    }
   },
   {
     "titre": "Ultimate 3 contre 3",
@@ -195,7 +564,48 @@
       "3v3",
       "jeu",
       "stratégie"
-    ]
+    ],
+    "progression": {
+      "niveau1": {
+        "titre": "Débutant",
+        "description": "L'élève découvre l'activité et se familiarise avec les mouvements fondamentaux. Pour « Ultimate 3 contre 3 », voici les attentes à ce niveau.",
+        "consignes": [
+          "Se concentrer sur la technique plutôt que la performance",
+          "Utiliser du matériel adapté (plus léger, plus gros, plus lent)",
+          "Observer une démonstration avant chaque essai"
+        ],
+        "criteres_reussite": [
+          "L'élève comprend et respecte les consignes de base",
+          "Le geste technique de base est reconnaissable"
+        ]
+      },
+      "niveau2": {
+        "titre": "Intermédiaire",
+        "description": "À ce niveau, on ajoute de la complexité tout en consolidant les acquis. Pour « Ultimate 3 contre 3 », voici les attentes à ce niveau.",
+        "consignes": [
+          "Augmenter progressivement la complexité de l'exercice",
+          "Réduire le temps de réflexion entre les actions",
+          "Combiner deux habiletés dans un même exercice"
+        ],
+        "criteres_reussite": [
+          "L'élève exécute le geste avec régularité",
+          "La technique est maîtrisée dans des situations variées"
+        ]
+      },
+      "niveau3": {
+        "titre": "Avancé",
+        "description": "L'élève démontre une maîtrise complète et peut enseigner aux autres. Pour « Ultimate 3 contre 3 », voici les attentes à ce niveau.",
+        "consignes": [
+          "Aider un pair moins expérimenté comme tuteur",
+          "Créer et proposer ses propres variantes avancées",
+          "Exécuter en situation de jeu réelle ou compétitive"
+        ],
+        "criteres_reussite": [
+          "L'élève transfère ses apprentissages à de nouvelles situations",
+          "L'élève maîtrise le geste dans des situations complexes"
+        ]
+      }
+    }
   },
   {
     "titre": "Frisbee courbe",
@@ -215,7 +625,48 @@
       "courbe",
       "aérodynamique",
       "technique"
-    ]
+    ],
+    "progression": {
+      "niveau1": {
+        "titre": "Débutant",
+        "description": "Le débutant explore les bases de l'activité avec un accompagnement soutenu. Pour « Frisbee courbe », voici les attentes à ce niveau.",
+        "consignes": [
+          "Utiliser du matériel adapté (plus léger, plus gros, plus lent)",
+          "Se concentrer sur la technique plutôt que la performance",
+          "Observer une démonstration avant chaque essai"
+        ],
+        "criteres_reussite": [
+          "L'élève comprend et respecte les consignes de base",
+          "L'élève participe activement et fait des efforts"
+        ]
+      },
+      "niveau2": {
+        "titre": "Intermédiaire",
+        "description": "L'élève est capable d'exécuter l'activité de façon autonome avec quelques ajustements. Pour « Frisbee courbe », voici les attentes à ce niveau.",
+        "consignes": [
+          "Ajouter des contraintes de temps ou d'espace",
+          "Augmenter progressivement la complexité de l'exercice",
+          "Réduire le temps de réflexion entre les actions"
+        ],
+        "criteres_reussite": [
+          "L'élève s'ajuste aux consignes supplémentaires",
+          "La technique est maîtrisée dans des situations variées"
+        ]
+      },
+      "niveau3": {
+        "titre": "Avancé",
+        "description": "L'élève démontre une maîtrise complète et peut enseigner aux autres. Pour « Frisbee courbe », voici les attentes à ce niveau.",
+        "consignes": [
+          "Créer et proposer ses propres variantes avancées",
+          "S'auto-évaluer et identifier ses points d'amélioration",
+          "Exécuter en situation de jeu réelle ou compétitive"
+        ],
+        "criteres_reussite": [
+          "L'élève maîtrise le geste dans des situations complexes",
+          "L'élève transfère ses apprentissages à de nouvelles situations"
+        ]
+      }
+    }
   },
   {
     "titre": "Frisbee-bowling",
@@ -235,7 +686,48 @@
       "bowling",
       "rouler",
       "précision"
-    ]
+    ],
+    "progression": {
+      "niveau1": {
+        "titre": "Débutant",
+        "description": "L'élève découvre l'activité et se familiarise avec les mouvements fondamentaux. Pour « Frisbee-bowling », voici les attentes à ce niveau.",
+        "consignes": [
+          "Pratiquer en situation simplifiée sans pression",
+          "Exécuter les mouvements de base lentement et avec contrôle",
+          "Se concentrer sur la technique plutôt que la performance"
+        ],
+        "criteres_reussite": [
+          "Le geste technique de base est reconnaissable",
+          "L'élève comprend et respecte les consignes de base"
+        ]
+      },
+      "niveau2": {
+        "titre": "Intermédiaire",
+        "description": "À ce niveau, on ajoute de la complexité tout en consolidant les acquis. Pour « Frisbee-bowling », voici les attentes à ce niveau.",
+        "consignes": [
+          "Combiner deux habiletés dans un même exercice",
+          "Introduire des variantes avec partenaire ou en mouvement",
+          "Réduire le temps de réflexion entre les actions"
+        ],
+        "criteres_reussite": [
+          "La technique est maîtrisée dans des situations variées",
+          "L'élève s'ajuste aux consignes supplémentaires"
+        ]
+      },
+      "niveau3": {
+        "titre": "Avancé",
+        "description": "L'élève démontre une maîtrise complète et peut enseigner aux autres. Pour « Frisbee-bowling », voici les attentes à ce niveau.",
+        "consignes": [
+          "S'auto-évaluer et identifier ses points d'amélioration",
+          "Exécuter en situation de jeu réelle ou compétitive",
+          "Combiner plusieurs habiletés en séquence complexe"
+        ],
+        "criteres_reussite": [
+          "L'élève maîtrise le geste dans des situations complexes",
+          "L'élève transfère ses apprentissages à de nouvelles situations"
+        ]
+      }
+    }
   },
   {
     "titre": "Frisbee réception acrobatique",
@@ -255,7 +747,48 @@
       "réception",
       "acrobatique",
       "créativité"
-    ]
+    ],
+    "progression": {
+      "niveau1": {
+        "titre": "Débutant",
+        "description": "Le débutant explore les bases de l'activité avec un accompagnement soutenu. Pour « Frisbee réception acrobatique », voici les attentes à ce niveau.",
+        "consignes": [
+          "Utiliser du matériel adapté (plus léger, plus gros, plus lent)",
+          "Se concentrer sur la technique plutôt que la performance",
+          "Pratiquer en situation simplifiée sans pression"
+        ],
+        "criteres_reussite": [
+          "L'élève comprend et respecte les consignes de base",
+          "L'élève participe activement et fait des efforts"
+        ]
+      },
+      "niveau2": {
+        "titre": "Intermédiaire",
+        "description": "L'intermédiaire travaille la régularité et commence à combiner les habiletés. Pour « Frisbee réception acrobatique », voici les attentes à ce niveau.",
+        "consignes": [
+          "Augmenter progressivement la complexité de l'exercice",
+          "Ajouter des contraintes de temps ou d'espace",
+          "Introduire des variantes avec partenaire ou en mouvement"
+        ],
+        "criteres_reussite": [
+          "L'élève exécute le geste avec régularité",
+          "La technique est maîtrisée dans des situations variées"
+        ]
+      },
+      "niveau3": {
+        "titre": "Avancé",
+        "description": "L'expert peut exécuter l'activité dans des contextes variés et exigeants. Pour « Frisbee réception acrobatique », voici les attentes à ce niveau.",
+        "consignes": [
+          "Créer et proposer ses propres variantes avancées",
+          "S'auto-évaluer et identifier ses points d'amélioration",
+          "Combiner plusieurs habiletés en séquence complexe"
+        ],
+        "criteres_reussite": [
+          "L'exécution est fluide, précise et constante",
+          "L'élève maîtrise le geste dans des situations complexes"
+        ]
+      }
+    }
   },
   {
     "titre": "Frisbee relais",
@@ -275,7 +808,48 @@
       "relais",
       "équipe",
       "passe"
-    ]
+    ],
+    "progression": {
+      "niveau1": {
+        "titre": "Débutant",
+        "description": "L'accent est mis sur la compréhension des consignes et la sécurité. Pour « Frisbee relais », voici les attentes à ce niveau.",
+        "consignes": [
+          "Pratiquer en situation simplifiée sans pression",
+          "Exécuter les mouvements de base lentement et avec contrôle",
+          "Se concentrer sur la technique plutôt que la performance"
+        ],
+        "criteres_reussite": [
+          "Le geste technique de base est reconnaissable",
+          "L'élève participe activement et fait des efforts"
+        ]
+      },
+      "niveau2": {
+        "titre": "Intermédiaire",
+        "description": "À ce niveau, on ajoute de la complexité tout en consolidant les acquis. Pour « Frisbee relais », voici les attentes à ce niveau.",
+        "consignes": [
+          "Augmenter progressivement la complexité de l'exercice",
+          "Réduire le temps de réflexion entre les actions",
+          "Combiner deux habiletés dans un même exercice"
+        ],
+        "criteres_reussite": [
+          "L'élève exécute le geste avec régularité",
+          "L'élève s'ajuste aux consignes supplémentaires"
+        ]
+      },
+      "niveau3": {
+        "titre": "Avancé",
+        "description": "L'élève démontre une maîtrise complète et peut enseigner aux autres. Pour « Frisbee relais », voici les attentes à ce niveau.",
+        "consignes": [
+          "Exécuter en situation de jeu réelle ou compétitive",
+          "S'auto-évaluer et identifier ses points d'amélioration",
+          "Aider un pair moins expérimenté comme tuteur"
+        ],
+        "criteres_reussite": [
+          "L'élève maîtrise le geste dans des situations complexes",
+          "L'exécution est fluide, précise et constante"
+        ]
+      }
+    }
   },
   {
     "titre": "Disc golf parcours extérieur",
@@ -296,7 +870,48 @@
       "extérieur",
       "parcours",
       "stratégie"
-    ]
+    ],
+    "progression": {
+      "niveau1": {
+        "titre": "Débutant",
+        "description": "L'élève découvre l'activité et se familiarise avec les mouvements fondamentaux. Pour « Disc golf parcours extérieur », voici les attentes à ce niveau.",
+        "consignes": [
+          "Se concentrer sur la technique plutôt que la performance",
+          "Observer une démonstration avant chaque essai",
+          "Exécuter les mouvements de base lentement et avec contrôle"
+        ],
+        "criteres_reussite": [
+          "L'élève comprend et respecte les consignes de base",
+          "Le geste technique de base est reconnaissable"
+        ]
+      },
+      "niveau2": {
+        "titre": "Intermédiaire",
+        "description": "L'intermédiaire travaille la régularité et commence à combiner les habiletés. Pour « Disc golf parcours extérieur », voici les attentes à ce niveau.",
+        "consignes": [
+          "Augmenter progressivement la complexité de l'exercice",
+          "Réduire le temps de réflexion entre les actions",
+          "Ajouter des contraintes de temps ou d'espace"
+        ],
+        "criteres_reussite": [
+          "L'élève exécute le geste avec régularité",
+          "L'élève s'ajuste aux consignes supplémentaires"
+        ]
+      },
+      "niveau3": {
+        "titre": "Avancé",
+        "description": "L'expert peut exécuter l'activité dans des contextes variés et exigeants. Pour « Disc golf parcours extérieur », voici les attentes à ce niveau.",
+        "consignes": [
+          "Exécuter en situation de jeu réelle ou compétitive",
+          "Créer et proposer ses propres variantes avancées",
+          "Combiner plusieurs habiletés en séquence complexe"
+        ],
+        "criteres_reussite": [
+          "L'élève transfère ses apprentissages à de nouvelles situations",
+          "L'exécution est fluide, précise et constante"
+        ]
+      }
+    }
   },
   {
     "titre": "Frisbee defense positioning",
@@ -317,7 +932,48 @@
       "défense",
       "positionnement",
       "tactique"
-    ]
+    ],
+    "progression": {
+      "niveau1": {
+        "titre": "Débutant",
+        "description": "À ce stade, l'objectif est d'apprivoiser l'exercice sans pression de performance. Pour « Frisbee defense positioning », voici les attentes à ce niveau.",
+        "consignes": [
+          "Se concentrer sur la technique plutôt que la performance",
+          "Observer une démonstration avant chaque essai",
+          "Utiliser du matériel adapté (plus léger, plus gros, plus lent)"
+        ],
+        "criteres_reussite": [
+          "Le geste technique de base est reconnaissable",
+          "L'élève comprend et respecte les consignes de base"
+        ]
+      },
+      "niveau2": {
+        "titre": "Intermédiaire",
+        "description": "L'élève maîtrise les bases et cherche à améliorer sa constance et sa fluidité. Pour « Frisbee defense positioning », voici les attentes à ce niveau.",
+        "consignes": [
+          "Réduire le temps de réflexion entre les actions",
+          "Introduire des variantes avec partenaire ou en mouvement",
+          "Ajouter des contraintes de temps ou d'espace"
+        ],
+        "criteres_reussite": [
+          "La technique est maîtrisée dans des situations variées",
+          "L'élève s'ajuste aux consignes supplémentaires"
+        ]
+      },
+      "niveau3": {
+        "titre": "Avancé",
+        "description": "L'expert peut exécuter l'activité dans des contextes variés et exigeants. Pour « Frisbee defense positioning », voici les attentes à ce niveau.",
+        "consignes": [
+          "S'auto-évaluer et identifier ses points d'amélioration",
+          "Combiner plusieurs habiletés en séquence complexe",
+          "Créer et proposer ses propres variantes avancées"
+        ],
+        "criteres_reussite": [
+          "L'exécution est fluide, précise et constante",
+          "L'élève transfère ses apprentissages à de nouvelles situations"
+        ]
+      }
+    }
   },
   {
     "titre": "Frisbee lancer à genoux",
@@ -336,7 +992,48 @@
       "genoux",
       "technique",
       "poignet"
-    ]
+    ],
+    "progression": {
+      "niveau1": {
+        "titre": "Débutant",
+        "description": "Le débutant explore les bases de l'activité avec un accompagnement soutenu. Pour « Frisbee lancer à genoux », voici les attentes à ce niveau.",
+        "consignes": [
+          "Utiliser du matériel adapté (plus léger, plus gros, plus lent)",
+          "Pratiquer en situation simplifiée sans pression",
+          "Exécuter les mouvements de base lentement et avec contrôle"
+        ],
+        "criteres_reussite": [
+          "L'élève comprend et respecte les consignes de base",
+          "Le geste technique de base est reconnaissable"
+        ]
+      },
+      "niveau2": {
+        "titre": "Intermédiaire",
+        "description": "L'élève maîtrise les bases et cherche à améliorer sa constance et sa fluidité. Pour « Frisbee lancer à genoux », voici les attentes à ce niveau.",
+        "consignes": [
+          "Augmenter progressivement la complexité de l'exercice",
+          "Réduire le temps de réflexion entre les actions",
+          "Combiner deux habiletés dans un même exercice"
+        ],
+        "criteres_reussite": [
+          "L'élève exécute le geste avec régularité",
+          "L'élève s'ajuste aux consignes supplémentaires"
+        ]
+      },
+      "niveau3": {
+        "titre": "Avancé",
+        "description": "À ce stade avancé, l'élève crée, innove et aide ses pairs. Pour « Frisbee lancer à genoux », voici les attentes à ce niveau.",
+        "consignes": [
+          "Exécuter en situation de jeu réelle ou compétitive",
+          "Aider un pair moins expérimenté comme tuteur",
+          "S'auto-évaluer et identifier ses points d'amélioration"
+        ],
+        "criteres_reussite": [
+          "L'élève maîtrise le geste dans des situations complexes",
+          "L'élève transfère ses apprentissages à de nouvelles situations"
+        ]
+      }
+    }
   },
   {
     "titre": "Frisbee keepaway",
@@ -356,7 +1053,48 @@
       "keepaway",
       "conservation",
       "décision"
-    ]
+    ],
+    "progression": {
+      "niveau1": {
+        "titre": "Débutant",
+        "description": "Le débutant explore les bases de l'activité avec un accompagnement soutenu. Pour « Frisbee keepaway », voici les attentes à ce niveau.",
+        "consignes": [
+          "Pratiquer en situation simplifiée sans pression",
+          "Observer une démonstration avant chaque essai",
+          "Exécuter les mouvements de base lentement et avec contrôle"
+        ],
+        "criteres_reussite": [
+          "Le geste technique de base est reconnaissable",
+          "L'élève comprend et respecte les consignes de base"
+        ]
+      },
+      "niveau2": {
+        "titre": "Intermédiaire",
+        "description": "À ce niveau, on ajoute de la complexité tout en consolidant les acquis. Pour « Frisbee keepaway », voici les attentes à ce niveau.",
+        "consignes": [
+          "Introduire des variantes avec partenaire ou en mouvement",
+          "Réduire le temps de réflexion entre les actions",
+          "Ajouter des contraintes de temps ou d'espace"
+        ],
+        "criteres_reussite": [
+          "L'élève s'ajuste aux consignes supplémentaires",
+          "La technique est maîtrisée dans des situations variées"
+        ]
+      },
+      "niveau3": {
+        "titre": "Avancé",
+        "description": "L'élève démontre une maîtrise complète et peut enseigner aux autres. Pour « Frisbee keepaway », voici les attentes à ce niveau.",
+        "consignes": [
+          "S'auto-évaluer et identifier ses points d'amélioration",
+          "Exécuter en situation de jeu réelle ou compétitive",
+          "Aider un pair moins expérimenté comme tuteur"
+        ],
+        "criteres_reussite": [
+          "L'élève maîtrise le geste dans des situations complexes",
+          "L'exécution est fluide, précise et constante"
+        ]
+      }
+    }
   },
   {
     "titre": "Frisbee passe longue",
@@ -375,7 +1113,48 @@
       "longue distance",
       "puissance",
       "technique"
-    ]
+    ],
+    "progression": {
+      "niveau1": {
+        "titre": "Débutant",
+        "description": "Le débutant explore les bases de l'activité avec un accompagnement soutenu. Pour « Frisbee passe longue », voici les attentes à ce niveau.",
+        "consignes": [
+          "Pratiquer en situation simplifiée sans pression",
+          "Se concentrer sur la technique plutôt que la performance",
+          "Observer une démonstration avant chaque essai"
+        ],
+        "criteres_reussite": [
+          "L'élève comprend et respecte les consignes de base",
+          "L'élève participe activement et fait des efforts"
+        ]
+      },
+      "niveau2": {
+        "titre": "Intermédiaire",
+        "description": "À ce niveau, on ajoute de la complexité tout en consolidant les acquis. Pour « Frisbee passe longue », voici les attentes à ce niveau.",
+        "consignes": [
+          "Combiner deux habiletés dans un même exercice",
+          "Introduire des variantes avec partenaire ou en mouvement",
+          "Réduire le temps de réflexion entre les actions"
+        ],
+        "criteres_reussite": [
+          "La technique est maîtrisée dans des situations variées",
+          "L'élève exécute le geste avec régularité"
+        ]
+      },
+      "niveau3": {
+        "titre": "Avancé",
+        "description": "L'élève perfectionne sa technique et s'adapte à des situations complexes. Pour « Frisbee passe longue », voici les attentes à ce niveau.",
+        "consignes": [
+          "Aider un pair moins expérimenté comme tuteur",
+          "Exécuter en situation de jeu réelle ou compétitive",
+          "Créer et proposer ses propres variantes avancées"
+        ],
+        "criteres_reussite": [
+          "L'élève maîtrise le geste dans des situations complexes",
+          "L'élève transfère ses apprentissages à de nouvelles situations"
+        ]
+      }
+    }
   },
   {
     "titre": "Frisbee relay course obstacle",
@@ -398,7 +1177,48 @@
       "parcours",
       "obstacles",
       "relais"
-    ]
+    ],
+    "progression": {
+      "niveau1": {
+        "titre": "Débutant",
+        "description": "L'accent est mis sur la compréhension des consignes et la sécurité. Pour « Frisbee relay course obstacle », voici les attentes à ce niveau.",
+        "consignes": [
+          "Pratiquer en situation simplifiée sans pression",
+          "Se concentrer sur la technique plutôt que la performance",
+          "Observer une démonstration avant chaque essai"
+        ],
+        "criteres_reussite": [
+          "L'élève comprend et respecte les consignes de base",
+          "Le geste technique de base est reconnaissable"
+        ]
+      },
+      "niveau2": {
+        "titre": "Intermédiaire",
+        "description": "L'intermédiaire travaille la régularité et commence à combiner les habiletés. Pour « Frisbee relay course obstacle », voici les attentes à ce niveau.",
+        "consignes": [
+          "Réduire le temps de réflexion entre les actions",
+          "Ajouter des contraintes de temps ou d'espace",
+          "Augmenter progressivement la complexité de l'exercice"
+        ],
+        "criteres_reussite": [
+          "L'élève s'ajuste aux consignes supplémentaires",
+          "L'élève exécute le geste avec régularité"
+        ]
+      },
+      "niveau3": {
+        "titre": "Avancé",
+        "description": "L'expert peut exécuter l'activité dans des contextes variés et exigeants. Pour « Frisbee relay course obstacle », voici les attentes à ce niveau.",
+        "consignes": [
+          "Aider un pair moins expérimenté comme tuteur",
+          "Combiner plusieurs habiletés en séquence complexe",
+          "Exécuter en situation de jeu réelle ou compétitive"
+        ],
+        "criteres_reussite": [
+          "L'exécution est fluide, précise et constante",
+          "L'élève transfère ses apprentissages à de nouvelles situations"
+        ]
+      }
+    }
   },
   {
     "titre": "Frisbee passe-muraille",
@@ -418,7 +1238,48 @@
       "trajectoire",
       "arc",
       "duo"
-    ]
+    ],
+    "progression": {
+      "niveau1": {
+        "titre": "Débutant",
+        "description": "L'élève découvre l'activité et se familiarise avec les mouvements fondamentaux. Pour « Frisbee passe-muraille », voici les attentes à ce niveau.",
+        "consignes": [
+          "Exécuter les mouvements de base lentement et avec contrôle",
+          "Pratiquer en situation simplifiée sans pression",
+          "Se concentrer sur la technique plutôt que la performance"
+        ],
+        "criteres_reussite": [
+          "Le geste technique de base est reconnaissable",
+          "L'élève comprend et respecte les consignes de base"
+        ]
+      },
+      "niveau2": {
+        "titre": "Intermédiaire",
+        "description": "L'élève est capable d'exécuter l'activité de façon autonome avec quelques ajustements. Pour « Frisbee passe-muraille », voici les attentes à ce niveau.",
+        "consignes": [
+          "Combiner deux habiletés dans un même exercice",
+          "Ajouter des contraintes de temps ou d'espace",
+          "Augmenter progressivement la complexité de l'exercice"
+        ],
+        "criteres_reussite": [
+          "La technique est maîtrisée dans des situations variées",
+          "L'élève exécute le geste avec régularité"
+        ]
+      },
+      "niveau3": {
+        "titre": "Avancé",
+        "description": "L'élève démontre une maîtrise complète et peut enseigner aux autres. Pour « Frisbee passe-muraille », voici les attentes à ce niveau.",
+        "consignes": [
+          "Combiner plusieurs habiletés en séquence complexe",
+          "Créer et proposer ses propres variantes avancées",
+          "Aider un pair moins expérimenté comme tuteur"
+        ],
+        "criteres_reussite": [
+          "L'élève transfère ses apprentissages à de nouvelles situations",
+          "L'exécution est fluide, précise et constante"
+        ]
+      }
+    }
   },
   {
     "titre": "Ultimate zone strategy",
@@ -439,7 +1300,48 @@
       "zone",
       "tactique avancée",
       "collectif"
-    ]
+    ],
+    "progression": {
+      "niveau1": {
+        "titre": "Débutant",
+        "description": "À ce stade, l'objectif est d'apprivoiser l'exercice sans pression de performance. Pour « Ultimate zone strategy », voici les attentes à ce niveau.",
+        "consignes": [
+          "Exécuter les mouvements de base lentement et avec contrôle",
+          "Observer une démonstration avant chaque essai",
+          "Utiliser du matériel adapté (plus léger, plus gros, plus lent)"
+        ],
+        "criteres_reussite": [
+          "L'élève comprend et respecte les consignes de base",
+          "L'élève participe activement et fait des efforts"
+        ]
+      },
+      "niveau2": {
+        "titre": "Intermédiaire",
+        "description": "À ce niveau, on ajoute de la complexité tout en consolidant les acquis. Pour « Ultimate zone strategy », voici les attentes à ce niveau.",
+        "consignes": [
+          "Augmenter progressivement la complexité de l'exercice",
+          "Ajouter des contraintes de temps ou d'espace",
+          "Combiner deux habiletés dans un même exercice"
+        ],
+        "criteres_reussite": [
+          "L'élève s'ajuste aux consignes supplémentaires",
+          "La technique est maîtrisée dans des situations variées"
+        ]
+      },
+      "niveau3": {
+        "titre": "Avancé",
+        "description": "L'élève démontre une maîtrise complète et peut enseigner aux autres. Pour « Ultimate zone strategy », voici les attentes à ce niveau.",
+        "consignes": [
+          "Exécuter en situation de jeu réelle ou compétitive",
+          "S'auto-évaluer et identifier ses points d'amélioration",
+          "Combiner plusieurs habiletés en séquence complexe"
+        ],
+        "criteres_reussite": [
+          "L'élève maîtrise le geste dans des situations complexes",
+          "L'exécution est fluide, précise et constante"
+        ]
+      }
+    }
   },
   {
     "titre": "Frisbee précision cerceau au sol",
@@ -459,7 +1361,48 @@
       "précision",
       "cerceaux",
       "dosage"
-    ]
+    ],
+    "progression": {
+      "niveau1": {
+        "titre": "Débutant",
+        "description": "L'accent est mis sur la compréhension des consignes et la sécurité. Pour « Frisbee précision cerceau au sol », voici les attentes à ce niveau.",
+        "consignes": [
+          "Pratiquer en situation simplifiée sans pression",
+          "Exécuter les mouvements de base lentement et avec contrôle",
+          "Observer une démonstration avant chaque essai"
+        ],
+        "criteres_reussite": [
+          "L'élève participe activement et fait des efforts",
+          "Le geste technique de base est reconnaissable"
+        ]
+      },
+      "niveau2": {
+        "titre": "Intermédiaire",
+        "description": "L'intermédiaire travaille la régularité et commence à combiner les habiletés. Pour « Frisbee précision cerceau au sol », voici les attentes à ce niveau.",
+        "consignes": [
+          "Introduire des variantes avec partenaire ou en mouvement",
+          "Ajouter des contraintes de temps ou d'espace",
+          "Augmenter progressivement la complexité de l'exercice"
+        ],
+        "criteres_reussite": [
+          "La technique est maîtrisée dans des situations variées",
+          "L'élève s'ajuste aux consignes supplémentaires"
+        ]
+      },
+      "niveau3": {
+        "titre": "Avancé",
+        "description": "L'expert peut exécuter l'activité dans des contextes variés et exigeants. Pour « Frisbee précision cerceau au sol », voici les attentes à ce niveau.",
+        "consignes": [
+          "Exécuter en situation de jeu réelle ou compétitive",
+          "S'auto-évaluer et identifier ses points d'amélioration",
+          "Aider un pair moins expérimenté comme tuteur"
+        ],
+        "criteres_reussite": [
+          "L'élève transfère ses apprentissages à de nouvelles situations",
+          "L'exécution est fluide, précise et constante"
+        ]
+      }
+    }
   },
   {
     "titre": "Frisbee hot box",
@@ -480,7 +1423,48 @@
       "hot box",
       "passes",
       "démarquage"
-    ]
+    ],
+    "progression": {
+      "niveau1": {
+        "titre": "Débutant",
+        "description": "À ce stade, l'objectif est d'apprivoiser l'exercice sans pression de performance. Pour « Frisbee hot box », voici les attentes à ce niveau.",
+        "consignes": [
+          "Se concentrer sur la technique plutôt que la performance",
+          "Observer une démonstration avant chaque essai",
+          "Pratiquer en situation simplifiée sans pression"
+        ],
+        "criteres_reussite": [
+          "L'élève participe activement et fait des efforts",
+          "L'élève comprend et respecte les consignes de base"
+        ]
+      },
+      "niveau2": {
+        "titre": "Intermédiaire",
+        "description": "L'élève est capable d'exécuter l'activité de façon autonome avec quelques ajustements. Pour « Frisbee hot box », voici les attentes à ce niveau.",
+        "consignes": [
+          "Introduire des variantes avec partenaire ou en mouvement",
+          "Réduire le temps de réflexion entre les actions",
+          "Ajouter des contraintes de temps ou d'espace"
+        ],
+        "criteres_reussite": [
+          "L'élève exécute le geste avec régularité",
+          "L'élève s'ajuste aux consignes supplémentaires"
+        ]
+      },
+      "niveau3": {
+        "titre": "Avancé",
+        "description": "L'élève perfectionne sa technique et s'adapte à des situations complexes. Pour « Frisbee hot box », voici les attentes à ce niveau.",
+        "consignes": [
+          "Aider un pair moins expérimenté comme tuteur",
+          "Créer et proposer ses propres variantes avancées",
+          "Exécuter en situation de jeu réelle ou compétitive"
+        ],
+        "criteres_reussite": [
+          "L'élève maîtrise le geste dans des situations complexes",
+          "L'exécution est fluide, précise et constante"
+        ]
+      }
+    }
   },
   {
     "titre": "Frisbee trick shots",
@@ -499,7 +1483,48 @@
       "trick shots",
       "techniques spéciales",
       "créativité"
-    ]
+    ],
+    "progression": {
+      "niveau1": {
+        "titre": "Débutant",
+        "description": "L'élève découvre l'activité et se familiarise avec les mouvements fondamentaux. Pour « Frisbee trick shots », voici les attentes à ce niveau.",
+        "consignes": [
+          "Se concentrer sur la technique plutôt que la performance",
+          "Exécuter les mouvements de base lentement et avec contrôle",
+          "Utiliser du matériel adapté (plus léger, plus gros, plus lent)"
+        ],
+        "criteres_reussite": [
+          "Le geste technique de base est reconnaissable",
+          "L'élève participe activement et fait des efforts"
+        ]
+      },
+      "niveau2": {
+        "titre": "Intermédiaire",
+        "description": "L'élève maîtrise les bases et cherche à améliorer sa constance et sa fluidité. Pour « Frisbee trick shots », voici les attentes à ce niveau.",
+        "consignes": [
+          "Combiner deux habiletés dans un même exercice",
+          "Introduire des variantes avec partenaire ou en mouvement",
+          "Ajouter des contraintes de temps ou d'espace"
+        ],
+        "criteres_reussite": [
+          "L'élève exécute le geste avec régularité",
+          "L'élève s'ajuste aux consignes supplémentaires"
+        ]
+      },
+      "niveau3": {
+        "titre": "Avancé",
+        "description": "À ce stade avancé, l'élève crée, innove et aide ses pairs. Pour « Frisbee trick shots », voici les attentes à ce niveau.",
+        "consignes": [
+          "S'auto-évaluer et identifier ses points d'amélioration",
+          "Créer et proposer ses propres variantes avancées",
+          "Exécuter en situation de jeu réelle ou compétitive"
+        ],
+        "criteres_reussite": [
+          "L'élève transfère ses apprentissages à de nouvelles situations",
+          "L'élève maîtrise le geste dans des situations complexes"
+        ]
+      }
+    }
   },
   {
     "titre": "Frisbee interception circle",
@@ -518,7 +1543,48 @@
       "interception",
       "cercle",
       "réaction"
-    ]
+    ],
+    "progression": {
+      "niveau1": {
+        "titre": "Débutant",
+        "description": "L'accent est mis sur la compréhension des consignes et la sécurité. Pour « Frisbee interception circle », voici les attentes à ce niveau.",
+        "consignes": [
+          "Exécuter les mouvements de base lentement et avec contrôle",
+          "Observer une démonstration avant chaque essai",
+          "Se concentrer sur la technique plutôt que la performance"
+        ],
+        "criteres_reussite": [
+          "L'élève participe activement et fait des efforts",
+          "Le geste technique de base est reconnaissable"
+        ]
+      },
+      "niveau2": {
+        "titre": "Intermédiaire",
+        "description": "L'intermédiaire travaille la régularité et commence à combiner les habiletés. Pour « Frisbee interception circle », voici les attentes à ce niveau.",
+        "consignes": [
+          "Combiner deux habiletés dans un même exercice",
+          "Réduire le temps de réflexion entre les actions",
+          "Ajouter des contraintes de temps ou d'espace"
+        ],
+        "criteres_reussite": [
+          "La technique est maîtrisée dans des situations variées",
+          "L'élève s'ajuste aux consignes supplémentaires"
+        ]
+      },
+      "niveau3": {
+        "titre": "Avancé",
+        "description": "L'expert peut exécuter l'activité dans des contextes variés et exigeants. Pour « Frisbee interception circle », voici les attentes à ce niveau.",
+        "consignes": [
+          "Créer et proposer ses propres variantes avancées",
+          "Aider un pair moins expérimenté comme tuteur",
+          "Exécuter en situation de jeu réelle ou compétitive"
+        ],
+        "criteres_reussite": [
+          "L'exécution est fluide, précise et constante",
+          "L'élève transfère ses apprentissages à de nouvelles situations"
+        ]
+      }
+    }
   },
   {
     "titre": "Frisbee distance challenge",
@@ -538,7 +1604,48 @@
       "distance",
       "puissance",
       "concours"
-    ]
+    ],
+    "progression": {
+      "niveau1": {
+        "titre": "Débutant",
+        "description": "À ce stade, l'objectif est d'apprivoiser l'exercice sans pression de performance. Pour « Frisbee distance challenge », voici les attentes à ce niveau.",
+        "consignes": [
+          "Observer une démonstration avant chaque essai",
+          "Pratiquer en situation simplifiée sans pression",
+          "Exécuter les mouvements de base lentement et avec contrôle"
+        ],
+        "criteres_reussite": [
+          "Le geste technique de base est reconnaissable",
+          "L'élève comprend et respecte les consignes de base"
+        ]
+      },
+      "niveau2": {
+        "titre": "Intermédiaire",
+        "description": "L'élève est capable d'exécuter l'activité de façon autonome avec quelques ajustements. Pour « Frisbee distance challenge », voici les attentes à ce niveau.",
+        "consignes": [
+          "Combiner deux habiletés dans un même exercice",
+          "Introduire des variantes avec partenaire ou en mouvement",
+          "Réduire le temps de réflexion entre les actions"
+        ],
+        "criteres_reussite": [
+          "L'élève exécute le geste avec régularité",
+          "La technique est maîtrisée dans des situations variées"
+        ]
+      },
+      "niveau3": {
+        "titre": "Avancé",
+        "description": "L'expert peut exécuter l'activité dans des contextes variés et exigeants. Pour « Frisbee distance challenge », voici les attentes à ce niveau.",
+        "consignes": [
+          "Exécuter en situation de jeu réelle ou compétitive",
+          "Combiner plusieurs habiletés en séquence complexe",
+          "Créer et proposer ses propres variantes avancées"
+        ],
+        "criteres_reussite": [
+          "L'élève transfère ses apprentissages à de nouvelles situations",
+          "L'exécution est fluide, précise et constante"
+        ]
+      }
+    }
   },
   {
     "titre": "Frisbee catch and throw",
@@ -557,7 +1664,48 @@
       "rapidité",
       "transition",
       "échange"
-    ]
+    ],
+    "progression": {
+      "niveau1": {
+        "titre": "Débutant",
+        "description": "Le débutant explore les bases de l'activité avec un accompagnement soutenu. Pour « Frisbee catch and throw », voici les attentes à ce niveau.",
+        "consignes": [
+          "Se concentrer sur la technique plutôt que la performance",
+          "Exécuter les mouvements de base lentement et avec contrôle",
+          "Pratiquer en situation simplifiée sans pression"
+        ],
+        "criteres_reussite": [
+          "Le geste technique de base est reconnaissable",
+          "L'élève comprend et respecte les consignes de base"
+        ]
+      },
+      "niveau2": {
+        "titre": "Intermédiaire",
+        "description": "L'intermédiaire travaille la régularité et commence à combiner les habiletés. Pour « Frisbee catch and throw », voici les attentes à ce niveau.",
+        "consignes": [
+          "Ajouter des contraintes de temps ou d'espace",
+          "Combiner deux habiletés dans un même exercice",
+          "Réduire le temps de réflexion entre les actions"
+        ],
+        "criteres_reussite": [
+          "L'élève exécute le geste avec régularité",
+          "La technique est maîtrisée dans des situations variées"
+        ]
+      },
+      "niveau3": {
+        "titre": "Avancé",
+        "description": "L'expert peut exécuter l'activité dans des contextes variés et exigeants. Pour « Frisbee catch and throw », voici les attentes à ce niveau.",
+        "consignes": [
+          "Créer et proposer ses propres variantes avancées",
+          "Aider un pair moins expérimenté comme tuteur",
+          "S'auto-évaluer et identifier ses points d'amélioration"
+        ],
+        "criteres_reussite": [
+          "L'exécution est fluide, précise et constante",
+          "L'élève transfère ses apprentissages à de nouvelles situations"
+        ]
+      }
+    }
   },
   {
     "titre": "Frisbee shuttle run",
@@ -577,7 +1725,48 @@
       "course",
       "cardio",
       "combiné"
-    ]
+    ],
+    "progression": {
+      "niveau1": {
+        "titre": "Débutant",
+        "description": "L'élève découvre l'activité et se familiarise avec les mouvements fondamentaux. Pour « Frisbee shuttle run », voici les attentes à ce niveau.",
+        "consignes": [
+          "Se concentrer sur la technique plutôt que la performance",
+          "Exécuter les mouvements de base lentement et avec contrôle",
+          "Utiliser du matériel adapté (plus léger, plus gros, plus lent)"
+        ],
+        "criteres_reussite": [
+          "L'élève participe activement et fait des efforts",
+          "Le geste technique de base est reconnaissable"
+        ]
+      },
+      "niveau2": {
+        "titre": "Intermédiaire",
+        "description": "L'élève maîtrise les bases et cherche à améliorer sa constance et sa fluidité. Pour « Frisbee shuttle run », voici les attentes à ce niveau.",
+        "consignes": [
+          "Combiner deux habiletés dans un même exercice",
+          "Ajouter des contraintes de temps ou d'espace",
+          "Réduire le temps de réflexion entre les actions"
+        ],
+        "criteres_reussite": [
+          "La technique est maîtrisée dans des situations variées",
+          "L'élève s'ajuste aux consignes supplémentaires"
+        ]
+      },
+      "niveau3": {
+        "titre": "Avancé",
+        "description": "À ce stade avancé, l'élève crée, innove et aide ses pairs. Pour « Frisbee shuttle run », voici les attentes à ce niveau.",
+        "consignes": [
+          "Exécuter en situation de jeu réelle ou compétitive",
+          "Aider un pair moins expérimenté comme tuteur",
+          "Créer et proposer ses propres variantes avancées"
+        ],
+        "criteres_reussite": [
+          "L'élève maîtrise le geste dans des situations complexes",
+          "L'exécution est fluide, précise et constante"
+        ]
+      }
+    }
   },
   {
     "titre": "Frisbee MTA (maximum time aloft)",
@@ -597,7 +1786,48 @@
       "temps de vol",
       "technique",
       "défi"
-    ]
+    ],
+    "progression": {
+      "niveau1": {
+        "titre": "Débutant",
+        "description": "Le débutant explore les bases de l'activité avec un accompagnement soutenu. Pour « Frisbee MTA (maximum time aloft) », voici les attentes à ce niveau.",
+        "consignes": [
+          "Observer une démonstration avant chaque essai",
+          "Utiliser du matériel adapté (plus léger, plus gros, plus lent)",
+          "Pratiquer en situation simplifiée sans pression"
+        ],
+        "criteres_reussite": [
+          "L'élève participe activement et fait des efforts",
+          "L'élève comprend et respecte les consignes de base"
+        ]
+      },
+      "niveau2": {
+        "titre": "Intermédiaire",
+        "description": "L'élève est capable d'exécuter l'activité de façon autonome avec quelques ajustements. Pour « Frisbee MTA (maximum time aloft) », voici les attentes à ce niveau.",
+        "consignes": [
+          "Combiner deux habiletés dans un même exercice",
+          "Réduire le temps de réflexion entre les actions",
+          "Augmenter progressivement la complexité de l'exercice"
+        ],
+        "criteres_reussite": [
+          "La technique est maîtrisée dans des situations variées",
+          "L'élève exécute le geste avec régularité"
+        ]
+      },
+      "niveau3": {
+        "titre": "Avancé",
+        "description": "L'élève perfectionne sa technique et s'adapte à des situations complexes. Pour « Frisbee MTA (maximum time aloft) », voici les attentes à ce niveau.",
+        "consignes": [
+          "Exécuter en situation de jeu réelle ou compétitive",
+          "Combiner plusieurs habiletés en séquence complexe",
+          "Aider un pair moins expérimenté comme tuteur"
+        ],
+        "criteres_reussite": [
+          "L'élève transfère ses apprentissages à de nouvelles situations",
+          "L'élève maîtrise le geste dans des situations complexes"
+        ]
+      }
+    }
   },
   {
     "titre": "Frisbee passe en couloir",
@@ -617,7 +1847,48 @@
       "couloir",
       "précision",
       "direction"
-    ]
+    ],
+    "progression": {
+      "niveau1": {
+        "titre": "Débutant",
+        "description": "L'élève découvre l'activité et se familiarise avec les mouvements fondamentaux. Pour « Frisbee passe en couloir », voici les attentes à ce niveau.",
+        "consignes": [
+          "Pratiquer en situation simplifiée sans pression",
+          "Utiliser du matériel adapté (plus léger, plus gros, plus lent)",
+          "Exécuter les mouvements de base lentement et avec contrôle"
+        ],
+        "criteres_reussite": [
+          "Le geste technique de base est reconnaissable",
+          "L'élève participe activement et fait des efforts"
+        ]
+      },
+      "niveau2": {
+        "titre": "Intermédiaire",
+        "description": "À ce niveau, on ajoute de la complexité tout en consolidant les acquis. Pour « Frisbee passe en couloir », voici les attentes à ce niveau.",
+        "consignes": [
+          "Augmenter progressivement la complexité de l'exercice",
+          "Réduire le temps de réflexion entre les actions",
+          "Ajouter des contraintes de temps ou d'espace"
+        ],
+        "criteres_reussite": [
+          "La technique est maîtrisée dans des situations variées",
+          "L'élève s'ajuste aux consignes supplémentaires"
+        ]
+      },
+      "niveau3": {
+        "titre": "Avancé",
+        "description": "L'élève démontre une maîtrise complète et peut enseigner aux autres. Pour « Frisbee passe en couloir », voici les attentes à ce niveau.",
+        "consignes": [
+          "Exécuter en situation de jeu réelle ou compétitive",
+          "Créer et proposer ses propres variantes avancées",
+          "S'auto-évaluer et identifier ses points d'amélioration"
+        ],
+        "criteres_reussite": [
+          "L'élève transfère ses apprentissages à de nouvelles situations",
+          "L'élève maîtrise le geste dans des situations complexes"
+        ]
+      }
+    }
   },
   {
     "titre": "Frisbee touchdown",
@@ -638,7 +1909,48 @@
       "touchdown",
       "ultimate simplifié",
       "collectif"
-    ]
+    ],
+    "progression": {
+      "niveau1": {
+        "titre": "Débutant",
+        "description": "L'accent est mis sur la compréhension des consignes et la sécurité. Pour « Frisbee touchdown », voici les attentes à ce niveau.",
+        "consignes": [
+          "Observer une démonstration avant chaque essai",
+          "Exécuter les mouvements de base lentement et avec contrôle",
+          "Se concentrer sur la technique plutôt que la performance"
+        ],
+        "criteres_reussite": [
+          "L'élève comprend et respecte les consignes de base",
+          "L'élève participe activement et fait des efforts"
+        ]
+      },
+      "niveau2": {
+        "titre": "Intermédiaire",
+        "description": "L'élève est capable d'exécuter l'activité de façon autonome avec quelques ajustements. Pour « Frisbee touchdown », voici les attentes à ce niveau.",
+        "consignes": [
+          "Réduire le temps de réflexion entre les actions",
+          "Introduire des variantes avec partenaire ou en mouvement",
+          "Ajouter des contraintes de temps ou d'espace"
+        ],
+        "criteres_reussite": [
+          "L'élève s'ajuste aux consignes supplémentaires",
+          "La technique est maîtrisée dans des situations variées"
+        ]
+      },
+      "niveau3": {
+        "titre": "Avancé",
+        "description": "À ce stade avancé, l'élève crée, innove et aide ses pairs. Pour « Frisbee touchdown », voici les attentes à ce niveau.",
+        "consignes": [
+          "Aider un pair moins expérimenté comme tuteur",
+          "Exécuter en situation de jeu réelle ou compétitive",
+          "Combiner plusieurs habiletés en séquence complexe"
+        ],
+        "criteres_reussite": [
+          "L'exécution est fluide, précise et constante",
+          "L'élève transfère ses apprentissages à de nouvelles situations"
+        ]
+      }
+    }
   },
   {
     "titre": "Frisbee accuracy ladder",
@@ -658,7 +1970,48 @@
       "précision",
       "progression",
       "constance"
-    ]
+    ],
+    "progression": {
+      "niveau1": {
+        "titre": "Débutant",
+        "description": "À ce stade, l'objectif est d'apprivoiser l'exercice sans pression de performance. Pour « Frisbee accuracy ladder », voici les attentes à ce niveau.",
+        "consignes": [
+          "Observer une démonstration avant chaque essai",
+          "Pratiquer en situation simplifiée sans pression",
+          "Utiliser du matériel adapté (plus léger, plus gros, plus lent)"
+        ],
+        "criteres_reussite": [
+          "Le geste technique de base est reconnaissable",
+          "L'élève comprend et respecte les consignes de base"
+        ]
+      },
+      "niveau2": {
+        "titre": "Intermédiaire",
+        "description": "L'intermédiaire travaille la régularité et commence à combiner les habiletés. Pour « Frisbee accuracy ladder », voici les attentes à ce niveau.",
+        "consignes": [
+          "Réduire le temps de réflexion entre les actions",
+          "Introduire des variantes avec partenaire ou en mouvement",
+          "Combiner deux habiletés dans un même exercice"
+        ],
+        "criteres_reussite": [
+          "L'élève s'ajuste aux consignes supplémentaires",
+          "L'élève exécute le geste avec régularité"
+        ]
+      },
+      "niveau3": {
+        "titre": "Avancé",
+        "description": "À ce stade avancé, l'élève crée, innove et aide ses pairs. Pour « Frisbee accuracy ladder », voici les attentes à ce niveau.",
+        "consignes": [
+          "Créer et proposer ses propres variantes avancées",
+          "Exécuter en situation de jeu réelle ou compétitive",
+          "Combiner plusieurs habiletés en séquence complexe"
+        ],
+        "criteres_reussite": [
+          "L'élève transfère ses apprentissages à de nouvelles situations",
+          "L'exécution est fluide, précise et constante"
+        ]
+      }
+    }
   },
   {
     "titre": "Frisbee duo coopératif maternelle",
@@ -677,7 +2030,48 @@
       "maternelle",
       "coopération",
       "initiation"
-    ]
+    ],
+    "progression": {
+      "niveau1": {
+        "titre": "Débutant",
+        "description": "Le débutant explore les bases de l'activité avec un accompagnement soutenu. Pour « Frisbee duo coopératif maternelle », voici les attentes à ce niveau.",
+        "consignes": [
+          "Pratiquer en situation simplifiée sans pression",
+          "Observer une démonstration avant chaque essai",
+          "Exécuter les mouvements de base lentement et avec contrôle"
+        ],
+        "criteres_reussite": [
+          "L'élève comprend et respecte les consignes de base",
+          "Le geste technique de base est reconnaissable"
+        ]
+      },
+      "niveau2": {
+        "titre": "Intermédiaire",
+        "description": "L'élève est capable d'exécuter l'activité de façon autonome avec quelques ajustements. Pour « Frisbee duo coopératif maternelle », voici les attentes à ce niveau.",
+        "consignes": [
+          "Ajouter des contraintes de temps ou d'espace",
+          "Réduire le temps de réflexion entre les actions",
+          "Introduire des variantes avec partenaire ou en mouvement"
+        ],
+        "criteres_reussite": [
+          "La technique est maîtrisée dans des situations variées",
+          "L'élève s'ajuste aux consignes supplémentaires"
+        ]
+      },
+      "niveau3": {
+        "titre": "Avancé",
+        "description": "L'élève démontre une maîtrise complète et peut enseigner aux autres. Pour « Frisbee duo coopératif maternelle », voici les attentes à ce niveau.",
+        "consignes": [
+          "Aider un pair moins expérimenté comme tuteur",
+          "S'auto-évaluer et identifier ses points d'amélioration",
+          "Combiner plusieurs habiletés en séquence complexe"
+        ],
+        "criteres_reussite": [
+          "L'élève maîtrise le geste dans des situations complexes",
+          "L'élève transfère ses apprentissages à de nouvelles situations"
+        ]
+      }
+    }
   },
   {
     "titre": "Frisbee bataille navale",
@@ -698,7 +2092,48 @@
       "bataille",
       "précision",
       "stratégie"
-    ]
+    ],
+    "progression": {
+      "niveau1": {
+        "titre": "Débutant",
+        "description": "Le débutant explore les bases de l'activité avec un accompagnement soutenu. Pour « Frisbee bataille navale », voici les attentes à ce niveau.",
+        "consignes": [
+          "Exécuter les mouvements de base lentement et avec contrôle",
+          "Se concentrer sur la technique plutôt que la performance",
+          "Utiliser du matériel adapté (plus léger, plus gros, plus lent)"
+        ],
+        "criteres_reussite": [
+          "Le geste technique de base est reconnaissable",
+          "L'élève comprend et respecte les consignes de base"
+        ]
+      },
+      "niveau2": {
+        "titre": "Intermédiaire",
+        "description": "L'élève est capable d'exécuter l'activité de façon autonome avec quelques ajustements. Pour « Frisbee bataille navale », voici les attentes à ce niveau.",
+        "consignes": [
+          "Introduire des variantes avec partenaire ou en mouvement",
+          "Réduire le temps de réflexion entre les actions",
+          "Augmenter progressivement la complexité de l'exercice"
+        ],
+        "criteres_reussite": [
+          "La technique est maîtrisée dans des situations variées",
+          "L'élève exécute le geste avec régularité"
+        ]
+      },
+      "niveau3": {
+        "titre": "Avancé",
+        "description": "L'élève perfectionne sa technique et s'adapte à des situations complexes. Pour « Frisbee bataille navale », voici les attentes à ce niveau.",
+        "consignes": [
+          "Exécuter en situation de jeu réelle ou compétitive",
+          "Aider un pair moins expérimenté comme tuteur",
+          "Créer et proposer ses propres variantes avancées"
+        ],
+        "criteres_reussite": [
+          "L'exécution est fluide, précise et constante",
+          "L'élève maîtrise le geste dans des situations complexes"
+        ]
+      }
+    }
   },
   {
     "titre": "Frisbee pivot et passe",
@@ -717,7 +2152,48 @@
       "pivot",
       "passe",
       "décision"
-    ]
+    ],
+    "progression": {
+      "niveau1": {
+        "titre": "Débutant",
+        "description": "L'élève découvre l'activité et se familiarise avec les mouvements fondamentaux. Pour « Frisbee pivot et passe », voici les attentes à ce niveau.",
+        "consignes": [
+          "Exécuter les mouvements de base lentement et avec contrôle",
+          "Utiliser du matériel adapté (plus léger, plus gros, plus lent)",
+          "Pratiquer en situation simplifiée sans pression"
+        ],
+        "criteres_reussite": [
+          "L'élève comprend et respecte les consignes de base",
+          "Le geste technique de base est reconnaissable"
+        ]
+      },
+      "niveau2": {
+        "titre": "Intermédiaire",
+        "description": "L'élève maîtrise les bases et cherche à améliorer sa constance et sa fluidité. Pour « Frisbee pivot et passe », voici les attentes à ce niveau.",
+        "consignes": [
+          "Réduire le temps de réflexion entre les actions",
+          "Combiner deux habiletés dans un même exercice",
+          "Ajouter des contraintes de temps ou d'espace"
+        ],
+        "criteres_reussite": [
+          "La technique est maîtrisée dans des situations variées",
+          "L'élève exécute le geste avec régularité"
+        ]
+      },
+      "niveau3": {
+        "titre": "Avancé",
+        "description": "L'élève démontre une maîtrise complète et peut enseigner aux autres. Pour « Frisbee pivot et passe », voici les attentes à ce niveau.",
+        "consignes": [
+          "S'auto-évaluer et identifier ses points d'amélioration",
+          "Exécuter en situation de jeu réelle ou compétitive",
+          "Créer et proposer ses propres variantes avancées"
+        ],
+        "criteres_reussite": [
+          "L'élève maîtrise le geste dans des situations complexes",
+          "L'élève transfère ses apprentissages à de nouvelles situations"
+        ]
+      }
+    }
   },
   {
     "titre": "Frisbee endzone run",
@@ -737,7 +2213,48 @@
       "timing",
       "course",
       "endzone"
-    ]
+    ],
+    "progression": {
+      "niveau1": {
+        "titre": "Débutant",
+        "description": "Le débutant explore les bases de l'activité avec un accompagnement soutenu. Pour « Frisbee endzone run », voici les attentes à ce niveau.",
+        "consignes": [
+          "Se concentrer sur la technique plutôt que la performance",
+          "Observer une démonstration avant chaque essai",
+          "Utiliser du matériel adapté (plus léger, plus gros, plus lent)"
+        ],
+        "criteres_reussite": [
+          "L'élève participe activement et fait des efforts",
+          "L'élève comprend et respecte les consignes de base"
+        ]
+      },
+      "niveau2": {
+        "titre": "Intermédiaire",
+        "description": "L'élève maîtrise les bases et cherche à améliorer sa constance et sa fluidité. Pour « Frisbee endzone run », voici les attentes à ce niveau.",
+        "consignes": [
+          "Réduire le temps de réflexion entre les actions",
+          "Augmenter progressivement la complexité de l'exercice",
+          "Introduire des variantes avec partenaire ou en mouvement"
+        ],
+        "criteres_reussite": [
+          "L'élève s'ajuste aux consignes supplémentaires",
+          "L'élève exécute le geste avec régularité"
+        ]
+      },
+      "niveau3": {
+        "titre": "Avancé",
+        "description": "L'élève perfectionne sa technique et s'adapte à des situations complexes. Pour « Frisbee endzone run », voici les attentes à ce niveau.",
+        "consignes": [
+          "Exécuter en situation de jeu réelle ou compétitive",
+          "S'auto-évaluer et identifier ses points d'amélioration",
+          "Aider un pair moins expérimenté comme tuteur"
+        ],
+        "criteres_reussite": [
+          "L'élève transfère ses apprentissages à de nouvelles situations",
+          "L'élève maîtrise le geste dans des situations complexes"
+        ]
+      }
+    }
   },
   {
     "titre": "Frisbee boomerang",
@@ -756,7 +2273,48 @@
       "boomerang",
       "exploration",
       "physique"
-    ]
+    ],
+    "progression": {
+      "niveau1": {
+        "titre": "Débutant",
+        "description": "L'accent est mis sur la compréhension des consignes et la sécurité. Pour « Frisbee boomerang », voici les attentes à ce niveau.",
+        "consignes": [
+          "Se concentrer sur la technique plutôt que la performance",
+          "Observer une démonstration avant chaque essai",
+          "Exécuter les mouvements de base lentement et avec contrôle"
+        ],
+        "criteres_reussite": [
+          "Le geste technique de base est reconnaissable",
+          "L'élève comprend et respecte les consignes de base"
+        ]
+      },
+      "niveau2": {
+        "titre": "Intermédiaire",
+        "description": "L'élève est capable d'exécuter l'activité de façon autonome avec quelques ajustements. Pour « Frisbee boomerang », voici les attentes à ce niveau.",
+        "consignes": [
+          "Combiner deux habiletés dans un même exercice",
+          "Augmenter progressivement la complexité de l'exercice",
+          "Ajouter des contraintes de temps ou d'espace"
+        ],
+        "criteres_reussite": [
+          "La technique est maîtrisée dans des situations variées",
+          "L'élève s'ajuste aux consignes supplémentaires"
+        ]
+      },
+      "niveau3": {
+        "titre": "Avancé",
+        "description": "L'élève perfectionne sa technique et s'adapte à des situations complexes. Pour « Frisbee boomerang », voici les attentes à ce niveau.",
+        "consignes": [
+          "Combiner plusieurs habiletés en séquence complexe",
+          "S'auto-évaluer et identifier ses points d'amélioration",
+          "Créer et proposer ses propres variantes avancées"
+        ],
+        "criteres_reussite": [
+          "L'exécution est fluide, précise et constante",
+          "L'élève transfère ses apprentissages à de nouvelles situations"
+        ]
+      }
+    }
   },
   {
     "titre": "Frisbee KAN JAM",
@@ -776,7 +2334,48 @@
       "kan jam",
       "jeu",
       "duo"
-    ]
+    ],
+    "progression": {
+      "niveau1": {
+        "titre": "Débutant",
+        "description": "À ce stade, l'objectif est d'apprivoiser l'exercice sans pression de performance. Pour « Frisbee KAN JAM », voici les attentes à ce niveau.",
+        "consignes": [
+          "Pratiquer en situation simplifiée sans pression",
+          "Se concentrer sur la technique plutôt que la performance",
+          "Utiliser du matériel adapté (plus léger, plus gros, plus lent)"
+        ],
+        "criteres_reussite": [
+          "L'élève comprend et respecte les consignes de base",
+          "L'élève participe activement et fait des efforts"
+        ]
+      },
+      "niveau2": {
+        "titre": "Intermédiaire",
+        "description": "L'élève est capable d'exécuter l'activité de façon autonome avec quelques ajustements. Pour « Frisbee KAN JAM », voici les attentes à ce niveau.",
+        "consignes": [
+          "Introduire des variantes avec partenaire ou en mouvement",
+          "Ajouter des contraintes de temps ou d'espace",
+          "Réduire le temps de réflexion entre les actions"
+        ],
+        "criteres_reussite": [
+          "L'élève s'ajuste aux consignes supplémentaires",
+          "L'élève exécute le geste avec régularité"
+        ]
+      },
+      "niveau3": {
+        "titre": "Avancé",
+        "description": "L'élève démontre une maîtrise complète et peut enseigner aux autres. Pour « Frisbee KAN JAM », voici les attentes à ce niveau.",
+        "consignes": [
+          "Aider un pair moins expérimenté comme tuteur",
+          "Créer et proposer ses propres variantes avancées",
+          "Combiner plusieurs habiletés en séquence complexe"
+        ],
+        "criteres_reussite": [
+          "L'élève transfère ses apprentissages à de nouvelles situations",
+          "L'élève maîtrise le geste dans des situations complexes"
+        ]
+      }
+    }
   },
   {
     "titre": "Frisbee warm-up routine",
@@ -795,7 +2394,48 @@
       "échauffement",
       "routine",
       "fondamentaux"
-    ]
+    ],
+    "progression": {
+      "niveau1": {
+        "titre": "Débutant",
+        "description": "L'accent est mis sur la compréhension des consignes et la sécurité. Pour « Frisbee warm-up routine », voici les attentes à ce niveau.",
+        "consignes": [
+          "Utiliser du matériel adapté (plus léger, plus gros, plus lent)",
+          "Observer une démonstration avant chaque essai",
+          "Se concentrer sur la technique plutôt que la performance"
+        ],
+        "criteres_reussite": [
+          "Le geste technique de base est reconnaissable",
+          "L'élève comprend et respecte les consignes de base"
+        ]
+      },
+      "niveau2": {
+        "titre": "Intermédiaire",
+        "description": "L'élève est capable d'exécuter l'activité de façon autonome avec quelques ajustements. Pour « Frisbee warm-up routine », voici les attentes à ce niveau.",
+        "consignes": [
+          "Combiner deux habiletés dans un même exercice",
+          "Ajouter des contraintes de temps ou d'espace",
+          "Augmenter progressivement la complexité de l'exercice"
+        ],
+        "criteres_reussite": [
+          "L'élève exécute le geste avec régularité",
+          "La technique est maîtrisée dans des situations variées"
+        ]
+      },
+      "niveau3": {
+        "titre": "Avancé",
+        "description": "L'élève perfectionne sa technique et s'adapte à des situations complexes. Pour « Frisbee warm-up routine », voici les attentes à ce niveau.",
+        "consignes": [
+          "Exécuter en situation de jeu réelle ou compétitive",
+          "Aider un pair moins expérimenté comme tuteur",
+          "S'auto-évaluer et identifier ses points d'amélioration"
+        ],
+        "criteres_reussite": [
+          "L'élève transfère ses apprentissages à de nouvelles situations",
+          "L'exécution est fluide, précise et constante"
+        ]
+      }
+    }
   },
   {
     "titre": "Ultimate esprit sportif",
@@ -817,7 +2457,48 @@
       "esprit sportif",
       "auto-arbitrage",
       "citoyenneté"
-    ]
+    ],
+    "progression": {
+      "niveau1": {
+        "titre": "Débutant",
+        "description": "L'accent est mis sur la compréhension des consignes et la sécurité. Pour « Ultimate esprit sportif », voici les attentes à ce niveau.",
+        "consignes": [
+          "Observer une démonstration avant chaque essai",
+          "Pratiquer en situation simplifiée sans pression",
+          "Exécuter les mouvements de base lentement et avec contrôle"
+        ],
+        "criteres_reussite": [
+          "Le geste technique de base est reconnaissable",
+          "L'élève comprend et respecte les consignes de base"
+        ]
+      },
+      "niveau2": {
+        "titre": "Intermédiaire",
+        "description": "À ce niveau, on ajoute de la complexité tout en consolidant les acquis. Pour « Ultimate esprit sportif », voici les attentes à ce niveau.",
+        "consignes": [
+          "Combiner deux habiletés dans un même exercice",
+          "Réduire le temps de réflexion entre les actions",
+          "Augmenter progressivement la complexité de l'exercice"
+        ],
+        "criteres_reussite": [
+          "L'élève exécute le geste avec régularité",
+          "La technique est maîtrisée dans des situations variées"
+        ]
+      },
+      "niveau3": {
+        "titre": "Avancé",
+        "description": "À ce stade avancé, l'élève crée, innove et aide ses pairs. Pour « Ultimate esprit sportif », voici les attentes à ce niveau.",
+        "consignes": [
+          "Créer et proposer ses propres variantes avancées",
+          "Aider un pair moins expérimenté comme tuteur",
+          "S'auto-évaluer et identifier ses points d'amélioration"
+        ],
+        "criteres_reussite": [
+          "L'élève maîtrise le geste dans des situations complexes",
+          "L'élève transfère ses apprentissages à de nouvelles situations"
+        ]
+      }
+    }
   },
   {
     "titre": "Frisbee scoober throw",
@@ -836,7 +2517,48 @@
       "scoober",
       "technique avancée",
       "lancer"
-    ]
+    ],
+    "progression": {
+      "niveau1": {
+        "titre": "Débutant",
+        "description": "Le débutant explore les bases de l'activité avec un accompagnement soutenu. Pour « Frisbee scoober throw », voici les attentes à ce niveau.",
+        "consignes": [
+          "Utiliser du matériel adapté (plus léger, plus gros, plus lent)",
+          "Observer une démonstration avant chaque essai",
+          "Se concentrer sur la technique plutôt que la performance"
+        ],
+        "criteres_reussite": [
+          "L'élève participe activement et fait des efforts",
+          "L'élève comprend et respecte les consignes de base"
+        ]
+      },
+      "niveau2": {
+        "titre": "Intermédiaire",
+        "description": "L'élève est capable d'exécuter l'activité de façon autonome avec quelques ajustements. Pour « Frisbee scoober throw », voici les attentes à ce niveau.",
+        "consignes": [
+          "Réduire le temps de réflexion entre les actions",
+          "Combiner deux habiletés dans un même exercice",
+          "Augmenter progressivement la complexité de l'exercice"
+        ],
+        "criteres_reussite": [
+          "L'élève s'ajuste aux consignes supplémentaires",
+          "La technique est maîtrisée dans des situations variées"
+        ]
+      },
+      "niveau3": {
+        "titre": "Avancé",
+        "description": "À ce stade avancé, l'élève crée, innove et aide ses pairs. Pour « Frisbee scoober throw », voici les attentes à ce niveau.",
+        "consignes": [
+          "Aider un pair moins expérimenté comme tuteur",
+          "Combiner plusieurs habiletés en séquence complexe",
+          "Créer et proposer ses propres variantes avancées"
+        ],
+        "criteres_reussite": [
+          "L'élève transfère ses apprentissages à de nouvelles situations",
+          "L'exécution est fluide, précise et constante"
+        ]
+      }
+    }
   },
   {
     "titre": "Frisbee cible mobile",
@@ -856,7 +2578,48 @@
       "cible mobile",
       "anticipation",
       "précision"
-    ]
+    ],
+    "progression": {
+      "niveau1": {
+        "titre": "Débutant",
+        "description": "L'élève découvre l'activité et se familiarise avec les mouvements fondamentaux. Pour « Frisbee cible mobile », voici les attentes à ce niveau.",
+        "consignes": [
+          "Utiliser du matériel adapté (plus léger, plus gros, plus lent)",
+          "Observer une démonstration avant chaque essai",
+          "Pratiquer en situation simplifiée sans pression"
+        ],
+        "criteres_reussite": [
+          "L'élève participe activement et fait des efforts",
+          "Le geste technique de base est reconnaissable"
+        ]
+      },
+      "niveau2": {
+        "titre": "Intermédiaire",
+        "description": "L'élève maîtrise les bases et cherche à améliorer sa constance et sa fluidité. Pour « Frisbee cible mobile », voici les attentes à ce niveau.",
+        "consignes": [
+          "Augmenter progressivement la complexité de l'exercice",
+          "Ajouter des contraintes de temps ou d'espace",
+          "Réduire le temps de réflexion entre les actions"
+        ],
+        "criteres_reussite": [
+          "L'élève exécute le geste avec régularité",
+          "L'élève s'ajuste aux consignes supplémentaires"
+        ]
+      },
+      "niveau3": {
+        "titre": "Avancé",
+        "description": "À ce stade avancé, l'élève crée, innove et aide ses pairs. Pour « Frisbee cible mobile », voici les attentes à ce niveau.",
+        "consignes": [
+          "Exécuter en situation de jeu réelle ou compétitive",
+          "Aider un pair moins expérimenté comme tuteur",
+          "Créer et proposer ses propres variantes avancées"
+        ],
+        "criteres_reussite": [
+          "L'exécution est fluide, précise et constante",
+          "L'élève transfère ses apprentissages à de nouvelles situations"
+        ]
+      }
+    }
   },
   {
     "titre": "Frisbee passe par-dessous",
@@ -875,7 +2638,48 @@
       "par-dessous",
       "initiation",
       "duo"
-    ]
+    ],
+    "progression": {
+      "niveau1": {
+        "titre": "Débutant",
+        "description": "L'accent est mis sur la compréhension des consignes et la sécurité. Pour « Frisbee passe par-dessous », voici les attentes à ce niveau.",
+        "consignes": [
+          "Se concentrer sur la technique plutôt que la performance",
+          "Exécuter les mouvements de base lentement et avec contrôle",
+          "Pratiquer en situation simplifiée sans pression"
+        ],
+        "criteres_reussite": [
+          "L'élève participe activement et fait des efforts",
+          "Le geste technique de base est reconnaissable"
+        ]
+      },
+      "niveau2": {
+        "titre": "Intermédiaire",
+        "description": "L'élève maîtrise les bases et cherche à améliorer sa constance et sa fluidité. Pour « Frisbee passe par-dessous », voici les attentes à ce niveau.",
+        "consignes": [
+          "Augmenter progressivement la complexité de l'exercice",
+          "Ajouter des contraintes de temps ou d'espace",
+          "Réduire le temps de réflexion entre les actions"
+        ],
+        "criteres_reussite": [
+          "La technique est maîtrisée dans des situations variées",
+          "L'élève exécute le geste avec régularité"
+        ]
+      },
+      "niveau3": {
+        "titre": "Avancé",
+        "description": "À ce stade avancé, l'élève crée, innove et aide ses pairs. Pour « Frisbee passe par-dessous », voici les attentes à ce niveau.",
+        "consignes": [
+          "Exécuter en situation de jeu réelle ou compétitive",
+          "Aider un pair moins expérimenté comme tuteur",
+          "Combiner plusieurs habiletés en séquence complexe"
+        ],
+        "criteres_reussite": [
+          "L'élève transfère ses apprentissages à de nouvelles situations",
+          "L'élève maîtrise le geste dans des situations complexes"
+        ]
+      }
+    }
   },
   {
     "titre": "Frisbee ultimate entraînement défensif",
@@ -896,7 +2700,48 @@
       "défense",
       "technique",
       "réaction"
-    ]
+    ],
+    "progression": {
+      "niveau1": {
+        "titre": "Débutant",
+        "description": "À ce stade, l'objectif est d'apprivoiser l'exercice sans pression de performance. Pour « Frisbee ultimate entraînement défensif », voici les attentes à ce niveau.",
+        "consignes": [
+          "Utiliser du matériel adapté (plus léger, plus gros, plus lent)",
+          "Exécuter les mouvements de base lentement et avec contrôle",
+          "Observer une démonstration avant chaque essai"
+        ],
+        "criteres_reussite": [
+          "Le geste technique de base est reconnaissable",
+          "L'élève participe activement et fait des efforts"
+        ]
+      },
+      "niveau2": {
+        "titre": "Intermédiaire",
+        "description": "L'élève est capable d'exécuter l'activité de façon autonome avec quelques ajustements. Pour « Frisbee ultimate entraînement défensif », voici les attentes à ce niveau.",
+        "consignes": [
+          "Ajouter des contraintes de temps ou d'espace",
+          "Introduire des variantes avec partenaire ou en mouvement",
+          "Augmenter progressivement la complexité de l'exercice"
+        ],
+        "criteres_reussite": [
+          "La technique est maîtrisée dans des situations variées",
+          "L'élève s'ajuste aux consignes supplémentaires"
+        ]
+      },
+      "niveau3": {
+        "titre": "Avancé",
+        "description": "L'élève démontre une maîtrise complète et peut enseigner aux autres. Pour « Frisbee ultimate entraînement défensif », voici les attentes à ce niveau.",
+        "consignes": [
+          "Créer et proposer ses propres variantes avancées",
+          "Combiner plusieurs habiletés en séquence complexe",
+          "Exécuter en situation de jeu réelle ou compétitive"
+        ],
+        "criteres_reussite": [
+          "L'élève transfère ses apprentissages à de nouvelles situations",
+          "L'élève maîtrise le geste dans des situations complexes"
+        ]
+      }
+    }
   },
   {
     "titre": "Frisbee tic-tac-toe",
@@ -916,7 +2761,48 @@
       "tic-tac-toe",
       "stratégie",
       "précision"
-    ]
+    ],
+    "progression": {
+      "niveau1": {
+        "titre": "Débutant",
+        "description": "L'élève découvre l'activité et se familiarise avec les mouvements fondamentaux. Pour « Frisbee tic-tac-toe », voici les attentes à ce niveau.",
+        "consignes": [
+          "Observer une démonstration avant chaque essai",
+          "Se concentrer sur la technique plutôt que la performance",
+          "Exécuter les mouvements de base lentement et avec contrôle"
+        ],
+        "criteres_reussite": [
+          "L'élève participe activement et fait des efforts",
+          "L'élève comprend et respecte les consignes de base"
+        ]
+      },
+      "niveau2": {
+        "titre": "Intermédiaire",
+        "description": "L'élève est capable d'exécuter l'activité de façon autonome avec quelques ajustements. Pour « Frisbee tic-tac-toe », voici les attentes à ce niveau.",
+        "consignes": [
+          "Introduire des variantes avec partenaire ou en mouvement",
+          "Augmenter progressivement la complexité de l'exercice",
+          "Combiner deux habiletés dans un même exercice"
+        ],
+        "criteres_reussite": [
+          "L'élève exécute le geste avec régularité",
+          "La technique est maîtrisée dans des situations variées"
+        ]
+      },
+      "niveau3": {
+        "titre": "Avancé",
+        "description": "À ce stade avancé, l'élève crée, innove et aide ses pairs. Pour « Frisbee tic-tac-toe », voici les attentes à ce niveau.",
+        "consignes": [
+          "S'auto-évaluer et identifier ses points d'amélioration",
+          "Exécuter en situation de jeu réelle ou compétitive",
+          "Combiner plusieurs habiletés en séquence complexe"
+        ],
+        "criteres_reussite": [
+          "L'élève maîtrise le geste dans des situations complexes",
+          "L'exécution est fluide, précise et constante"
+        ]
+      }
+    }
   },
   {
     "titre": "Frisbee freestyle (style libre)",
@@ -935,7 +2821,48 @@
       "freestyle",
       "tricks",
       "créativité"
-    ]
+    ],
+    "progression": {
+      "niveau1": {
+        "titre": "Débutant",
+        "description": "À ce stade, l'objectif est d'apprivoiser l'exercice sans pression de performance. Pour « Frisbee freestyle (style libre) », voici les attentes à ce niveau.",
+        "consignes": [
+          "Se concentrer sur la technique plutôt que la performance",
+          "Pratiquer en situation simplifiée sans pression",
+          "Utiliser du matériel adapté (plus léger, plus gros, plus lent)"
+        ],
+        "criteres_reussite": [
+          "Le geste technique de base est reconnaissable",
+          "L'élève participe activement et fait des efforts"
+        ]
+      },
+      "niveau2": {
+        "titre": "Intermédiaire",
+        "description": "L'élève maîtrise les bases et cherche à améliorer sa constance et sa fluidité. Pour « Frisbee freestyle (style libre) », voici les attentes à ce niveau.",
+        "consignes": [
+          "Augmenter progressivement la complexité de l'exercice",
+          "Combiner deux habiletés dans un même exercice",
+          "Introduire des variantes avec partenaire ou en mouvement"
+        ],
+        "criteres_reussite": [
+          "L'élève s'ajuste aux consignes supplémentaires",
+          "La technique est maîtrisée dans des situations variées"
+        ]
+      },
+      "niveau3": {
+        "titre": "Avancé",
+        "description": "L'élève perfectionne sa technique et s'adapte à des situations complexes. Pour « Frisbee freestyle (style libre) », voici les attentes à ce niveau.",
+        "consignes": [
+          "S'auto-évaluer et identifier ses points d'amélioration",
+          "Exécuter en situation de jeu réelle ou compétitive",
+          "Aider un pair moins expérimenté comme tuteur"
+        ],
+        "criteres_reussite": [
+          "L'élève transfère ses apprentissages à de nouvelles situations",
+          "L'exécution est fluide, précise et constante"
+        ]
+      }
+    }
   },
   {
     "titre": "Frisbee lancer puissance",
@@ -955,7 +2882,48 @@
       "puissance",
       "technique",
       "distance"
-    ]
+    ],
+    "progression": {
+      "niveau1": {
+        "titre": "Débutant",
+        "description": "L'élève découvre l'activité et se familiarise avec les mouvements fondamentaux. Pour « Frisbee lancer puissance », voici les attentes à ce niveau.",
+        "consignes": [
+          "Exécuter les mouvements de base lentement et avec contrôle",
+          "Pratiquer en situation simplifiée sans pression",
+          "Observer une démonstration avant chaque essai"
+        ],
+        "criteres_reussite": [
+          "L'élève comprend et respecte les consignes de base",
+          "Le geste technique de base est reconnaissable"
+        ]
+      },
+      "niveau2": {
+        "titre": "Intermédiaire",
+        "description": "L'élève maîtrise les bases et cherche à améliorer sa constance et sa fluidité. Pour « Frisbee lancer puissance », voici les attentes à ce niveau.",
+        "consignes": [
+          "Introduire des variantes avec partenaire ou en mouvement",
+          "Réduire le temps de réflexion entre les actions",
+          "Ajouter des contraintes de temps ou d'espace"
+        ],
+        "criteres_reussite": [
+          "La technique est maîtrisée dans des situations variées",
+          "L'élève s'ajuste aux consignes supplémentaires"
+        ]
+      },
+      "niveau3": {
+        "titre": "Avancé",
+        "description": "L'expert peut exécuter l'activité dans des contextes variés et exigeants. Pour « Frisbee lancer puissance », voici les attentes à ce niveau.",
+        "consignes": [
+          "Combiner plusieurs habiletés en séquence complexe",
+          "Créer et proposer ses propres variantes avancées",
+          "Exécuter en situation de jeu réelle ou compétitive"
+        ],
+        "criteres_reussite": [
+          "L'élève transfère ses apprentissages à de nouvelles situations",
+          "L'élève maîtrise le geste dans des situations complexes"
+        ]
+      }
+    }
   },
   {
     "titre": "Frisbee passe en carré",
@@ -975,7 +2943,48 @@
       "carré",
       "passe",
       "déplacement"
-    ]
+    ],
+    "progression": {
+      "niveau1": {
+        "titre": "Débutant",
+        "description": "L'accent est mis sur la compréhension des consignes et la sécurité. Pour « Frisbee passe en carré », voici les attentes à ce niveau.",
+        "consignes": [
+          "Pratiquer en situation simplifiée sans pression",
+          "Exécuter les mouvements de base lentement et avec contrôle",
+          "Utiliser du matériel adapté (plus léger, plus gros, plus lent)"
+        ],
+        "criteres_reussite": [
+          "L'élève participe activement et fait des efforts",
+          "L'élève comprend et respecte les consignes de base"
+        ]
+      },
+      "niveau2": {
+        "titre": "Intermédiaire",
+        "description": "L'intermédiaire travaille la régularité et commence à combiner les habiletés. Pour « Frisbee passe en carré », voici les attentes à ce niveau.",
+        "consignes": [
+          "Réduire le temps de réflexion entre les actions",
+          "Augmenter progressivement la complexité de l'exercice",
+          "Combiner deux habiletés dans un même exercice"
+        ],
+        "criteres_reussite": [
+          "La technique est maîtrisée dans des situations variées",
+          "L'élève s'ajuste aux consignes supplémentaires"
+        ]
+      },
+      "niveau3": {
+        "titre": "Avancé",
+        "description": "L'expert peut exécuter l'activité dans des contextes variés et exigeants. Pour « Frisbee passe en carré », voici les attentes à ce niveau.",
+        "consignes": [
+          "Combiner plusieurs habiletés en séquence complexe",
+          "Créer et proposer ses propres variantes avancées",
+          "Exécuter en situation de jeu réelle ou compétitive"
+        ],
+        "criteres_reussite": [
+          "L'élève maîtrise le geste dans des situations complexes",
+          "L'élève transfère ses apprentissages à de nouvelles situations"
+        ]
+      }
+    }
   },
   {
     "titre": "Frisbee self-catch",
@@ -994,6 +3003,47 @@
       "self-catch",
       "trajectoire",
       "coordination"
-    ]
+    ],
+    "progression": {
+      "niveau1": {
+        "titre": "Débutant",
+        "description": "Le débutant explore les bases de l'activité avec un accompagnement soutenu. Pour « Frisbee self-catch », voici les attentes à ce niveau.",
+        "consignes": [
+          "Exécuter les mouvements de base lentement et avec contrôle",
+          "Se concentrer sur la technique plutôt que la performance",
+          "Pratiquer en situation simplifiée sans pression"
+        ],
+        "criteres_reussite": [
+          "L'élève comprend et respecte les consignes de base",
+          "L'élève participe activement et fait des efforts"
+        ]
+      },
+      "niveau2": {
+        "titre": "Intermédiaire",
+        "description": "L'élève est capable d'exécuter l'activité de façon autonome avec quelques ajustements. Pour « Frisbee self-catch », voici les attentes à ce niveau.",
+        "consignes": [
+          "Augmenter progressivement la complexité de l'exercice",
+          "Combiner deux habiletés dans un même exercice",
+          "Réduire le temps de réflexion entre les actions"
+        ],
+        "criteres_reussite": [
+          "L'élève s'ajuste aux consignes supplémentaires",
+          "L'élève exécute le geste avec régularité"
+        ]
+      },
+      "niveau3": {
+        "titre": "Avancé",
+        "description": "L'élève perfectionne sa technique et s'adapte à des situations complexes. Pour « Frisbee self-catch », voici les attentes à ce niveau.",
+        "consignes": [
+          "Combiner plusieurs habiletés en séquence complexe",
+          "Créer et proposer ses propres variantes avancées",
+          "Aider un pair moins expérimenté comme tuteur"
+        ],
+        "criteres_reussite": [
+          "L'élève maîtrise le geste dans des situations complexes",
+          "L'élève transfère ses apprentissages à de nouvelles situations"
+        ]
+      }
+    }
   }
 ]

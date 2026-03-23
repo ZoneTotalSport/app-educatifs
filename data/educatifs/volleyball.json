@@ -8,8 +8,57 @@
     "variantes": "Manchette seul en l'air, manchette en duo, manchette sur zone cible.",
     "adaptation": "Ballon de plage (plus mou et plus lent), frapper plus haut sur le mur, commencer par retenir la position des bras.",
     "duree": 12,
-    "materiel": ["1 ballon de volleyball par élève", "Mur"],
-    "tags": ["volleyball", "manchette", "avant-bras", "technique"]
+    "materiel": [
+      "1 ballon de volleyball par élève",
+      "Mur"
+    ],
+    "tags": [
+      "volleyball",
+      "manchette",
+      "avant-bras",
+      "technique"
+    ],
+    "progression": {
+      "niveau1": {
+        "titre": "Débutant",
+        "description": "L'élève découvre l'activité et se familiarise avec les mouvements fondamentaux. Pour « Manchette contre le mur », voici les attentes à ce niveau.",
+        "consignes": [
+          "Pratiquer en situation simplifiée sans pression",
+          "Observer une démonstration avant chaque essai",
+          "Se concentrer sur la technique plutôt que la performance"
+        ],
+        "criteres_reussite": [
+          "L'élève comprend et respecte les consignes de base",
+          "L'élève participe activement et fait des efforts"
+        ]
+      },
+      "niveau2": {
+        "titre": "Intermédiaire",
+        "description": "L'élève maîtrise les bases et cherche à améliorer sa constance et sa fluidité. Pour « Manchette contre le mur », voici les attentes à ce niveau.",
+        "consignes": [
+          "Ajouter des contraintes de temps ou d'espace",
+          "Combiner deux habiletés dans un même exercice",
+          "Introduire des variantes avec partenaire ou en mouvement"
+        ],
+        "criteres_reussite": [
+          "La technique est maîtrisée dans des situations variées",
+          "L'élève exécute le geste avec régularité"
+        ]
+      },
+      "niveau3": {
+        "titre": "Avancé",
+        "description": "L'élève démontre une maîtrise complète et peut enseigner aux autres. Pour « Manchette contre le mur », voici les attentes à ce niveau.",
+        "consignes": [
+          "Aider un pair moins expérimenté comme tuteur",
+          "S'auto-évaluer et identifier ses points d'amélioration",
+          "Créer et proposer ses propres variantes avancées"
+        ],
+        "criteres_reussite": [
+          "L'élève transfère ses apprentissages à de nouvelles situations",
+          "L'exécution est fluide, précise et constante"
+        ]
+      }
+    }
   },
   {
     "titre": "Service par en dessous",
@@ -20,8 +69,57 @@
     "variantes": "Servir vers une zone précise, service plus puissant, service en compétition (qui en réussit le plus).",
     "adaptation": "Filet plus bas, distance plus courte, ballon de plage.",
     "duree": 15,
-    "materiel": ["Ballons de volleyball", "Filet (ou corde tendue)"],
-    "tags": ["volleyball", "service", "dessous", "débutant"]
+    "materiel": [
+      "Ballons de volleyball",
+      "Filet (ou corde tendue)"
+    ],
+    "tags": [
+      "volleyball",
+      "service",
+      "dessous",
+      "débutant"
+    ],
+    "progression": {
+      "niveau1": {
+        "titre": "Débutant",
+        "description": "L'accent est mis sur la compréhension des consignes et la sécurité. Pour « Service par en dessous », voici les attentes à ce niveau.",
+        "consignes": [
+          "Observer une démonstration avant chaque essai",
+          "Se concentrer sur la technique plutôt que la performance",
+          "Utiliser du matériel adapté (plus léger, plus gros, plus lent)"
+        ],
+        "criteres_reussite": [
+          "L'élève participe activement et fait des efforts",
+          "Le geste technique de base est reconnaissable"
+        ]
+      },
+      "niveau2": {
+        "titre": "Intermédiaire",
+        "description": "L'élève est capable d'exécuter l'activité de façon autonome avec quelques ajustements. Pour « Service par en dessous », voici les attentes à ce niveau.",
+        "consignes": [
+          "Introduire des variantes avec partenaire ou en mouvement",
+          "Ajouter des contraintes de temps ou d'espace",
+          "Combiner deux habiletés dans un même exercice"
+        ],
+        "criteres_reussite": [
+          "L'élève s'ajuste aux consignes supplémentaires",
+          "L'élève exécute le geste avec régularité"
+        ]
+      },
+      "niveau3": {
+        "titre": "Avancé",
+        "description": "L'élève démontre une maîtrise complète et peut enseigner aux autres. Pour « Service par en dessous », voici les attentes à ce niveau.",
+        "consignes": [
+          "Exécuter en situation de jeu réelle ou compétitive",
+          "Créer et proposer ses propres variantes avancées",
+          "Aider un pair moins expérimenté comme tuteur"
+        ],
+        "criteres_reussite": [
+          "L'élève transfère ses apprentissages à de nouvelles situations",
+          "L'élève maîtrise le geste dans des situations complexes"
+        ]
+      }
+    }
   },
   {
     "titre": "Touche haute (passe à dix doigts)",
@@ -32,8 +130,57 @@
     "variantes": "Touche haute vers l'arrière, touche en duo, touche avec déplacement.",
     "adaptation": "Ballon de plage (plus mou), l'enseignant lance doucement, touche assis (pour se concentrer sur les mains).",
     "duree": 15,
-    "materiel": ["1 ballon de volleyball par élève", "Mur (optionnel)"],
-    "tags": ["volleyball", "touche haute", "dix doigts", "technique"]
+    "materiel": [
+      "1 ballon de volleyball par élève",
+      "Mur (optionnel)"
+    ],
+    "tags": [
+      "volleyball",
+      "touche haute",
+      "dix doigts",
+      "technique"
+    ],
+    "progression": {
+      "niveau1": {
+        "titre": "Débutant",
+        "description": "L'élève découvre l'activité et se familiarise avec les mouvements fondamentaux. Pour « Touche haute (passe à dix doigts) », voici les attentes à ce niveau.",
+        "consignes": [
+          "Se concentrer sur la technique plutôt que la performance",
+          "Observer une démonstration avant chaque essai",
+          "Pratiquer en situation simplifiée sans pression"
+        ],
+        "criteres_reussite": [
+          "L'élève comprend et respecte les consignes de base",
+          "Le geste technique de base est reconnaissable"
+        ]
+      },
+      "niveau2": {
+        "titre": "Intermédiaire",
+        "description": "L'élève est capable d'exécuter l'activité de façon autonome avec quelques ajustements. Pour « Touche haute (passe à dix doigts) », voici les attentes à ce niveau.",
+        "consignes": [
+          "Réduire le temps de réflexion entre les actions",
+          "Combiner deux habiletés dans un même exercice",
+          "Introduire des variantes avec partenaire ou en mouvement"
+        ],
+        "criteres_reussite": [
+          "L'élève s'ajuste aux consignes supplémentaires",
+          "La technique est maîtrisée dans des situations variées"
+        ]
+      },
+      "niveau3": {
+        "titre": "Avancé",
+        "description": "À ce stade avancé, l'élève crée, innove et aide ses pairs. Pour « Touche haute (passe à dix doigts) », voici les attentes à ce niveau.",
+        "consignes": [
+          "S'auto-évaluer et identifier ses points d'amélioration",
+          "Exécuter en situation de jeu réelle ou compétitive",
+          "Aider un pair moins expérimenté comme tuteur"
+        ],
+        "criteres_reussite": [
+          "L'élève transfère ses apprentissages à de nouvelles situations",
+          "L'élève maîtrise le geste dans des situations complexes"
+        ]
+      }
+    }
   },
   {
     "titre": "Jeu du ballon par-dessus la corde",
@@ -44,8 +191,57 @@
     "variantes": "Obliger une passe avant d'envoyer, lancer à 2 mains par-dessus la tête, varier la hauteur de la corde.",
     "adaptation": "Ballon de plage, attraper et lancer (pas de frappe), corde plus basse.",
     "duree": 15,
-    "materiel": ["Ballon léger (plage ou mousse)", "Corde ou filet bas"],
-    "tags": ["volleyball", "initiation", "corde", "lancer"]
+    "materiel": [
+      "Ballon léger (plage ou mousse)",
+      "Corde ou filet bas"
+    ],
+    "tags": [
+      "volleyball",
+      "initiation",
+      "corde",
+      "lancer"
+    ],
+    "progression": {
+      "niveau1": {
+        "titre": "Débutant",
+        "description": "Le débutant explore les bases de l'activité avec un accompagnement soutenu. Pour « Jeu du ballon par-dessus la corde », voici les attentes à ce niveau.",
+        "consignes": [
+          "Utiliser du matériel adapté (plus léger, plus gros, plus lent)",
+          "Se concentrer sur la technique plutôt que la performance",
+          "Observer une démonstration avant chaque essai"
+        ],
+        "criteres_reussite": [
+          "Le geste technique de base est reconnaissable",
+          "L'élève participe activement et fait des efforts"
+        ]
+      },
+      "niveau2": {
+        "titre": "Intermédiaire",
+        "description": "L'élève est capable d'exécuter l'activité de façon autonome avec quelques ajustements. Pour « Jeu du ballon par-dessus la corde », voici les attentes à ce niveau.",
+        "consignes": [
+          "Réduire le temps de réflexion entre les actions",
+          "Introduire des variantes avec partenaire ou en mouvement",
+          "Ajouter des contraintes de temps ou d'espace"
+        ],
+        "criteres_reussite": [
+          "La technique est maîtrisée dans des situations variées",
+          "L'élève s'ajuste aux consignes supplémentaires"
+        ]
+      },
+      "niveau3": {
+        "titre": "Avancé",
+        "description": "À ce stade avancé, l'élève crée, innove et aide ses pairs. Pour « Jeu du ballon par-dessus la corde », voici les attentes à ce niveau.",
+        "consignes": [
+          "Combiner plusieurs habiletés en séquence complexe",
+          "S'auto-évaluer et identifier ses points d'amélioration",
+          "Aider un pair moins expérimenté comme tuteur"
+        ],
+        "criteres_reussite": [
+          "L'élève transfère ses apprentissages à de nouvelles situations",
+          "L'exécution est fluide, précise et constante"
+        ]
+      }
+    }
   },
   {
     "titre": "Service par en haut – tennis",
@@ -56,8 +252,57 @@
     "variantes": "Service flottant (sans spin), service sauté, service coupé.",
     "adaptation": "Distance réduite, filet plus bas, commencer avec le lancer seul (sans frapper).",
     "duree": 15,
-    "materiel": ["Ballons de volleyball", "Filet"],
-    "tags": ["volleyball", "service", "haut", "tennis"]
+    "materiel": [
+      "Ballons de volleyball",
+      "Filet"
+    ],
+    "tags": [
+      "volleyball",
+      "service",
+      "haut",
+      "tennis"
+    ],
+    "progression": {
+      "niveau1": {
+        "titre": "Débutant",
+        "description": "L'accent est mis sur la compréhension des consignes et la sécurité. Pour « Service par en haut – tennis », voici les attentes à ce niveau.",
+        "consignes": [
+          "Se concentrer sur la technique plutôt que la performance",
+          "Observer une démonstration avant chaque essai",
+          "Utiliser du matériel adapté (plus léger, plus gros, plus lent)"
+        ],
+        "criteres_reussite": [
+          "L'élève participe activement et fait des efforts",
+          "Le geste technique de base est reconnaissable"
+        ]
+      },
+      "niveau2": {
+        "titre": "Intermédiaire",
+        "description": "L'intermédiaire travaille la régularité et commence à combiner les habiletés. Pour « Service par en haut – tennis », voici les attentes à ce niveau.",
+        "consignes": [
+          "Introduire des variantes avec partenaire ou en mouvement",
+          "Ajouter des contraintes de temps ou d'espace",
+          "Réduire le temps de réflexion entre les actions"
+        ],
+        "criteres_reussite": [
+          "L'élève s'ajuste aux consignes supplémentaires",
+          "L'élève exécute le geste avec régularité"
+        ]
+      },
+      "niveau3": {
+        "titre": "Avancé",
+        "description": "À ce stade avancé, l'élève crée, innove et aide ses pairs. Pour « Service par en haut – tennis », voici les attentes à ce niveau.",
+        "consignes": [
+          "Aider un pair moins expérimenté comme tuteur",
+          "Combiner plusieurs habiletés en séquence complexe",
+          "S'auto-évaluer et identifier ses points d'amélioration"
+        ],
+        "criteres_reussite": [
+          "L'élève maîtrise le geste dans des situations complexes",
+          "L'exécution est fluide, précise et constante"
+        ]
+      }
+    }
   },
   {
     "titre": "Manchette en duo – échanges continus",
@@ -68,8 +313,56 @@
     "variantes": "Manchette en trio (triangle), manchette avec déplacement latéral, manchette avec réception de service.",
     "adaptation": "Lancer très doux et proche, ballon de plage, manchette après un rebond au sol.",
     "duree": 15,
-    "materiel": ["1 ballon de volleyball par duo"],
-    "tags": ["volleyball", "manchette", "duo", "échanges"]
+    "materiel": [
+      "1 ballon de volleyball par duo"
+    ],
+    "tags": [
+      "volleyball",
+      "manchette",
+      "duo",
+      "échanges"
+    ],
+    "progression": {
+      "niveau1": {
+        "titre": "Débutant",
+        "description": "Le débutant explore les bases de l'activité avec un accompagnement soutenu. Pour « Manchette en duo – échanges continus », voici les attentes à ce niveau.",
+        "consignes": [
+          "Observer une démonstration avant chaque essai",
+          "Utiliser du matériel adapté (plus léger, plus gros, plus lent)",
+          "Pratiquer en situation simplifiée sans pression"
+        ],
+        "criteres_reussite": [
+          "Le geste technique de base est reconnaissable",
+          "L'élève comprend et respecte les consignes de base"
+        ]
+      },
+      "niveau2": {
+        "titre": "Intermédiaire",
+        "description": "À ce niveau, on ajoute de la complexité tout en consolidant les acquis. Pour « Manchette en duo – échanges continus », voici les attentes à ce niveau.",
+        "consignes": [
+          "Combiner deux habiletés dans un même exercice",
+          "Introduire des variantes avec partenaire ou en mouvement",
+          "Réduire le temps de réflexion entre les actions"
+        ],
+        "criteres_reussite": [
+          "L'élève exécute le geste avec régularité",
+          "La technique est maîtrisée dans des situations variées"
+        ]
+      },
+      "niveau3": {
+        "titre": "Avancé",
+        "description": "L'élève perfectionne sa technique et s'adapte à des situations complexes. Pour « Manchette en duo – échanges continus », voici les attentes à ce niveau.",
+        "consignes": [
+          "Combiner plusieurs habiletés en séquence complexe",
+          "Créer et proposer ses propres variantes avancées",
+          "Aider un pair moins expérimenté comme tuteur"
+        ],
+        "criteres_reussite": [
+          "L'élève transfère ses apprentissages à de nouvelles situations",
+          "L'exécution est fluide, précise et constante"
+        ]
+      }
+    }
   },
   {
     "titre": "Attaque (smash) – initiation",
@@ -80,8 +373,57 @@
     "variantes": "Smash après passe du passeur, smash de position 4 (gauche), smash croisé.",
     "adaptation": "Frapper un ballon tenu par un partenaire, filet plus bas, frapper sans saut.",
     "duree": 18,
-    "materiel": ["Ballons de volleyball", "Filet"],
-    "tags": ["volleyball", "attaque", "smash", "frappe"]
+    "materiel": [
+      "Ballons de volleyball",
+      "Filet"
+    ],
+    "tags": [
+      "volleyball",
+      "attaque",
+      "smash",
+      "frappe"
+    ],
+    "progression": {
+      "niveau1": {
+        "titre": "Débutant",
+        "description": "Le débutant explore les bases de l'activité avec un accompagnement soutenu. Pour « Attaque (smash) – initiation », voici les attentes à ce niveau.",
+        "consignes": [
+          "Se concentrer sur la technique plutôt que la performance",
+          "Exécuter les mouvements de base lentement et avec contrôle",
+          "Utiliser du matériel adapté (plus léger, plus gros, plus lent)"
+        ],
+        "criteres_reussite": [
+          "L'élève participe activement et fait des efforts",
+          "Le geste technique de base est reconnaissable"
+        ]
+      },
+      "niveau2": {
+        "titre": "Intermédiaire",
+        "description": "L'élève est capable d'exécuter l'activité de façon autonome avec quelques ajustements. Pour « Attaque (smash) – initiation », voici les attentes à ce niveau.",
+        "consignes": [
+          "Réduire le temps de réflexion entre les actions",
+          "Augmenter progressivement la complexité de l'exercice",
+          "Ajouter des contraintes de temps ou d'espace"
+        ],
+        "criteres_reussite": [
+          "La technique est maîtrisée dans des situations variées",
+          "L'élève s'ajuste aux consignes supplémentaires"
+        ]
+      },
+      "niveau3": {
+        "titre": "Avancé",
+        "description": "L'élève démontre une maîtrise complète et peut enseigner aux autres. Pour « Attaque (smash) – initiation », voici les attentes à ce niveau.",
+        "consignes": [
+          "S'auto-évaluer et identifier ses points d'amélioration",
+          "Créer et proposer ses propres variantes avancées",
+          "Exécuter en situation de jeu réelle ou compétitive"
+        ],
+        "criteres_reussite": [
+          "L'élève transfère ses apprentissages à de nouvelles situations",
+          "L'exécution est fluide, précise et constante"
+        ]
+      }
+    }
   },
   {
     "titre": "Réception de service en ligne",
@@ -92,8 +434,57 @@
     "variantes": "Réception de service par en haut, réception en position de match (3 receveurs), réception dirigée.",
     "adaptation": "Service très doux, ballon de plage, réception après rebond au sol.",
     "duree": 15,
-    "materiel": ["Ballons de volleyball", "Filet"],
-    "tags": ["volleyball", "réception", "service", "manchette"]
+    "materiel": [
+      "Ballons de volleyball",
+      "Filet"
+    ],
+    "tags": [
+      "volleyball",
+      "réception",
+      "service",
+      "manchette"
+    ],
+    "progression": {
+      "niveau1": {
+        "titre": "Débutant",
+        "description": "Le débutant explore les bases de l'activité avec un accompagnement soutenu. Pour « Réception de service en ligne », voici les attentes à ce niveau.",
+        "consignes": [
+          "Utiliser du matériel adapté (plus léger, plus gros, plus lent)",
+          "Observer une démonstration avant chaque essai",
+          "Exécuter les mouvements de base lentement et avec contrôle"
+        ],
+        "criteres_reussite": [
+          "L'élève comprend et respecte les consignes de base",
+          "L'élève participe activement et fait des efforts"
+        ]
+      },
+      "niveau2": {
+        "titre": "Intermédiaire",
+        "description": "L'élève maîtrise les bases et cherche à améliorer sa constance et sa fluidité. Pour « Réception de service en ligne », voici les attentes à ce niveau.",
+        "consignes": [
+          "Ajouter des contraintes de temps ou d'espace",
+          "Augmenter progressivement la complexité de l'exercice",
+          "Réduire le temps de réflexion entre les actions"
+        ],
+        "criteres_reussite": [
+          "L'élève s'ajuste aux consignes supplémentaires",
+          "L'élève exécute le geste avec régularité"
+        ]
+      },
+      "niveau3": {
+        "titre": "Avancé",
+        "description": "L'expert peut exécuter l'activité dans des contextes variés et exigeants. Pour « Réception de service en ligne », voici les attentes à ce niveau.",
+        "consignes": [
+          "Aider un pair moins expérimenté comme tuteur",
+          "S'auto-évaluer et identifier ses points d'amélioration",
+          "Exécuter en situation de jeu réelle ou compétitive"
+        ],
+        "criteres_reussite": [
+          "L'élève maîtrise le geste dans des situations complexes",
+          "L'élève transfère ses apprentissages à de nouvelles situations"
+        ]
+      }
+    }
   },
   {
     "titre": "Jeu de la balle assise – volleyball modifié",
@@ -104,8 +495,56 @@
     "variantes": "Balle assise avec filet au milieu, debout en cercle, 2 ballons en même temps.",
     "adaptation": "Attraper et lancer au lieu de frapper, ballon de plage très léger, cercle plus petit.",
     "duree": 12,
-    "materiel": ["Ballon de plage ou ballon léger"],
-    "tags": ["volleyball", "balle assise", "initiation", "modifié"]
+    "materiel": [
+      "Ballon de plage ou ballon léger"
+    ],
+    "tags": [
+      "volleyball",
+      "balle assise",
+      "initiation",
+      "modifié"
+    ],
+    "progression": {
+      "niveau1": {
+        "titre": "Débutant",
+        "description": "Le débutant explore les bases de l'activité avec un accompagnement soutenu. Pour « Jeu de la balle assise – volleyball modifié », voici les attentes à ce niveau.",
+        "consignes": [
+          "Observer une démonstration avant chaque essai",
+          "Se concentrer sur la technique plutôt que la performance",
+          "Pratiquer en situation simplifiée sans pression"
+        ],
+        "criteres_reussite": [
+          "L'élève comprend et respecte les consignes de base",
+          "L'élève participe activement et fait des efforts"
+        ]
+      },
+      "niveau2": {
+        "titre": "Intermédiaire",
+        "description": "L'intermédiaire travaille la régularité et commence à combiner les habiletés. Pour « Jeu de la balle assise – volleyball modifié », voici les attentes à ce niveau.",
+        "consignes": [
+          "Introduire des variantes avec partenaire ou en mouvement",
+          "Combiner deux habiletés dans un même exercice",
+          "Ajouter des contraintes de temps ou d'espace"
+        ],
+        "criteres_reussite": [
+          "L'élève exécute le geste avec régularité",
+          "La technique est maîtrisée dans des situations variées"
+        ]
+      },
+      "niveau3": {
+        "titre": "Avancé",
+        "description": "L'élève perfectionne sa technique et s'adapte à des situations complexes. Pour « Jeu de la balle assise – volleyball modifié », voici les attentes à ce niveau.",
+        "consignes": [
+          "Aider un pair moins expérimenté comme tuteur",
+          "Exécuter en situation de jeu réelle ou compétitive",
+          "Combiner plusieurs habiletés en séquence complexe"
+        ],
+        "criteres_reussite": [
+          "L'exécution est fluide, précise et constante",
+          "L'élève maîtrise le geste dans des situations complexes"
+        ]
+      }
+    }
   },
   {
     "titre": "Bloc au filet – technique de base",
@@ -116,8 +555,57 @@
     "variantes": "Bloc double (2 bloqueurs), bloc avec déplacement latéral, bloc suivi de défense.",
     "adaptation": "Filet plus bas, smash très doux, bloc sans saut (bras levés seulement).",
     "duree": 15,
-    "materiel": ["Ballons de volleyball", "Filet"],
-    "tags": ["volleyball", "bloc", "filet", "défense"]
+    "materiel": [
+      "Ballons de volleyball",
+      "Filet"
+    ],
+    "tags": [
+      "volleyball",
+      "bloc",
+      "filet",
+      "défense"
+    ],
+    "progression": {
+      "niveau1": {
+        "titre": "Débutant",
+        "description": "L'accent est mis sur la compréhension des consignes et la sécurité. Pour « Bloc au filet – technique de base », voici les attentes à ce niveau.",
+        "consignes": [
+          "Se concentrer sur la technique plutôt que la performance",
+          "Observer une démonstration avant chaque essai",
+          "Pratiquer en situation simplifiée sans pression"
+        ],
+        "criteres_reussite": [
+          "L'élève participe activement et fait des efforts",
+          "L'élève comprend et respecte les consignes de base"
+        ]
+      },
+      "niveau2": {
+        "titre": "Intermédiaire",
+        "description": "L'intermédiaire travaille la régularité et commence à combiner les habiletés. Pour « Bloc au filet – technique de base », voici les attentes à ce niveau.",
+        "consignes": [
+          "Combiner deux habiletés dans un même exercice",
+          "Augmenter progressivement la complexité de l'exercice",
+          "Ajouter des contraintes de temps ou d'espace"
+        ],
+        "criteres_reussite": [
+          "La technique est maîtrisée dans des situations variées",
+          "L'élève s'ajuste aux consignes supplémentaires"
+        ]
+      },
+      "niveau3": {
+        "titre": "Avancé",
+        "description": "L'élève perfectionne sa technique et s'adapte à des situations complexes. Pour « Bloc au filet – technique de base », voici les attentes à ce niveau.",
+        "consignes": [
+          "Exécuter en situation de jeu réelle ou compétitive",
+          "S'auto-évaluer et identifier ses points d'amélioration",
+          "Créer et proposer ses propres variantes avancées"
+        ],
+        "criteres_reussite": [
+          "L'exécution est fluide, précise et constante",
+          "L'élève maîtrise le geste dans des situations complexes"
+        ]
+      }
+    }
   },
   {
     "titre": "Échanges en touche haute en duo",
@@ -128,8 +616,56 @@
     "variantes": "Touche en triangle (3 joueurs), touche avec rotation, touche en marchant.",
     "adaptation": "Un joueur lance, l'autre touche (pas d'échange continu), ballon gonflable, hauteur plus basse.",
     "duree": 15,
-    "materiel": ["1 ballon de volleyball par duo"],
-    "tags": ["volleyball", "touche haute", "duo", "échanges"]
+    "materiel": [
+      "1 ballon de volleyball par duo"
+    ],
+    "tags": [
+      "volleyball",
+      "touche haute",
+      "duo",
+      "échanges"
+    ],
+    "progression": {
+      "niveau1": {
+        "titre": "Débutant",
+        "description": "L'accent est mis sur la compréhension des consignes et la sécurité. Pour « Échanges en touche haute en duo », voici les attentes à ce niveau.",
+        "consignes": [
+          "Utiliser du matériel adapté (plus léger, plus gros, plus lent)",
+          "Exécuter les mouvements de base lentement et avec contrôle",
+          "Pratiquer en situation simplifiée sans pression"
+        ],
+        "criteres_reussite": [
+          "Le geste technique de base est reconnaissable",
+          "L'élève comprend et respecte les consignes de base"
+        ]
+      },
+      "niveau2": {
+        "titre": "Intermédiaire",
+        "description": "L'élève maîtrise les bases et cherche à améliorer sa constance et sa fluidité. Pour « Échanges en touche haute en duo », voici les attentes à ce niveau.",
+        "consignes": [
+          "Combiner deux habiletés dans un même exercice",
+          "Augmenter progressivement la complexité de l'exercice",
+          "Réduire le temps de réflexion entre les actions"
+        ],
+        "criteres_reussite": [
+          "L'élève s'ajuste aux consignes supplémentaires",
+          "La technique est maîtrisée dans des situations variées"
+        ]
+      },
+      "niveau3": {
+        "titre": "Avancé",
+        "description": "L'expert peut exécuter l'activité dans des contextes variés et exigeants. Pour « Échanges en touche haute en duo », voici les attentes à ce niveau.",
+        "consignes": [
+          "S'auto-évaluer et identifier ses points d'amélioration",
+          "Combiner plusieurs habiletés en séquence complexe",
+          "Aider un pair moins expérimenté comme tuteur"
+        ],
+        "criteres_reussite": [
+          "L'élève maîtrise le geste dans des situations complexes",
+          "L'exécution est fluide, précise et constante"
+        ]
+      }
+    }
   },
   {
     "titre": "Match de volleyball modifié 4v4",
@@ -140,8 +676,58 @@
     "variantes": "6v6 (vraie formation), 3v3 sans rebond, match à thème (service = 2 points).",
     "adaptation": "Attraper-lancer autorisé, ballon de plage, filet plus bas, 1 rebond toujours permis.",
     "duree": 20,
-    "materiel": ["Ballons de volleyball", "Filet", "Cônes pour les zones"],
-    "tags": ["volleyball", "match", "4v4", "modifié"]
+    "materiel": [
+      "Ballons de volleyball",
+      "Filet",
+      "Cônes pour les zones"
+    ],
+    "tags": [
+      "volleyball",
+      "match",
+      "4v4",
+      "modifié"
+    ],
+    "progression": {
+      "niveau1": {
+        "titre": "Débutant",
+        "description": "L'accent est mis sur la compréhension des consignes et la sécurité. Pour « Match de volleyball modifié 4v4 », voici les attentes à ce niveau.",
+        "consignes": [
+          "Se concentrer sur la technique plutôt que la performance",
+          "Observer une démonstration avant chaque essai",
+          "Utiliser du matériel adapté (plus léger, plus gros, plus lent)"
+        ],
+        "criteres_reussite": [
+          "L'élève participe activement et fait des efforts",
+          "Le geste technique de base est reconnaissable"
+        ]
+      },
+      "niveau2": {
+        "titre": "Intermédiaire",
+        "description": "L'élève est capable d'exécuter l'activité de façon autonome avec quelques ajustements. Pour « Match de volleyball modifié 4v4 », voici les attentes à ce niveau.",
+        "consignes": [
+          "Introduire des variantes avec partenaire ou en mouvement",
+          "Ajouter des contraintes de temps ou d'espace",
+          "Combiner deux habiletés dans un même exercice"
+        ],
+        "criteres_reussite": [
+          "L'élève s'ajuste aux consignes supplémentaires",
+          "La technique est maîtrisée dans des situations variées"
+        ]
+      },
+      "niveau3": {
+        "titre": "Avancé",
+        "description": "L'élève démontre une maîtrise complète et peut enseigner aux autres. Pour « Match de volleyball modifié 4v4 », voici les attentes à ce niveau.",
+        "consignes": [
+          "Exécuter en situation de jeu réelle ou compétitive",
+          "Créer et proposer ses propres variantes avancées",
+          "Aider un pair moins expérimenté comme tuteur"
+        ],
+        "criteres_reussite": [
+          "L'élève transfère ses apprentissages à de nouvelles situations",
+          "L'exécution est fluide, précise et constante"
+        ]
+      }
+    }
   },
   {
     "titre": "Placement défensif (read and react)",
@@ -152,8 +738,57 @@
     "variantes": "Défense avec plongeon, défense à 3 arrières, défense avec bloc devant.",
     "adaptation": "Smash léger, ballon de plage, position défensive debout (pas de plongeon).",
     "duree": 15,
-    "materiel": ["Ballons de volleyball", "Filet"],
-    "tags": ["volleyball", "défense", "placement", "réaction"]
+    "materiel": [
+      "Ballons de volleyball",
+      "Filet"
+    ],
+    "tags": [
+      "volleyball",
+      "défense",
+      "placement",
+      "réaction"
+    ],
+    "progression": {
+      "niveau1": {
+        "titre": "Débutant",
+        "description": "À ce stade, l'objectif est d'apprivoiser l'exercice sans pression de performance. Pour « Placement défensif (read and react) », voici les attentes à ce niveau.",
+        "consignes": [
+          "Observer une démonstration avant chaque essai",
+          "Pratiquer en situation simplifiée sans pression",
+          "Se concentrer sur la technique plutôt que la performance"
+        ],
+        "criteres_reussite": [
+          "Le geste technique de base est reconnaissable",
+          "L'élève comprend et respecte les consignes de base"
+        ]
+      },
+      "niveau2": {
+        "titre": "Intermédiaire",
+        "description": "L'intermédiaire travaille la régularité et commence à combiner les habiletés. Pour « Placement défensif (read and react) », voici les attentes à ce niveau.",
+        "consignes": [
+          "Combiner deux habiletés dans un même exercice",
+          "Réduire le temps de réflexion entre les actions",
+          "Ajouter des contraintes de temps ou d'espace"
+        ],
+        "criteres_reussite": [
+          "La technique est maîtrisée dans des situations variées",
+          "L'élève s'ajuste aux consignes supplémentaires"
+        ]
+      },
+      "niveau3": {
+        "titre": "Avancé",
+        "description": "À ce stade avancé, l'élève crée, innove et aide ses pairs. Pour « Placement défensif (read and react) », voici les attentes à ce niveau.",
+        "consignes": [
+          "S'auto-évaluer et identifier ses points d'amélioration",
+          "Aider un pair moins expérimenté comme tuteur",
+          "Combiner plusieurs habiletés en séquence complexe"
+        ],
+        "criteres_reussite": [
+          "L'exécution est fluide, précise et constante",
+          "L'élève transfère ses apprentissages à de nouvelles situations"
+        ]
+      }
+    }
   },
   {
     "titre": "Passe du passeur (setting) – initiation",
@@ -164,8 +799,57 @@
     "variantes": "Passe arrière, passe courte (quick set), passe des deux côtés alternée.",
     "adaptation": "Passe haute sans cible d'attaquant, ballon de plage, passe depuis une position statique.",
     "duree": 15,
-    "materiel": ["Ballons de volleyball", "Filet"],
-    "tags": ["volleyball", "passeur", "touche haute", "setting"]
+    "materiel": [
+      "Ballons de volleyball",
+      "Filet"
+    ],
+    "tags": [
+      "volleyball",
+      "passeur",
+      "touche haute",
+      "setting"
+    ],
+    "progression": {
+      "niveau1": {
+        "titre": "Débutant",
+        "description": "L'élève découvre l'activité et se familiarise avec les mouvements fondamentaux. Pour « Passe du passeur (setting) – initiation », voici les attentes à ce niveau.",
+        "consignes": [
+          "Observer une démonstration avant chaque essai",
+          "Se concentrer sur la technique plutôt que la performance",
+          "Pratiquer en situation simplifiée sans pression"
+        ],
+        "criteres_reussite": [
+          "L'élève participe activement et fait des efforts",
+          "L'élève comprend et respecte les consignes de base"
+        ]
+      },
+      "niveau2": {
+        "titre": "Intermédiaire",
+        "description": "L'élève maîtrise les bases et cherche à améliorer sa constance et sa fluidité. Pour « Passe du passeur (setting) – initiation », voici les attentes à ce niveau.",
+        "consignes": [
+          "Combiner deux habiletés dans un même exercice",
+          "Réduire le temps de réflexion entre les actions",
+          "Augmenter progressivement la complexité de l'exercice"
+        ],
+        "criteres_reussite": [
+          "L'élève exécute le geste avec régularité",
+          "L'élève s'ajuste aux consignes supplémentaires"
+        ]
+      },
+      "niveau3": {
+        "titre": "Avancé",
+        "description": "À ce stade avancé, l'élève crée, innove et aide ses pairs. Pour « Passe du passeur (setting) – initiation », voici les attentes à ce niveau.",
+        "consignes": [
+          "Exécuter en situation de jeu réelle ou compétitive",
+          "Combiner plusieurs habiletés en séquence complexe",
+          "Aider un pair moins expérimenté comme tuteur"
+        ],
+        "criteres_reussite": [
+          "L'exécution est fluide, précise et constante",
+          "L'élève maîtrise le geste dans des situations complexes"
+        ]
+      }
+    }
   },
   {
     "titre": "Jeu du volleyball en cercle (newcombe)",
@@ -176,8 +860,57 @@
     "variantes": "Obliger une touche haute au lieu d'un lancer, frapper au lieu de lancer, newcombe en 3v3.",
     "adaptation": "Ballon de plage, filet très bas, attraper à une main permis.",
     "duree": 15,
-    "materiel": ["Ballon léger", "Filet ou corde"],
-    "tags": ["volleyball", "newcombe", "attraper-lancer", "initiation"]
+    "materiel": [
+      "Ballon léger",
+      "Filet ou corde"
+    ],
+    "tags": [
+      "volleyball",
+      "newcombe",
+      "attraper-lancer",
+      "initiation"
+    ],
+    "progression": {
+      "niveau1": {
+        "titre": "Débutant",
+        "description": "Le débutant explore les bases de l'activité avec un accompagnement soutenu. Pour « Jeu du volleyball en cercle (newcombe) », voici les attentes à ce niveau.",
+        "consignes": [
+          "Exécuter les mouvements de base lentement et avec contrôle",
+          "Se concentrer sur la technique plutôt que la performance",
+          "Observer une démonstration avant chaque essai"
+        ],
+        "criteres_reussite": [
+          "L'élève participe activement et fait des efforts",
+          "L'élève comprend et respecte les consignes de base"
+        ]
+      },
+      "niveau2": {
+        "titre": "Intermédiaire",
+        "description": "L'intermédiaire travaille la régularité et commence à combiner les habiletés. Pour « Jeu du volleyball en cercle (newcombe) », voici les attentes à ce niveau.",
+        "consignes": [
+          "Réduire le temps de réflexion entre les actions",
+          "Augmenter progressivement la complexité de l'exercice",
+          "Combiner deux habiletés dans un même exercice"
+        ],
+        "criteres_reussite": [
+          "L'élève exécute le geste avec régularité",
+          "La technique est maîtrisée dans des situations variées"
+        ]
+      },
+      "niveau3": {
+        "titre": "Avancé",
+        "description": "À ce stade avancé, l'élève crée, innove et aide ses pairs. Pour « Jeu du volleyball en cercle (newcombe) », voici les attentes à ce niveau.",
+        "consignes": [
+          "Aider un pair moins expérimenté comme tuteur",
+          "Exécuter en situation de jeu réelle ou compétitive",
+          "Créer et proposer ses propres variantes avancées"
+        ],
+        "criteres_reussite": [
+          "L'élève maîtrise le geste dans des situations complexes",
+          "L'exécution est fluide, précise et constante"
+        ]
+      }
+    }
   },
   {
     "titre": "Touche haute vers l'arrière (back set)",
@@ -188,8 +921,56 @@
     "variantes": "Back set en match, back set après déplacement, back set rapide (quick).",
     "adaptation": "Passe arrière à deux mains (lancer), hauteur de passe libre, sans filet.",
     "duree": 15,
-    "materiel": ["Ballons de volleyball"],
-    "tags": ["volleyball", "touche arrière", "back set", "passeur"]
+    "materiel": [
+      "Ballons de volleyball"
+    ],
+    "tags": [
+      "volleyball",
+      "touche arrière",
+      "back set",
+      "passeur"
+    ],
+    "progression": {
+      "niveau1": {
+        "titre": "Débutant",
+        "description": "L'accent est mis sur la compréhension des consignes et la sécurité. Pour « Touche haute vers l'arrière (back set) », voici les attentes à ce niveau.",
+        "consignes": [
+          "Exécuter les mouvements de base lentement et avec contrôle",
+          "Utiliser du matériel adapté (plus léger, plus gros, plus lent)",
+          "Se concentrer sur la technique plutôt que la performance"
+        ],
+        "criteres_reussite": [
+          "Le geste technique de base est reconnaissable",
+          "L'élève participe activement et fait des efforts"
+        ]
+      },
+      "niveau2": {
+        "titre": "Intermédiaire",
+        "description": "L'élève est capable d'exécuter l'activité de façon autonome avec quelques ajustements. Pour « Touche haute vers l'arrière (back set) », voici les attentes à ce niveau.",
+        "consignes": [
+          "Ajouter des contraintes de temps ou d'espace",
+          "Combiner deux habiletés dans un même exercice",
+          "Augmenter progressivement la complexité de l'exercice"
+        ],
+        "criteres_reussite": [
+          "La technique est maîtrisée dans des situations variées",
+          "L'élève exécute le geste avec régularité"
+        ]
+      },
+      "niveau3": {
+        "titre": "Avancé",
+        "description": "À ce stade avancé, l'élève crée, innove et aide ses pairs. Pour « Touche haute vers l'arrière (back set) », voici les attentes à ce niveau.",
+        "consignes": [
+          "Aider un pair moins expérimenté comme tuteur",
+          "S'auto-évaluer et identifier ses points d'amélioration",
+          "Créer et proposer ses propres variantes avancées"
+        ],
+        "criteres_reussite": [
+          "L'exécution est fluide, précise et constante",
+          "L'élève transfère ses apprentissages à de nouvelles situations"
+        ]
+      }
+    }
   },
   {
     "titre": "Échauffement volleyball – pepper",
@@ -200,8 +981,56 @@
     "variantes": "Pepper avec attaque douce, pepper à 3, pepper en se déplaçant latéralement.",
     "adaptation": "Lancer au lieu de touche haute, ballon de plage, laisser un rebond entre chaque échange.",
     "duree": 10,
-    "materiel": ["1 ballon de volleyball par duo"],
-    "tags": ["volleyball", "pepper", "échauffement", "duo"]
+    "materiel": [
+      "1 ballon de volleyball par duo"
+    ],
+    "tags": [
+      "volleyball",
+      "pepper",
+      "échauffement",
+      "duo"
+    ],
+    "progression": {
+      "niveau1": {
+        "titre": "Débutant",
+        "description": "Le débutant explore les bases de l'activité avec un accompagnement soutenu. Pour « Échauffement volleyball – pepper », voici les attentes à ce niveau.",
+        "consignes": [
+          "Exécuter les mouvements de base lentement et avec contrôle",
+          "Se concentrer sur la technique plutôt que la performance",
+          "Pratiquer en situation simplifiée sans pression"
+        ],
+        "criteres_reussite": [
+          "L'élève participe activement et fait des efforts",
+          "L'élève comprend et respecte les consignes de base"
+        ]
+      },
+      "niveau2": {
+        "titre": "Intermédiaire",
+        "description": "À ce niveau, on ajoute de la complexité tout en consolidant les acquis. Pour « Échauffement volleyball – pepper », voici les attentes à ce niveau.",
+        "consignes": [
+          "Réduire le temps de réflexion entre les actions",
+          "Introduire des variantes avec partenaire ou en mouvement",
+          "Augmenter progressivement la complexité de l'exercice"
+        ],
+        "criteres_reussite": [
+          "L'élève s'ajuste aux consignes supplémentaires",
+          "L'élève exécute le geste avec régularité"
+        ]
+      },
+      "niveau3": {
+        "titre": "Avancé",
+        "description": "L'élève perfectionne sa technique et s'adapte à des situations complexes. Pour « Échauffement volleyball – pepper », voici les attentes à ce niveau.",
+        "consignes": [
+          "S'auto-évaluer et identifier ses points d'amélioration",
+          "Exécuter en situation de jeu réelle ou compétitive",
+          "Créer et proposer ses propres variantes avancées"
+        ],
+        "criteres_reussite": [
+          "L'élève maîtrise le geste dans des situations complexes",
+          "L'élève transfère ses apprentissages à de nouvelles situations"
+        ]
+      }
+    }
   },
   {
     "titre": "Service flottant",
@@ -212,8 +1041,57 @@
     "variantes": "Service flottant court (tip), service flottant profond, service flottant en compétition.",
     "adaptation": "Service flottant par en dessous d'abord, distance réduite, ballon plus léger.",
     "duree": 15,
-    "materiel": ["Ballons de volleyball", "Filet"],
-    "tags": ["volleyball", "service flottant", "sans spin", "avancé"]
+    "materiel": [
+      "Ballons de volleyball",
+      "Filet"
+    ],
+    "tags": [
+      "volleyball",
+      "service flottant",
+      "sans spin",
+      "avancé"
+    ],
+    "progression": {
+      "niveau1": {
+        "titre": "Débutant",
+        "description": "Le débutant explore les bases de l'activité avec un accompagnement soutenu. Pour « Service flottant », voici les attentes à ce niveau.",
+        "consignes": [
+          "Se concentrer sur la technique plutôt que la performance",
+          "Observer une démonstration avant chaque essai",
+          "Utiliser du matériel adapté (plus léger, plus gros, plus lent)"
+        ],
+        "criteres_reussite": [
+          "L'élève comprend et respecte les consignes de base",
+          "L'élève participe activement et fait des efforts"
+        ]
+      },
+      "niveau2": {
+        "titre": "Intermédiaire",
+        "description": "L'élève maîtrise les bases et cherche à améliorer sa constance et sa fluidité. Pour « Service flottant », voici les attentes à ce niveau.",
+        "consignes": [
+          "Ajouter des contraintes de temps ou d'espace",
+          "Augmenter progressivement la complexité de l'exercice",
+          "Combiner deux habiletés dans un même exercice"
+        ],
+        "criteres_reussite": [
+          "La technique est maîtrisée dans des situations variées",
+          "L'élève exécute le geste avec régularité"
+        ]
+      },
+      "niveau3": {
+        "titre": "Avancé",
+        "description": "À ce stade avancé, l'élève crée, innove et aide ses pairs. Pour « Service flottant », voici les attentes à ce niveau.",
+        "consignes": [
+          "S'auto-évaluer et identifier ses points d'amélioration",
+          "Combiner plusieurs habiletés en séquence complexe",
+          "Aider un pair moins expérimenté comme tuteur"
+        ],
+        "criteres_reussite": [
+          "L'exécution est fluide, précise et constante",
+          "L'élève transfère ses apprentissages à de nouvelles situations"
+        ]
+      }
+    }
   },
   {
     "titre": "Déplacement sur le terrain – jeu de pieds",
@@ -224,8 +1102,56 @@
     "variantes": "Déplacement avec manchette à chaque arrêt, course en triangle, déplacement en réaction à un signal.",
     "adaptation": "Pas chassés lents, déplacements plus courts, sans position basse.",
     "duree": 10,
-    "materiel": ["Cônes"],
-    "tags": ["volleyball", "déplacement", "pieds", "agilité"]
+    "materiel": [
+      "Cônes"
+    ],
+    "tags": [
+      "volleyball",
+      "déplacement",
+      "pieds",
+      "agilité"
+    ],
+    "progression": {
+      "niveau1": {
+        "titre": "Débutant",
+        "description": "L'accent est mis sur la compréhension des consignes et la sécurité. Pour « Déplacement sur le terrain – jeu de pieds », voici les attentes à ce niveau.",
+        "consignes": [
+          "Se concentrer sur la technique plutôt que la performance",
+          "Pratiquer en situation simplifiée sans pression",
+          "Observer une démonstration avant chaque essai"
+        ],
+        "criteres_reussite": [
+          "L'élève comprend et respecte les consignes de base",
+          "L'élève participe activement et fait des efforts"
+        ]
+      },
+      "niveau2": {
+        "titre": "Intermédiaire",
+        "description": "À ce niveau, on ajoute de la complexité tout en consolidant les acquis. Pour « Déplacement sur le terrain – jeu de pieds », voici les attentes à ce niveau.",
+        "consignes": [
+          "Combiner deux habiletés dans un même exercice",
+          "Augmenter progressivement la complexité de l'exercice",
+          "Réduire le temps de réflexion entre les actions"
+        ],
+        "criteres_reussite": [
+          "La technique est maîtrisée dans des situations variées",
+          "L'élève exécute le geste avec régularité"
+        ]
+      },
+      "niveau3": {
+        "titre": "Avancé",
+        "description": "L'expert peut exécuter l'activité dans des contextes variés et exigeants. Pour « Déplacement sur le terrain – jeu de pieds », voici les attentes à ce niveau.",
+        "consignes": [
+          "Créer et proposer ses propres variantes avancées",
+          "Aider un pair moins expérimenté comme tuteur",
+          "Combiner plusieurs habiletés en séquence complexe"
+        ],
+        "criteres_reussite": [
+          "L'exécution est fluide, précise et constante",
+          "L'élève transfère ses apprentissages à de nouvelles situations"
+        ]
+      }
+    }
   },
   {
     "titre": "Manchette de sauvetage (dig)",
@@ -236,8 +1162,57 @@
     "variantes": "Dig avec roulade, dig après smash, dig en situation de match.",
     "adaptation": "Sans plongeon (juste manchette basse), ballon lancé doucement, sur tapis de gym.",
     "duree": 15,
-    "materiel": ["Ballons de volleyball", "Surface appropriée (tapis ou plancher de gym)"],
-    "tags": ["volleyball", "dig", "plongeon", "défense"]
+    "materiel": [
+      "Ballons de volleyball",
+      "Surface appropriée (tapis ou plancher de gym)"
+    ],
+    "tags": [
+      "volleyball",
+      "dig",
+      "plongeon",
+      "défense"
+    ],
+    "progression": {
+      "niveau1": {
+        "titre": "Débutant",
+        "description": "À ce stade, l'objectif est d'apprivoiser l'exercice sans pression de performance. Pour « Manchette de sauvetage (dig) », voici les attentes à ce niveau.",
+        "consignes": [
+          "Observer une démonstration avant chaque essai",
+          "Utiliser du matériel adapté (plus léger, plus gros, plus lent)",
+          "Se concentrer sur la technique plutôt que la performance"
+        ],
+        "criteres_reussite": [
+          "L'élève comprend et respecte les consignes de base",
+          "Le geste technique de base est reconnaissable"
+        ]
+      },
+      "niveau2": {
+        "titre": "Intermédiaire",
+        "description": "L'élève est capable d'exécuter l'activité de façon autonome avec quelques ajustements. Pour « Manchette de sauvetage (dig) », voici les attentes à ce niveau.",
+        "consignes": [
+          "Ajouter des contraintes de temps ou d'espace",
+          "Augmenter progressivement la complexité de l'exercice",
+          "Introduire des variantes avec partenaire ou en mouvement"
+        ],
+        "criteres_reussite": [
+          "L'élève exécute le geste avec régularité",
+          "L'élève s'ajuste aux consignes supplémentaires"
+        ]
+      },
+      "niveau3": {
+        "titre": "Avancé",
+        "description": "L'élève perfectionne sa technique et s'adapte à des situations complexes. Pour « Manchette de sauvetage (dig) », voici les attentes à ce niveau.",
+        "consignes": [
+          "Aider un pair moins expérimenté comme tuteur",
+          "Combiner plusieurs habiletés en séquence complexe",
+          "Créer et proposer ses propres variantes avancées"
+        ],
+        "criteres_reussite": [
+          "L'élève maîtrise le geste dans des situations complexes",
+          "L'exécution est fluide, précise et constante"
+        ]
+      }
+    }
   },
   {
     "titre": "Rotation et positions sur le terrain",
@@ -248,8 +1223,57 @@
     "variantes": "Rotation avec service réel, rotation rapide en chronométré, rotation avec rôles spécialisés.",
     "adaptation": "4 positions au lieu de 6, marquage des positions au sol, l'enseignant guide chaque rotation.",
     "duree": 10,
-    "materiel": ["Cônes numérotés", "Filet"],
-    "tags": ["volleyball", "rotation", "positions", "règlement"]
+    "materiel": [
+      "Cônes numérotés",
+      "Filet"
+    ],
+    "tags": [
+      "volleyball",
+      "rotation",
+      "positions",
+      "règlement"
+    ],
+    "progression": {
+      "niveau1": {
+        "titre": "Débutant",
+        "description": "L'accent est mis sur la compréhension des consignes et la sécurité. Pour « Rotation et positions sur le terrain », voici les attentes à ce niveau.",
+        "consignes": [
+          "Observer une démonstration avant chaque essai",
+          "Se concentrer sur la technique plutôt que la performance",
+          "Utiliser du matériel adapté (plus léger, plus gros, plus lent)"
+        ],
+        "criteres_reussite": [
+          "Le geste technique de base est reconnaissable",
+          "L'élève comprend et respecte les consignes de base"
+        ]
+      },
+      "niveau2": {
+        "titre": "Intermédiaire",
+        "description": "À ce niveau, on ajoute de la complexité tout en consolidant les acquis. Pour « Rotation et positions sur le terrain », voici les attentes à ce niveau.",
+        "consignes": [
+          "Introduire des variantes avec partenaire ou en mouvement",
+          "Augmenter progressivement la complexité de l'exercice",
+          "Ajouter des contraintes de temps ou d'espace"
+        ],
+        "criteres_reussite": [
+          "L'élève s'ajuste aux consignes supplémentaires",
+          "L'élève exécute le geste avec régularité"
+        ]
+      },
+      "niveau3": {
+        "titre": "Avancé",
+        "description": "L'élève perfectionne sa technique et s'adapte à des situations complexes. Pour « Rotation et positions sur le terrain », voici les attentes à ce niveau.",
+        "consignes": [
+          "Aider un pair moins expérimenté comme tuteur",
+          "Combiner plusieurs habiletés en séquence complexe",
+          "Créer et proposer ses propres variantes avancées"
+        ],
+        "criteres_reussite": [
+          "L'élève transfère ses apprentissages à de nouvelles situations",
+          "L'élève maîtrise le geste dans des situations complexes"
+        ]
+      }
+    }
   },
   {
     "titre": "Jeu du roi de la cour – volleyball",
@@ -260,8 +1284,57 @@
     "variantes": "Roi de la cour en 4v4, points bonus pour les attaques, roi individuel (1v1).",
     "adaptation": "Attraper-lancer permis, service par en dessous, 1 rebond autorisé.",
     "duree": 20,
-    "materiel": ["Ballons de volleyball", "Filet"],
-    "tags": ["volleyball", "roi", "compétition", "match"]
+    "materiel": [
+      "Ballons de volleyball",
+      "Filet"
+    ],
+    "tags": [
+      "volleyball",
+      "roi",
+      "compétition",
+      "match"
+    ],
+    "progression": {
+      "niveau1": {
+        "titre": "Débutant",
+        "description": "L'accent est mis sur la compréhension des consignes et la sécurité. Pour « Jeu du roi de la cour – volleyball », voici les attentes à ce niveau.",
+        "consignes": [
+          "Utiliser du matériel adapté (plus léger, plus gros, plus lent)",
+          "Se concentrer sur la technique plutôt que la performance",
+          "Exécuter les mouvements de base lentement et avec contrôle"
+        ],
+        "criteres_reussite": [
+          "L'élève comprend et respecte les consignes de base",
+          "L'élève participe activement et fait des efforts"
+        ]
+      },
+      "niveau2": {
+        "titre": "Intermédiaire",
+        "description": "L'élève maîtrise les bases et cherche à améliorer sa constance et sa fluidité. Pour « Jeu du roi de la cour – volleyball », voici les attentes à ce niveau.",
+        "consignes": [
+          "Introduire des variantes avec partenaire ou en mouvement",
+          "Augmenter progressivement la complexité de l'exercice",
+          "Réduire le temps de réflexion entre les actions"
+        ],
+        "criteres_reussite": [
+          "La technique est maîtrisée dans des situations variées",
+          "L'élève s'ajuste aux consignes supplémentaires"
+        ]
+      },
+      "niveau3": {
+        "titre": "Avancé",
+        "description": "À ce stade avancé, l'élève crée, innove et aide ses pairs. Pour « Jeu du roi de la cour – volleyball », voici les attentes à ce niveau.",
+        "consignes": [
+          "Créer et proposer ses propres variantes avancées",
+          "Combiner plusieurs habiletés en séquence complexe",
+          "S'auto-évaluer et identifier ses points d'amélioration"
+        ],
+        "criteres_reussite": [
+          "L'élève transfère ses apprentissages à de nouvelles situations",
+          "L'élève maîtrise le geste dans des situations complexes"
+        ]
+      }
+    }
   },
   {
     "titre": "Feinte d'attaque (tip/dink)",
@@ -272,8 +1345,57 @@
     "variantes": "Tip profond, roll shot (ballon en cloche), tip croisé.",
     "adaptation": "Tip sans saut, tip debout au filet, tip avec ballon tenu.",
     "duree": 15,
-    "materiel": ["Ballons de volleyball", "Filet"],
-    "tags": ["volleyball", "tip", "feinte", "attaque"]
+    "materiel": [
+      "Ballons de volleyball",
+      "Filet"
+    ],
+    "tags": [
+      "volleyball",
+      "tip",
+      "feinte",
+      "attaque"
+    ],
+    "progression": {
+      "niveau1": {
+        "titre": "Débutant",
+        "description": "À ce stade, l'objectif est d'apprivoiser l'exercice sans pression de performance. Pour « Feinte d'attaque (tip/dink) », voici les attentes à ce niveau.",
+        "consignes": [
+          "Se concentrer sur la technique plutôt que la performance",
+          "Utiliser du matériel adapté (plus léger, plus gros, plus lent)",
+          "Pratiquer en situation simplifiée sans pression"
+        ],
+        "criteres_reussite": [
+          "Le geste technique de base est reconnaissable",
+          "L'élève comprend et respecte les consignes de base"
+        ]
+      },
+      "niveau2": {
+        "titre": "Intermédiaire",
+        "description": "L'élève est capable d'exécuter l'activité de façon autonome avec quelques ajustements. Pour « Feinte d'attaque (tip/dink) », voici les attentes à ce niveau.",
+        "consignes": [
+          "Réduire le temps de réflexion entre les actions",
+          "Ajouter des contraintes de temps ou d'espace",
+          "Introduire des variantes avec partenaire ou en mouvement"
+        ],
+        "criteres_reussite": [
+          "La technique est maîtrisée dans des situations variées",
+          "L'élève exécute le geste avec régularité"
+        ]
+      },
+      "niveau3": {
+        "titre": "Avancé",
+        "description": "L'expert peut exécuter l'activité dans des contextes variés et exigeants. Pour « Feinte d'attaque (tip/dink) », voici les attentes à ce niveau.",
+        "consignes": [
+          "Aider un pair moins expérimenté comme tuteur",
+          "S'auto-évaluer et identifier ses points d'amélioration",
+          "Exécuter en situation de jeu réelle ou compétitive"
+        ],
+        "criteres_reussite": [
+          "L'élève maîtrise le geste dans des situations complexes",
+          "L'exécution est fluide, précise et constante"
+        ]
+      }
+    }
   },
   {
     "titre": "Manchette basse – réception de ballon fort",
@@ -284,8 +1406,56 @@
     "variantes": "Manchette basse après déplacement, manchette basse en plongeon, manchette basse en match.",
     "adaptation": "Ballon lancé (pas smashé), manchette depuis position debout, ballon de plage.",
     "duree": 15,
-    "materiel": ["Ballons de volleyball"],
-    "tags": ["volleyball", "manchette", "basse", "défense"]
+    "materiel": [
+      "Ballons de volleyball"
+    ],
+    "tags": [
+      "volleyball",
+      "manchette",
+      "basse",
+      "défense"
+    ],
+    "progression": {
+      "niveau1": {
+        "titre": "Débutant",
+        "description": "Le débutant explore les bases de l'activité avec un accompagnement soutenu. Pour « Manchette basse – réception de ballon fort », voici les attentes à ce niveau.",
+        "consignes": [
+          "Se concentrer sur la technique plutôt que la performance",
+          "Exécuter les mouvements de base lentement et avec contrôle",
+          "Utiliser du matériel adapté (plus léger, plus gros, plus lent)"
+        ],
+        "criteres_reussite": [
+          "Le geste technique de base est reconnaissable",
+          "L'élève participe activement et fait des efforts"
+        ]
+      },
+      "niveau2": {
+        "titre": "Intermédiaire",
+        "description": "À ce niveau, on ajoute de la complexité tout en consolidant les acquis. Pour « Manchette basse – réception de ballon fort », voici les attentes à ce niveau.",
+        "consignes": [
+          "Ajouter des contraintes de temps ou d'espace",
+          "Combiner deux habiletés dans un même exercice",
+          "Réduire le temps de réflexion entre les actions"
+        ],
+        "criteres_reussite": [
+          "L'élève s'ajuste aux consignes supplémentaires",
+          "L'élève exécute le geste avec régularité"
+        ]
+      },
+      "niveau3": {
+        "titre": "Avancé",
+        "description": "L'élève démontre une maîtrise complète et peut enseigner aux autres. Pour « Manchette basse – réception de ballon fort », voici les attentes à ce niveau.",
+        "consignes": [
+          "Aider un pair moins expérimenté comme tuteur",
+          "S'auto-évaluer et identifier ses points d'amélioration",
+          "Exécuter en situation de jeu réelle ou compétitive"
+        ],
+        "criteres_reussite": [
+          "L'élève maîtrise le geste dans des situations complexes",
+          "L'élève transfère ses apprentissages à de nouvelles situations"
+        ]
+      }
+    }
   },
   {
     "titre": "Exercice de transition – attaque-défense",
@@ -296,8 +1466,57 @@
     "variantes": "Transition avec vrai smash adverse, transition en 6v6, transition rapide (2 secondes entre chaque ballon).",
     "adaptation": "Plus de temps entre les ballons, ballon lancé doucement, 2 joueurs au lieu de 3.",
     "duree": 18,
-    "materiel": ["Ballons de volleyball (plusieurs)", "Filet"],
-    "tags": ["volleyball", "transition", "attaque-défense", "vitesse"]
+    "materiel": [
+      "Ballons de volleyball (plusieurs)",
+      "Filet"
+    ],
+    "tags": [
+      "volleyball",
+      "transition",
+      "attaque-défense",
+      "vitesse"
+    ],
+    "progression": {
+      "niveau1": {
+        "titre": "Débutant",
+        "description": "L'accent est mis sur la compréhension des consignes et la sécurité. Pour « Exercice de transition – attaque-défense », voici les attentes à ce niveau.",
+        "consignes": [
+          "Exécuter les mouvements de base lentement et avec contrôle",
+          "Se concentrer sur la technique plutôt que la performance",
+          "Observer une démonstration avant chaque essai"
+        ],
+        "criteres_reussite": [
+          "Le geste technique de base est reconnaissable",
+          "L'élève comprend et respecte les consignes de base"
+        ]
+      },
+      "niveau2": {
+        "titre": "Intermédiaire",
+        "description": "L'élève est capable d'exécuter l'activité de façon autonome avec quelques ajustements. Pour « Exercice de transition – attaque-défense », voici les attentes à ce niveau.",
+        "consignes": [
+          "Ajouter des contraintes de temps ou d'espace",
+          "Combiner deux habiletés dans un même exercice",
+          "Réduire le temps de réflexion entre les actions"
+        ],
+        "criteres_reussite": [
+          "L'élève exécute le geste avec régularité",
+          "L'élève s'ajuste aux consignes supplémentaires"
+        ]
+      },
+      "niveau3": {
+        "titre": "Avancé",
+        "description": "À ce stade avancé, l'élève crée, innove et aide ses pairs. Pour « Exercice de transition – attaque-défense », voici les attentes à ce niveau.",
+        "consignes": [
+          "Créer et proposer ses propres variantes avancées",
+          "Combiner plusieurs habiletés en séquence complexe",
+          "S'auto-évaluer et identifier ses points d'amélioration"
+        ],
+        "criteres_reussite": [
+          "L'élève transfère ses apprentissages à de nouvelles situations",
+          "L'élève maîtrise le geste dans des situations complexes"
+        ]
+      }
+    }
   },
   {
     "titre": "Jeu de la navette – manchette précise",
@@ -308,8 +1527,57 @@
     "variantes": "Cerceaux sur les côtés aussi, manchette en mouvement puis viser, concours de points en duo.",
     "adaptation": "1 seul cerceau (large), lancer plus doux, viser une zone au lieu d'un cerceau.",
     "duree": 12,
-    "materiel": ["Ballons de volleyball", "Cerceaux (3)"],
-    "tags": ["volleyball", "manchette", "précision", "cible"]
+    "materiel": [
+      "Ballons de volleyball",
+      "Cerceaux (3)"
+    ],
+    "tags": [
+      "volleyball",
+      "manchette",
+      "précision",
+      "cible"
+    ],
+    "progression": {
+      "niveau1": {
+        "titre": "Débutant",
+        "description": "Le débutant explore les bases de l'activité avec un accompagnement soutenu. Pour « Jeu de la navette – manchette précise », voici les attentes à ce niveau.",
+        "consignes": [
+          "Se concentrer sur la technique plutôt que la performance",
+          "Exécuter les mouvements de base lentement et avec contrôle",
+          "Utiliser du matériel adapté (plus léger, plus gros, plus lent)"
+        ],
+        "criteres_reussite": [
+          "L'élève comprend et respecte les consignes de base",
+          "L'élève participe activement et fait des efforts"
+        ]
+      },
+      "niveau2": {
+        "titre": "Intermédiaire",
+        "description": "L'élève maîtrise les bases et cherche à améliorer sa constance et sa fluidité. Pour « Jeu de la navette – manchette précise », voici les attentes à ce niveau.",
+        "consignes": [
+          "Combiner deux habiletés dans un même exercice",
+          "Augmenter progressivement la complexité de l'exercice",
+          "Réduire le temps de réflexion entre les actions"
+        ],
+        "criteres_reussite": [
+          "L'élève exécute le geste avec régularité",
+          "L'élève s'ajuste aux consignes supplémentaires"
+        ]
+      },
+      "niveau3": {
+        "titre": "Avancé",
+        "description": "L'élève démontre une maîtrise complète et peut enseigner aux autres. Pour « Jeu de la navette – manchette précise », voici les attentes à ce niveau.",
+        "consignes": [
+          "Exécuter en situation de jeu réelle ou compétitive",
+          "Créer et proposer ses propres variantes avancées",
+          "Aider un pair moins expérimenté comme tuteur"
+        ],
+        "criteres_reussite": [
+          "L'exécution est fluide, précise et constante",
+          "L'élève transfère ses apprentissages à de nouvelles situations"
+        ]
+      }
+    }
   },
   {
     "titre": "Mini-volleyball 2v2 sur petit terrain",
@@ -320,8 +1588,58 @@
     "variantes": "2v2 sur pleine largeur, 2v2 avec service obligatoire, tournoi de 2v2.",
     "adaptation": "Attraper la première touche, terrain plus grand, 1 rebond permis.",
     "duree": 20,
-    "materiel": ["Ballons de volleyball", "Filet ou corde", "Cônes pour le terrain"],
-    "tags": ["volleyball", "2v2", "mini", "beach"]
+    "materiel": [
+      "Ballons de volleyball",
+      "Filet ou corde",
+      "Cônes pour le terrain"
+    ],
+    "tags": [
+      "volleyball",
+      "2v2",
+      "mini",
+      "beach"
+    ],
+    "progression": {
+      "niveau1": {
+        "titre": "Débutant",
+        "description": "Le débutant explore les bases de l'activité avec un accompagnement soutenu. Pour « Mini-volleyball 2v2 sur petit terrain », voici les attentes à ce niveau.",
+        "consignes": [
+          "Utiliser du matériel adapté (plus léger, plus gros, plus lent)",
+          "Se concentrer sur la technique plutôt que la performance",
+          "Observer une démonstration avant chaque essai"
+        ],
+        "criteres_reussite": [
+          "L'élève participe activement et fait des efforts",
+          "Le geste technique de base est reconnaissable"
+        ]
+      },
+      "niveau2": {
+        "titre": "Intermédiaire",
+        "description": "L'élève maîtrise les bases et cherche à améliorer sa constance et sa fluidité. Pour « Mini-volleyball 2v2 sur petit terrain », voici les attentes à ce niveau.",
+        "consignes": [
+          "Introduire des variantes avec partenaire ou en mouvement",
+          "Ajouter des contraintes de temps ou d'espace",
+          "Réduire le temps de réflexion entre les actions"
+        ],
+        "criteres_reussite": [
+          "L'élève s'ajuste aux consignes supplémentaires",
+          "La technique est maîtrisée dans des situations variées"
+        ]
+      },
+      "niveau3": {
+        "titre": "Avancé",
+        "description": "À ce stade avancé, l'élève crée, innove et aide ses pairs. Pour « Mini-volleyball 2v2 sur petit terrain », voici les attentes à ce niveau.",
+        "consignes": [
+          "Exécuter en situation de jeu réelle ou compétitive",
+          "Combiner plusieurs habiletés en séquence complexe",
+          "S'auto-évaluer et identifier ses points d'amélioration"
+        ],
+        "criteres_reussite": [
+          "L'exécution est fluide, précise et constante",
+          "L'élève transfère ses apprentissages à de nouvelles situations"
+        ]
+      }
+    }
   },
   {
     "titre": "Touche haute auto-passe",
@@ -332,8 +1650,56 @@
     "variantes": "Auto-passe en marchant, auto-passe assis, auto-passe en alternant touche haute et manchette.",
     "adaptation": "Ballon de plage (plus lent), toucher-attraper-relancer, hauteur plus basse.",
     "duree": 10,
-    "materiel": ["1 ballon de volleyball par élève"],
-    "tags": ["volleyball", "touche haute", "auto-passe", "contrôle"]
+    "materiel": [
+      "1 ballon de volleyball par élève"
+    ],
+    "tags": [
+      "volleyball",
+      "touche haute",
+      "auto-passe",
+      "contrôle"
+    ],
+    "progression": {
+      "niveau1": {
+        "titre": "Débutant",
+        "description": "L'élève découvre l'activité et se familiarise avec les mouvements fondamentaux. Pour « Touche haute auto-passe », voici les attentes à ce niveau.",
+        "consignes": [
+          "Pratiquer en situation simplifiée sans pression",
+          "Exécuter les mouvements de base lentement et avec contrôle",
+          "Utiliser du matériel adapté (plus léger, plus gros, plus lent)"
+        ],
+        "criteres_reussite": [
+          "L'élève participe activement et fait des efforts",
+          "Le geste technique de base est reconnaissable"
+        ]
+      },
+      "niveau2": {
+        "titre": "Intermédiaire",
+        "description": "L'élève maîtrise les bases et cherche à améliorer sa constance et sa fluidité. Pour « Touche haute auto-passe », voici les attentes à ce niveau.",
+        "consignes": [
+          "Combiner deux habiletés dans un même exercice",
+          "Augmenter progressivement la complexité de l'exercice",
+          "Introduire des variantes avec partenaire ou en mouvement"
+        ],
+        "criteres_reussite": [
+          "L'élève exécute le geste avec régularité",
+          "L'élève s'ajuste aux consignes supplémentaires"
+        ]
+      },
+      "niveau3": {
+        "titre": "Avancé",
+        "description": "L'expert peut exécuter l'activité dans des contextes variés et exigeants. Pour « Touche haute auto-passe », voici les attentes à ce niveau.",
+        "consignes": [
+          "Exécuter en situation de jeu réelle ou compétitive",
+          "Combiner plusieurs habiletés en séquence complexe",
+          "Créer et proposer ses propres variantes avancées"
+        ],
+        "criteres_reussite": [
+          "L'élève transfère ses apprentissages à de nouvelles situations",
+          "L'élève maîtrise le geste dans des situations complexes"
+        ]
+      }
+    }
   },
   {
     "titre": "Attaque placée vs puissante",
@@ -344,8 +1710,58 @@
     "variantes": "Attaque depuis différentes positions, attaque après passe rapide, attaque en match.",
     "adaptation": "Attaque sans saut, ballon tenu (pas passé), filet plus bas.",
     "duree": 18,
-    "materiel": ["Ballons de volleyball", "Filet", "Cônes pour les cibles"],
-    "tags": ["volleyball", "attaque", "puissant", "placé"]
+    "materiel": [
+      "Ballons de volleyball",
+      "Filet",
+      "Cônes pour les cibles"
+    ],
+    "tags": [
+      "volleyball",
+      "attaque",
+      "puissant",
+      "placé"
+    ],
+    "progression": {
+      "niveau1": {
+        "titre": "Débutant",
+        "description": "Le débutant explore les bases de l'activité avec un accompagnement soutenu. Pour « Attaque placée vs puissante », voici les attentes à ce niveau.",
+        "consignes": [
+          "Exécuter les mouvements de base lentement et avec contrôle",
+          "Observer une démonstration avant chaque essai",
+          "Se concentrer sur la technique plutôt que la performance"
+        ],
+        "criteres_reussite": [
+          "L'élève comprend et respecte les consignes de base",
+          "Le geste technique de base est reconnaissable"
+        ]
+      },
+      "niveau2": {
+        "titre": "Intermédiaire",
+        "description": "L'élève maîtrise les bases et cherche à améliorer sa constance et sa fluidité. Pour « Attaque placée vs puissante », voici les attentes à ce niveau.",
+        "consignes": [
+          "Ajouter des contraintes de temps ou d'espace",
+          "Introduire des variantes avec partenaire ou en mouvement",
+          "Augmenter progressivement la complexité de l'exercice"
+        ],
+        "criteres_reussite": [
+          "L'élève s'ajuste aux consignes supplémentaires",
+          "L'élève exécute le geste avec régularité"
+        ]
+      },
+      "niveau3": {
+        "titre": "Avancé",
+        "description": "L'élève démontre une maîtrise complète et peut enseigner aux autres. Pour « Attaque placée vs puissante », voici les attentes à ce niveau.",
+        "consignes": [
+          "S'auto-évaluer et identifier ses points d'amélioration",
+          "Aider un pair moins expérimenté comme tuteur",
+          "Combiner plusieurs habiletés en séquence complexe"
+        ],
+        "criteres_reussite": [
+          "L'élève maîtrise le geste dans des situations complexes",
+          "L'élève transfère ses apprentissages à de nouvelles situations"
+        ]
+      }
+    }
   },
   {
     "titre": "Communication sur le terrain",
@@ -356,8 +1772,57 @@
     "variantes": "Communication en match, communication pour le bloc, communication sans paroles (signaux de mains).",
     "adaptation": "2 mots clés au lieu de 5, l'enseignant modèle la communication, en 2v2 (moins de monde).",
     "duree": 10,
-    "materiel": ["Ballons de volleyball", "Filet (optionnel)"],
-    "tags": ["volleyball", "communication", "appel", "équipe"]
+    "materiel": [
+      "Ballons de volleyball",
+      "Filet (optionnel)"
+    ],
+    "tags": [
+      "volleyball",
+      "communication",
+      "appel",
+      "équipe"
+    ],
+    "progression": {
+      "niveau1": {
+        "titre": "Débutant",
+        "description": "À ce stade, l'objectif est d'apprivoiser l'exercice sans pression de performance. Pour « Communication sur le terrain », voici les attentes à ce niveau.",
+        "consignes": [
+          "Exécuter les mouvements de base lentement et avec contrôle",
+          "Observer une démonstration avant chaque essai",
+          "Pratiquer en situation simplifiée sans pression"
+        ],
+        "criteres_reussite": [
+          "Le geste technique de base est reconnaissable",
+          "L'élève comprend et respecte les consignes de base"
+        ]
+      },
+      "niveau2": {
+        "titre": "Intermédiaire",
+        "description": "L'élève est capable d'exécuter l'activité de façon autonome avec quelques ajustements. Pour « Communication sur le terrain », voici les attentes à ce niveau.",
+        "consignes": [
+          "Introduire des variantes avec partenaire ou en mouvement",
+          "Augmenter progressivement la complexité de l'exercice",
+          "Combiner deux habiletés dans un même exercice"
+        ],
+        "criteres_reussite": [
+          "L'élève exécute le geste avec régularité",
+          "L'élève s'ajuste aux consignes supplémentaires"
+        ]
+      },
+      "niveau3": {
+        "titre": "Avancé",
+        "description": "L'élève perfectionne sa technique et s'adapte à des situations complexes. Pour « Communication sur le terrain », voici les attentes à ce niveau.",
+        "consignes": [
+          "Aider un pair moins expérimenté comme tuteur",
+          "S'auto-évaluer et identifier ses points d'amélioration",
+          "Créer et proposer ses propres variantes avancées"
+        ],
+        "criteres_reussite": [
+          "L'élève maîtrise le geste dans des situations complexes",
+          "L'élève transfère ses apprentissages à de nouvelles situations"
+        ]
+      }
+    }
   },
   {
     "titre": "Volleyball assis (parasport)",
@@ -368,8 +1833,58 @@
     "variantes": "Tournoi de volleyball assis, volleyball assis en duo, défis de déplacement assis.",
     "adaptation": "Attraper-lancer assis, ballon de plage, terrain plus petit.",
     "duree": 20,
-    "materiel": ["Ballons de volleyball", "Filet bas ou corde", "Cônes pour le terrain"],
-    "tags": ["volleyball", "assis", "parasport", "inclusion"]
+    "materiel": [
+      "Ballons de volleyball",
+      "Filet bas ou corde",
+      "Cônes pour le terrain"
+    ],
+    "tags": [
+      "volleyball",
+      "assis",
+      "parasport",
+      "inclusion"
+    ],
+    "progression": {
+      "niveau1": {
+        "titre": "Débutant",
+        "description": "L'accent est mis sur la compréhension des consignes et la sécurité. Pour « Volleyball assis (parasport) », voici les attentes à ce niveau.",
+        "consignes": [
+          "Observer une démonstration avant chaque essai",
+          "Exécuter les mouvements de base lentement et avec contrôle",
+          "Pratiquer en situation simplifiée sans pression"
+        ],
+        "criteres_reussite": [
+          "L'élève comprend et respecte les consignes de base",
+          "Le geste technique de base est reconnaissable"
+        ]
+      },
+      "niveau2": {
+        "titre": "Intermédiaire",
+        "description": "L'élève maîtrise les bases et cherche à améliorer sa constance et sa fluidité. Pour « Volleyball assis (parasport) », voici les attentes à ce niveau.",
+        "consignes": [
+          "Augmenter progressivement la complexité de l'exercice",
+          "Introduire des variantes avec partenaire ou en mouvement",
+          "Ajouter des contraintes de temps ou d'espace"
+        ],
+        "criteres_reussite": [
+          "L'élève exécute le geste avec régularité",
+          "L'élève s'ajuste aux consignes supplémentaires"
+        ]
+      },
+      "niveau3": {
+        "titre": "Avancé",
+        "description": "À ce stade avancé, l'élève crée, innove et aide ses pairs. Pour « Volleyball assis (parasport) », voici les attentes à ce niveau.",
+        "consignes": [
+          "Aider un pair moins expérimenté comme tuteur",
+          "Combiner plusieurs habiletés en séquence complexe",
+          "Créer et proposer ses propres variantes avancées"
+        ],
+        "criteres_reussite": [
+          "L'exécution est fluide, précise et constante",
+          "L'élève transfère ses apprentissages à de nouvelles situations"
+        ]
+      }
+    }
   },
   {
     "titre": "Service sauté (jump serve)",
@@ -380,8 +1895,57 @@
     "variantes": "Service sauté flottant (sans spin), service sauté coupé, service sauté de puissance maximale.",
     "adaptation": "Service sauté sans élan (sur place), distance réduite, lancer + frappe debout d'abord.",
     "duree": 18,
-    "materiel": ["Ballons de volleyball", "Filet"],
-    "tags": ["volleyball", "service sauté", "puissance", "avancé"]
+    "materiel": [
+      "Ballons de volleyball",
+      "Filet"
+    ],
+    "tags": [
+      "volleyball",
+      "service sauté",
+      "puissance",
+      "avancé"
+    ],
+    "progression": {
+      "niveau1": {
+        "titre": "Débutant",
+        "description": "L'accent est mis sur la compréhension des consignes et la sécurité. Pour « Service sauté (jump serve) », voici les attentes à ce niveau.",
+        "consignes": [
+          "Se concentrer sur la technique plutôt que la performance",
+          "Observer une démonstration avant chaque essai",
+          "Exécuter les mouvements de base lentement et avec contrôle"
+        ],
+        "criteres_reussite": [
+          "Le geste technique de base est reconnaissable",
+          "L'élève comprend et respecte les consignes de base"
+        ]
+      },
+      "niveau2": {
+        "titre": "Intermédiaire",
+        "description": "À ce niveau, on ajoute de la complexité tout en consolidant les acquis. Pour « Service sauté (jump serve) », voici les attentes à ce niveau.",
+        "consignes": [
+          "Combiner deux habiletés dans un même exercice",
+          "Réduire le temps de réflexion entre les actions",
+          "Augmenter progressivement la complexité de l'exercice"
+        ],
+        "criteres_reussite": [
+          "L'élève s'ajuste aux consignes supplémentaires",
+          "L'élève exécute le geste avec régularité"
+        ]
+      },
+      "niveau3": {
+        "titre": "Avancé",
+        "description": "L'expert peut exécuter l'activité dans des contextes variés et exigeants. Pour « Service sauté (jump serve) », voici les attentes à ce niveau.",
+        "consignes": [
+          "Aider un pair moins expérimenté comme tuteur",
+          "Créer et proposer ses propres variantes avancées",
+          "S'auto-évaluer et identifier ses points d'amélioration"
+        ],
+        "criteres_reussite": [
+          "L'élève maîtrise le geste dans des situations complexes",
+          "L'élève transfère ses apprentissages à de nouvelles situations"
+        ]
+      }
+    }
   },
   {
     "titre": "Exercice de réflexes – ballon rapide",
@@ -392,8 +1956,56 @@
     "variantes": "Lancer de plus en plus fort, lancer depuis différentes positions, 2 lanceurs en même temps.",
     "adaptation": "Lancer doux et prévisible, ballon de plage, distance plus grande.",
     "duree": 10,
-    "materiel": ["Ballons de volleyball"],
-    "tags": ["volleyball", "réflexes", "réaction", "vitesse"]
+    "materiel": [
+      "Ballons de volleyball"
+    ],
+    "tags": [
+      "volleyball",
+      "réflexes",
+      "réaction",
+      "vitesse"
+    ],
+    "progression": {
+      "niveau1": {
+        "titre": "Débutant",
+        "description": "L'accent est mis sur la compréhension des consignes et la sécurité. Pour « Exercice de réflexes – ballon rapide », voici les attentes à ce niveau.",
+        "consignes": [
+          "Se concentrer sur la technique plutôt que la performance",
+          "Exécuter les mouvements de base lentement et avec contrôle",
+          "Pratiquer en situation simplifiée sans pression"
+        ],
+        "criteres_reussite": [
+          "Le geste technique de base est reconnaissable",
+          "L'élève comprend et respecte les consignes de base"
+        ]
+      },
+      "niveau2": {
+        "titre": "Intermédiaire",
+        "description": "À ce niveau, on ajoute de la complexité tout en consolidant les acquis. Pour « Exercice de réflexes – ballon rapide », voici les attentes à ce niveau.",
+        "consignes": [
+          "Ajouter des contraintes de temps ou d'espace",
+          "Introduire des variantes avec partenaire ou en mouvement",
+          "Combiner deux habiletés dans un même exercice"
+        ],
+        "criteres_reussite": [
+          "L'élève exécute le geste avec régularité",
+          "La technique est maîtrisée dans des situations variées"
+        ]
+      },
+      "niveau3": {
+        "titre": "Avancé",
+        "description": "À ce stade avancé, l'élève crée, innove et aide ses pairs. Pour « Exercice de réflexes – ballon rapide », voici les attentes à ce niveau.",
+        "consignes": [
+          "Combiner plusieurs habiletés en séquence complexe",
+          "Créer et proposer ses propres variantes avancées",
+          "S'auto-évaluer et identifier ses points d'amélioration"
+        ],
+        "criteres_reussite": [
+          "L'élève maîtrise le geste dans des situations complexes",
+          "L'élève transfère ses apprentissages à de nouvelles situations"
+        ]
+      }
+    }
   },
   {
     "titre": "Jeu de la cible – service précis",
@@ -404,8 +2016,58 @@
     "variantes": "Cibles qui bougent, service chronométré, concours de précision en équipe.",
     "adaptation": "Cibles plus grandes, distance plus courte, service par en dessous.",
     "duree": 15,
-    "materiel": ["Ballons de volleyball", "Filet", "Cerceaux ou dossards pour cibles"],
-    "tags": ["volleyball", "service", "précision", "cible"]
+    "materiel": [
+      "Ballons de volleyball",
+      "Filet",
+      "Cerceaux ou dossards pour cibles"
+    ],
+    "tags": [
+      "volleyball",
+      "service",
+      "précision",
+      "cible"
+    ],
+    "progression": {
+      "niveau1": {
+        "titre": "Débutant",
+        "description": "L'élève découvre l'activité et se familiarise avec les mouvements fondamentaux. Pour « Jeu de la cible – service précis », voici les attentes à ce niveau.",
+        "consignes": [
+          "Utiliser du matériel adapté (plus léger, plus gros, plus lent)",
+          "Observer une démonstration avant chaque essai",
+          "Pratiquer en situation simplifiée sans pression"
+        ],
+        "criteres_reussite": [
+          "Le geste technique de base est reconnaissable",
+          "L'élève comprend et respecte les consignes de base"
+        ]
+      },
+      "niveau2": {
+        "titre": "Intermédiaire",
+        "description": "L'élève maîtrise les bases et cherche à améliorer sa constance et sa fluidité. Pour « Jeu de la cible – service précis », voici les attentes à ce niveau.",
+        "consignes": [
+          "Introduire des variantes avec partenaire ou en mouvement",
+          "Réduire le temps de réflexion entre les actions",
+          "Augmenter progressivement la complexité de l'exercice"
+        ],
+        "criteres_reussite": [
+          "L'élève s'ajuste aux consignes supplémentaires",
+          "La technique est maîtrisée dans des situations variées"
+        ]
+      },
+      "niveau3": {
+        "titre": "Avancé",
+        "description": "L'expert peut exécuter l'activité dans des contextes variés et exigeants. Pour « Jeu de la cible – service précis », voici les attentes à ce niveau.",
+        "consignes": [
+          "Exécuter en situation de jeu réelle ou compétitive",
+          "Combiner plusieurs habiletés en séquence complexe",
+          "Aider un pair moins expérimenté comme tuteur"
+        ],
+        "criteres_reussite": [
+          "L'élève maîtrise le geste dans des situations complexes",
+          "L'élève transfère ses apprentissages à de nouvelles situations"
+        ]
+      }
+    }
   },
   {
     "titre": "Bloc double – coordination à deux",
@@ -416,8 +2078,57 @@
     "variantes": "Bloc triple, bloc avec feinte, bloc suivi de défense.",
     "adaptation": "Bloc sans saut (bras levés), smash doux, bloc avec aide de l'enseignant pour le timing.",
     "duree": 15,
-    "materiel": ["Ballons de volleyball", "Filet"],
-    "tags": ["volleyball", "bloc", "double", "coordination"]
+    "materiel": [
+      "Ballons de volleyball",
+      "Filet"
+    ],
+    "tags": [
+      "volleyball",
+      "bloc",
+      "double",
+      "coordination"
+    ],
+    "progression": {
+      "niveau1": {
+        "titre": "Débutant",
+        "description": "Le débutant explore les bases de l'activité avec un accompagnement soutenu. Pour « Bloc double – coordination à deux », voici les attentes à ce niveau.",
+        "consignes": [
+          "Se concentrer sur la technique plutôt que la performance",
+          "Pratiquer en situation simplifiée sans pression",
+          "Observer une démonstration avant chaque essai"
+        ],
+        "criteres_reussite": [
+          "L'élève participe activement et fait des efforts",
+          "Le geste technique de base est reconnaissable"
+        ]
+      },
+      "niveau2": {
+        "titre": "Intermédiaire",
+        "description": "L'intermédiaire travaille la régularité et commence à combiner les habiletés. Pour « Bloc double – coordination à deux », voici les attentes à ce niveau.",
+        "consignes": [
+          "Combiner deux habiletés dans un même exercice",
+          "Réduire le temps de réflexion entre les actions",
+          "Augmenter progressivement la complexité de l'exercice"
+        ],
+        "criteres_reussite": [
+          "L'élève exécute le geste avec régularité",
+          "L'élève s'ajuste aux consignes supplémentaires"
+        ]
+      },
+      "niveau3": {
+        "titre": "Avancé",
+        "description": "L'élève perfectionne sa technique et s'adapte à des situations complexes. Pour « Bloc double – coordination à deux », voici les attentes à ce niveau.",
+        "consignes": [
+          "Exécuter en situation de jeu réelle ou compétitive",
+          "Combiner plusieurs habiletés en séquence complexe",
+          "S'auto-évaluer et identifier ses points d'amélioration"
+        ],
+        "criteres_reussite": [
+          "L'élève maîtrise le geste dans des situations complexes",
+          "L'exécution est fluide, précise et constante"
+        ]
+      }
+    }
   },
   {
     "titre": "Manchette latérale – réception en déplacement",
@@ -428,8 +2139,56 @@
     "variantes": "Manchette après 2 pas chassés, manchette en plongeon, manchette après sprint court.",
     "adaptation": "Lancer à 1 mètre du centre seulement, lancer doux, manchette sans se déplacer.",
     "duree": 12,
-    "materiel": ["Ballons de volleyball"],
-    "tags": ["volleyball", "manchette", "latérale", "déplacement"]
+    "materiel": [
+      "Ballons de volleyball"
+    ],
+    "tags": [
+      "volleyball",
+      "manchette",
+      "latérale",
+      "déplacement"
+    ],
+    "progression": {
+      "niveau1": {
+        "titre": "Débutant",
+        "description": "L'accent est mis sur la compréhension des consignes et la sécurité. Pour « Manchette latérale – réception en déplacement », voici les attentes à ce niveau.",
+        "consignes": [
+          "Pratiquer en situation simplifiée sans pression",
+          "Exécuter les mouvements de base lentement et avec contrôle",
+          "Se concentrer sur la technique plutôt que la performance"
+        ],
+        "criteres_reussite": [
+          "L'élève participe activement et fait des efforts",
+          "L'élève comprend et respecte les consignes de base"
+        ]
+      },
+      "niveau2": {
+        "titre": "Intermédiaire",
+        "description": "L'élève maîtrise les bases et cherche à améliorer sa constance et sa fluidité. Pour « Manchette latérale – réception en déplacement », voici les attentes à ce niveau.",
+        "consignes": [
+          "Introduire des variantes avec partenaire ou en mouvement",
+          "Combiner deux habiletés dans un même exercice",
+          "Ajouter des contraintes de temps ou d'espace"
+        ],
+        "criteres_reussite": [
+          "L'élève exécute le geste avec régularité",
+          "L'élève s'ajuste aux consignes supplémentaires"
+        ]
+      },
+      "niveau3": {
+        "titre": "Avancé",
+        "description": "L'élève démontre une maîtrise complète et peut enseigner aux autres. Pour « Manchette latérale – réception en déplacement », voici les attentes à ce niveau.",
+        "consignes": [
+          "Aider un pair moins expérimenté comme tuteur",
+          "Exécuter en situation de jeu réelle ou compétitive",
+          "Combiner plusieurs habiletés en séquence complexe"
+        ],
+        "criteres_reussite": [
+          "L'exécution est fluide, précise et constante",
+          "L'élève maîtrise le geste dans des situations complexes"
+        ]
+      }
+    }
   },
   {
     "titre": "Volleyball modifié – un rebond permis",
@@ -440,8 +2199,57 @@
     "variantes": "0 rebond pour les ballons faciles, 2v2 avec rebond, service vrai au lieu de lancer.",
     "adaptation": "2 rebonds permis, ballon de plage, filet très bas, attraper permis si nécessaire.",
     "duree": 20,
-    "materiel": ["Ballons légers", "Filet ou corde"],
-    "tags": ["volleyball", "modifié", "rebond", "initiation"]
+    "materiel": [
+      "Ballons légers",
+      "Filet ou corde"
+    ],
+    "tags": [
+      "volleyball",
+      "modifié",
+      "rebond",
+      "initiation"
+    ],
+    "progression": {
+      "niveau1": {
+        "titre": "Débutant",
+        "description": "Le débutant explore les bases de l'activité avec un accompagnement soutenu. Pour « Volleyball modifié – un rebond permis », voici les attentes à ce niveau.",
+        "consignes": [
+          "Se concentrer sur la technique plutôt que la performance",
+          "Observer une démonstration avant chaque essai",
+          "Exécuter les mouvements de base lentement et avec contrôle"
+        ],
+        "criteres_reussite": [
+          "Le geste technique de base est reconnaissable",
+          "L'élève comprend et respecte les consignes de base"
+        ]
+      },
+      "niveau2": {
+        "titre": "Intermédiaire",
+        "description": "À ce niveau, on ajoute de la complexité tout en consolidant les acquis. Pour « Volleyball modifié – un rebond permis », voici les attentes à ce niveau.",
+        "consignes": [
+          "Réduire le temps de réflexion entre les actions",
+          "Ajouter des contraintes de temps ou d'espace",
+          "Augmenter progressivement la complexité de l'exercice"
+        ],
+        "criteres_reussite": [
+          "L'élève s'ajuste aux consignes supplémentaires",
+          "L'élève exécute le geste avec régularité"
+        ]
+      },
+      "niveau3": {
+        "titre": "Avancé",
+        "description": "L'élève perfectionne sa technique et s'adapte à des situations complexes. Pour « Volleyball modifié – un rebond permis », voici les attentes à ce niveau.",
+        "consignes": [
+          "Créer et proposer ses propres variantes avancées",
+          "Exécuter en situation de jeu réelle ou compétitive",
+          "Aider un pair moins expérimenté comme tuteur"
+        ],
+        "criteres_reussite": [
+          "L'élève maîtrise le geste dans des situations complexes",
+          "L'élève transfère ses apprentissages à de nouvelles situations"
+        ]
+      }
+    }
   },
   {
     "titre": "Couverture d'attaque",
@@ -452,8 +2260,57 @@
     "variantes": "Couverture en 6v6, couverture avec transition rapide, couverture sur smash réel.",
     "adaptation": "Position de couverture sans bloc (juste le placement), ballon lancé par l'enseignant, 3 joueurs au lieu de 6.",
     "duree": 15,
-    "materiel": ["Ballons de volleyball", "Filet"],
-    "tags": ["volleyball", "couverture", "bloc", "défense"]
+    "materiel": [
+      "Ballons de volleyball",
+      "Filet"
+    ],
+    "tags": [
+      "volleyball",
+      "couverture",
+      "bloc",
+      "défense"
+    ],
+    "progression": {
+      "niveau1": {
+        "titre": "Débutant",
+        "description": "Le débutant explore les bases de l'activité avec un accompagnement soutenu. Pour « Couverture d'attaque », voici les attentes à ce niveau.",
+        "consignes": [
+          "Observer une démonstration avant chaque essai",
+          "Utiliser du matériel adapté (plus léger, plus gros, plus lent)",
+          "Se concentrer sur la technique plutôt que la performance"
+        ],
+        "criteres_reussite": [
+          "Le geste technique de base est reconnaissable",
+          "L'élève participe activement et fait des efforts"
+        ]
+      },
+      "niveau2": {
+        "titre": "Intermédiaire",
+        "description": "L'élève est capable d'exécuter l'activité de façon autonome avec quelques ajustements. Pour « Couverture d'attaque », voici les attentes à ce niveau.",
+        "consignes": [
+          "Combiner deux habiletés dans un même exercice",
+          "Réduire le temps de réflexion entre les actions",
+          "Ajouter des contraintes de temps ou d'espace"
+        ],
+        "criteres_reussite": [
+          "L'élève exécute le geste avec régularité",
+          "La technique est maîtrisée dans des situations variées"
+        ]
+      },
+      "niveau3": {
+        "titre": "Avancé",
+        "description": "À ce stade avancé, l'élève crée, innove et aide ses pairs. Pour « Couverture d'attaque », voici les attentes à ce niveau.",
+        "consignes": [
+          "S'auto-évaluer et identifier ses points d'amélioration",
+          "Créer et proposer ses propres variantes avancées",
+          "Combiner plusieurs habiletés en séquence complexe"
+        ],
+        "criteres_reussite": [
+          "L'exécution est fluide, précise et constante",
+          "L'élève transfère ses apprentissages à de nouvelles situations"
+        ]
+      }
+    }
   },
   {
     "titre": "Exercice du passeur en mouvement",
@@ -464,8 +2321,58 @@
     "variantes": "Passe vers zone 2 et zone 4 alternée, passe après réception de service, passe rapide après sprint.",
     "adaptation": "Course plus courte, ballon lancé doucement, passe haute et lente.",
     "duree": 15,
-    "materiel": ["Ballons de volleyball", "Filet", "Cônes pour les positions"],
-    "tags": ["volleyball", "passeur", "mouvement", "sprint"]
+    "materiel": [
+      "Ballons de volleyball",
+      "Filet",
+      "Cônes pour les positions"
+    ],
+    "tags": [
+      "volleyball",
+      "passeur",
+      "mouvement",
+      "sprint"
+    ],
+    "progression": {
+      "niveau1": {
+        "titre": "Débutant",
+        "description": "Le débutant explore les bases de l'activité avec un accompagnement soutenu. Pour « Exercice du passeur en mouvement », voici les attentes à ce niveau.",
+        "consignes": [
+          "Se concentrer sur la technique plutôt que la performance",
+          "Utiliser du matériel adapté (plus léger, plus gros, plus lent)",
+          "Observer une démonstration avant chaque essai"
+        ],
+        "criteres_reussite": [
+          "L'élève comprend et respecte les consignes de base",
+          "L'élève participe activement et fait des efforts"
+        ]
+      },
+      "niveau2": {
+        "titre": "Intermédiaire",
+        "description": "L'élève maîtrise les bases et cherche à améliorer sa constance et sa fluidité. Pour « Exercice du passeur en mouvement », voici les attentes à ce niveau.",
+        "consignes": [
+          "Combiner deux habiletés dans un même exercice",
+          "Ajouter des contraintes de temps ou d'espace",
+          "Augmenter progressivement la complexité de l'exercice"
+        ],
+        "criteres_reussite": [
+          "L'élève exécute le geste avec régularité",
+          "L'élève s'ajuste aux consignes supplémentaires"
+        ]
+      },
+      "niveau3": {
+        "titre": "Avancé",
+        "description": "L'élève démontre une maîtrise complète et peut enseigner aux autres. Pour « Exercice du passeur en mouvement », voici les attentes à ce niveau.",
+        "consignes": [
+          "Exécuter en situation de jeu réelle ou compétitive",
+          "S'auto-évaluer et identifier ses points d'amélioration",
+          "Aider un pair moins expérimenté comme tuteur"
+        ],
+        "criteres_reussite": [
+          "L'élève maîtrise le geste dans des situations complexes",
+          "L'élève transfère ses apprentissages à de nouvelles situations"
+        ]
+      }
+    }
   },
   {
     "titre": "Volleyball de plage simplifié (intérieur)",
@@ -476,8 +2383,58 @@
     "variantes": "2v2 avec règles strictes de beach, tournoi de beach, hand signals pour la défense.",
     "adaptation": "3v3 au lieu de 2v2, 1 rebond permis, terrain plus petit.",
     "duree": 20,
-    "materiel": ["Ballons de volleyball", "Filet ou corde", "Cônes pour terrain réduit"],
-    "tags": ["volleyball", "beach", "2v2", "plage"]
+    "materiel": [
+      "Ballons de volleyball",
+      "Filet ou corde",
+      "Cônes pour terrain réduit"
+    ],
+    "tags": [
+      "volleyball",
+      "beach",
+      "2v2",
+      "plage"
+    ],
+    "progression": {
+      "niveau1": {
+        "titre": "Débutant",
+        "description": "Le débutant explore les bases de l'activité avec un accompagnement soutenu. Pour « Volleyball de plage simplifié (intérieur) », voici les attentes à ce niveau.",
+        "consignes": [
+          "Observer une démonstration avant chaque essai",
+          "Se concentrer sur la technique plutôt que la performance",
+          "Exécuter les mouvements de base lentement et avec contrôle"
+        ],
+        "criteres_reussite": [
+          "Le geste technique de base est reconnaissable",
+          "L'élève participe activement et fait des efforts"
+        ]
+      },
+      "niveau2": {
+        "titre": "Intermédiaire",
+        "description": "L'élève maîtrise les bases et cherche à améliorer sa constance et sa fluidité. Pour « Volleyball de plage simplifié (intérieur) », voici les attentes à ce niveau.",
+        "consignes": [
+          "Augmenter progressivement la complexité de l'exercice",
+          "Combiner deux habiletés dans un même exercice",
+          "Ajouter des contraintes de temps ou d'espace"
+        ],
+        "criteres_reussite": [
+          "La technique est maîtrisée dans des situations variées",
+          "L'élève exécute le geste avec régularité"
+        ]
+      },
+      "niveau3": {
+        "titre": "Avancé",
+        "description": "L'élève démontre une maîtrise complète et peut enseigner aux autres. Pour « Volleyball de plage simplifié (intérieur) », voici les attentes à ce niveau.",
+        "consignes": [
+          "S'auto-évaluer et identifier ses points d'amélioration",
+          "Exécuter en situation de jeu réelle ou compétitive",
+          "Créer et proposer ses propres variantes avancées"
+        ],
+        "criteres_reussite": [
+          "L'élève transfère ses apprentissages à de nouvelles situations",
+          "L'exécution est fluide, précise et constante"
+        ]
+      }
+    }
   },
   {
     "titre": "Jeu du volley-tennis",
@@ -488,8 +2445,58 @@
     "variantes": "Sans rebond, 2v2 volley-tennis, service obligatoire au lieu de lancer.",
     "adaptation": "Attraper et relancer, ballon de plage, terrain plus grand.",
     "duree": 15,
-    "materiel": ["Ballon léger", "Filet bas ou corde", "Cônes pour le terrain"],
-    "tags": ["volleyball", "tennis", "hybride", "initiation"]
+    "materiel": [
+      "Ballon léger",
+      "Filet bas ou corde",
+      "Cônes pour le terrain"
+    ],
+    "tags": [
+      "volleyball",
+      "tennis",
+      "hybride",
+      "initiation"
+    ],
+    "progression": {
+      "niveau1": {
+        "titre": "Débutant",
+        "description": "Le débutant explore les bases de l'activité avec un accompagnement soutenu. Pour « Jeu du volley-tennis », voici les attentes à ce niveau.",
+        "consignes": [
+          "Exécuter les mouvements de base lentement et avec contrôle",
+          "Se concentrer sur la technique plutôt que la performance",
+          "Utiliser du matériel adapté (plus léger, plus gros, plus lent)"
+        ],
+        "criteres_reussite": [
+          "L'élève comprend et respecte les consignes de base",
+          "L'élève participe activement et fait des efforts"
+        ]
+      },
+      "niveau2": {
+        "titre": "Intermédiaire",
+        "description": "L'élève est capable d'exécuter l'activité de façon autonome avec quelques ajustements. Pour « Jeu du volley-tennis », voici les attentes à ce niveau.",
+        "consignes": [
+          "Augmenter progressivement la complexité de l'exercice",
+          "Combiner deux habiletés dans un même exercice",
+          "Ajouter des contraintes de temps ou d'espace"
+        ],
+        "criteres_reussite": [
+          "L'élève exécute le geste avec régularité",
+          "L'élève s'ajuste aux consignes supplémentaires"
+        ]
+      },
+      "niveau3": {
+        "titre": "Avancé",
+        "description": "À ce stade avancé, l'élève crée, innove et aide ses pairs. Pour « Jeu du volley-tennis », voici les attentes à ce niveau.",
+        "consignes": [
+          "Aider un pair moins expérimenté comme tuteur",
+          "Exécuter en situation de jeu réelle ou compétitive",
+          "S'auto-évaluer et identifier ses points d'amélioration"
+        ],
+        "criteres_reussite": [
+          "L'élève maîtrise le geste dans des situations complexes",
+          "L'exécution est fluide, précise et constante"
+        ]
+      }
+    }
   },
   {
     "titre": "Circuit volleyball – 5 stations techniques",
@@ -500,8 +2507,59 @@
     "variantes": "Ajouter des stations (attaque, bloc, réflexes), réduire le temps, circuit en compétition d'équipes.",
     "adaptation": "3 stations, plus de temps, ballon de plage, exercices simplifiés.",
     "duree": 18,
-    "materiel": ["Ballons de volleyball", "Mur", "Cônes", "Filet"],
-    "tags": ["volleyball", "circuit", "stations", "technique"]
+    "materiel": [
+      "Ballons de volleyball",
+      "Mur",
+      "Cônes",
+      "Filet"
+    ],
+    "tags": [
+      "volleyball",
+      "circuit",
+      "stations",
+      "technique"
+    ],
+    "progression": {
+      "niveau1": {
+        "titre": "Débutant",
+        "description": "Le débutant explore les bases de l'activité avec un accompagnement soutenu. Pour « Circuit volleyball – 5 stations techniques », voici les attentes à ce niveau.",
+        "consignes": [
+          "Utiliser du matériel adapté (plus léger, plus gros, plus lent)",
+          "Exécuter les mouvements de base lentement et avec contrôle",
+          "Pratiquer en situation simplifiée sans pression"
+        ],
+        "criteres_reussite": [
+          "Le geste technique de base est reconnaissable",
+          "L'élève participe activement et fait des efforts"
+        ]
+      },
+      "niveau2": {
+        "titre": "Intermédiaire",
+        "description": "L'élève maîtrise les bases et cherche à améliorer sa constance et sa fluidité. Pour « Circuit volleyball – 5 stations techniques », voici les attentes à ce niveau.",
+        "consignes": [
+          "Combiner deux habiletés dans un même exercice",
+          "Réduire le temps de réflexion entre les actions",
+          "Augmenter progressivement la complexité de l'exercice"
+        ],
+        "criteres_reussite": [
+          "La technique est maîtrisée dans des situations variées",
+          "L'élève exécute le geste avec régularité"
+        ]
+      },
+      "niveau3": {
+        "titre": "Avancé",
+        "description": "À ce stade avancé, l'élève crée, innove et aide ses pairs. Pour « Circuit volleyball – 5 stations techniques », voici les attentes à ce niveau.",
+        "consignes": [
+          "Combiner plusieurs habiletés en séquence complexe",
+          "Exécuter en situation de jeu réelle ou compétitive",
+          "Aider un pair moins expérimenté comme tuteur"
+        ],
+        "criteres_reussite": [
+          "L'élève transfère ses apprentissages à de nouvelles situations",
+          "L'exécution est fluide, précise et constante"
+        ]
+      }
+    }
   },
   {
     "titre": "Volleyball en cercle – keep it up",
@@ -512,8 +2570,56 @@
     "variantes": "2 ballons en même temps, obligation d'alterner manchette/touche, cercle en marchant.",
     "adaptation": "Attraper et relancer, ballon de plage, cercle plus petit.",
     "duree": 10,
-    "materiel": ["1 ballon (de plage ou volleyball léger)"],
-    "tags": ["volleyball", "cercle", "keep up", "coopération"]
+    "materiel": [
+      "1 ballon (de plage ou volleyball léger)"
+    ],
+    "tags": [
+      "volleyball",
+      "cercle",
+      "keep up",
+      "coopération"
+    ],
+    "progression": {
+      "niveau1": {
+        "titre": "Débutant",
+        "description": "Le débutant explore les bases de l'activité avec un accompagnement soutenu. Pour « Volleyball en cercle – keep it up », voici les attentes à ce niveau.",
+        "consignes": [
+          "Utiliser du matériel adapté (plus léger, plus gros, plus lent)",
+          "Observer une démonstration avant chaque essai",
+          "Se concentrer sur la technique plutôt que la performance"
+        ],
+        "criteres_reussite": [
+          "Le geste technique de base est reconnaissable",
+          "L'élève participe activement et fait des efforts"
+        ]
+      },
+      "niveau2": {
+        "titre": "Intermédiaire",
+        "description": "L'intermédiaire travaille la régularité et commence à combiner les habiletés. Pour « Volleyball en cercle – keep it up », voici les attentes à ce niveau.",
+        "consignes": [
+          "Combiner deux habiletés dans un même exercice",
+          "Augmenter progressivement la complexité de l'exercice",
+          "Ajouter des contraintes de temps ou d'espace"
+        ],
+        "criteres_reussite": [
+          "L'élève exécute le geste avec régularité",
+          "L'élève s'ajuste aux consignes supplémentaires"
+        ]
+      },
+      "niveau3": {
+        "titre": "Avancé",
+        "description": "L'élève démontre une maîtrise complète et peut enseigner aux autres. Pour « Volleyball en cercle – keep it up », voici les attentes à ce niveau.",
+        "consignes": [
+          "Combiner plusieurs habiletés en séquence complexe",
+          "S'auto-évaluer et identifier ses points d'amélioration",
+          "Créer et proposer ses propres variantes avancées"
+        ],
+        "criteres_reussite": [
+          "L'exécution est fluide, précise et constante",
+          "L'élève maîtrise le geste dans des situations complexes"
+        ]
+      }
+    }
   },
   {
     "titre": "Approche et attaque – les 3 pas",
@@ -524,8 +2630,57 @@
     "variantes": "Approche depuis différentes positions, approche avec passe réelle, approche à vitesse maximale.",
     "adaptation": "2 pas au lieu de 3, approche sans saut, approche au ralenti.",
     "duree": 15,
-    "materiel": ["Ballons de volleyball", "Filet"],
-    "tags": ["volleyball", "approche", "3 pas", "attaque"]
+    "materiel": [
+      "Ballons de volleyball",
+      "Filet"
+    ],
+    "tags": [
+      "volleyball",
+      "approche",
+      "3 pas",
+      "attaque"
+    ],
+    "progression": {
+      "niveau1": {
+        "titre": "Débutant",
+        "description": "L'élève découvre l'activité et se familiarise avec les mouvements fondamentaux. Pour « Approche et attaque – les 3 pas », voici les attentes à ce niveau.",
+        "consignes": [
+          "Utiliser du matériel adapté (plus léger, plus gros, plus lent)",
+          "Pratiquer en situation simplifiée sans pression",
+          "Se concentrer sur la technique plutôt que la performance"
+        ],
+        "criteres_reussite": [
+          "Le geste technique de base est reconnaissable",
+          "L'élève comprend et respecte les consignes de base"
+        ]
+      },
+      "niveau2": {
+        "titre": "Intermédiaire",
+        "description": "L'élève est capable d'exécuter l'activité de façon autonome avec quelques ajustements. Pour « Approche et attaque – les 3 pas », voici les attentes à ce niveau.",
+        "consignes": [
+          "Réduire le temps de réflexion entre les actions",
+          "Augmenter progressivement la complexité de l'exercice",
+          "Ajouter des contraintes de temps ou d'espace"
+        ],
+        "criteres_reussite": [
+          "L'élève exécute le geste avec régularité",
+          "L'élève s'ajuste aux consignes supplémentaires"
+        ]
+      },
+      "niveau3": {
+        "titre": "Avancé",
+        "description": "L'élève démontre une maîtrise complète et peut enseigner aux autres. Pour « Approche et attaque – les 3 pas », voici les attentes à ce niveau.",
+        "consignes": [
+          "Exécuter en situation de jeu réelle ou compétitive",
+          "S'auto-évaluer et identifier ses points d'amélioration",
+          "Aider un pair moins expérimenté comme tuteur"
+        ],
+        "criteres_reussite": [
+          "L'exécution est fluide, précise et constante",
+          "L'élève transfère ses apprentissages à de nouvelles situations"
+        ]
+      }
+    }
   },
   {
     "titre": "Jeu du miroir volleyball",
@@ -536,8 +2691,56 @@
     "variantes": "Miroir avec ballon, miroir en file (tout le monde suit le premier), miroir avec ajout de sons.",
     "adaptation": "Mouvements lents, seulement 3 mouvements différents, l'enseignant est le meneur.",
     "duree": 8,
-    "materiel": ["Aucun"],
-    "tags": ["volleyball", "miroir", "échauffement", "observation"]
+    "materiel": [
+      "Aucun"
+    ],
+    "tags": [
+      "volleyball",
+      "miroir",
+      "échauffement",
+      "observation"
+    ],
+    "progression": {
+      "niveau1": {
+        "titre": "Débutant",
+        "description": "L'élève découvre l'activité et se familiarise avec les mouvements fondamentaux. Pour « Jeu du miroir volleyball », voici les attentes à ce niveau.",
+        "consignes": [
+          "Pratiquer en situation simplifiée sans pression",
+          "Exécuter les mouvements de base lentement et avec contrôle",
+          "Se concentrer sur la technique plutôt que la performance"
+        ],
+        "criteres_reussite": [
+          "Le geste technique de base est reconnaissable",
+          "L'élève comprend et respecte les consignes de base"
+        ]
+      },
+      "niveau2": {
+        "titre": "Intermédiaire",
+        "description": "L'élève est capable d'exécuter l'activité de façon autonome avec quelques ajustements. Pour « Jeu du miroir volleyball », voici les attentes à ce niveau.",
+        "consignes": [
+          "Augmenter progressivement la complexité de l'exercice",
+          "Ajouter des contraintes de temps ou d'espace",
+          "Introduire des variantes avec partenaire ou en mouvement"
+        ],
+        "criteres_reussite": [
+          "L'élève s'ajuste aux consignes supplémentaires",
+          "La technique est maîtrisée dans des situations variées"
+        ]
+      },
+      "niveau3": {
+        "titre": "Avancé",
+        "description": "À ce stade avancé, l'élève crée, innove et aide ses pairs. Pour « Jeu du miroir volleyball », voici les attentes à ce niveau.",
+        "consignes": [
+          "Exécuter en situation de jeu réelle ou compétitive",
+          "Créer et proposer ses propres variantes avancées",
+          "S'auto-évaluer et identifier ses points d'amélioration"
+        ],
+        "criteres_reussite": [
+          "L'élève maîtrise le geste dans des situations complexes",
+          "L'exécution est fluide, précise et constante"
+        ]
+      }
+    }
   },
   {
     "titre": "Lancer-attraper par-dessus le filet",
@@ -548,8 +2751,57 @@
     "variantes": "Lancer à une main, lancer roulé sous le filet, lancer en groupe.",
     "adaptation": "Corde très basse, ballon très léger (gonflable), lancer en roulant au sol.",
     "duree": 8,
-    "materiel": ["Ballons de plage ou gonflables", "Corde ou filet très bas"],
-    "tags": ["volleyball", "lancer", "maternelle", "initiation"]
+    "materiel": [
+      "Ballons de plage ou gonflables",
+      "Corde ou filet très bas"
+    ],
+    "tags": [
+      "volleyball",
+      "lancer",
+      "maternelle",
+      "initiation"
+    ],
+    "progression": {
+      "niveau1": {
+        "titre": "Débutant",
+        "description": "L'élève découvre l'activité et se familiarise avec les mouvements fondamentaux. Pour « Lancer-attraper par-dessus le filet », voici les attentes à ce niveau.",
+        "consignes": [
+          "Observer une démonstration avant chaque essai",
+          "Exécuter les mouvements de base lentement et avec contrôle",
+          "Utiliser du matériel adapté (plus léger, plus gros, plus lent)"
+        ],
+        "criteres_reussite": [
+          "L'élève participe activement et fait des efforts",
+          "Le geste technique de base est reconnaissable"
+        ]
+      },
+      "niveau2": {
+        "titre": "Intermédiaire",
+        "description": "L'intermédiaire travaille la régularité et commence à combiner les habiletés. Pour « Lancer-attraper par-dessus le filet », voici les attentes à ce niveau.",
+        "consignes": [
+          "Réduire le temps de réflexion entre les actions",
+          "Introduire des variantes avec partenaire ou en mouvement",
+          "Ajouter des contraintes de temps ou d'espace"
+        ],
+        "criteres_reussite": [
+          "L'élève s'ajuste aux consignes supplémentaires",
+          "L'élève exécute le geste avec régularité"
+        ]
+      },
+      "niveau3": {
+        "titre": "Avancé",
+        "description": "L'expert peut exécuter l'activité dans des contextes variés et exigeants. Pour « Lancer-attraper par-dessus le filet », voici les attentes à ce niveau.",
+        "consignes": [
+          "Combiner plusieurs habiletés en séquence complexe",
+          "Exécuter en situation de jeu réelle ou compétitive",
+          "S'auto-évaluer et identifier ses points d'amélioration"
+        ],
+        "criteres_reussite": [
+          "L'élève transfère ses apprentissages à de nouvelles situations",
+          "L'élève maîtrise le geste dans des situations complexes"
+        ]
+      }
+    }
   },
   {
     "titre": "Système d'attaque 4-2 simplifié",
@@ -560,8 +2812,58 @@
     "variantes": "Système 5-1 (1 passeur), ajout de la passe rapide, rotation avec spécialisation.",
     "adaptation": "3-1 (4 joueurs: 3 attaquants, 1 passeur), passe haute et lente, sans rotation.",
     "duree": 20,
-    "materiel": ["Ballons de volleyball", "Filet", "Dossards"],
-    "tags": ["volleyball", "4-2", "système", "tactique"]
+    "materiel": [
+      "Ballons de volleyball",
+      "Filet",
+      "Dossards"
+    ],
+    "tags": [
+      "volleyball",
+      "4-2",
+      "système",
+      "tactique"
+    ],
+    "progression": {
+      "niveau1": {
+        "titre": "Débutant",
+        "description": "À ce stade, l'objectif est d'apprivoiser l'exercice sans pression de performance. Pour « Système d'attaque 4-2 simplifié », voici les attentes à ce niveau.",
+        "consignes": [
+          "Observer une démonstration avant chaque essai",
+          "Pratiquer en situation simplifiée sans pression",
+          "Se concentrer sur la technique plutôt que la performance"
+        ],
+        "criteres_reussite": [
+          "L'élève participe activement et fait des efforts",
+          "Le geste technique de base est reconnaissable"
+        ]
+      },
+      "niveau2": {
+        "titre": "Intermédiaire",
+        "description": "L'élève maîtrise les bases et cherche à améliorer sa constance et sa fluidité. Pour « Système d'attaque 4-2 simplifié », voici les attentes à ce niveau.",
+        "consignes": [
+          "Augmenter progressivement la complexité de l'exercice",
+          "Introduire des variantes avec partenaire ou en mouvement",
+          "Combiner deux habiletés dans un même exercice"
+        ],
+        "criteres_reussite": [
+          "L'élève s'ajuste aux consignes supplémentaires",
+          "La technique est maîtrisée dans des situations variées"
+        ]
+      },
+      "niveau3": {
+        "titre": "Avancé",
+        "description": "L'élève perfectionne sa technique et s'adapte à des situations complexes. Pour « Système d'attaque 4-2 simplifié », voici les attentes à ce niveau.",
+        "consignes": [
+          "Aider un pair moins expérimenté comme tuteur",
+          "S'auto-évaluer et identifier ses points d'amélioration",
+          "Créer et proposer ses propres variantes avancées"
+        ],
+        "criteres_reussite": [
+          "L'élève transfère ses apprentissages à de nouvelles situations",
+          "L'exécution est fluide, précise et constante"
+        ]
+      }
+    }
   },
   {
     "titre": "Défi manchette-touche en solo",
@@ -572,7 +2874,55 @@
     "variantes": "Alternance en marchant, alternance avec rotation sur soi-même, alternance en duo.",
     "adaptation": "2 manchettes puis 2 touches, ballon de plage, laisser rebondir entre chaque.",
     "duree": 10,
-    "materiel": ["1 ballon de volleyball par élève"],
-    "tags": ["volleyball", "manchette", "touche", "défi"]
+    "materiel": [
+      "1 ballon de volleyball par élève"
+    ],
+    "tags": [
+      "volleyball",
+      "manchette",
+      "touche",
+      "défi"
+    ],
+    "progression": {
+      "niveau1": {
+        "titre": "Débutant",
+        "description": "L'accent est mis sur la compréhension des consignes et la sécurité. Pour « Défi manchette-touche en solo », voici les attentes à ce niveau.",
+        "consignes": [
+          "Pratiquer en situation simplifiée sans pression",
+          "Observer une démonstration avant chaque essai",
+          "Exécuter les mouvements de base lentement et avec contrôle"
+        ],
+        "criteres_reussite": [
+          "L'élève comprend et respecte les consignes de base",
+          "L'élève participe activement et fait des efforts"
+        ]
+      },
+      "niveau2": {
+        "titre": "Intermédiaire",
+        "description": "À ce niveau, on ajoute de la complexité tout en consolidant les acquis. Pour « Défi manchette-touche en solo », voici les attentes à ce niveau.",
+        "consignes": [
+          "Réduire le temps de réflexion entre les actions",
+          "Augmenter progressivement la complexité de l'exercice",
+          "Introduire des variantes avec partenaire ou en mouvement"
+        ],
+        "criteres_reussite": [
+          "La technique est maîtrisée dans des situations variées",
+          "L'élève s'ajuste aux consignes supplémentaires"
+        ]
+      },
+      "niveau3": {
+        "titre": "Avancé",
+        "description": "À ce stade avancé, l'élève crée, innove et aide ses pairs. Pour « Défi manchette-touche en solo », voici les attentes à ce niveau.",
+        "consignes": [
+          "Combiner plusieurs habiletés en séquence complexe",
+          "S'auto-évaluer et identifier ses points d'amélioration",
+          "Aider un pair moins expérimenté comme tuteur"
+        ],
+        "criteres_reussite": [
+          "L'exécution est fluide, précise et constante",
+          "L'élève maîtrise le geste dans des situations complexes"
+        ]
+      }
+    }
   }
 ]

@@ -1332,6 +1332,49 @@ button {
   line-height: 1.9;
 }
 
+/* Progression levels */
+.progression-levels {
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+  margin-top: 8px;
+}
+.progression-card {
+  background: rgba(255,255,255,0.06);
+  border-radius: 12px;
+  padding: 14px 16px;
+}
+.progression-title {
+  font-family: 'Bangers', cursive;
+  font-size: 1.15rem;
+  letter-spacing: 1px;
+  margin-bottom: 4px;
+  color: #fff;
+}
+.progression-desc {
+  font-size: 0.85rem;
+  color: rgba(255,255,255,0.7);
+  margin: 4px 0 8px;
+  line-height: 1.5;
+}
+.progression-sub {
+  font-family: 'Fredoka', sans-serif;
+  font-weight: 700;
+  font-size: 0.8rem;
+  color: rgba(255,255,255,0.85);
+  margin: 8px 0 4px;
+}
+.progression-list {
+  margin: 0;
+  padding-left: 20px;
+  font-size: 0.82rem;
+  color: rgba(255,255,255,0.7);
+  line-height: 1.7;
+}
+.progression-list li {
+  margin-bottom: 2px;
+}
+
 .modal-material {
   display: flex;
   flex-wrap: wrap;
@@ -2546,3 +2589,7 @@ button {
     padding: 10px 12px;
   }
 }
+
+/* ===== LANG SELECTOR ===== */
+.lang-selector{margin-left:8px;}
+.lang-select{font-family:'Bangers';font-size:0.8rem;padding:2px 6px;border-radius:6px;border:2px solid rgba(255,255,255,0.3);background:rgba(0,0,0,0.3);color:#fff;cursor:pointer;}

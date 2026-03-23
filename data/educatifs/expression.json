@@ -8,8 +8,56 @@
     "variantes": "Mime en équipes (charades), mimer une émotion, mimer un environnement.",
     "adaptation": "Fournir la liste des actions. Travailler en duo pour le mime.",
     "duree": 12,
-    "materiel": ["Cartes-images des actions à mimer (optionnel)"],
-    "tags": ["mime", "expression", "communication", "geste"]
+    "materiel": [
+      "Cartes-images des actions à mimer (optionnel)"
+    ],
+    "tags": [
+      "mime",
+      "expression",
+      "communication",
+      "geste"
+    ],
+    "progression": {
+      "niveau1": {
+        "titre": "Débutant",
+        "description": "Le débutant explore les bases de l'activité avec un accompagnement soutenu. Pour « Mime sport quotidien », voici les attentes à ce niveau.",
+        "consignes": [
+          "Se concentrer sur la technique plutôt que la performance",
+          "Utiliser du matériel adapté (plus léger, plus gros, plus lent)",
+          "Pratiquer en situation simplifiée sans pression"
+        ],
+        "criteres_reussite": [
+          "Le geste technique de base est reconnaissable",
+          "L'élève comprend et respecte les consignes de base"
+        ]
+      },
+      "niveau2": {
+        "titre": "Intermédiaire",
+        "description": "À ce niveau, on ajoute de la complexité tout en consolidant les acquis. Pour « Mime sport quotidien », voici les attentes à ce niveau.",
+        "consignes": [
+          "Introduire des variantes avec partenaire ou en mouvement",
+          "Augmenter progressivement la complexité de l'exercice",
+          "Combiner deux habiletés dans un même exercice"
+        ],
+        "criteres_reussite": [
+          "La technique est maîtrisée dans des situations variées",
+          "L'élève exécute le geste avec régularité"
+        ]
+      },
+      "niveau3": {
+        "titre": "Avancé",
+        "description": "À ce stade avancé, l'élève crée, innove et aide ses pairs. Pour « Mime sport quotidien », voici les attentes à ce niveau.",
+        "consignes": [
+          "Aider un pair moins expérimenté comme tuteur",
+          "S'auto-évaluer et identifier ses points d'amélioration",
+          "Créer et proposer ses propres variantes avancées"
+        ],
+        "criteres_reussite": [
+          "L'exécution est fluide, précise et constante",
+          "L'élève maîtrise le geste dans des situations complexes"
+        ]
+      }
+    }
   },
   {
     "titre": "Sculpture humaine",
@@ -20,8 +68,56 @@
     "variantes": "Sculpter avec un thème imposé, sculpter en trio (2 sculpteurs), galerie de sculptures.",
     "adaptation": "Mots concrets (sport, animal) plutôt qu'abstraits. Sculpteur utilise la parole au lieu du toucher.",
     "duree": 15,
-    "materiel": ["Aucun"],
-    "tags": ["sculpture", "expression", "duo", "créativité"]
+    "materiel": [
+      "Aucun"
+    ],
+    "tags": [
+      "sculpture",
+      "expression",
+      "duo",
+      "créativité"
+    ],
+    "progression": {
+      "niveau1": {
+        "titre": "Débutant",
+        "description": "L'accent est mis sur la compréhension des consignes et la sécurité. Pour « Sculpture humaine », voici les attentes à ce niveau.",
+        "consignes": [
+          "Se concentrer sur la technique plutôt que la performance",
+          "Pratiquer en situation simplifiée sans pression",
+          "Utiliser du matériel adapté (plus léger, plus gros, plus lent)"
+        ],
+        "criteres_reussite": [
+          "Le geste technique de base est reconnaissable",
+          "L'élève comprend et respecte les consignes de base"
+        ]
+      },
+      "niveau2": {
+        "titre": "Intermédiaire",
+        "description": "L'intermédiaire travaille la régularité et commence à combiner les habiletés. Pour « Sculpture humaine », voici les attentes à ce niveau.",
+        "consignes": [
+          "Combiner deux habiletés dans un même exercice",
+          "Ajouter des contraintes de temps ou d'espace",
+          "Réduire le temps de réflexion entre les actions"
+        ],
+        "criteres_reussite": [
+          "L'élève s'ajuste aux consignes supplémentaires",
+          "L'élève exécute le geste avec régularité"
+        ]
+      },
+      "niveau3": {
+        "titre": "Avancé",
+        "description": "L'élève perfectionne sa technique et s'adapte à des situations complexes. Pour « Sculpture humaine », voici les attentes à ce niveau.",
+        "consignes": [
+          "Aider un pair moins expérimenté comme tuteur",
+          "S'auto-évaluer et identifier ses points d'amélioration",
+          "Exécuter en situation de jeu réelle ou compétitive"
+        ],
+        "criteres_reussite": [
+          "L'élève maîtrise le geste dans des situations complexes",
+          "L'élève transfère ses apprentissages à de nouvelles situations"
+        ]
+      }
+    }
   },
   {
     "titre": "Tableau vivant – œuvre d'art",
@@ -32,8 +128,57 @@
     "variantes": "Tableau vivant qui s'anime pendant 10 secondes, créer ses propres tableaux, thème historique.",
     "adaptation": "Images simples et concrètes. Plus de temps de préparation. L'enseignant aide à positionner les élèves.",
     "duree": 20,
-    "materiel": ["Images d'œuvres d'art plastifiées", "Appareil photo/tablette"],
-    "tags": ["tableau vivant", "art", "coopération", "culture"]
+    "materiel": [
+      "Images d'œuvres d'art plastifiées",
+      "Appareil photo/tablette"
+    ],
+    "tags": [
+      "tableau vivant",
+      "art",
+      "coopération",
+      "culture"
+    ],
+    "progression": {
+      "niveau1": {
+        "titre": "Débutant",
+        "description": "À ce stade, l'objectif est d'apprivoiser l'exercice sans pression de performance. Pour « Tableau vivant – œuvre d'art », voici les attentes à ce niveau.",
+        "consignes": [
+          "Se concentrer sur la technique plutôt que la performance",
+          "Observer une démonstration avant chaque essai",
+          "Pratiquer en situation simplifiée sans pression"
+        ],
+        "criteres_reussite": [
+          "L'élève participe activement et fait des efforts",
+          "L'élève comprend et respecte les consignes de base"
+        ]
+      },
+      "niveau2": {
+        "titre": "Intermédiaire",
+        "description": "L'élève est capable d'exécuter l'activité de façon autonome avec quelques ajustements. Pour « Tableau vivant – œuvre d'art », voici les attentes à ce niveau.",
+        "consignes": [
+          "Augmenter progressivement la complexité de l'exercice",
+          "Réduire le temps de réflexion entre les actions",
+          "Introduire des variantes avec partenaire ou en mouvement"
+        ],
+        "criteres_reussite": [
+          "L'élève s'ajuste aux consignes supplémentaires",
+          "L'élève exécute le geste avec régularité"
+        ]
+      },
+      "niveau3": {
+        "titre": "Avancé",
+        "description": "L'élève démontre une maîtrise complète et peut enseigner aux autres. Pour « Tableau vivant – œuvre d'art », voici les attentes à ce niveau.",
+        "consignes": [
+          "Aider un pair moins expérimenté comme tuteur",
+          "Créer et proposer ses propres variantes avancées",
+          "Combiner plusieurs habiletés en séquence complexe"
+        ],
+        "criteres_reussite": [
+          "L'exécution est fluide, précise et constante",
+          "L'élève maîtrise le geste dans des situations complexes"
+        ]
+      }
+    }
   },
   {
     "titre": "Machine humaine",
@@ -44,8 +189,56 @@
     "variantes": "Machine qui accélère et ralentit, machine thématique (machine à bonheur, machine à rêves), machine qui se déplace.",
     "adaptation": "Groupes plus petits (3 élèves). Mouvements simples. L'enseignant ajoute chaque pièce en guidant.",
     "duree": 15,
-    "materiel": ["Aucun"],
-    "tags": ["machine", "groupe", "rythme", "créativité"]
+    "materiel": [
+      "Aucun"
+    ],
+    "tags": [
+      "machine",
+      "groupe",
+      "rythme",
+      "créativité"
+    ],
+    "progression": {
+      "niveau1": {
+        "titre": "Débutant",
+        "description": "À ce stade, l'objectif est d'apprivoiser l'exercice sans pression de performance. Pour « Machine humaine », voici les attentes à ce niveau.",
+        "consignes": [
+          "Se concentrer sur la technique plutôt que la performance",
+          "Observer une démonstration avant chaque essai",
+          "Utiliser du matériel adapté (plus léger, plus gros, plus lent)"
+        ],
+        "criteres_reussite": [
+          "L'élève participe activement et fait des efforts",
+          "L'élève comprend et respecte les consignes de base"
+        ]
+      },
+      "niveau2": {
+        "titre": "Intermédiaire",
+        "description": "L'élève est capable d'exécuter l'activité de façon autonome avec quelques ajustements. Pour « Machine humaine », voici les attentes à ce niveau.",
+        "consignes": [
+          "Réduire le temps de réflexion entre les actions",
+          "Augmenter progressivement la complexité de l'exercice",
+          "Introduire des variantes avec partenaire ou en mouvement"
+        ],
+        "criteres_reussite": [
+          "L'élève s'ajuste aux consignes supplémentaires",
+          "L'élève exécute le geste avec régularité"
+        ]
+      },
+      "niveau3": {
+        "titre": "Avancé",
+        "description": "À ce stade avancé, l'élève crée, innove et aide ses pairs. Pour « Machine humaine », voici les attentes à ce niveau.",
+        "consignes": [
+          "Combiner plusieurs habiletés en séquence complexe",
+          "Aider un pair moins expérimenté comme tuteur",
+          "Créer et proposer ses propres variantes avancées"
+        ],
+        "criteres_reussite": [
+          "L'élève maîtrise le geste dans des situations complexes",
+          "L'élève transfère ses apprentissages à de nouvelles situations"
+        ]
+      }
+    }
   },
   {
     "titre": "Le miroir émotionnel",
@@ -56,8 +249,56 @@
     "variantes": "Transition fluide d'une émotion à l'autre, deviner l'émotion mimée, exprimer une émotion avec le dos.",
     "adaptation": "Émotions de base seulement (joie, tristesse). Images d'émojis comme support. L'enseignant démontre d'abord.",
     "duree": 10,
-    "materiel": ["Cartes d'émotions (optionnel)"],
-    "tags": ["émotion", "miroir", "expression faciale", "duo"]
+    "materiel": [
+      "Cartes d'émotions (optionnel)"
+    ],
+    "tags": [
+      "émotion",
+      "miroir",
+      "expression faciale",
+      "duo"
+    ],
+    "progression": {
+      "niveau1": {
+        "titre": "Débutant",
+        "description": "L'accent est mis sur la compréhension des consignes et la sécurité. Pour « Le miroir émotionnel », voici les attentes à ce niveau.",
+        "consignes": [
+          "Observer une démonstration avant chaque essai",
+          "Se concentrer sur la technique plutôt que la performance",
+          "Exécuter les mouvements de base lentement et avec contrôle"
+        ],
+        "criteres_reussite": [
+          "L'élève comprend et respecte les consignes de base",
+          "L'élève participe activement et fait des efforts"
+        ]
+      },
+      "niveau2": {
+        "titre": "Intermédiaire",
+        "description": "L'élève maîtrise les bases et cherche à améliorer sa constance et sa fluidité. Pour « Le miroir émotionnel », voici les attentes à ce niveau.",
+        "consignes": [
+          "Augmenter progressivement la complexité de l'exercice",
+          "Réduire le temps de réflexion entre les actions",
+          "Ajouter des contraintes de temps ou d'espace"
+        ],
+        "criteres_reussite": [
+          "L'élève exécute le geste avec régularité",
+          "La technique est maîtrisée dans des situations variées"
+        ]
+      },
+      "niveau3": {
+        "titre": "Avancé",
+        "description": "L'élève démontre une maîtrise complète et peut enseigner aux autres. Pour « Le miroir émotionnel », voici les attentes à ce niveau.",
+        "consignes": [
+          "S'auto-évaluer et identifier ses points d'amélioration",
+          "Combiner plusieurs habiletés en séquence complexe",
+          "Exécuter en situation de jeu réelle ou compétitive"
+        ],
+        "criteres_reussite": [
+          "L'élève maîtrise le geste dans des situations complexes",
+          "L'exécution est fluide, précise et constante"
+        ]
+      }
+    }
   },
   {
     "titre": "Le ralenti cinématographique",
@@ -68,8 +309,56 @@
     "variantes": "Scène complète en ralenti (2-3 personnes), alternance ralenti/vitesse normale, ralenti avec replay.",
     "adaptation": "Actions très simples (marcher, lever la main). Ralenti modéré au lieu d'ultra-lent.",
     "duree": 12,
-    "materiel": ["Musique lente et planante (optionnel)"],
-    "tags": ["ralenti", "contrôle", "cinéma", "fluidité"]
+    "materiel": [
+      "Musique lente et planante (optionnel)"
+    ],
+    "tags": [
+      "ralenti",
+      "contrôle",
+      "cinéma",
+      "fluidité"
+    ],
+    "progression": {
+      "niveau1": {
+        "titre": "Débutant",
+        "description": "À ce stade, l'objectif est d'apprivoiser l'exercice sans pression de performance. Pour « Le ralenti cinématographique », voici les attentes à ce niveau.",
+        "consignes": [
+          "Observer une démonstration avant chaque essai",
+          "Utiliser du matériel adapté (plus léger, plus gros, plus lent)",
+          "Pratiquer en situation simplifiée sans pression"
+        ],
+        "criteres_reussite": [
+          "L'élève participe activement et fait des efforts",
+          "L'élève comprend et respecte les consignes de base"
+        ]
+      },
+      "niveau2": {
+        "titre": "Intermédiaire",
+        "description": "L'élève maîtrise les bases et cherche à améliorer sa constance et sa fluidité. Pour « Le ralenti cinématographique », voici les attentes à ce niveau.",
+        "consignes": [
+          "Réduire le temps de réflexion entre les actions",
+          "Combiner deux habiletés dans un même exercice",
+          "Introduire des variantes avec partenaire ou en mouvement"
+        ],
+        "criteres_reussite": [
+          "L'élève exécute le geste avec régularité",
+          "La technique est maîtrisée dans des situations variées"
+        ]
+      },
+      "niveau3": {
+        "titre": "Avancé",
+        "description": "L'expert peut exécuter l'activité dans des contextes variés et exigeants. Pour « Le ralenti cinématographique », voici les attentes à ce niveau.",
+        "consignes": [
+          "Créer et proposer ses propres variantes avancées",
+          "Exécuter en situation de jeu réelle ou compétitive",
+          "Combiner plusieurs habiletés en séquence complexe"
+        ],
+        "criteres_reussite": [
+          "L'exécution est fluide, précise et constante",
+          "L'élève transfère ses apprentissages à de nouvelles situations"
+        ]
+      }
+    }
   },
   {
     "titre": "Théâtre d'ombres",
@@ -80,8 +369,58 @@
     "variantes": "Ombres avec accessoires, ombres d'animaux avec les mains, spectacle d'ombres complet avec narration.",
     "adaptation": "Travailler les ombres individuellement d'abord. Histoires très courtes. L'enseignant narre pendant que les élèves miment.",
     "duree": 25,
-    "materiel": ["Drap blanc", "Projecteur ou lampe puissante", "Espace sombre"],
-    "tags": ["ombre", "théâtre", "silhouette", "histoire"]
+    "materiel": [
+      "Drap blanc",
+      "Projecteur ou lampe puissante",
+      "Espace sombre"
+    ],
+    "tags": [
+      "ombre",
+      "théâtre",
+      "silhouette",
+      "histoire"
+    ],
+    "progression": {
+      "niveau1": {
+        "titre": "Débutant",
+        "description": "L'élève découvre l'activité et se familiarise avec les mouvements fondamentaux. Pour « Théâtre d'ombres », voici les attentes à ce niveau.",
+        "consignes": [
+          "Pratiquer en situation simplifiée sans pression",
+          "Se concentrer sur la technique plutôt que la performance",
+          "Observer une démonstration avant chaque essai"
+        ],
+        "criteres_reussite": [
+          "L'élève comprend et respecte les consignes de base",
+          "L'élève participe activement et fait des efforts"
+        ]
+      },
+      "niveau2": {
+        "titre": "Intermédiaire",
+        "description": "À ce niveau, on ajoute de la complexité tout en consolidant les acquis. Pour « Théâtre d'ombres », voici les attentes à ce niveau.",
+        "consignes": [
+          "Augmenter progressivement la complexité de l'exercice",
+          "Ajouter des contraintes de temps ou d'espace",
+          "Réduire le temps de réflexion entre les actions"
+        ],
+        "criteres_reussite": [
+          "L'élève s'ajuste aux consignes supplémentaires",
+          "La technique est maîtrisée dans des situations variées"
+        ]
+      },
+      "niveau3": {
+        "titre": "Avancé",
+        "description": "L'élève démontre une maîtrise complète et peut enseigner aux autres. Pour « Théâtre d'ombres », voici les attentes à ce niveau.",
+        "consignes": [
+          "Créer et proposer ses propres variantes avancées",
+          "Aider un pair moins expérimenté comme tuteur",
+          "Combiner plusieurs habiletés en séquence complexe"
+        ],
+        "criteres_reussite": [
+          "L'élève transfère ses apprentissages à de nouvelles situations",
+          "L'élève maîtrise le geste dans des situations complexes"
+        ]
+      }
+    }
   },
   {
     "titre": "Le chef d'orchestre corporel",
@@ -92,8 +431,56 @@
     "variantes": "Deux chefs d'orchestre en même temps, chef d'orchestre avec sons, version en équipes rivales.",
     "adaptation": "Le chef d'orchestre change moins souvent. L'enseignant choisit des mouvements faciles. Cercle plus petit.",
     "duree": 10,
-    "materiel": ["Aucun"],
-    "tags": ["chef d'orchestre", "observation", "leadership", "jeu"]
+    "materiel": [
+      "Aucun"
+    ],
+    "tags": [
+      "chef d'orchestre",
+      "observation",
+      "leadership",
+      "jeu"
+    ],
+    "progression": {
+      "niveau1": {
+        "titre": "Débutant",
+        "description": "Le débutant explore les bases de l'activité avec un accompagnement soutenu. Pour « Le chef d'orchestre corporel », voici les attentes à ce niveau.",
+        "consignes": [
+          "Se concentrer sur la technique plutôt que la performance",
+          "Utiliser du matériel adapté (plus léger, plus gros, plus lent)",
+          "Observer une démonstration avant chaque essai"
+        ],
+        "criteres_reussite": [
+          "Le geste technique de base est reconnaissable",
+          "L'élève participe activement et fait des efforts"
+        ]
+      },
+      "niveau2": {
+        "titre": "Intermédiaire",
+        "description": "L'intermédiaire travaille la régularité et commence à combiner les habiletés. Pour « Le chef d'orchestre corporel », voici les attentes à ce niveau.",
+        "consignes": [
+          "Augmenter progressivement la complexité de l'exercice",
+          "Ajouter des contraintes de temps ou d'espace",
+          "Réduire le temps de réflexion entre les actions"
+        ],
+        "criteres_reussite": [
+          "L'élève exécute le geste avec régularité",
+          "L'élève s'ajuste aux consignes supplémentaires"
+        ]
+      },
+      "niveau3": {
+        "titre": "Avancé",
+        "description": "À ce stade avancé, l'élève crée, innove et aide ses pairs. Pour « Le chef d'orchestre corporel », voici les attentes à ce niveau.",
+        "consignes": [
+          "Créer et proposer ses propres variantes avancées",
+          "S'auto-évaluer et identifier ses points d'amélioration",
+          "Aider un pair moins expérimenté comme tuteur"
+        ],
+        "criteres_reussite": [
+          "L'élève transfère ses apprentissages à de nouvelles situations",
+          "L'exécution est fluide, précise et constante"
+        ]
+      }
+    }
   },
   {
     "titre": "Parcours émotionnel",
@@ -104,8 +491,58 @@
     "variantes": "Les élèves créent leurs propres zones, ajouter de la musique différente par zone, parcours en duo.",
     "adaptation": "3 zones au lieu de 5. Émotions simples. Affichettes avec images d'émojis dans chaque zone.",
     "duree": 15,
-    "materiel": ["Cônes pour délimiter les zones", "Affichettes d'émotions", "Musique variée (optionnel)"],
-    "tags": ["émotions", "parcours", "démarche", "transition"]
+    "materiel": [
+      "Cônes pour délimiter les zones",
+      "Affichettes d'émotions",
+      "Musique variée (optionnel)"
+    ],
+    "tags": [
+      "émotions",
+      "parcours",
+      "démarche",
+      "transition"
+    ],
+    "progression": {
+      "niveau1": {
+        "titre": "Débutant",
+        "description": "L'élève découvre l'activité et se familiarise avec les mouvements fondamentaux. Pour « Parcours émotionnel », voici les attentes à ce niveau.",
+        "consignes": [
+          "Utiliser du matériel adapté (plus léger, plus gros, plus lent)",
+          "Se concentrer sur la technique plutôt que la performance",
+          "Observer une démonstration avant chaque essai"
+        ],
+        "criteres_reussite": [
+          "Le geste technique de base est reconnaissable",
+          "L'élève comprend et respecte les consignes de base"
+        ]
+      },
+      "niveau2": {
+        "titre": "Intermédiaire",
+        "description": "À ce niveau, on ajoute de la complexité tout en consolidant les acquis. Pour « Parcours émotionnel », voici les attentes à ce niveau.",
+        "consignes": [
+          "Introduire des variantes avec partenaire ou en mouvement",
+          "Augmenter progressivement la complexité de l'exercice",
+          "Combiner deux habiletés dans un même exercice"
+        ],
+        "criteres_reussite": [
+          "L'élève s'ajuste aux consignes supplémentaires",
+          "L'élève exécute le geste avec régularité"
+        ]
+      },
+      "niveau3": {
+        "titre": "Avancé",
+        "description": "L'expert peut exécuter l'activité dans des contextes variés et exigeants. Pour « Parcours émotionnel », voici les attentes à ce niveau.",
+        "consignes": [
+          "Aider un pair moins expérimenté comme tuteur",
+          "Exécuter en situation de jeu réelle ou compétitive",
+          "S'auto-évaluer et identifier ses points d'amélioration"
+        ],
+        "criteres_reussite": [
+          "L'élève transfère ses apprentissages à de nouvelles situations",
+          "L'exécution est fluide, précise et constante"
+        ]
+      }
+    }
   },
   {
     "titre": "Improvisation en cercle – oui et...",
@@ -116,8 +553,56 @@
     "variantes": "Version avec sons ajoutés, version avec déplacement, version compétitive (qui se souvient le plus longtemps).",
     "adaptation": "Reprendre seulement les 3 derniers gestes (pas tous depuis le début). Gestes simples. Groupe plus petit.",
     "duree": 15,
-    "materiel": ["Aucun"],
-    "tags": ["improvisation", "mémoire", "cercle", "accumulation"]
+    "materiel": [
+      "Aucun"
+    ],
+    "tags": [
+      "improvisation",
+      "mémoire",
+      "cercle",
+      "accumulation"
+    ],
+    "progression": {
+      "niveau1": {
+        "titre": "Débutant",
+        "description": "L'élève découvre l'activité et se familiarise avec les mouvements fondamentaux. Pour « Improvisation en cercle – oui et... », voici les attentes à ce niveau.",
+        "consignes": [
+          "Pratiquer en situation simplifiée sans pression",
+          "Se concentrer sur la technique plutôt que la performance",
+          "Utiliser du matériel adapté (plus léger, plus gros, plus lent)"
+        ],
+        "criteres_reussite": [
+          "L'élève participe activement et fait des efforts",
+          "L'élève comprend et respecte les consignes de base"
+        ]
+      },
+      "niveau2": {
+        "titre": "Intermédiaire",
+        "description": "L'intermédiaire travaille la régularité et commence à combiner les habiletés. Pour « Improvisation en cercle – oui et... », voici les attentes à ce niveau.",
+        "consignes": [
+          "Introduire des variantes avec partenaire ou en mouvement",
+          "Ajouter des contraintes de temps ou d'espace",
+          "Combiner deux habiletés dans un même exercice"
+        ],
+        "criteres_reussite": [
+          "L'élève s'ajuste aux consignes supplémentaires",
+          "La technique est maîtrisée dans des situations variées"
+        ]
+      },
+      "niveau3": {
+        "titre": "Avancé",
+        "description": "L'élève démontre une maîtrise complète et peut enseigner aux autres. Pour « Improvisation en cercle – oui et... », voici les attentes à ce niveau.",
+        "consignes": [
+          "Créer et proposer ses propres variantes avancées",
+          "Aider un pair moins expérimenté comme tuteur",
+          "S'auto-évaluer et identifier ses points d'amélioration"
+        ],
+        "criteres_reussite": [
+          "L'élève transfère ses apprentissages à de nouvelles situations",
+          "L'élève maîtrise le geste dans des situations complexes"
+        ]
+      }
+    }
   },
   {
     "titre": "Marionnettiste et marionnette",
@@ -128,8 +613,56 @@
     "variantes": "Marionnette qui marche, marionnette qui danse, plusieurs marionnettistes pour une seule marionnette.",
     "adaptation": "Marionnettiste touche directement la partie du corps à bouger. Mouvements très lents. L'enseignant démontre d'abord.",
     "duree": 10,
-    "materiel": ["Aucun"],
-    "tags": ["marionnette", "contrôle", "duo", "imagination"]
+    "materiel": [
+      "Aucun"
+    ],
+    "tags": [
+      "marionnette",
+      "contrôle",
+      "duo",
+      "imagination"
+    ],
+    "progression": {
+      "niveau1": {
+        "titre": "Débutant",
+        "description": "À ce stade, l'objectif est d'apprivoiser l'exercice sans pression de performance. Pour « Marionnettiste et marionnette », voici les attentes à ce niveau.",
+        "consignes": [
+          "Exécuter les mouvements de base lentement et avec contrôle",
+          "Pratiquer en situation simplifiée sans pression",
+          "Se concentrer sur la technique plutôt que la performance"
+        ],
+        "criteres_reussite": [
+          "L'élève participe activement et fait des efforts",
+          "L'élève comprend et respecte les consignes de base"
+        ]
+      },
+      "niveau2": {
+        "titre": "Intermédiaire",
+        "description": "L'élève maîtrise les bases et cherche à améliorer sa constance et sa fluidité. Pour « Marionnettiste et marionnette », voici les attentes à ce niveau.",
+        "consignes": [
+          "Ajouter des contraintes de temps ou d'espace",
+          "Réduire le temps de réflexion entre les actions",
+          "Combiner deux habiletés dans un même exercice"
+        ],
+        "criteres_reussite": [
+          "L'élève exécute le geste avec régularité",
+          "La technique est maîtrisée dans des situations variées"
+        ]
+      },
+      "niveau3": {
+        "titre": "Avancé",
+        "description": "L'élève démontre une maîtrise complète et peut enseigner aux autres. Pour « Marionnettiste et marionnette », voici les attentes à ce niveau.",
+        "consignes": [
+          "S'auto-évaluer et identifier ses points d'amélioration",
+          "Exécuter en situation de jeu réelle ou compétitive",
+          "Créer et proposer ses propres variantes avancées"
+        ],
+        "criteres_reussite": [
+          "L'élève maîtrise le geste dans des situations complexes",
+          "L'exécution est fluide, précise et constante"
+        ]
+      }
+    }
   },
   {
     "titre": "Mime en chaîne – téléphone arabe corporel",
@@ -140,8 +673,56 @@
     "variantes": "Mimer une émotion au lieu d'une action, file plus longue, 2 files en compétition.",
     "adaptation": "File plus courte (4-5 élèves). Actions très simples et concrètes. L'enseignant mime le premier message.",
     "duree": 15,
-    "materiel": ["Cartes d'actions à mimer"],
-    "tags": ["mime", "communication", "téléphone arabe", "chaîne"]
+    "materiel": [
+      "Cartes d'actions à mimer"
+    ],
+    "tags": [
+      "mime",
+      "communication",
+      "téléphone arabe",
+      "chaîne"
+    ],
+    "progression": {
+      "niveau1": {
+        "titre": "Débutant",
+        "description": "L'accent est mis sur la compréhension des consignes et la sécurité. Pour « Mime en chaîne – téléphone arabe corporel », voici les attentes à ce niveau.",
+        "consignes": [
+          "Observer une démonstration avant chaque essai",
+          "Exécuter les mouvements de base lentement et avec contrôle",
+          "Pratiquer en situation simplifiée sans pression"
+        ],
+        "criteres_reussite": [
+          "Le geste technique de base est reconnaissable",
+          "L'élève participe activement et fait des efforts"
+        ]
+      },
+      "niveau2": {
+        "titre": "Intermédiaire",
+        "description": "À ce niveau, on ajoute de la complexité tout en consolidant les acquis. Pour « Mime en chaîne – téléphone arabe corporel », voici les attentes à ce niveau.",
+        "consignes": [
+          "Combiner deux habiletés dans un même exercice",
+          "Réduire le temps de réflexion entre les actions",
+          "Augmenter progressivement la complexité de l'exercice"
+        ],
+        "criteres_reussite": [
+          "L'élève exécute le geste avec régularité",
+          "L'élève s'ajuste aux consignes supplémentaires"
+        ]
+      },
+      "niveau3": {
+        "titre": "Avancé",
+        "description": "L'élève démontre une maîtrise complète et peut enseigner aux autres. Pour « Mime en chaîne – téléphone arabe corporel », voici les attentes à ce niveau.",
+        "consignes": [
+          "S'auto-évaluer et identifier ses points d'amélioration",
+          "Combiner plusieurs habiletés en séquence complexe",
+          "Créer et proposer ses propres variantes avancées"
+        ],
+        "criteres_reussite": [
+          "L'élève transfère ses apprentissages à de nouvelles situations",
+          "L'élève maîtrise le geste dans des situations complexes"
+        ]
+      }
+    }
   },
   {
     "titre": "Danse des émotions – playlist",
@@ -152,8 +733,57 @@
     "variantes": "Les élèves créent leur propre playlist, danser avec les yeux fermés, dessiner après avoir dansé.",
     "adaptation": "3 extraits au lieu de 5. Émotions très contrastées. Bouger assis si nécessaire.",
     "duree": 15,
-    "materiel": ["Playlist de 5 extraits musicaux variés", "Haut-parleur"],
-    "tags": ["émotion", "musique", "playlist", "influence"]
+    "materiel": [
+      "Playlist de 5 extraits musicaux variés",
+      "Haut-parleur"
+    ],
+    "tags": [
+      "émotion",
+      "musique",
+      "playlist",
+      "influence"
+    ],
+    "progression": {
+      "niveau1": {
+        "titre": "Débutant",
+        "description": "Le débutant explore les bases de l'activité avec un accompagnement soutenu. Pour « Danse des émotions – playlist », voici les attentes à ce niveau.",
+        "consignes": [
+          "Observer une démonstration avant chaque essai",
+          "Utiliser du matériel adapté (plus léger, plus gros, plus lent)",
+          "Se concentrer sur la technique plutôt que la performance"
+        ],
+        "criteres_reussite": [
+          "L'élève comprend et respecte les consignes de base",
+          "Le geste technique de base est reconnaissable"
+        ]
+      },
+      "niveau2": {
+        "titre": "Intermédiaire",
+        "description": "À ce niveau, on ajoute de la complexité tout en consolidant les acquis. Pour « Danse des émotions – playlist », voici les attentes à ce niveau.",
+        "consignes": [
+          "Ajouter des contraintes de temps ou d'espace",
+          "Augmenter progressivement la complexité de l'exercice",
+          "Combiner deux habiletés dans un même exercice"
+        ],
+        "criteres_reussite": [
+          "L'élève exécute le geste avec régularité",
+          "L'élève s'ajuste aux consignes supplémentaires"
+        ]
+      },
+      "niveau3": {
+        "titre": "Avancé",
+        "description": "À ce stade avancé, l'élève crée, innove et aide ses pairs. Pour « Danse des émotions – playlist », voici les attentes à ce niveau.",
+        "consignes": [
+          "Créer et proposer ses propres variantes avancées",
+          "Exécuter en situation de jeu réelle ou compétitive",
+          "S'auto-évaluer et identifier ses points d'amélioration"
+        ],
+        "criteres_reussite": [
+          "L'élève maîtrise le geste dans des situations complexes",
+          "L'exécution est fluide, précise et constante"
+        ]
+      }
+    }
   },
   {
     "titre": "Le passage secret – traversée expressive",
@@ -164,8 +794,57 @@
     "variantes": "Les élèves proposent les environnements, traversée en duo, ajouter des sons d'ambiance.",
     "adaptation": "2-3 sections au lieu de 4. L'enseignant démontre dans chaque section. Traversée en groupe.",
     "duree": 12,
-    "materiel": ["Cônes ou cerceaux pour délimiter", "Images d'environnements (optionnel)"],
-    "tags": ["imaginaire", "traversée", "environnement", "adaptation"]
+    "materiel": [
+      "Cônes ou cerceaux pour délimiter",
+      "Images d'environnements (optionnel)"
+    ],
+    "tags": [
+      "imaginaire",
+      "traversée",
+      "environnement",
+      "adaptation"
+    ],
+    "progression": {
+      "niveau1": {
+        "titre": "Débutant",
+        "description": "L'élève découvre l'activité et se familiarise avec les mouvements fondamentaux. Pour « Le passage secret – traversée expressive », voici les attentes à ce niveau.",
+        "consignes": [
+          "Utiliser du matériel adapté (plus léger, plus gros, plus lent)",
+          "Exécuter les mouvements de base lentement et avec contrôle",
+          "Observer une démonstration avant chaque essai"
+        ],
+        "criteres_reussite": [
+          "L'élève comprend et respecte les consignes de base",
+          "L'élève participe activement et fait des efforts"
+        ]
+      },
+      "niveau2": {
+        "titre": "Intermédiaire",
+        "description": "L'intermédiaire travaille la régularité et commence à combiner les habiletés. Pour « Le passage secret – traversée expressive », voici les attentes à ce niveau.",
+        "consignes": [
+          "Augmenter progressivement la complexité de l'exercice",
+          "Réduire le temps de réflexion entre les actions",
+          "Combiner deux habiletés dans un même exercice"
+        ],
+        "criteres_reussite": [
+          "L'élève s'ajuste aux consignes supplémentaires",
+          "La technique est maîtrisée dans des situations variées"
+        ]
+      },
+      "niveau3": {
+        "titre": "Avancé",
+        "description": "L'expert peut exécuter l'activité dans des contextes variés et exigeants. Pour « Le passage secret – traversée expressive », voici les attentes à ce niveau.",
+        "consignes": [
+          "Exécuter en situation de jeu réelle ou compétitive",
+          "Créer et proposer ses propres variantes avancées",
+          "Aider un pair moins expérimenté comme tuteur"
+        ],
+        "criteres_reussite": [
+          "L'élève maîtrise le geste dans des situations complexes",
+          "L'exécution est fluide, précise et constante"
+        ]
+      }
+    }
   },
   {
     "titre": "Théâtre corporel – les métiers",
@@ -176,8 +855,56 @@
     "variantes": "Métiers insolites, enchaîner plusieurs métiers, ajouter des bruits/onomatopées.",
     "adaptation": "Métiers très connus et concrets. Duo au lieu de trio. L'enseignant aide à identifier les gestes clés.",
     "duree": 15,
-    "materiel": ["Cartes de métiers"],
-    "tags": ["théâtre", "métiers", "mime", "équipe"]
+    "materiel": [
+      "Cartes de métiers"
+    ],
+    "tags": [
+      "théâtre",
+      "métiers",
+      "mime",
+      "équipe"
+    ],
+    "progression": {
+      "niveau1": {
+        "titre": "Débutant",
+        "description": "À ce stade, l'objectif est d'apprivoiser l'exercice sans pression de performance. Pour « Théâtre corporel – les métiers », voici les attentes à ce niveau.",
+        "consignes": [
+          "Utiliser du matériel adapté (plus léger, plus gros, plus lent)",
+          "Exécuter les mouvements de base lentement et avec contrôle",
+          "Observer une démonstration avant chaque essai"
+        ],
+        "criteres_reussite": [
+          "L'élève comprend et respecte les consignes de base",
+          "Le geste technique de base est reconnaissable"
+        ]
+      },
+      "niveau2": {
+        "titre": "Intermédiaire",
+        "description": "L'élève est capable d'exécuter l'activité de façon autonome avec quelques ajustements. Pour « Théâtre corporel – les métiers », voici les attentes à ce niveau.",
+        "consignes": [
+          "Réduire le temps de réflexion entre les actions",
+          "Introduire des variantes avec partenaire ou en mouvement",
+          "Combiner deux habiletés dans un même exercice"
+        ],
+        "criteres_reussite": [
+          "L'élève exécute le geste avec régularité",
+          "L'élève s'ajuste aux consignes supplémentaires"
+        ]
+      },
+      "niveau3": {
+        "titre": "Avancé",
+        "description": "L'expert peut exécuter l'activité dans des contextes variés et exigeants. Pour « Théâtre corporel – les métiers », voici les attentes à ce niveau.",
+        "consignes": [
+          "Créer et proposer ses propres variantes avancées",
+          "Combiner plusieurs habiletés en séquence complexe",
+          "Aider un pair moins expérimenté comme tuteur"
+        ],
+        "criteres_reussite": [
+          "L'élève maîtrise le geste dans des situations complexes",
+          "L'exécution est fluide, précise et constante"
+        ]
+      }
+    }
   },
   {
     "titre": "Énergie et intention – 4 qualités de mouvement",
@@ -188,8 +915,57 @@
     "variantes": "Ajouter les qualités spatiales (direct/flexible), créer un solo basé sur les qualités de Laban, analyser un sport avec ces qualités.",
     "adaptation": "2 qualités au lieu de 4 (léger vs fort). Exemples concrets (plume vs marteau). Travail guidé.",
     "duree": 20,
-    "materiel": ["Musique variée", "Fiches des 4 qualités (optionnel)"],
-    "tags": ["Laban", "qualité", "énergie", "mouvement"]
+    "materiel": [
+      "Musique variée",
+      "Fiches des 4 qualités (optionnel)"
+    ],
+    "tags": [
+      "Laban",
+      "qualité",
+      "énergie",
+      "mouvement"
+    ],
+    "progression": {
+      "niveau1": {
+        "titre": "Débutant",
+        "description": "L'accent est mis sur la compréhension des consignes et la sécurité. Pour « Énergie et intention – 4 qualités de mouvement », voici les attentes à ce niveau.",
+        "consignes": [
+          "Se concentrer sur la technique plutôt que la performance",
+          "Pratiquer en situation simplifiée sans pression",
+          "Exécuter les mouvements de base lentement et avec contrôle"
+        ],
+        "criteres_reussite": [
+          "Le geste technique de base est reconnaissable",
+          "L'élève comprend et respecte les consignes de base"
+        ]
+      },
+      "niveau2": {
+        "titre": "Intermédiaire",
+        "description": "À ce niveau, on ajoute de la complexité tout en consolidant les acquis. Pour « Énergie et intention – 4 qualités de mouvement », voici les attentes à ce niveau.",
+        "consignes": [
+          "Réduire le temps de réflexion entre les actions",
+          "Introduire des variantes avec partenaire ou en mouvement",
+          "Combiner deux habiletés dans un même exercice"
+        ],
+        "criteres_reussite": [
+          "L'élève exécute le geste avec régularité",
+          "La technique est maîtrisée dans des situations variées"
+        ]
+      },
+      "niveau3": {
+        "titre": "Avancé",
+        "description": "À ce stade avancé, l'élève crée, innove et aide ses pairs. Pour « Énergie et intention – 4 qualités de mouvement », voici les attentes à ce niveau.",
+        "consignes": [
+          "Aider un pair moins expérimenté comme tuteur",
+          "Combiner plusieurs habiletés en séquence complexe",
+          "Exécuter en situation de jeu réelle ou compétitive"
+        ],
+        "criteres_reussite": [
+          "L'élève maîtrise le geste dans des situations complexes",
+          "L'exécution est fluide, précise et constante"
+        ]
+      }
+    }
   },
   {
     "titre": "Le blob – mouvement collectif",
@@ -200,8 +976,56 @@
     "variantes": "Le blob se divise en 2 puis se reforme, le blob absorbe des obstacles, le blob change de forme (long, rond, plat).",
     "adaptation": "Petit groupe (6-8). Se tenir par les épaules. L'enseignant fait partie du blob pour guider.",
     "duree": 10,
-    "materiel": ["Aucun"],
-    "tags": ["collectif", "blob", "coopération", "imaginaire"]
+    "materiel": [
+      "Aucun"
+    ],
+    "tags": [
+      "collectif",
+      "blob",
+      "coopération",
+      "imaginaire"
+    ],
+    "progression": {
+      "niveau1": {
+        "titre": "Débutant",
+        "description": "L'accent est mis sur la compréhension des consignes et la sécurité. Pour « Le blob – mouvement collectif », voici les attentes à ce niveau.",
+        "consignes": [
+          "Utiliser du matériel adapté (plus léger, plus gros, plus lent)",
+          "Exécuter les mouvements de base lentement et avec contrôle",
+          "Se concentrer sur la technique plutôt que la performance"
+        ],
+        "criteres_reussite": [
+          "L'élève comprend et respecte les consignes de base",
+          "L'élève participe activement et fait des efforts"
+        ]
+      },
+      "niveau2": {
+        "titre": "Intermédiaire",
+        "description": "L'élève est capable d'exécuter l'activité de façon autonome avec quelques ajustements. Pour « Le blob – mouvement collectif », voici les attentes à ce niveau.",
+        "consignes": [
+          "Ajouter des contraintes de temps ou d'espace",
+          "Introduire des variantes avec partenaire ou en mouvement",
+          "Augmenter progressivement la complexité de l'exercice"
+        ],
+        "criteres_reussite": [
+          "L'élève exécute le geste avec régularité",
+          "L'élève s'ajuste aux consignes supplémentaires"
+        ]
+      },
+      "niveau3": {
+        "titre": "Avancé",
+        "description": "À ce stade avancé, l'élève crée, innove et aide ses pairs. Pour « Le blob – mouvement collectif », voici les attentes à ce niveau.",
+        "consignes": [
+          "Combiner plusieurs habiletés en séquence complexe",
+          "Aider un pair moins expérimenté comme tuteur",
+          "Créer et proposer ses propres variantes avancées"
+        ],
+        "criteres_reussite": [
+          "L'exécution est fluide, précise et constante",
+          "L'élève maîtrise le geste dans des situations complexes"
+        ]
+      }
+    }
   },
   {
     "titre": "Expression avec masques neutres",
@@ -212,8 +1036,57 @@
     "variantes": "Scènes en duo masqué, créer un personnage complet avec masque, spectacle de masques.",
     "adaptation": "Sans masque mais yeux fermés (similaire). Émotions simples. L'enseignant guide verbalement.",
     "duree": 20,
-    "materiel": ["Masques neutres (ou simples masques blancs)", "Musique douce"],
-    "tags": ["masque", "corps", "émotion", "théâtre"]
+    "materiel": [
+      "Masques neutres (ou simples masques blancs)",
+      "Musique douce"
+    ],
+    "tags": [
+      "masque",
+      "corps",
+      "émotion",
+      "théâtre"
+    ],
+    "progression": {
+      "niveau1": {
+        "titre": "Débutant",
+        "description": "L'élève découvre l'activité et se familiarise avec les mouvements fondamentaux. Pour « Expression avec masques neutres », voici les attentes à ce niveau.",
+        "consignes": [
+          "Exécuter les mouvements de base lentement et avec contrôle",
+          "Observer une démonstration avant chaque essai",
+          "Se concentrer sur la technique plutôt que la performance"
+        ],
+        "criteres_reussite": [
+          "Le geste technique de base est reconnaissable",
+          "L'élève comprend et respecte les consignes de base"
+        ]
+      },
+      "niveau2": {
+        "titre": "Intermédiaire",
+        "description": "L'intermédiaire travaille la régularité et commence à combiner les habiletés. Pour « Expression avec masques neutres », voici les attentes à ce niveau.",
+        "consignes": [
+          "Augmenter progressivement la complexité de l'exercice",
+          "Ajouter des contraintes de temps ou d'espace",
+          "Combiner deux habiletés dans un même exercice"
+        ],
+        "criteres_reussite": [
+          "L'élève exécute le geste avec régularité",
+          "L'élève s'ajuste aux consignes supplémentaires"
+        ]
+      },
+      "niveau3": {
+        "titre": "Avancé",
+        "description": "L'élève perfectionne sa technique et s'adapte à des situations complexes. Pour « Expression avec masques neutres », voici les attentes à ce niveau.",
+        "consignes": [
+          "Combiner plusieurs habiletés en séquence complexe",
+          "Exécuter en situation de jeu réelle ou compétitive",
+          "Aider un pair moins expérimenté comme tuteur"
+        ],
+        "criteres_reussite": [
+          "L'élève maîtrise le geste dans des situations complexes",
+          "L'exécution est fluide, précise et constante"
+        ]
+      }
+    }
   },
   {
     "titre": "Mouvement et textures",
@@ -224,8 +1097,57 @@
     "variantes": "Toucher de vrais objets (tissu, papier sablé) puis bouger comme la texture, duo avec textures complémentaires.",
     "adaptation": "2 textures très contrastées seulement. L'enseignant démontre. Bouger une seule partie du corps.",
     "duree": 10,
-    "materiel": ["Échantillons de textures (optionnel)", "Musique ambiante"],
-    "tags": ["texture", "sensation", "vocabulaire", "exploration"]
+    "materiel": [
+      "Échantillons de textures (optionnel)",
+      "Musique ambiante"
+    ],
+    "tags": [
+      "texture",
+      "sensation",
+      "vocabulaire",
+      "exploration"
+    ],
+    "progression": {
+      "niveau1": {
+        "titre": "Débutant",
+        "description": "À ce stade, l'objectif est d'apprivoiser l'exercice sans pression de performance. Pour « Mouvement et textures », voici les attentes à ce niveau.",
+        "consignes": [
+          "Se concentrer sur la technique plutôt que la performance",
+          "Observer une démonstration avant chaque essai",
+          "Pratiquer en situation simplifiée sans pression"
+        ],
+        "criteres_reussite": [
+          "L'élève participe activement et fait des efforts",
+          "Le geste technique de base est reconnaissable"
+        ]
+      },
+      "niveau2": {
+        "titre": "Intermédiaire",
+        "description": "L'élève maîtrise les bases et cherche à améliorer sa constance et sa fluidité. Pour « Mouvement et textures », voici les attentes à ce niveau.",
+        "consignes": [
+          "Réduire le temps de réflexion entre les actions",
+          "Ajouter des contraintes de temps ou d'espace",
+          "Introduire des variantes avec partenaire ou en mouvement"
+        ],
+        "criteres_reussite": [
+          "L'élève exécute le geste avec régularité",
+          "L'élève s'ajuste aux consignes supplémentaires"
+        ]
+      },
+      "niveau3": {
+        "titre": "Avancé",
+        "description": "L'élève perfectionne sa technique et s'adapte à des situations complexes. Pour « Mouvement et textures », voici les attentes à ce niveau.",
+        "consignes": [
+          "S'auto-évaluer et identifier ses points d'amélioration",
+          "Créer et proposer ses propres variantes avancées",
+          "Aider un pair moins expérimenté comme tuteur"
+        ],
+        "criteres_reussite": [
+          "L'élève transfère ses apprentissages à de nouvelles situations",
+          "L'élève maîtrise le geste dans des situations complexes"
+        ]
+      }
+    }
   },
   {
     "titre": "Scène de film muet – slapstick",
@@ -236,8 +1158,57 @@
     "variantes": "Scène dramatique au lieu de comique, intégrer des accessoires, filmer en noir et blanc.",
     "adaptation": "Scène très courte (15 secondes). Actions simples (glisser sur une banane, se cogner). L'enseignant co-crée le scénario.",
     "duree": 25,
-    "materiel": ["Musique de piano ragtime", "Accessoires simples (chapeau, canne - optionnel)"],
-    "tags": ["film muet", "comédie", "Chaplin", "timing"]
+    "materiel": [
+      "Musique de piano ragtime",
+      "Accessoires simples (chapeau, canne - optionnel)"
+    ],
+    "tags": [
+      "film muet",
+      "comédie",
+      "Chaplin",
+      "timing"
+    ],
+    "progression": {
+      "niveau1": {
+        "titre": "Débutant",
+        "description": "L'accent est mis sur la compréhension des consignes et la sécurité. Pour « Scène de film muet – slapstick », voici les attentes à ce niveau.",
+        "consignes": [
+          "Exécuter les mouvements de base lentement et avec contrôle",
+          "Observer une démonstration avant chaque essai",
+          "Utiliser du matériel adapté (plus léger, plus gros, plus lent)"
+        ],
+        "criteres_reussite": [
+          "Le geste technique de base est reconnaissable",
+          "L'élève comprend et respecte les consignes de base"
+        ]
+      },
+      "niveau2": {
+        "titre": "Intermédiaire",
+        "description": "L'élève est capable d'exécuter l'activité de façon autonome avec quelques ajustements. Pour « Scène de film muet – slapstick », voici les attentes à ce niveau.",
+        "consignes": [
+          "Introduire des variantes avec partenaire ou en mouvement",
+          "Augmenter progressivement la complexité de l'exercice",
+          "Combiner deux habiletés dans un même exercice"
+        ],
+        "criteres_reussite": [
+          "L'élève exécute le geste avec régularité",
+          "L'élève s'ajuste aux consignes supplémentaires"
+        ]
+      },
+      "niveau3": {
+        "titre": "Avancé",
+        "description": "À ce stade avancé, l'élève crée, innove et aide ses pairs. Pour « Scène de film muet – slapstick », voici les attentes à ce niveau.",
+        "consignes": [
+          "Aider un pair moins expérimenté comme tuteur",
+          "Combiner plusieurs habiletés en séquence complexe",
+          "S'auto-évaluer et identifier ses points d'amélioration"
+        ],
+        "criteres_reussite": [
+          "L'élève transfère ses apprentissages à de nouvelles situations",
+          "L'exécution est fluide, précise et constante"
+        ]
+      }
+    }
   },
   {
     "titre": "Expression par les mains",
@@ -248,8 +1219,56 @@
     "variantes": "Spectacle de mains (derrière un rideau), ombres chinoises avec les mains, mains qui racontent une histoire.",
     "adaptation": "Un seul mouvement à la fois. L'enseignant fait avec les élèves. Mouvements très lents.",
     "duree": 8,
-    "materiel": ["Aucun (ou lampe pour ombres)"],
-    "tags": ["mains", "motricité fine", "maternelle", "imagination"]
+    "materiel": [
+      "Aucun (ou lampe pour ombres)"
+    ],
+    "tags": [
+      "mains",
+      "motricité fine",
+      "maternelle",
+      "imagination"
+    ],
+    "progression": {
+      "niveau1": {
+        "titre": "Débutant",
+        "description": "À ce stade, l'objectif est d'apprivoiser l'exercice sans pression de performance. Pour « Expression par les mains », voici les attentes à ce niveau.",
+        "consignes": [
+          "Pratiquer en situation simplifiée sans pression",
+          "Exécuter les mouvements de base lentement et avec contrôle",
+          "Se concentrer sur la technique plutôt que la performance"
+        ],
+        "criteres_reussite": [
+          "L'élève comprend et respecte les consignes de base",
+          "L'élève participe activement et fait des efforts"
+        ]
+      },
+      "niveau2": {
+        "titre": "Intermédiaire",
+        "description": "L'élève maîtrise les bases et cherche à améliorer sa constance et sa fluidité. Pour « Expression par les mains », voici les attentes à ce niveau.",
+        "consignes": [
+          "Augmenter progressivement la complexité de l'exercice",
+          "Réduire le temps de réflexion entre les actions",
+          "Introduire des variantes avec partenaire ou en mouvement"
+        ],
+        "criteres_reussite": [
+          "L'élève exécute le geste avec régularité",
+          "La technique est maîtrisée dans des situations variées"
+        ]
+      },
+      "niveau3": {
+        "titre": "Avancé",
+        "description": "À ce stade avancé, l'élève crée, innove et aide ses pairs. Pour « Expression par les mains », voici les attentes à ce niveau.",
+        "consignes": [
+          "Créer et proposer ses propres variantes avancées",
+          "Exécuter en situation de jeu réelle ou compétitive",
+          "Aider un pair moins expérimenté comme tuteur"
+        ],
+        "criteres_reussite": [
+          "L'élève transfère ses apprentissages à de nouvelles situations",
+          "L'élève maîtrise le geste dans des situations complexes"
+        ]
+      }
+    }
   },
   {
     "titre": "Transformation progressive",
@@ -260,8 +1279,56 @@
     "variantes": "Transformation en duo (les deux se transforment en interaction), transformation réversible, 3 transformations enchaînées.",
     "adaptation": "Transformations plus rapides (15 sec). Thèmes concrets avec images de départ et d'arrivée.",
     "duree": 12,
-    "materiel": ["Musique ambiante lente"],
-    "tags": ["transformation", "contrôle", "lenteur", "conscience"]
+    "materiel": [
+      "Musique ambiante lente"
+    ],
+    "tags": [
+      "transformation",
+      "contrôle",
+      "lenteur",
+      "conscience"
+    ],
+    "progression": {
+      "niveau1": {
+        "titre": "Débutant",
+        "description": "À ce stade, l'objectif est d'apprivoiser l'exercice sans pression de performance. Pour « Transformation progressive », voici les attentes à ce niveau.",
+        "consignes": [
+          "Pratiquer en situation simplifiée sans pression",
+          "Utiliser du matériel adapté (plus léger, plus gros, plus lent)",
+          "Observer une démonstration avant chaque essai"
+        ],
+        "criteres_reussite": [
+          "L'élève comprend et respecte les consignes de base",
+          "Le geste technique de base est reconnaissable"
+        ]
+      },
+      "niveau2": {
+        "titre": "Intermédiaire",
+        "description": "L'élève est capable d'exécuter l'activité de façon autonome avec quelques ajustements. Pour « Transformation progressive », voici les attentes à ce niveau.",
+        "consignes": [
+          "Réduire le temps de réflexion entre les actions",
+          "Ajouter des contraintes de temps ou d'espace",
+          "Introduire des variantes avec partenaire ou en mouvement"
+        ],
+        "criteres_reussite": [
+          "L'élève exécute le geste avec régularité",
+          "La technique est maîtrisée dans des situations variées"
+        ]
+      },
+      "niveau3": {
+        "titre": "Avancé",
+        "description": "À ce stade avancé, l'élève crée, innove et aide ses pairs. Pour « Transformation progressive », voici les attentes à ce niveau.",
+        "consignes": [
+          "Créer et proposer ses propres variantes avancées",
+          "S'auto-évaluer et identifier ses points d'amélioration",
+          "Aider un pair moins expérimenté comme tuteur"
+        ],
+        "criteres_reussite": [
+          "L'élève maîtrise le geste dans des situations complexes",
+          "L'élève transfère ses apprentissages à de nouvelles situations"
+        ]
+      }
+    }
   },
   {
     "titre": "Le combat au ralenti",
@@ -272,8 +1339,56 @@
     "variantes": "Combat en groupe (scène de film), avec effets sonores vocaux au ralenti, combat avec accessoire mousse.",
     "adaptation": "Mouvements uniquement des bras. Encore plus lent. L'enseignant arbitre chaque duo.",
     "duree": 15,
-    "materiel": ["Musique dramatique au ralenti (optionnel)"],
-    "tags": ["combat", "ralenti", "duo", "cinématique"]
+    "materiel": [
+      "Musique dramatique au ralenti (optionnel)"
+    ],
+    "tags": [
+      "combat",
+      "ralenti",
+      "duo",
+      "cinématique"
+    ],
+    "progression": {
+      "niveau1": {
+        "titre": "Débutant",
+        "description": "L'accent est mis sur la compréhension des consignes et la sécurité. Pour « Le combat au ralenti », voici les attentes à ce niveau.",
+        "consignes": [
+          "Se concentrer sur la technique plutôt que la performance",
+          "Utiliser du matériel adapté (plus léger, plus gros, plus lent)",
+          "Exécuter les mouvements de base lentement et avec contrôle"
+        ],
+        "criteres_reussite": [
+          "Le geste technique de base est reconnaissable",
+          "L'élève participe activement et fait des efforts"
+        ]
+      },
+      "niveau2": {
+        "titre": "Intermédiaire",
+        "description": "À ce niveau, on ajoute de la complexité tout en consolidant les acquis. Pour « Le combat au ralenti », voici les attentes à ce niveau.",
+        "consignes": [
+          "Augmenter progressivement la complexité de l'exercice",
+          "Ajouter des contraintes de temps ou d'espace",
+          "Réduire le temps de réflexion entre les actions"
+        ],
+        "criteres_reussite": [
+          "La technique est maîtrisée dans des situations variées",
+          "L'élève s'ajuste aux consignes supplémentaires"
+        ]
+      },
+      "niveau3": {
+        "titre": "Avancé",
+        "description": "L'expert peut exécuter l'activité dans des contextes variés et exigeants. Pour « Le combat au ralenti », voici les attentes à ce niveau.",
+        "consignes": [
+          "Exécuter en situation de jeu réelle ou compétitive",
+          "Créer et proposer ses propres variantes avancées",
+          "S'auto-évaluer et identifier ses points d'amélioration"
+        ],
+        "criteres_reussite": [
+          "L'élève maîtrise le geste dans des situations complexes",
+          "L'exécution est fluide, précise et constante"
+        ]
+      }
+    }
   },
   {
     "titre": "Exploration de l'espace – kinesphère",
@@ -284,8 +1399,57 @@
     "variantes": "Dessiner dans l'air (kinesphère comme toile), kinesphère en duo (espaces qui se chevauchent), parcours spatial imposé.",
     "adaptation": "Explorer un seul plan (frontal ou sagittal). Guidage verbal constant. Exercice assis pour la kinesphère.",
     "duree": 15,
-    "materiel": ["Musique ambiante", "Cerceaux au sol pour délimiter l'espace personnel (optionnel)"],
-    "tags": ["kinesphère", "espace", "Laban", "exploration"]
+    "materiel": [
+      "Musique ambiante",
+      "Cerceaux au sol pour délimiter l'espace personnel (optionnel)"
+    ],
+    "tags": [
+      "kinesphère",
+      "espace",
+      "Laban",
+      "exploration"
+    ],
+    "progression": {
+      "niveau1": {
+        "titre": "Débutant",
+        "description": "Le débutant explore les bases de l'activité avec un accompagnement soutenu. Pour « Exploration de l'espace – kinesphère », voici les attentes à ce niveau.",
+        "consignes": [
+          "Utiliser du matériel adapté (plus léger, plus gros, plus lent)",
+          "Pratiquer en situation simplifiée sans pression",
+          "Se concentrer sur la technique plutôt que la performance"
+        ],
+        "criteres_reussite": [
+          "Le geste technique de base est reconnaissable",
+          "L'élève participe activement et fait des efforts"
+        ]
+      },
+      "niveau2": {
+        "titre": "Intermédiaire",
+        "description": "L'élève est capable d'exécuter l'activité de façon autonome avec quelques ajustements. Pour « Exploration de l'espace – kinesphère », voici les attentes à ce niveau.",
+        "consignes": [
+          "Introduire des variantes avec partenaire ou en mouvement",
+          "Ajouter des contraintes de temps ou d'espace",
+          "Combiner deux habiletés dans un même exercice"
+        ],
+        "criteres_reussite": [
+          "La technique est maîtrisée dans des situations variées",
+          "L'élève s'ajuste aux consignes supplémentaires"
+        ]
+      },
+      "niveau3": {
+        "titre": "Avancé",
+        "description": "À ce stade avancé, l'élève crée, innove et aide ses pairs. Pour « Exploration de l'espace – kinesphère », voici les attentes à ce niveau.",
+        "consignes": [
+          "S'auto-évaluer et identifier ses points d'amélioration",
+          "Combiner plusieurs habiletés en séquence complexe",
+          "Aider un pair moins expérimenté comme tuteur"
+        ],
+        "criteres_reussite": [
+          "L'élève maîtrise le geste dans des situations complexes",
+          "L'exécution est fluide, précise et constante"
+        ]
+      }
+    }
   },
   {
     "titre": "Photomaton expressif",
@@ -296,8 +1460,56 @@
     "variantes": "Photos de groupe thématiques, photos en duo, les élèves sont les photographes.",
     "adaptation": "Thèmes très concrets. Plus de temps pour poser. L'enseignant démontre avant chaque thème.",
     "duree": 8,
-    "materiel": ["Appareil photo/tablette (optionnel pour garder les photos)"],
-    "tags": ["photo", "pose", "spontanéité", "ludique"]
+    "materiel": [
+      "Appareil photo/tablette (optionnel pour garder les photos)"
+    ],
+    "tags": [
+      "photo",
+      "pose",
+      "spontanéité",
+      "ludique"
+    ],
+    "progression": {
+      "niveau1": {
+        "titre": "Débutant",
+        "description": "L'élève découvre l'activité et se familiarise avec les mouvements fondamentaux. Pour « Photomaton expressif », voici les attentes à ce niveau.",
+        "consignes": [
+          "Exécuter les mouvements de base lentement et avec contrôle",
+          "Se concentrer sur la technique plutôt que la performance",
+          "Pratiquer en situation simplifiée sans pression"
+        ],
+        "criteres_reussite": [
+          "L'élève comprend et respecte les consignes de base",
+          "L'élève participe activement et fait des efforts"
+        ]
+      },
+      "niveau2": {
+        "titre": "Intermédiaire",
+        "description": "L'intermédiaire travaille la régularité et commence à combiner les habiletés. Pour « Photomaton expressif », voici les attentes à ce niveau.",
+        "consignes": [
+          "Réduire le temps de réflexion entre les actions",
+          "Combiner deux habiletés dans un même exercice",
+          "Augmenter progressivement la complexité de l'exercice"
+        ],
+        "criteres_reussite": [
+          "L'élève exécute le geste avec régularité",
+          "L'élève s'ajuste aux consignes supplémentaires"
+        ]
+      },
+      "niveau3": {
+        "titre": "Avancé",
+        "description": "L'élève démontre une maîtrise complète et peut enseigner aux autres. Pour « Photomaton expressif », voici les attentes à ce niveau.",
+        "consignes": [
+          "Créer et proposer ses propres variantes avancées",
+          "Combiner plusieurs habiletés en séquence complexe",
+          "Aider un pair moins expérimenté comme tuteur"
+        ],
+        "criteres_reussite": [
+          "L'exécution est fluide, précise et constante",
+          "L'élève maîtrise le geste dans des situations complexes"
+        ]
+      }
+    }
   },
   {
     "titre": "Le jardin enchanté",
@@ -308,8 +1520,57 @@
     "variantes": "Jardin avec différents types de plantes, ajouter des insectes et des oiseaux, saisons qui changent.",
     "adaptation": "Narration très lente. L'enseignant fait les mouvements en même temps. Rester au sol si nécessaire.",
     "duree": 10,
-    "materiel": ["Musique nature/jardin", "Arrosoir (accessoire narratif)"],
-    "tags": ["jardin", "nature", "narration", "maternelle"]
+    "materiel": [
+      "Musique nature/jardin",
+      "Arrosoir (accessoire narratif)"
+    ],
+    "tags": [
+      "jardin",
+      "nature",
+      "narration",
+      "maternelle"
+    ],
+    "progression": {
+      "niveau1": {
+        "titre": "Débutant",
+        "description": "L'élève découvre l'activité et se familiarise avec les mouvements fondamentaux. Pour « Le jardin enchanté », voici les attentes à ce niveau.",
+        "consignes": [
+          "Se concentrer sur la technique plutôt que la performance",
+          "Observer une démonstration avant chaque essai",
+          "Exécuter les mouvements de base lentement et avec contrôle"
+        ],
+        "criteres_reussite": [
+          "L'élève comprend et respecte les consignes de base",
+          "L'élève participe activement et fait des efforts"
+        ]
+      },
+      "niveau2": {
+        "titre": "Intermédiaire",
+        "description": "L'intermédiaire travaille la régularité et commence à combiner les habiletés. Pour « Le jardin enchanté », voici les attentes à ce niveau.",
+        "consignes": [
+          "Introduire des variantes avec partenaire ou en mouvement",
+          "Combiner deux habiletés dans un même exercice",
+          "Réduire le temps de réflexion entre les actions"
+        ],
+        "criteres_reussite": [
+          "L'élève exécute le geste avec régularité",
+          "La technique est maîtrisée dans des situations variées"
+        ]
+      },
+      "niveau3": {
+        "titre": "Avancé",
+        "description": "L'élève démontre une maîtrise complète et peut enseigner aux autres. Pour « Le jardin enchanté », voici les attentes à ce niveau.",
+        "consignes": [
+          "Exécuter en situation de jeu réelle ou compétitive",
+          "S'auto-évaluer et identifier ses points d'amélioration",
+          "Créer et proposer ses propres variantes avancées"
+        ],
+        "criteres_reussite": [
+          "L'élève transfère ses apprentissages à de nouvelles situations",
+          "L'élève maîtrise le geste dans des situations complexes"
+        ]
+      }
+    }
   },
   {
     "titre": "Mime d'objets imaginaires",
@@ -320,8 +1581,56 @@
     "variantes": "Passer l'objet imaginaire à un partenaire, transformer l'objet en cours de route, mimer un objet que l'autre doit deviner.",
     "adaptation": "Mimer avec un vrai objet d'abord puis sans. Objets simples (balle, livre). L'enseignant corrige la forme des mains.",
     "duree": 12,
-    "materiel": ["Cartes d'objets à mimer"],
-    "tags": ["mime", "objet", "précision", "imagination"]
+    "materiel": [
+      "Cartes d'objets à mimer"
+    ],
+    "tags": [
+      "mime",
+      "objet",
+      "précision",
+      "imagination"
+    ],
+    "progression": {
+      "niveau1": {
+        "titre": "Débutant",
+        "description": "À ce stade, l'objectif est d'apprivoiser l'exercice sans pression de performance. Pour « Mime d'objets imaginaires », voici les attentes à ce niveau.",
+        "consignes": [
+          "Observer une démonstration avant chaque essai",
+          "Se concentrer sur la technique plutôt que la performance",
+          "Exécuter les mouvements de base lentement et avec contrôle"
+        ],
+        "criteres_reussite": [
+          "L'élève comprend et respecte les consignes de base",
+          "Le geste technique de base est reconnaissable"
+        ]
+      },
+      "niveau2": {
+        "titre": "Intermédiaire",
+        "description": "À ce niveau, on ajoute de la complexité tout en consolidant les acquis. Pour « Mime d'objets imaginaires », voici les attentes à ce niveau.",
+        "consignes": [
+          "Augmenter progressivement la complexité de l'exercice",
+          "Introduire des variantes avec partenaire ou en mouvement",
+          "Ajouter des contraintes de temps ou d'espace"
+        ],
+        "criteres_reussite": [
+          "L'élève exécute le geste avec régularité",
+          "La technique est maîtrisée dans des situations variées"
+        ]
+      },
+      "niveau3": {
+        "titre": "Avancé",
+        "description": "L'élève démontre une maîtrise complète et peut enseigner aux autres. Pour « Mime d'objets imaginaires », voici les attentes à ce niveau.",
+        "consignes": [
+          "Combiner plusieurs habiletés en séquence complexe",
+          "Aider un pair moins expérimenté comme tuteur",
+          "Créer et proposer ses propres variantes avancées"
+        ],
+        "criteres_reussite": [
+          "L'élève maîtrise le geste dans des situations complexes",
+          "L'exécution est fluide, précise et constante"
+        ]
+      }
+    }
   },
   {
     "titre": "Expression corporelle et musique classique",
@@ -332,8 +1641,57 @@
     "variantes": "Créer une chorégraphie sur un mouvement classique, dessiner les mouvements après, comparer les réponses en groupe.",
     "adaptation": "Un seul extrait. Mouvements guidés par l'enseignant. Bouger assis ou avec le haut du corps seulement.",
     "duree": 20,
-    "materiel": ["3 extraits de musique classique", "Haut-parleur de qualité"],
-    "tags": ["classique", "musique", "interprétation", "écoute"]
+    "materiel": [
+      "3 extraits de musique classique",
+      "Haut-parleur de qualité"
+    ],
+    "tags": [
+      "classique",
+      "musique",
+      "interprétation",
+      "écoute"
+    ],
+    "progression": {
+      "niveau1": {
+        "titre": "Débutant",
+        "description": "Le débutant explore les bases de l'activité avec un accompagnement soutenu. Pour « Expression corporelle et musique classique », voici les attentes à ce niveau.",
+        "consignes": [
+          "Pratiquer en situation simplifiée sans pression",
+          "Utiliser du matériel adapté (plus léger, plus gros, plus lent)",
+          "Se concentrer sur la technique plutôt que la performance"
+        ],
+        "criteres_reussite": [
+          "L'élève participe activement et fait des efforts",
+          "L'élève comprend et respecte les consignes de base"
+        ]
+      },
+      "niveau2": {
+        "titre": "Intermédiaire",
+        "description": "À ce niveau, on ajoute de la complexité tout en consolidant les acquis. Pour « Expression corporelle et musique classique », voici les attentes à ce niveau.",
+        "consignes": [
+          "Augmenter progressivement la complexité de l'exercice",
+          "Introduire des variantes avec partenaire ou en mouvement",
+          "Ajouter des contraintes de temps ou d'espace"
+        ],
+        "criteres_reussite": [
+          "L'élève s'ajuste aux consignes supplémentaires",
+          "L'élève exécute le geste avec régularité"
+        ]
+      },
+      "niveau3": {
+        "titre": "Avancé",
+        "description": "L'élève démontre une maîtrise complète et peut enseigner aux autres. Pour « Expression corporelle et musique classique », voici les attentes à ce niveau.",
+        "consignes": [
+          "S'auto-évaluer et identifier ses points d'amélioration",
+          "Combiner plusieurs habiletés en séquence complexe",
+          "Exécuter en situation de jeu réelle ou compétitive"
+        ],
+        "criteres_reussite": [
+          "L'exécution est fluide, précise et constante",
+          "L'élève transfère ses apprentissages à de nouvelles situations"
+        ]
+      }
+    }
   },
   {
     "titre": "Les saisons en mouvement",
@@ -344,8 +1702,57 @@
     "variantes": "Ajouter des accessoires par saison, créer une chorégraphie des 4 saisons, danser les saisons en accéléré.",
     "adaptation": "2 saisons très contrastées (été vs hiver). L'enseignant guide les mouvements dans chaque coin.",
     "duree": 12,
-    "materiel": ["Images des 4 saisons", "Musique saisonnière (Vivaldi Les Quatre Saisons - optionnel)"],
-    "tags": ["saisons", "nature", "adaptation", "environnement"]
+    "materiel": [
+      "Images des 4 saisons",
+      "Musique saisonnière (Vivaldi Les Quatre Saisons - optionnel)"
+    ],
+    "tags": [
+      "saisons",
+      "nature",
+      "adaptation",
+      "environnement"
+    ],
+    "progression": {
+      "niveau1": {
+        "titre": "Débutant",
+        "description": "À ce stade, l'objectif est d'apprivoiser l'exercice sans pression de performance. Pour « Les saisons en mouvement », voici les attentes à ce niveau.",
+        "consignes": [
+          "Observer une démonstration avant chaque essai",
+          "Utiliser du matériel adapté (plus léger, plus gros, plus lent)",
+          "Pratiquer en situation simplifiée sans pression"
+        ],
+        "criteres_reussite": [
+          "L'élève participe activement et fait des efforts",
+          "Le geste technique de base est reconnaissable"
+        ]
+      },
+      "niveau2": {
+        "titre": "Intermédiaire",
+        "description": "À ce niveau, on ajoute de la complexité tout en consolidant les acquis. Pour « Les saisons en mouvement », voici les attentes à ce niveau.",
+        "consignes": [
+          "Combiner deux habiletés dans un même exercice",
+          "Introduire des variantes avec partenaire ou en mouvement",
+          "Ajouter des contraintes de temps ou d'espace"
+        ],
+        "criteres_reussite": [
+          "L'élève exécute le geste avec régularité",
+          "La technique est maîtrisée dans des situations variées"
+        ]
+      },
+      "niveau3": {
+        "titre": "Avancé",
+        "description": "L'élève démontre une maîtrise complète et peut enseigner aux autres. Pour « Les saisons en mouvement », voici les attentes à ce niveau.",
+        "consignes": [
+          "Combiner plusieurs habiletés en séquence complexe",
+          "Aider un pair moins expérimenté comme tuteur",
+          "Créer et proposer ses propres variantes avancées"
+        ],
+        "criteres_reussite": [
+          "L'élève maîtrise le geste dans des situations complexes",
+          "L'élève transfère ses apprentissages à de nouvelles situations"
+        ]
+      }
+    }
   },
   {
     "titre": "Dialogue corporel",
@@ -356,8 +1763,56 @@
     "variantes": "Dialogue à 3 (trilogue), dialogue conflictuel puis réconciliation, dialogue avec niveaux imposés.",
     "adaptation": "Mouvements plus concrets (semi-mime). L'enseignant donne un thème de conversation. Tours plus longs.",
     "duree": 15,
-    "materiel": ["Musique douce de fond"],
-    "tags": ["dialogue", "abstrait", "duo", "écoute"]
+    "materiel": [
+      "Musique douce de fond"
+    ],
+    "tags": [
+      "dialogue",
+      "abstrait",
+      "duo",
+      "écoute"
+    ],
+    "progression": {
+      "niveau1": {
+        "titre": "Débutant",
+        "description": "Le débutant explore les bases de l'activité avec un accompagnement soutenu. Pour « Dialogue corporel », voici les attentes à ce niveau.",
+        "consignes": [
+          "Se concentrer sur la technique plutôt que la performance",
+          "Exécuter les mouvements de base lentement et avec contrôle",
+          "Utiliser du matériel adapté (plus léger, plus gros, plus lent)"
+        ],
+        "criteres_reussite": [
+          "Le geste technique de base est reconnaissable",
+          "L'élève participe activement et fait des efforts"
+        ]
+      },
+      "niveau2": {
+        "titre": "Intermédiaire",
+        "description": "L'élève est capable d'exécuter l'activité de façon autonome avec quelques ajustements. Pour « Dialogue corporel », voici les attentes à ce niveau.",
+        "consignes": [
+          "Combiner deux habiletés dans un même exercice",
+          "Ajouter des contraintes de temps ou d'espace",
+          "Augmenter progressivement la complexité de l'exercice"
+        ],
+        "criteres_reussite": [
+          "L'élève exécute le geste avec régularité",
+          "La technique est maîtrisée dans des situations variées"
+        ]
+      },
+      "niveau3": {
+        "titre": "Avancé",
+        "description": "L'expert peut exécuter l'activité dans des contextes variés et exigeants. Pour « Dialogue corporel », voici les attentes à ce niveau.",
+        "consignes": [
+          "Combiner plusieurs habiletés en séquence complexe",
+          "Créer et proposer ses propres variantes avancées",
+          "Exécuter en situation de jeu réelle ou compétitive"
+        ],
+        "criteres_reussite": [
+          "L'élève maîtrise le geste dans des situations complexes",
+          "L'élève transfère ses apprentissages à de nouvelles situations"
+        ]
+      }
+    }
   },
   {
     "titre": "Le musée de cire",
@@ -368,8 +1823,56 @@
     "variantes": "Thème du musée (superhéros, animaux, sports), 2 gardiens, les statues doivent se déplacer vers une sortie.",
     "adaptation": "Le gardien se retourne lentement (plus de temps). Mouvements autorisés uniquement debout. Zone de jeu réduite.",
     "duree": 10,
-    "materiel": ["Aucun"],
-    "tags": ["musée", "statue", "contrôle", "jeu"]
+    "materiel": [
+      "Aucun"
+    ],
+    "tags": [
+      "musée",
+      "statue",
+      "contrôle",
+      "jeu"
+    ],
+    "progression": {
+      "niveau1": {
+        "titre": "Débutant",
+        "description": "À ce stade, l'objectif est d'apprivoiser l'exercice sans pression de performance. Pour « Le musée de cire », voici les attentes à ce niveau.",
+        "consignes": [
+          "Observer une démonstration avant chaque essai",
+          "Utiliser du matériel adapté (plus léger, plus gros, plus lent)",
+          "Exécuter les mouvements de base lentement et avec contrôle"
+        ],
+        "criteres_reussite": [
+          "L'élève comprend et respecte les consignes de base",
+          "Le geste technique de base est reconnaissable"
+        ]
+      },
+      "niveau2": {
+        "titre": "Intermédiaire",
+        "description": "L'intermédiaire travaille la régularité et commence à combiner les habiletés. Pour « Le musée de cire », voici les attentes à ce niveau.",
+        "consignes": [
+          "Ajouter des contraintes de temps ou d'espace",
+          "Augmenter progressivement la complexité de l'exercice",
+          "Combiner deux habiletés dans un même exercice"
+        ],
+        "criteres_reussite": [
+          "L'élève exécute le geste avec régularité",
+          "L'élève s'ajuste aux consignes supplémentaires"
+        ]
+      },
+      "niveau3": {
+        "titre": "Avancé",
+        "description": "L'expert peut exécuter l'activité dans des contextes variés et exigeants. Pour « Le musée de cire », voici les attentes à ce niveau.",
+        "consignes": [
+          "Combiner plusieurs habiletés en séquence complexe",
+          "S'auto-évaluer et identifier ses points d'amélioration",
+          "Créer et proposer ses propres variantes avancées"
+        ],
+        "criteres_reussite": [
+          "L'élève maîtrise le geste dans des situations complexes",
+          "L'élève transfère ses apprentissages à de nouvelles situations"
+        ]
+      }
+    }
   },
   {
     "titre": "Corps et poésie",
@@ -380,8 +1883,57 @@
     "variantes": "Les élèves choisissent leur propre texte, réciter le poème en bougeant, poème en duo avec 2 interprétations.",
     "adaptation": "Haïku (3 vers = 3 mouvements). Poème avec images concrètes. L'enseignant propose des mouvements de départ.",
     "duree": 25,
-    "materiel": ["Poèmes imprimés", "Musique ambiante (optionnel)"],
-    "tags": ["poésie", "interprétation", "abstrait", "chorégraphie"]
+    "materiel": [
+      "Poèmes imprimés",
+      "Musique ambiante (optionnel)"
+    ],
+    "tags": [
+      "poésie",
+      "interprétation",
+      "abstrait",
+      "chorégraphie"
+    ],
+    "progression": {
+      "niveau1": {
+        "titre": "Débutant",
+        "description": "L'élève découvre l'activité et se familiarise avec les mouvements fondamentaux. Pour « Corps et poésie », voici les attentes à ce niveau.",
+        "consignes": [
+          "Exécuter les mouvements de base lentement et avec contrôle",
+          "Observer une démonstration avant chaque essai",
+          "Utiliser du matériel adapté (plus léger, plus gros, plus lent)"
+        ],
+        "criteres_reussite": [
+          "Le geste technique de base est reconnaissable",
+          "L'élève comprend et respecte les consignes de base"
+        ]
+      },
+      "niveau2": {
+        "titre": "Intermédiaire",
+        "description": "L'intermédiaire travaille la régularité et commence à combiner les habiletés. Pour « Corps et poésie », voici les attentes à ce niveau.",
+        "consignes": [
+          "Réduire le temps de réflexion entre les actions",
+          "Augmenter progressivement la complexité de l'exercice",
+          "Introduire des variantes avec partenaire ou en mouvement"
+        ],
+        "criteres_reussite": [
+          "L'élève exécute le geste avec régularité",
+          "La technique est maîtrisée dans des situations variées"
+        ]
+      },
+      "niveau3": {
+        "titre": "Avancé",
+        "description": "À ce stade avancé, l'élève crée, innove et aide ses pairs. Pour « Corps et poésie », voici les attentes à ce niveau.",
+        "consignes": [
+          "Aider un pair moins expérimenté comme tuteur",
+          "Combiner plusieurs habiletés en séquence complexe",
+          "S'auto-évaluer et identifier ses points d'amélioration"
+        ],
+        "criteres_reussite": [
+          "L'exécution est fluide, précise et constante",
+          "L'élève transfère ses apprentissages à de nouvelles situations"
+        ]
+      }
+    }
   },
   {
     "titre": "Stop-motion humain",
@@ -392,8 +1944,57 @@
     "variantes": "Créer une vraie vidéo stop-motion, raconter une histoire en stop-motion, version accélérée.",
     "adaptation": "Changements de position plus évidents. Debout uniquement. L'enseignant guide chaque mouvement.",
     "duree": 20,
-    "materiel": ["Tablette/téléphone pour photos", "Application stop-motion (optionnel)"],
-    "tags": ["stop-motion", "photo", "animation", "technologie"]
+    "materiel": [
+      "Tablette/téléphone pour photos",
+      "Application stop-motion (optionnel)"
+    ],
+    "tags": [
+      "stop-motion",
+      "photo",
+      "animation",
+      "technologie"
+    ],
+    "progression": {
+      "niveau1": {
+        "titre": "Débutant",
+        "description": "À ce stade, l'objectif est d'apprivoiser l'exercice sans pression de performance. Pour « Stop-motion humain », voici les attentes à ce niveau.",
+        "consignes": [
+          "Exécuter les mouvements de base lentement et avec contrôle",
+          "Utiliser du matériel adapté (plus léger, plus gros, plus lent)",
+          "Se concentrer sur la technique plutôt que la performance"
+        ],
+        "criteres_reussite": [
+          "L'élève participe activement et fait des efforts",
+          "L'élève comprend et respecte les consignes de base"
+        ]
+      },
+      "niveau2": {
+        "titre": "Intermédiaire",
+        "description": "L'intermédiaire travaille la régularité et commence à combiner les habiletés. Pour « Stop-motion humain », voici les attentes à ce niveau.",
+        "consignes": [
+          "Augmenter progressivement la complexité de l'exercice",
+          "Combiner deux habiletés dans un même exercice",
+          "Introduire des variantes avec partenaire ou en mouvement"
+        ],
+        "criteres_reussite": [
+          "L'élève s'ajuste aux consignes supplémentaires",
+          "L'élève exécute le geste avec régularité"
+        ]
+      },
+      "niveau3": {
+        "titre": "Avancé",
+        "description": "L'élève perfectionne sa technique et s'adapte à des situations complexes. Pour « Stop-motion humain », voici les attentes à ce niveau.",
+        "consignes": [
+          "Combiner plusieurs habiletés en séquence complexe",
+          "S'auto-évaluer et identifier ses points d'amélioration",
+          "Créer et proposer ses propres variantes avancées"
+        ],
+        "criteres_reussite": [
+          "L'exécution est fluide, précise et constante",
+          "L'élève maîtrise le geste dans des situations complexes"
+        ]
+      }
+    }
   },
   {
     "titre": "Les 4 éléments",
@@ -404,8 +2005,56 @@
     "variantes": "Duo où chacun est un élément différent, opposition des éléments (eau vs feu), spectacle des éléments.",
     "adaptation": "2 éléments seulement. Mouvements guidés. L'enseignant montre des exemples pour chaque élément.",
     "duree": 15,
-    "materiel": ["Musique variée pour chaque élément"],
-    "tags": ["éléments", "nature", "qualité", "exploration"]
+    "materiel": [
+      "Musique variée pour chaque élément"
+    ],
+    "tags": [
+      "éléments",
+      "nature",
+      "qualité",
+      "exploration"
+    ],
+    "progression": {
+      "niveau1": {
+        "titre": "Débutant",
+        "description": "À ce stade, l'objectif est d'apprivoiser l'exercice sans pression de performance. Pour « Les 4 éléments », voici les attentes à ce niveau.",
+        "consignes": [
+          "Se concentrer sur la technique plutôt que la performance",
+          "Observer une démonstration avant chaque essai",
+          "Utiliser du matériel adapté (plus léger, plus gros, plus lent)"
+        ],
+        "criteres_reussite": [
+          "L'élève participe activement et fait des efforts",
+          "L'élève comprend et respecte les consignes de base"
+        ]
+      },
+      "niveau2": {
+        "titre": "Intermédiaire",
+        "description": "L'intermédiaire travaille la régularité et commence à combiner les habiletés. Pour « Les 4 éléments », voici les attentes à ce niveau.",
+        "consignes": [
+          "Ajouter des contraintes de temps ou d'espace",
+          "Réduire le temps de réflexion entre les actions",
+          "Introduire des variantes avec partenaire ou en mouvement"
+        ],
+        "criteres_reussite": [
+          "L'élève exécute le geste avec régularité",
+          "La technique est maîtrisée dans des situations variées"
+        ]
+      },
+      "niveau3": {
+        "titre": "Avancé",
+        "description": "À ce stade avancé, l'élève crée, innove et aide ses pairs. Pour « Les 4 éléments », voici les attentes à ce niveau.",
+        "consignes": [
+          "Créer et proposer ses propres variantes avancées",
+          "Aider un pair moins expérimenté comme tuteur",
+          "Exécuter en situation de jeu réelle ou compétitive"
+        ],
+        "criteres_reussite": [
+          "L'élève transfère ses apprentissages à de nouvelles situations",
+          "L'exécution est fluide, précise et constante"
+        ]
+      }
+    }
   },
   {
     "titre": "Création de personnage – démarche et attitude",
@@ -416,8 +2065,57 @@
     "variantes": "Créer l'histoire du personnage, faire interagir les personnages, changer de personnage au signal.",
     "adaptation": "L'enseignant propose 3 personnages au choix. Éléments guidés un par un (d'abord la démarche, puis la posture).",
     "duree": 20,
-    "materiel": ["Musique d'ambiance variée", "Accessoires simples (chapeau, écharpe - optionnel)"],
-    "tags": ["personnage", "démarche", "théâtre", "création"]
+    "materiel": [
+      "Musique d'ambiance variée",
+      "Accessoires simples (chapeau, écharpe - optionnel)"
+    ],
+    "tags": [
+      "personnage",
+      "démarche",
+      "théâtre",
+      "création"
+    ],
+    "progression": {
+      "niveau1": {
+        "titre": "Débutant",
+        "description": "L'élève découvre l'activité et se familiarise avec les mouvements fondamentaux. Pour « Création de personnage – démarche et attitude », voici les attentes à ce niveau.",
+        "consignes": [
+          "Se concentrer sur la technique plutôt que la performance",
+          "Exécuter les mouvements de base lentement et avec contrôle",
+          "Pratiquer en situation simplifiée sans pression"
+        ],
+        "criteres_reussite": [
+          "L'élève participe activement et fait des efforts",
+          "Le geste technique de base est reconnaissable"
+        ]
+      },
+      "niveau2": {
+        "titre": "Intermédiaire",
+        "description": "L'élève est capable d'exécuter l'activité de façon autonome avec quelques ajustements. Pour « Création de personnage – démarche et attitude », voici les attentes à ce niveau.",
+        "consignes": [
+          "Augmenter progressivement la complexité de l'exercice",
+          "Introduire des variantes avec partenaire ou en mouvement",
+          "Combiner deux habiletés dans un même exercice"
+        ],
+        "criteres_reussite": [
+          "L'élève s'ajuste aux consignes supplémentaires",
+          "L'élève exécute le geste avec régularité"
+        ]
+      },
+      "niveau3": {
+        "titre": "Avancé",
+        "description": "À ce stade avancé, l'élève crée, innove et aide ses pairs. Pour « Création de personnage – démarche et attitude », voici les attentes à ce niveau.",
+        "consignes": [
+          "Exécuter en situation de jeu réelle ou compétitive",
+          "Aider un pair moins expérimenté comme tuteur",
+          "Combiner plusieurs habiletés en séquence complexe"
+        ],
+        "criteres_reussite": [
+          "L'élève maîtrise le geste dans des situations complexes",
+          "L'exécution est fluide, précise et constante"
+        ]
+      }
+    }
   },
   {
     "titre": "Jeu des statues thématiques",
@@ -428,8 +2126,57 @@
     "variantes": "Statues en duo, statues en groupe (scène complète), les enfants proposent les thèmes.",
     "adaptation": "Images très simples. Plus de temps pour former la statue. L'enseignant fait la statue avec les enfants.",
     "duree": 8,
-    "materiel": ["Tambourin", "Images plastifiées"],
-    "tags": ["statues", "réactivité", "maternelle", "images"]
+    "materiel": [
+      "Tambourin",
+      "Images plastifiées"
+    ],
+    "tags": [
+      "statues",
+      "réactivité",
+      "maternelle",
+      "images"
+    ],
+    "progression": {
+      "niveau1": {
+        "titre": "Débutant",
+        "description": "L'élève découvre l'activité et se familiarise avec les mouvements fondamentaux. Pour « Jeu des statues thématiques », voici les attentes à ce niveau.",
+        "consignes": [
+          "Exécuter les mouvements de base lentement et avec contrôle",
+          "Utiliser du matériel adapté (plus léger, plus gros, plus lent)",
+          "Pratiquer en situation simplifiée sans pression"
+        ],
+        "criteres_reussite": [
+          "Le geste technique de base est reconnaissable",
+          "L'élève participe activement et fait des efforts"
+        ]
+      },
+      "niveau2": {
+        "titre": "Intermédiaire",
+        "description": "L'élève est capable d'exécuter l'activité de façon autonome avec quelques ajustements. Pour « Jeu des statues thématiques », voici les attentes à ce niveau.",
+        "consignes": [
+          "Augmenter progressivement la complexité de l'exercice",
+          "Introduire des variantes avec partenaire ou en mouvement",
+          "Réduire le temps de réflexion entre les actions"
+        ],
+        "criteres_reussite": [
+          "La technique est maîtrisée dans des situations variées",
+          "L'élève s'ajuste aux consignes supplémentaires"
+        ]
+      },
+      "niveau3": {
+        "titre": "Avancé",
+        "description": "L'élève démontre une maîtrise complète et peut enseigner aux autres. Pour « Jeu des statues thématiques », voici les attentes à ce niveau.",
+        "consignes": [
+          "Créer et proposer ses propres variantes avancées",
+          "Aider un pair moins expérimenté comme tuteur",
+          "S'auto-évaluer et identifier ses points d'amélioration"
+        ],
+        "criteres_reussite": [
+          "L'élève maîtrise le geste dans des situations complexes",
+          "L'élève transfère ses apprentissages à de nouvelles situations"
+        ]
+      }
+    }
   },
   {
     "titre": "Le miroir déformant",
@@ -440,8 +2187,56 @@
     "variantes": "Miroir accéléré/ralenti, miroir qui retarde, miroir qui inverse (le contraire du mouvement).",
     "adaptation": "Exagérer seulement (pas miniaturiser). Mouvements simples. L'enseignant démontre le principe.",
     "duree": 12,
-    "materiel": ["Musique douce"],
-    "tags": ["miroir", "exagération", "dynamique", "modulation"]
+    "materiel": [
+      "Musique douce"
+    ],
+    "tags": [
+      "miroir",
+      "exagération",
+      "dynamique",
+      "modulation"
+    ],
+    "progression": {
+      "niveau1": {
+        "titre": "Débutant",
+        "description": "À ce stade, l'objectif est d'apprivoiser l'exercice sans pression de performance. Pour « Le miroir déformant », voici les attentes à ce niveau.",
+        "consignes": [
+          "Exécuter les mouvements de base lentement et avec contrôle",
+          "Utiliser du matériel adapté (plus léger, plus gros, plus lent)",
+          "Se concentrer sur la technique plutôt que la performance"
+        ],
+        "criteres_reussite": [
+          "Le geste technique de base est reconnaissable",
+          "L'élève participe activement et fait des efforts"
+        ]
+      },
+      "niveau2": {
+        "titre": "Intermédiaire",
+        "description": "L'intermédiaire travaille la régularité et commence à combiner les habiletés. Pour « Le miroir déformant », voici les attentes à ce niveau.",
+        "consignes": [
+          "Combiner deux habiletés dans un même exercice",
+          "Réduire le temps de réflexion entre les actions",
+          "Ajouter des contraintes de temps ou d'espace"
+        ],
+        "criteres_reussite": [
+          "L'élève s'ajuste aux consignes supplémentaires",
+          "La technique est maîtrisée dans des situations variées"
+        ]
+      },
+      "niveau3": {
+        "titre": "Avancé",
+        "description": "L'élève perfectionne sa technique et s'adapte à des situations complexes. Pour « Le miroir déformant », voici les attentes à ce niveau.",
+        "consignes": [
+          "Exécuter en situation de jeu réelle ou compétitive",
+          "Aider un pair moins expérimenté comme tuteur",
+          "Créer et proposer ses propres variantes avancées"
+        ],
+        "criteres_reussite": [
+          "L'exécution est fluide, précise et constante",
+          "L'élève transfère ses apprentissages à de nouvelles situations"
+        ]
+      }
+    }
   },
   {
     "titre": "Conte corporel – narration en mouvement",
@@ -452,8 +2247,57 @@
     "variantes": "Les élèves narrent eux-mêmes, inventer une fin alternative, contes du monde.",
     "adaptation": "Conte très court et connu. Tous jouent le même personnage. L'enseignant fait les mouvements en même temps.",
     "duree": 15,
-    "materiel": ["Livre de conte", "Musique de fond (optionnel)"],
-    "tags": ["conte", "narration", "personnage", "littératie"]
+    "materiel": [
+      "Livre de conte",
+      "Musique de fond (optionnel)"
+    ],
+    "tags": [
+      "conte",
+      "narration",
+      "personnage",
+      "littératie"
+    ],
+    "progression": {
+      "niveau1": {
+        "titre": "Débutant",
+        "description": "À ce stade, l'objectif est d'apprivoiser l'exercice sans pression de performance. Pour « Conte corporel – narration en mouvement », voici les attentes à ce niveau.",
+        "consignes": [
+          "Observer une démonstration avant chaque essai",
+          "Exécuter les mouvements de base lentement et avec contrôle",
+          "Utiliser du matériel adapté (plus léger, plus gros, plus lent)"
+        ],
+        "criteres_reussite": [
+          "L'élève comprend et respecte les consignes de base",
+          "L'élève participe activement et fait des efforts"
+        ]
+      },
+      "niveau2": {
+        "titre": "Intermédiaire",
+        "description": "L'élève maîtrise les bases et cherche à améliorer sa constance et sa fluidité. Pour « Conte corporel – narration en mouvement », voici les attentes à ce niveau.",
+        "consignes": [
+          "Augmenter progressivement la complexité de l'exercice",
+          "Réduire le temps de réflexion entre les actions",
+          "Introduire des variantes avec partenaire ou en mouvement"
+        ],
+        "criteres_reussite": [
+          "L'élève exécute le geste avec régularité",
+          "La technique est maîtrisée dans des situations variées"
+        ]
+      },
+      "niveau3": {
+        "titre": "Avancé",
+        "description": "L'expert peut exécuter l'activité dans des contextes variés et exigeants. Pour « Conte corporel – narration en mouvement », voici les attentes à ce niveau.",
+        "consignes": [
+          "Combiner plusieurs habiletés en séquence complexe",
+          "Aider un pair moins expérimenté comme tuteur",
+          "S'auto-évaluer et identifier ses points d'amélioration"
+        ],
+        "criteres_reussite": [
+          "L'élève transfère ses apprentissages à de nouvelles situations",
+          "L'élève maîtrise le geste dans des situations complexes"
+        ]
+      }
+    }
   },
   {
     "titre": "Soundpainting – direction corporelle",
@@ -464,8 +2308,56 @@
     "variantes": "Ajouter des sons vocaux au mouvement, 2 chefs pour 2 groupes, créer de nouveaux signes.",
     "adaptation": "3 signes de base seulement. L'enseignant est le premier chef. Groupe plus petit.",
     "duree": 20,
-    "materiel": ["Fiches des signes de base (optionnel)"],
-    "tags": ["soundpainting", "direction", "leadership", "codifié"]
+    "materiel": [
+      "Fiches des signes de base (optionnel)"
+    ],
+    "tags": [
+      "soundpainting",
+      "direction",
+      "leadership",
+      "codifié"
+    ],
+    "progression": {
+      "niveau1": {
+        "titre": "Débutant",
+        "description": "L'élève découvre l'activité et se familiarise avec les mouvements fondamentaux. Pour « Soundpainting – direction corporelle », voici les attentes à ce niveau.",
+        "consignes": [
+          "Pratiquer en situation simplifiée sans pression",
+          "Observer une démonstration avant chaque essai",
+          "Utiliser du matériel adapté (plus léger, plus gros, plus lent)"
+        ],
+        "criteres_reussite": [
+          "L'élève participe activement et fait des efforts",
+          "Le geste technique de base est reconnaissable"
+        ]
+      },
+      "niveau2": {
+        "titre": "Intermédiaire",
+        "description": "L'élève est capable d'exécuter l'activité de façon autonome avec quelques ajustements. Pour « Soundpainting – direction corporelle », voici les attentes à ce niveau.",
+        "consignes": [
+          "Augmenter progressivement la complexité de l'exercice",
+          "Introduire des variantes avec partenaire ou en mouvement",
+          "Réduire le temps de réflexion entre les actions"
+        ],
+        "criteres_reussite": [
+          "L'élève exécute le geste avec régularité",
+          "La technique est maîtrisée dans des situations variées"
+        ]
+      },
+      "niveau3": {
+        "titre": "Avancé",
+        "description": "L'expert peut exécuter l'activité dans des contextes variés et exigeants. Pour « Soundpainting – direction corporelle », voici les attentes à ce niveau.",
+        "consignes": [
+          "Combiner plusieurs habiletés en séquence complexe",
+          "Aider un pair moins expérimenté comme tuteur",
+          "S'auto-évaluer et identifier ses points d'amélioration"
+        ],
+        "criteres_reussite": [
+          "L'élève maîtrise le geste dans des situations complexes",
+          "L'exécution est fluide, précise et constante"
+        ]
+      }
+    }
   },
   {
     "titre": "Expression animale – le zoo en mouvement",
@@ -476,8 +2368,57 @@
     "variantes": "Ajouter les sons des animaux, ferme au lieu de zoo, safari avec jumelles imaginaires.",
     "adaptation": "3 enclos au lieu de 5. Animaux très connus. L'enseignant imite avec les enfants.",
     "duree": 10,
-    "materiel": ["Images d'animaux par zone", "Cônes pour délimiter les enclos"],
-    "tags": ["zoo", "animaux", "imitation", "maternelle"]
+    "materiel": [
+      "Images d'animaux par zone",
+      "Cônes pour délimiter les enclos"
+    ],
+    "tags": [
+      "zoo",
+      "animaux",
+      "imitation",
+      "maternelle"
+    ],
+    "progression": {
+      "niveau1": {
+        "titre": "Débutant",
+        "description": "L'élève découvre l'activité et se familiarise avec les mouvements fondamentaux. Pour « Expression animale – le zoo en mouvement », voici les attentes à ce niveau.",
+        "consignes": [
+          "Observer une démonstration avant chaque essai",
+          "Pratiquer en situation simplifiée sans pression",
+          "Exécuter les mouvements de base lentement et avec contrôle"
+        ],
+        "criteres_reussite": [
+          "L'élève participe activement et fait des efforts",
+          "Le geste technique de base est reconnaissable"
+        ]
+      },
+      "niveau2": {
+        "titre": "Intermédiaire",
+        "description": "L'élève est capable d'exécuter l'activité de façon autonome avec quelques ajustements. Pour « Expression animale – le zoo en mouvement », voici les attentes à ce niveau.",
+        "consignes": [
+          "Réduire le temps de réflexion entre les actions",
+          "Combiner deux habiletés dans un même exercice",
+          "Augmenter progressivement la complexité de l'exercice"
+        ],
+        "criteres_reussite": [
+          "L'élève s'ajuste aux consignes supplémentaires",
+          "L'élève exécute le geste avec régularité"
+        ]
+      },
+      "niveau3": {
+        "titre": "Avancé",
+        "description": "L'élève démontre une maîtrise complète et peut enseigner aux autres. Pour « Expression animale – le zoo en mouvement », voici les attentes à ce niveau.",
+        "consignes": [
+          "Combiner plusieurs habiletés en séquence complexe",
+          "S'auto-évaluer et identifier ses points d'amélioration",
+          "Aider un pair moins expérimenté comme tuteur"
+        ],
+        "criteres_reussite": [
+          "L'élève transfère ses apprentissages à de nouvelles situations",
+          "L'élève maîtrise le geste dans des situations complexes"
+        ]
+      }
+    }
   },
   {
     "titre": "Improvisation structurée – le cadre",
@@ -488,8 +2429,57 @@
     "variantes": "Cumul de contraintes (au sol + en ligne droite), les élèves proposent les contraintes, improvisation en duo avec contraintes différentes.",
     "adaptation": "Contraintes simples. Plus de temps par contrainte. L'enseignant montre des possibilités.",
     "duree": 15,
-    "materiel": ["Musique variée", "Cartes de contraintes (optionnel)"],
-    "tags": ["improvisation", "contrainte", "créativité", "cadre"]
+    "materiel": [
+      "Musique variée",
+      "Cartes de contraintes (optionnel)"
+    ],
+    "tags": [
+      "improvisation",
+      "contrainte",
+      "créativité",
+      "cadre"
+    ],
+    "progression": {
+      "niveau1": {
+        "titre": "Débutant",
+        "description": "L'élève découvre l'activité et se familiarise avec les mouvements fondamentaux. Pour « Improvisation structurée – le cadre », voici les attentes à ce niveau.",
+        "consignes": [
+          "Exécuter les mouvements de base lentement et avec contrôle",
+          "Utiliser du matériel adapté (plus léger, plus gros, plus lent)",
+          "Se concentrer sur la technique plutôt que la performance"
+        ],
+        "criteres_reussite": [
+          "Le geste technique de base est reconnaissable",
+          "L'élève comprend et respecte les consignes de base"
+        ]
+      },
+      "niveau2": {
+        "titre": "Intermédiaire",
+        "description": "L'intermédiaire travaille la régularité et commence à combiner les habiletés. Pour « Improvisation structurée – le cadre », voici les attentes à ce niveau.",
+        "consignes": [
+          "Introduire des variantes avec partenaire ou en mouvement",
+          "Augmenter progressivement la complexité de l'exercice",
+          "Réduire le temps de réflexion entre les actions"
+        ],
+        "criteres_reussite": [
+          "La technique est maîtrisée dans des situations variées",
+          "L'élève s'ajuste aux consignes supplémentaires"
+        ]
+      },
+      "niveau3": {
+        "titre": "Avancé",
+        "description": "L'élève démontre une maîtrise complète et peut enseigner aux autres. Pour « Improvisation structurée – le cadre », voici les attentes à ce niveau.",
+        "consignes": [
+          "Combiner plusieurs habiletés en séquence complexe",
+          "Exécuter en situation de jeu réelle ou compétitive",
+          "Aider un pair moins expérimenté comme tuteur"
+        ],
+        "criteres_reussite": [
+          "L'élève maîtrise le geste dans des situations complexes",
+          "L'exécution est fluide, précise et constante"
+        ]
+      }
+    }
   },
   {
     "titre": "Le sculpteur aveugle",
@@ -500,8 +2490,56 @@
     "variantes": "Sculpture de groupe (yeux bandés), reproduire une sculpture vue avant de fermer les yeux.",
     "adaptation": "Yeux fermés au lieu de bandés (peut ouvrir si inconfortable). Sculptures très simples. L'enseignant supervise de près.",
     "duree": 15,
-    "materiel": ["Bandeaux pour les yeux"],
-    "tags": ["aveugle", "toucher", "confiance", "sensoriel"]
+    "materiel": [
+      "Bandeaux pour les yeux"
+    ],
+    "tags": [
+      "aveugle",
+      "toucher",
+      "confiance",
+      "sensoriel"
+    ],
+    "progression": {
+      "niveau1": {
+        "titre": "Débutant",
+        "description": "À ce stade, l'objectif est d'apprivoiser l'exercice sans pression de performance. Pour « Le sculpteur aveugle », voici les attentes à ce niveau.",
+        "consignes": [
+          "Exécuter les mouvements de base lentement et avec contrôle",
+          "Utiliser du matériel adapté (plus léger, plus gros, plus lent)",
+          "Pratiquer en situation simplifiée sans pression"
+        ],
+        "criteres_reussite": [
+          "Le geste technique de base est reconnaissable",
+          "L'élève participe activement et fait des efforts"
+        ]
+      },
+      "niveau2": {
+        "titre": "Intermédiaire",
+        "description": "L'intermédiaire travaille la régularité et commence à combiner les habiletés. Pour « Le sculpteur aveugle », voici les attentes à ce niveau.",
+        "consignes": [
+          "Réduire le temps de réflexion entre les actions",
+          "Introduire des variantes avec partenaire ou en mouvement",
+          "Augmenter progressivement la complexité de l'exercice"
+        ],
+        "criteres_reussite": [
+          "L'élève exécute le geste avec régularité",
+          "La technique est maîtrisée dans des situations variées"
+        ]
+      },
+      "niveau3": {
+        "titre": "Avancé",
+        "description": "L'élève démontre une maîtrise complète et peut enseigner aux autres. Pour « Le sculpteur aveugle », voici les attentes à ce niveau.",
+        "consignes": [
+          "Créer et proposer ses propres variantes avancées",
+          "Combiner plusieurs habiletés en séquence complexe",
+          "Exécuter en situation de jeu réelle ou compétitive"
+        ],
+        "criteres_reussite": [
+          "L'exécution est fluide, précise et constante",
+          "L'élève transfère ses apprentissages à de nouvelles situations"
+        ]
+      }
+    }
   },
   {
     "titre": "Danse des chiffres et des lettres",
@@ -512,8 +2550,56 @@
     "variantes": "Former des mots complets en équipe, chiffres en miroir, lettres en mouvement (tracer dans l'air).",
     "adaptation": "Lettres simples (I, L, T, O). Images de référence au sol. L'enseignant forme la lettre avec les élèves.",
     "duree": 10,
-    "materiel": ["Cartes de lettres et chiffres"],
-    "tags": ["lettres", "chiffres", "interdisciplinaire", "corps"]
+    "materiel": [
+      "Cartes de lettres et chiffres"
+    ],
+    "tags": [
+      "lettres",
+      "chiffres",
+      "interdisciplinaire",
+      "corps"
+    ],
+    "progression": {
+      "niveau1": {
+        "titre": "Débutant",
+        "description": "L'accent est mis sur la compréhension des consignes et la sécurité. Pour « Danse des chiffres et des lettres », voici les attentes à ce niveau.",
+        "consignes": [
+          "Pratiquer en situation simplifiée sans pression",
+          "Se concentrer sur la technique plutôt que la performance",
+          "Utiliser du matériel adapté (plus léger, plus gros, plus lent)"
+        ],
+        "criteres_reussite": [
+          "Le geste technique de base est reconnaissable",
+          "L'élève participe activement et fait des efforts"
+        ]
+      },
+      "niveau2": {
+        "titre": "Intermédiaire",
+        "description": "L'intermédiaire travaille la régularité et commence à combiner les habiletés. Pour « Danse des chiffres et des lettres », voici les attentes à ce niveau.",
+        "consignes": [
+          "Augmenter progressivement la complexité de l'exercice",
+          "Introduire des variantes avec partenaire ou en mouvement",
+          "Ajouter des contraintes de temps ou d'espace"
+        ],
+        "criteres_reussite": [
+          "L'élève s'ajuste aux consignes supplémentaires",
+          "L'élève exécute le geste avec régularité"
+        ]
+      },
+      "niveau3": {
+        "titre": "Avancé",
+        "description": "L'élève démontre une maîtrise complète et peut enseigner aux autres. Pour « Danse des chiffres et des lettres », voici les attentes à ce niveau.",
+        "consignes": [
+          "Créer et proposer ses propres variantes avancées",
+          "Exécuter en situation de jeu réelle ou compétitive",
+          "Aider un pair moins expérimenté comme tuteur"
+        ],
+        "criteres_reussite": [
+          "L'exécution est fluide, précise et constante",
+          "L'élève maîtrise le geste dans des situations complexes"
+        ]
+      }
+    }
   },
   {
     "titre": "Performance solo – mon histoire en mouvement",
@@ -524,8 +2610,58 @@
     "variantes": "Duo autobiographique, solo avec texte parlé, solo avec projection vidéo.",
     "adaptation": "Solo de 30 secondes. Structure fournie par l'enseignant. Possibilité de présenter en privé (pas devant la classe).",
     "duree": 30,
-    "materiel": ["Musique au choix de l'élève", "Journal de bord", "Espace de répétition"],
-    "tags": ["solo", "autobiographie", "évaluation", "création"]
+    "materiel": [
+      "Musique au choix de l'élève",
+      "Journal de bord",
+      "Espace de répétition"
+    ],
+    "tags": [
+      "solo",
+      "autobiographie",
+      "évaluation",
+      "création"
+    ],
+    "progression": {
+      "niveau1": {
+        "titre": "Débutant",
+        "description": "L'élève découvre l'activité et se familiarise avec les mouvements fondamentaux. Pour « Performance solo – mon histoire en mouvement », voici les attentes à ce niveau.",
+        "consignes": [
+          "Utiliser du matériel adapté (plus léger, plus gros, plus lent)",
+          "Exécuter les mouvements de base lentement et avec contrôle",
+          "Observer une démonstration avant chaque essai"
+        ],
+        "criteres_reussite": [
+          "Le geste technique de base est reconnaissable",
+          "L'élève participe activement et fait des efforts"
+        ]
+      },
+      "niveau2": {
+        "titre": "Intermédiaire",
+        "description": "L'élève maîtrise les bases et cherche à améliorer sa constance et sa fluidité. Pour « Performance solo – mon histoire en mouvement », voici les attentes à ce niveau.",
+        "consignes": [
+          "Combiner deux habiletés dans un même exercice",
+          "Introduire des variantes avec partenaire ou en mouvement",
+          "Réduire le temps de réflexion entre les actions"
+        ],
+        "criteres_reussite": [
+          "La technique est maîtrisée dans des situations variées",
+          "L'élève exécute le geste avec régularité"
+        ]
+      },
+      "niveau3": {
+        "titre": "Avancé",
+        "description": "L'élève démontre une maîtrise complète et peut enseigner aux autres. Pour « Performance solo – mon histoire en mouvement », voici les attentes à ce niveau.",
+        "consignes": [
+          "Combiner plusieurs habiletés en séquence complexe",
+          "S'auto-évaluer et identifier ses points d'amélioration",
+          "Aider un pair moins expérimenté comme tuteur"
+        ],
+        "criteres_reussite": [
+          "L'élève transfère ses apprentissages à de nouvelles situations",
+          "L'élève maîtrise le geste dans des situations complexes"
+        ]
+      }
+    }
   },
   {
     "titre": "Jeu du meneur secret",
@@ -536,8 +2672,56 @@
     "variantes": "2 meneurs secrets en même temps, version en marchant dans l'espace, version avec sons.",
     "adaptation": "Changements de mouvements plus évidents. Cercle plus petit. Le détective a 3 essais.",
     "duree": 10,
-    "materiel": ["Aucun"],
-    "tags": ["meneur", "secret", "observation", "discrétion"]
+    "materiel": [
+      "Aucun"
+    ],
+    "tags": [
+      "meneur",
+      "secret",
+      "observation",
+      "discrétion"
+    ],
+    "progression": {
+      "niveau1": {
+        "titre": "Débutant",
+        "description": "Le débutant explore les bases de l'activité avec un accompagnement soutenu. Pour « Jeu du meneur secret », voici les attentes à ce niveau.",
+        "consignes": [
+          "Se concentrer sur la technique plutôt que la performance",
+          "Utiliser du matériel adapté (plus léger, plus gros, plus lent)",
+          "Exécuter les mouvements de base lentement et avec contrôle"
+        ],
+        "criteres_reussite": [
+          "L'élève comprend et respecte les consignes de base",
+          "L'élève participe activement et fait des efforts"
+        ]
+      },
+      "niveau2": {
+        "titre": "Intermédiaire",
+        "description": "L'élève est capable d'exécuter l'activité de façon autonome avec quelques ajustements. Pour « Jeu du meneur secret », voici les attentes à ce niveau.",
+        "consignes": [
+          "Réduire le temps de réflexion entre les actions",
+          "Augmenter progressivement la complexité de l'exercice",
+          "Introduire des variantes avec partenaire ou en mouvement"
+        ],
+        "criteres_reussite": [
+          "La technique est maîtrisée dans des situations variées",
+          "L'élève exécute le geste avec régularité"
+        ]
+      },
+      "niveau3": {
+        "titre": "Avancé",
+        "description": "L'élève démontre une maîtrise complète et peut enseigner aux autres. Pour « Jeu du meneur secret », voici les attentes à ce niveau.",
+        "consignes": [
+          "Aider un pair moins expérimenté comme tuteur",
+          "S'auto-évaluer et identifier ses points d'amélioration",
+          "Combiner plusieurs habiletés en séquence complexe"
+        ],
+        "criteres_reussite": [
+          "L'exécution est fluide, précise et constante",
+          "L'élève transfère ses apprentissages à de nouvelles situations"
+        ]
+      }
+    }
   },
   {
     "titre": "Corps percussif et voix",
@@ -548,8 +2732,56 @@
     "variantes": "Ajouter des beatbox, créer un morceau de 1 minute, compétition de groupes, enregistrer la pièce.",
     "adaptation": "Séparer voix et corps (alterner au lieu de combiner). Rythmes simples. Groupe de 2.",
     "duree": 20,
-    "materiel": ["Aucun"],
-    "tags": ["percussions", "voix", "rythme", "création"]
+    "materiel": [
+      "Aucun"
+    ],
+    "tags": [
+      "percussions",
+      "voix",
+      "rythme",
+      "création"
+    ],
+    "progression": {
+      "niveau1": {
+        "titre": "Débutant",
+        "description": "L'accent est mis sur la compréhension des consignes et la sécurité. Pour « Corps percussif et voix », voici les attentes à ce niveau.",
+        "consignes": [
+          "Observer une démonstration avant chaque essai",
+          "Utiliser du matériel adapté (plus léger, plus gros, plus lent)",
+          "Exécuter les mouvements de base lentement et avec contrôle"
+        ],
+        "criteres_reussite": [
+          "L'élève comprend et respecte les consignes de base",
+          "Le geste technique de base est reconnaissable"
+        ]
+      },
+      "niveau2": {
+        "titre": "Intermédiaire",
+        "description": "L'élève est capable d'exécuter l'activité de façon autonome avec quelques ajustements. Pour « Corps percussif et voix », voici les attentes à ce niveau.",
+        "consignes": [
+          "Réduire le temps de réflexion entre les actions",
+          "Introduire des variantes avec partenaire ou en mouvement",
+          "Ajouter des contraintes de temps ou d'espace"
+        ],
+        "criteres_reussite": [
+          "L'élève s'ajuste aux consignes supplémentaires",
+          "L'élève exécute le geste avec régularité"
+        ]
+      },
+      "niveau3": {
+        "titre": "Avancé",
+        "description": "L'expert peut exécuter l'activité dans des contextes variés et exigeants. Pour « Corps percussif et voix », voici les attentes à ce niveau.",
+        "consignes": [
+          "Aider un pair moins expérimenté comme tuteur",
+          "Créer et proposer ses propres variantes avancées",
+          "S'auto-évaluer et identifier ses points d'amélioration"
+        ],
+        "criteres_reussite": [
+          "L'élève transfère ses apprentissages à de nouvelles situations",
+          "L'exécution est fluide, précise et constante"
+        ]
+      }
+    }
   },
   {
     "titre": "Relaxation et respiration consciente",
@@ -560,8 +2792,58 @@
     "variantes": "Relaxation avec visualisation (plage, nuage), yoga des animaux, relaxation avec musique nature.",
     "adaptation": "Assis sur une chaise. L'enseignant guide chaque souffle. Durée plus courte (5 min).",
     "duree": 8,
-    "materiel": ["Tapis de sol", "Musique douce/nature", "Éclairage tamisé (optionnel)"],
-    "tags": ["relaxation", "respiration", "calme", "maternelle"]
+    "materiel": [
+      "Tapis de sol",
+      "Musique douce/nature",
+      "Éclairage tamisé (optionnel)"
+    ],
+    "tags": [
+      "relaxation",
+      "respiration",
+      "calme",
+      "maternelle"
+    ],
+    "progression": {
+      "niveau1": {
+        "titre": "Débutant",
+        "description": "L'élève découvre l'activité et se familiarise avec les mouvements fondamentaux. Pour « Relaxation et respiration consciente », voici les attentes à ce niveau.",
+        "consignes": [
+          "Observer une démonstration avant chaque essai",
+          "Exécuter les mouvements de base lentement et avec contrôle",
+          "Pratiquer en situation simplifiée sans pression"
+        ],
+        "criteres_reussite": [
+          "L'élève comprend et respecte les consignes de base",
+          "L'élève participe activement et fait des efforts"
+        ]
+      },
+      "niveau2": {
+        "titre": "Intermédiaire",
+        "description": "L'élève est capable d'exécuter l'activité de façon autonome avec quelques ajustements. Pour « Relaxation et respiration consciente », voici les attentes à ce niveau.",
+        "consignes": [
+          "Ajouter des contraintes de temps ou d'espace",
+          "Combiner deux habiletés dans un même exercice",
+          "Augmenter progressivement la complexité de l'exercice"
+        ],
+        "criteres_reussite": [
+          "La technique est maîtrisée dans des situations variées",
+          "L'élève exécute le geste avec régularité"
+        ]
+      },
+      "niveau3": {
+        "titre": "Avancé",
+        "description": "À ce stade avancé, l'élève crée, innove et aide ses pairs. Pour « Relaxation et respiration consciente », voici les attentes à ce niveau.",
+        "consignes": [
+          "S'auto-évaluer et identifier ses points d'amélioration",
+          "Exécuter en situation de jeu réelle ou compétitive",
+          "Créer et proposer ses propres variantes avancées"
+        ],
+        "criteres_reussite": [
+          "L'exécution est fluide, précise et constante",
+          "L'élève transfère ses apprentissages à de nouvelles situations"
+        ]
+      }
+    }
   },
   {
     "titre": "Le défilé de mode expressif",
@@ -572,8 +2854,57 @@
     "variantes": "Défilé thématique (sportif, robot, royal), défilé en duo, défilé avec accessoire (lunettes, écharpe).",
     "adaptation": "Défiler avec un partenaire. Pas de pose finale. Tout le groupe défile en même temps pour réduire la gêne.",
     "duree": 12,
-    "materiel": ["Musique dynamique", "Ruban au sol pour le podium (optionnel)"],
-    "tags": ["défilé", "confiance", "posture", "présence"]
+    "materiel": [
+      "Musique dynamique",
+      "Ruban au sol pour le podium (optionnel)"
+    ],
+    "tags": [
+      "défilé",
+      "confiance",
+      "posture",
+      "présence"
+    ],
+    "progression": {
+      "niveau1": {
+        "titre": "Débutant",
+        "description": "À ce stade, l'objectif est d'apprivoiser l'exercice sans pression de performance. Pour « Le défilé de mode expressif », voici les attentes à ce niveau.",
+        "consignes": [
+          "Se concentrer sur la technique plutôt que la performance",
+          "Pratiquer en situation simplifiée sans pression",
+          "Utiliser du matériel adapté (plus léger, plus gros, plus lent)"
+        ],
+        "criteres_reussite": [
+          "Le geste technique de base est reconnaissable",
+          "L'élève comprend et respecte les consignes de base"
+        ]
+      },
+      "niveau2": {
+        "titre": "Intermédiaire",
+        "description": "L'élève est capable d'exécuter l'activité de façon autonome avec quelques ajustements. Pour « Le défilé de mode expressif », voici les attentes à ce niveau.",
+        "consignes": [
+          "Combiner deux habiletés dans un même exercice",
+          "Augmenter progressivement la complexité de l'exercice",
+          "Introduire des variantes avec partenaire ou en mouvement"
+        ],
+        "criteres_reussite": [
+          "La technique est maîtrisée dans des situations variées",
+          "L'élève s'ajuste aux consignes supplémentaires"
+        ]
+      },
+      "niveau3": {
+        "titre": "Avancé",
+        "description": "L'expert peut exécuter l'activité dans des contextes variés et exigeants. Pour « Le défilé de mode expressif », voici les attentes à ce niveau.",
+        "consignes": [
+          "Exécuter en situation de jeu réelle ou compétitive",
+          "Créer et proposer ses propres variantes avancées",
+          "S'auto-évaluer et identifier ses points d'amélioration"
+        ],
+        "criteres_reussite": [
+          "L'élève transfère ses apprentissages à de nouvelles situations",
+          "L'exécution est fluide, précise et constante"
+        ]
+      }
+    }
   },
   {
     "titre": "Le sculpteur de groupe – tableau collectif",
@@ -584,8 +2915,57 @@
     "variantes": "Tableau qui s'anime pendant 15 secondes, tableau avec accessoires, série de 3 tableaux qui racontent une histoire.",
     "adaptation": "Tableau de 3 personnes. Thèmes concrets. Le metteur en scène travaille avec l'enseignant.",
     "duree": 20,
-    "materiel": ["Aucun (ou accessoires simples)", "Appareil photo/tablette"],
-    "tags": ["tableau", "mise en scène", "leadership", "collectif"]
+    "materiel": [
+      "Aucun (ou accessoires simples)",
+      "Appareil photo/tablette"
+    ],
+    "tags": [
+      "tableau",
+      "mise en scène",
+      "leadership",
+      "collectif"
+    ],
+    "progression": {
+      "niveau1": {
+        "titre": "Débutant",
+        "description": "L'élève découvre l'activité et se familiarise avec les mouvements fondamentaux. Pour « Le sculpteur de groupe – tableau collectif », voici les attentes à ce niveau.",
+        "consignes": [
+          "Utiliser du matériel adapté (plus léger, plus gros, plus lent)",
+          "Observer une démonstration avant chaque essai",
+          "Se concentrer sur la technique plutôt que la performance"
+        ],
+        "criteres_reussite": [
+          "L'élève participe activement et fait des efforts",
+          "L'élève comprend et respecte les consignes de base"
+        ]
+      },
+      "niveau2": {
+        "titre": "Intermédiaire",
+        "description": "L'intermédiaire travaille la régularité et commence à combiner les habiletés. Pour « Le sculpteur de groupe – tableau collectif », voici les attentes à ce niveau.",
+        "consignes": [
+          "Combiner deux habiletés dans un même exercice",
+          "Augmenter progressivement la complexité de l'exercice",
+          "Ajouter des contraintes de temps ou d'espace"
+        ],
+        "criteres_reussite": [
+          "L'élève exécute le geste avec régularité",
+          "L'élève s'ajuste aux consignes supplémentaires"
+        ]
+      },
+      "niveau3": {
+        "titre": "Avancé",
+        "description": "À ce stade avancé, l'élève crée, innove et aide ses pairs. Pour « Le sculpteur de groupe – tableau collectif », voici les attentes à ce niveau.",
+        "consignes": [
+          "S'auto-évaluer et identifier ses points d'amélioration",
+          "Créer et proposer ses propres variantes avancées",
+          "Combiner plusieurs habiletés en séquence complexe"
+        ],
+        "criteres_reussite": [
+          "L'élève maîtrise le geste dans des situations complexes",
+          "L'exécution est fluide, précise et constante"
+        ]
+      }
+    }
   },
   {
     "titre": "Le corps sonore – bruitage en mouvement",
@@ -596,7 +2976,55 @@
     "variantes": "Les élèves inventent le mouvement à partir du son, duo qui s'imite (mouvement + son), orchestre de bruitages.",
     "adaptation": "Sons guidés par l'enseignant. Un seul mouvement-son à la fois. Répétitions nombreuses.",
     "duree": 10,
-    "materiel": ["Aucun"],
-    "tags": ["bruitage", "son", "mouvement", "ludique"]
+    "materiel": [
+      "Aucun"
+    ],
+    "tags": [
+      "bruitage",
+      "son",
+      "mouvement",
+      "ludique"
+    ],
+    "progression": {
+      "niveau1": {
+        "titre": "Débutant",
+        "description": "L'élève découvre l'activité et se familiarise avec les mouvements fondamentaux. Pour « Le corps sonore – bruitage en mouvement », voici les attentes à ce niveau.",
+        "consignes": [
+          "Observer une démonstration avant chaque essai",
+          "Pratiquer en situation simplifiée sans pression",
+          "Exécuter les mouvements de base lentement et avec contrôle"
+        ],
+        "criteres_reussite": [
+          "L'élève participe activement et fait des efforts",
+          "Le geste technique de base est reconnaissable"
+        ]
+      },
+      "niveau2": {
+        "titre": "Intermédiaire",
+        "description": "À ce niveau, on ajoute de la complexité tout en consolidant les acquis. Pour « Le corps sonore – bruitage en mouvement », voici les attentes à ce niveau.",
+        "consignes": [
+          "Ajouter des contraintes de temps ou d'espace",
+          "Combiner deux habiletés dans un même exercice",
+          "Augmenter progressivement la complexité de l'exercice"
+        ],
+        "criteres_reussite": [
+          "L'élève s'ajuste aux consignes supplémentaires",
+          "La technique est maîtrisée dans des situations variées"
+        ]
+      },
+      "niveau3": {
+        "titre": "Avancé",
+        "description": "À ce stade avancé, l'élève crée, innove et aide ses pairs. Pour « Le corps sonore – bruitage en mouvement », voici les attentes à ce niveau.",
+        "consignes": [
+          "Aider un pair moins expérimenté comme tuteur",
+          "Créer et proposer ses propres variantes avancées",
+          "S'auto-évaluer et identifier ses points d'amélioration"
+        ],
+        "criteres_reussite": [
+          "L'élève maîtrise le geste dans des situations complexes",
+          "L'exécution est fluide, précise et constante"
+        ]
+      }
+    }
   }
 ]

@@ -8,8 +8,56 @@
     "variantes": "Sur surface instable (demi-sphère), bras en différentes positions, attraper balle pendant équilibre.",
     "adaptation": "Tenir près d'un mur pour appui sécuritaire. Réduire la durée. Oeil ouvert seulement.",
     "duree": 10,
-    "materiel": ["Espace dégagé"],
-    "tags": ["équilibre", "unipodal", "proprioception", "yeux fermés"]
+    "materiel": [
+      "Espace dégagé"
+    ],
+    "tags": [
+      "équilibre",
+      "unipodal",
+      "proprioception",
+      "yeux fermés"
+    ],
+    "progression": {
+      "niveau1": {
+        "titre": "Débutant",
+        "description": "L'élève découvre l'activité et se familiarise avec les mouvements fondamentaux. Pour « Équilibre 1 pied – progression », voici les attentes à ce niveau.",
+        "consignes": [
+          "Exécuter les mouvements de base lentement et avec contrôle",
+          "Utiliser du matériel adapté (plus léger, plus gros, plus lent)",
+          "Se concentrer sur la technique plutôt que la performance"
+        ],
+        "criteres_reussite": [
+          "L'élève participe activement et fait des efforts",
+          "Le geste technique de base est reconnaissable"
+        ]
+      },
+      "niveau2": {
+        "titre": "Intermédiaire",
+        "description": "L'élève est capable d'exécuter l'activité de façon autonome avec quelques ajustements. Pour « Équilibre 1 pied – progression », voici les attentes à ce niveau.",
+        "consignes": [
+          "Augmenter progressivement la complexité de l'exercice",
+          "Ajouter des contraintes de temps ou d'espace",
+          "Introduire des variantes avec partenaire ou en mouvement"
+        ],
+        "criteres_reussite": [
+          "La technique est maîtrisée dans des situations variées",
+          "L'élève exécute le geste avec régularité"
+        ]
+      },
+      "niveau3": {
+        "titre": "Avancé",
+        "description": "L'expert peut exécuter l'activité dans des contextes variés et exigeants. Pour « Équilibre 1 pied – progression », voici les attentes à ce niveau.",
+        "consignes": [
+          "Créer et proposer ses propres variantes avancées",
+          "Combiner plusieurs habiletés en séquence complexe",
+          "S'auto-évaluer et identifier ses points d'amélioration"
+        ],
+        "criteres_reussite": [
+          "L'élève transfère ses apprentissages à de nouvelles situations",
+          "L'élève maîtrise le geste dans des situations complexes"
+        ]
+      }
+    }
   },
   {
     "titre": "Marche sur poutre basse",
@@ -20,8 +68,57 @@
     "variantes": "Traversée avec objet tenu, traversée avec partenaire en face, traversée avec obstacles sur la poutre.",
     "adaptation": "Poutre encore plus basse (10 cm), ligne au sol à la place, tenir la main de l'enseignant.",
     "duree": 12,
-    "materiel": ["Poutre basse de gym (20-30 cm)", "Tapis de chaque côté"],
-    "tags": ["poutre", "équilibre", "marche", "précision"]
+    "materiel": [
+      "Poutre basse de gym (20-30 cm)",
+      "Tapis de chaque côté"
+    ],
+    "tags": [
+      "poutre",
+      "équilibre",
+      "marche",
+      "précision"
+    ],
+    "progression": {
+      "niveau1": {
+        "titre": "Débutant",
+        "description": "L'accent est mis sur la compréhension des consignes et la sécurité. Pour « Marche sur poutre basse », voici les attentes à ce niveau.",
+        "consignes": [
+          "Utiliser du matériel adapté (plus léger, plus gros, plus lent)",
+          "Observer une démonstration avant chaque essai",
+          "Pratiquer en situation simplifiée sans pression"
+        ],
+        "criteres_reussite": [
+          "L'élève participe activement et fait des efforts",
+          "L'élève comprend et respecte les consignes de base"
+        ]
+      },
+      "niveau2": {
+        "titre": "Intermédiaire",
+        "description": "L'intermédiaire travaille la régularité et commence à combiner les habiletés. Pour « Marche sur poutre basse », voici les attentes à ce niveau.",
+        "consignes": [
+          "Ajouter des contraintes de temps ou d'espace",
+          "Introduire des variantes avec partenaire ou en mouvement",
+          "Augmenter progressivement la complexité de l'exercice"
+        ],
+        "criteres_reussite": [
+          "La technique est maîtrisée dans des situations variées",
+          "L'élève exécute le geste avec régularité"
+        ]
+      },
+      "niveau3": {
+        "titre": "Avancé",
+        "description": "L'élève démontre une maîtrise complète et peut enseigner aux autres. Pour « Marche sur poutre basse », voici les attentes à ce niveau.",
+        "consignes": [
+          "Aider un pair moins expérimenté comme tuteur",
+          "Exécuter en situation de jeu réelle ou compétitive",
+          "S'auto-évaluer et identifier ses points d'amélioration"
+        ],
+        "criteres_reussite": [
+          "L'élève transfère ses apprentissages à de nouvelles situations",
+          "L'exécution est fluide, précise et constante"
+        ]
+      }
+    }
   },
   {
     "titre": "Équilibre avec balle – stations",
@@ -32,8 +129,57 @@
     "variantes": "Combiner 2 défis simultanément, yeux fermés, surface inclinée.",
     "adaptation": "Réduire la difficulté de chaque station. Autoriser 2 pieds pour certains défis.",
     "duree": 15,
-    "materiel": ["Balles de tennis", "Lignes au sol ou ruban adhésif"],
-    "tags": ["équilibre", "ballon", "stations", "double tâche"]
+    "materiel": [
+      "Balles de tennis",
+      "Lignes au sol ou ruban adhésif"
+    ],
+    "tags": [
+      "équilibre",
+      "ballon",
+      "stations",
+      "double tâche"
+    ],
+    "progression": {
+      "niveau1": {
+        "titre": "Débutant",
+        "description": "L'accent est mis sur la compréhension des consignes et la sécurité. Pour « Équilibre avec balle – stations », voici les attentes à ce niveau.",
+        "consignes": [
+          "Exécuter les mouvements de base lentement et avec contrôle",
+          "Observer une démonstration avant chaque essai",
+          "Pratiquer en situation simplifiée sans pression"
+        ],
+        "criteres_reussite": [
+          "Le geste technique de base est reconnaissable",
+          "L'élève comprend et respecte les consignes de base"
+        ]
+      },
+      "niveau2": {
+        "titre": "Intermédiaire",
+        "description": "L'élève est capable d'exécuter l'activité de façon autonome avec quelques ajustements. Pour « Équilibre avec balle – stations », voici les attentes à ce niveau.",
+        "consignes": [
+          "Introduire des variantes avec partenaire ou en mouvement",
+          "Combiner deux habiletés dans un même exercice",
+          "Augmenter progressivement la complexité de l'exercice"
+        ],
+        "criteres_reussite": [
+          "La technique est maîtrisée dans des situations variées",
+          "L'élève s'ajuste aux consignes supplémentaires"
+        ]
+      },
+      "niveau3": {
+        "titre": "Avancé",
+        "description": "L'élève démontre une maîtrise complète et peut enseigner aux autres. Pour « Équilibre avec balle – stations », voici les attentes à ce niveau.",
+        "consignes": [
+          "Créer et proposer ses propres variantes avancées",
+          "Aider un pair moins expérimenté comme tuteur",
+          "S'auto-évaluer et identifier ses points d'amélioration"
+        ],
+        "criteres_reussite": [
+          "L'exécution est fluide, précise et constante",
+          "L'élève transfère ses apprentissages à de nouvelles situations"
+        ]
+      }
+    }
   },
   {
     "titre": "Parcours d'équilibre",
@@ -44,8 +190,59 @@
     "variantes": "Yeux bandés sur la poutre avec guide verbal, parcours inversé, parcours en duo.",
     "adaptation": "Parcours avec plus d'appuis disponibles, élargir les surfaces d'équilibre.",
     "duree": 18,
-    "materiel": ["Poutre", "Demi-sphères", "Cerceaux", "Bancs"],
-    "tags": ["parcours", "équilibre", "circuit", "progression"]
+    "materiel": [
+      "Poutre",
+      "Demi-sphères",
+      "Cerceaux",
+      "Bancs"
+    ],
+    "tags": [
+      "parcours",
+      "équilibre",
+      "circuit",
+      "progression"
+    ],
+    "progression": {
+      "niveau1": {
+        "titre": "Débutant",
+        "description": "L'accent est mis sur la compréhension des consignes et la sécurité. Pour « Parcours d'équilibre », voici les attentes à ce niveau.",
+        "consignes": [
+          "Pratiquer en situation simplifiée sans pression",
+          "Se concentrer sur la technique plutôt que la performance",
+          "Exécuter les mouvements de base lentement et avec contrôle"
+        ],
+        "criteres_reussite": [
+          "L'élève participe activement et fait des efforts",
+          "L'élève comprend et respecte les consignes de base"
+        ]
+      },
+      "niveau2": {
+        "titre": "Intermédiaire",
+        "description": "À ce niveau, on ajoute de la complexité tout en consolidant les acquis. Pour « Parcours d'équilibre », voici les attentes à ce niveau.",
+        "consignes": [
+          "Combiner deux habiletés dans un même exercice",
+          "Introduire des variantes avec partenaire ou en mouvement",
+          "Réduire le temps de réflexion entre les actions"
+        ],
+        "criteres_reussite": [
+          "L'élève s'ajuste aux consignes supplémentaires",
+          "L'élève exécute le geste avec régularité"
+        ]
+      },
+      "niveau3": {
+        "titre": "Avancé",
+        "description": "L'expert peut exécuter l'activité dans des contextes variés et exigeants. Pour « Parcours d'équilibre », voici les attentes à ce niveau.",
+        "consignes": [
+          "Aider un pair moins expérimenté comme tuteur",
+          "S'auto-évaluer et identifier ses points d'amélioration",
+          "Exécuter en situation de jeu réelle ou compétitive"
+        ],
+        "criteres_reussite": [
+          "L'élève transfère ses apprentissages à de nouvelles situations",
+          "L'élève maîtrise le geste dans des situations complexes"
+        ]
+      }
+    }
   },
   {
     "titre": "Position de l'oiseau",
@@ -56,8 +253,56 @@
     "variantes": "Yeux fermés, sur surface instable, en mouvement lent, avec poids léger dans les mains.",
     "adaptation": "Se tenir près d'un mur. Incliner moins le buste. Position simplifiée: 1 bras seulement.",
     "duree": 12,
-    "materiel": ["Espace dégagé"],
-    "tags": ["yoga", "équilibre", "oiseau", "gainage"]
+    "materiel": [
+      "Espace dégagé"
+    ],
+    "tags": [
+      "yoga",
+      "équilibre",
+      "oiseau",
+      "gainage"
+    ],
+    "progression": {
+      "niveau1": {
+        "titre": "Débutant",
+        "description": "Le débutant explore les bases de l'activité avec un accompagnement soutenu. Pour « Position de l'oiseau », voici les attentes à ce niveau.",
+        "consignes": [
+          "Exécuter les mouvements de base lentement et avec contrôle",
+          "Pratiquer en situation simplifiée sans pression",
+          "Observer une démonstration avant chaque essai"
+        ],
+        "criteres_reussite": [
+          "L'élève comprend et respecte les consignes de base",
+          "Le geste technique de base est reconnaissable"
+        ]
+      },
+      "niveau2": {
+        "titre": "Intermédiaire",
+        "description": "L'intermédiaire travaille la régularité et commence à combiner les habiletés. Pour « Position de l'oiseau », voici les attentes à ce niveau.",
+        "consignes": [
+          "Augmenter progressivement la complexité de l'exercice",
+          "Introduire des variantes avec partenaire ou en mouvement",
+          "Ajouter des contraintes de temps ou d'espace"
+        ],
+        "criteres_reussite": [
+          "La technique est maîtrisée dans des situations variées",
+          "L'élève s'ajuste aux consignes supplémentaires"
+        ]
+      },
+      "niveau3": {
+        "titre": "Avancé",
+        "description": "À ce stade avancé, l'élève crée, innove et aide ses pairs. Pour « Position de l'oiseau », voici les attentes à ce niveau.",
+        "consignes": [
+          "Créer et proposer ses propres variantes avancées",
+          "S'auto-évaluer et identifier ses points d'amélioration",
+          "Combiner plusieurs habiletés en séquence complexe"
+        ],
+        "criteres_reussite": [
+          "L'élève maîtrise le geste dans des situations complexes",
+          "L'élève transfère ses apprentissages à de nouvelles situations"
+        ]
+      }
+    }
   },
   {
     "titre": "Équilibre duo miroir",
@@ -68,8 +313,56 @@
     "variantes": "Miroir avec contact (main dans main), miroir en mouvement continu, miroir à 3.",
     "adaptation": "Figures plus simples, temps de tenue réduit, autoriser la communication verbale.",
     "duree": 15,
-    "materiel": ["Espace dégagé"],
-    "tags": ["duo", "miroir", "équilibre", "communication"]
+    "materiel": [
+      "Espace dégagé"
+    ],
+    "tags": [
+      "duo",
+      "miroir",
+      "équilibre",
+      "communication"
+    ],
+    "progression": {
+      "niveau1": {
+        "titre": "Débutant",
+        "description": "À ce stade, l'objectif est d'apprivoiser l'exercice sans pression de performance. Pour « Équilibre duo miroir », voici les attentes à ce niveau.",
+        "consignes": [
+          "Observer une démonstration avant chaque essai",
+          "Pratiquer en situation simplifiée sans pression",
+          "Exécuter les mouvements de base lentement et avec contrôle"
+        ],
+        "criteres_reussite": [
+          "Le geste technique de base est reconnaissable",
+          "L'élève participe activement et fait des efforts"
+        ]
+      },
+      "niveau2": {
+        "titre": "Intermédiaire",
+        "description": "L'élève maîtrise les bases et cherche à améliorer sa constance et sa fluidité. Pour « Équilibre duo miroir », voici les attentes à ce niveau.",
+        "consignes": [
+          "Introduire des variantes avec partenaire ou en mouvement",
+          "Combiner deux habiletés dans un même exercice",
+          "Augmenter progressivement la complexité de l'exercice"
+        ],
+        "criteres_reussite": [
+          "L'élève exécute le geste avec régularité",
+          "La technique est maîtrisée dans des situations variées"
+        ]
+      },
+      "niveau3": {
+        "titre": "Avancé",
+        "description": "L'élève démontre une maîtrise complète et peut enseigner aux autres. Pour « Équilibre duo miroir », voici les attentes à ce niveau.",
+        "consignes": [
+          "Exécuter en situation de jeu réelle ou compétitive",
+          "Aider un pair moins expérimenté comme tuteur",
+          "Combiner plusieurs habiletés en séquence complexe"
+        ],
+        "criteres_reussite": [
+          "L'élève transfère ses apprentissages à de nouvelles situations",
+          "L'exécution est fluide, précise et constante"
+        ]
+      }
+    }
   },
   {
     "titre": "Vélo d'équilibre – transition",
@@ -80,8 +373,56 @@
     "variantes": "Transition en musique (lente), créer sa propre séquence de 5 figures, présenter au groupe.",
     "adaptation": "Choisir parmi 3 figures seulement. Aide à la transition. Positions plus simples.",
     "duree": 20,
-    "materiel": ["Tapis de gym"],
-    "tags": ["acrobatie", "transitions", "séquence", "gainage"]
+    "materiel": [
+      "Tapis de gym"
+    ],
+    "tags": [
+      "acrobatie",
+      "transitions",
+      "séquence",
+      "gainage"
+    ],
+    "progression": {
+      "niveau1": {
+        "titre": "Débutant",
+        "description": "À ce stade, l'objectif est d'apprivoiser l'exercice sans pression de performance. Pour « Vélo d'équilibre – transition », voici les attentes à ce niveau.",
+        "consignes": [
+          "Utiliser du matériel adapté (plus léger, plus gros, plus lent)",
+          "Pratiquer en situation simplifiée sans pression",
+          "Se concentrer sur la technique plutôt que la performance"
+        ],
+        "criteres_reussite": [
+          "L'élève participe activement et fait des efforts",
+          "L'élève comprend et respecte les consignes de base"
+        ]
+      },
+      "niveau2": {
+        "titre": "Intermédiaire",
+        "description": "À ce niveau, on ajoute de la complexité tout en consolidant les acquis. Pour « Vélo d'équilibre – transition », voici les attentes à ce niveau.",
+        "consignes": [
+          "Ajouter des contraintes de temps ou d'espace",
+          "Combiner deux habiletés dans un même exercice",
+          "Introduire des variantes avec partenaire ou en mouvement"
+        ],
+        "criteres_reussite": [
+          "L'élève s'ajuste aux consignes supplémentaires",
+          "La technique est maîtrisée dans des situations variées"
+        ]
+      },
+      "niveau3": {
+        "titre": "Avancé",
+        "description": "L'élève démontre une maîtrise complète et peut enseigner aux autres. Pour « Vélo d'équilibre – transition », voici les attentes à ce niveau.",
+        "consignes": [
+          "Créer et proposer ses propres variantes avancées",
+          "Exécuter en situation de jeu réelle ou compétitive",
+          "S'auto-évaluer et identifier ses points d'amélioration"
+        ],
+        "criteres_reussite": [
+          "L'élève transfère ses apprentissages à de nouvelles situations",
+          "L'exécution est fluide, précise et constante"
+        ]
+      }
+    }
   },
   {
     "titre": "Statues musicales sur un pied",
@@ -92,8 +433,57 @@
     "variantes": "Figer dans une forme d'animal, figer sur l'autre pied, figer avec un bras levé.",
     "adaptation": "Permettre de toucher le sol avec l'autre pied si nécessaire. Réduire à 3 secondes.",
     "duree": 10,
-    "materiel": ["Système de son", "Musique entraînante"],
-    "tags": ["musique", "équilibre", "jeu", "maternelle"]
+    "materiel": [
+      "Système de son",
+      "Musique entraînante"
+    ],
+    "tags": [
+      "musique",
+      "équilibre",
+      "jeu",
+      "maternelle"
+    ],
+    "progression": {
+      "niveau1": {
+        "titre": "Débutant",
+        "description": "L'accent est mis sur la compréhension des consignes et la sécurité. Pour « Statues musicales sur un pied », voici les attentes à ce niveau.",
+        "consignes": [
+          "Se concentrer sur la technique plutôt que la performance",
+          "Pratiquer en situation simplifiée sans pression",
+          "Observer une démonstration avant chaque essai"
+        ],
+        "criteres_reussite": [
+          "L'élève participe activement et fait des efforts",
+          "L'élève comprend et respecte les consignes de base"
+        ]
+      },
+      "niveau2": {
+        "titre": "Intermédiaire",
+        "description": "L'intermédiaire travaille la régularité et commence à combiner les habiletés. Pour « Statues musicales sur un pied », voici les attentes à ce niveau.",
+        "consignes": [
+          "Réduire le temps de réflexion entre les actions",
+          "Augmenter progressivement la complexité de l'exercice",
+          "Combiner deux habiletés dans un même exercice"
+        ],
+        "criteres_reussite": [
+          "L'élève s'ajuste aux consignes supplémentaires",
+          "L'élève exécute le geste avec régularité"
+        ]
+      },
+      "niveau3": {
+        "titre": "Avancé",
+        "description": "À ce stade avancé, l'élève crée, innove et aide ses pairs. Pour « Statues musicales sur un pied », voici les attentes à ce niveau.",
+        "consignes": [
+          "S'auto-évaluer et identifier ses points d'amélioration",
+          "Exécuter en situation de jeu réelle ou compétitive",
+          "Créer et proposer ses propres variantes avancées"
+        ],
+        "criteres_reussite": [
+          "L'élève transfère ses apprentissages à de nouvelles situations",
+          "L'élève maîtrise le geste dans des situations complexes"
+        ]
+      }
+    }
   },
   {
     "titre": "L'arbre qui pousse",
@@ -104,8 +494,56 @@
     "variantes": "L'arbre dans le vent (se balancer doucement), l'arbre avec des fruits (tenir des balles), forêt en groupe.",
     "adaptation": "Garder les deux pieds au sol. Utiliser un mur comme appui. Réduire la durée de tenue.",
     "duree": 8,
-    "materiel": ["Espace dégagé"],
-    "tags": ["imaginaire", "équilibre", "maternelle", "histoire"]
+    "materiel": [
+      "Espace dégagé"
+    ],
+    "tags": [
+      "imaginaire",
+      "équilibre",
+      "maternelle",
+      "histoire"
+    ],
+    "progression": {
+      "niveau1": {
+        "titre": "Débutant",
+        "description": "L'accent est mis sur la compréhension des consignes et la sécurité. Pour « L'arbre qui pousse », voici les attentes à ce niveau.",
+        "consignes": [
+          "Observer une démonstration avant chaque essai",
+          "Exécuter les mouvements de base lentement et avec contrôle",
+          "Utiliser du matériel adapté (plus léger, plus gros, plus lent)"
+        ],
+        "criteres_reussite": [
+          "L'élève participe activement et fait des efforts",
+          "L'élève comprend et respecte les consignes de base"
+        ]
+      },
+      "niveau2": {
+        "titre": "Intermédiaire",
+        "description": "L'élève maîtrise les bases et cherche à améliorer sa constance et sa fluidité. Pour « L'arbre qui pousse », voici les attentes à ce niveau.",
+        "consignes": [
+          "Ajouter des contraintes de temps ou d'espace",
+          "Augmenter progressivement la complexité de l'exercice",
+          "Combiner deux habiletés dans un même exercice"
+        ],
+        "criteres_reussite": [
+          "L'élève s'ajuste aux consignes supplémentaires",
+          "L'élève exécute le geste avec régularité"
+        ]
+      },
+      "niveau3": {
+        "titre": "Avancé",
+        "description": "L'élève perfectionne sa technique et s'adapte à des situations complexes. Pour « L'arbre qui pousse », voici les attentes à ce niveau.",
+        "consignes": [
+          "Créer et proposer ses propres variantes avancées",
+          "Combiner plusieurs habiletés en séquence complexe",
+          "Exécuter en situation de jeu réelle ou compétitive"
+        ],
+        "criteres_reussite": [
+          "L'élève transfère ses apprentissages à de nouvelles situations",
+          "L'exécution est fluide, précise et constante"
+        ]
+      }
+    }
   },
   {
     "titre": "Le flamant rose",
@@ -116,8 +554,56 @@
     "variantes": "Flamant qui mange (se pencher en avant), flamant qui marche (avancer sur un pied à la fois), groupe de flamants.",
     "adaptation": "Pied posé contre la cheville seulement. Main sur un mur. Durée réduite à 3 secondes.",
     "duree": 8,
-    "materiel": ["Espace dégagé"],
-    "tags": ["animal", "équilibre", "unipodal", "maternelle"]
+    "materiel": [
+      "Espace dégagé"
+    ],
+    "tags": [
+      "animal",
+      "équilibre",
+      "unipodal",
+      "maternelle"
+    ],
+    "progression": {
+      "niveau1": {
+        "titre": "Débutant",
+        "description": "L'accent est mis sur la compréhension des consignes et la sécurité. Pour « Le flamant rose », voici les attentes à ce niveau.",
+        "consignes": [
+          "Observer une démonstration avant chaque essai",
+          "Utiliser du matériel adapté (plus léger, plus gros, plus lent)",
+          "Se concentrer sur la technique plutôt que la performance"
+        ],
+        "criteres_reussite": [
+          "L'élève participe activement et fait des efforts",
+          "L'élève comprend et respecte les consignes de base"
+        ]
+      },
+      "niveau2": {
+        "titre": "Intermédiaire",
+        "description": "L'élève maîtrise les bases et cherche à améliorer sa constance et sa fluidité. Pour « Le flamant rose », voici les attentes à ce niveau.",
+        "consignes": [
+          "Augmenter progressivement la complexité de l'exercice",
+          "Réduire le temps de réflexion entre les actions",
+          "Introduire des variantes avec partenaire ou en mouvement"
+        ],
+        "criteres_reussite": [
+          "L'élève exécute le geste avec régularité",
+          "La technique est maîtrisée dans des situations variées"
+        ]
+      },
+      "niveau3": {
+        "titre": "Avancé",
+        "description": "L'élève perfectionne sa technique et s'adapte à des situations complexes. Pour « Le flamant rose », voici les attentes à ce niveau.",
+        "consignes": [
+          "S'auto-évaluer et identifier ses points d'amélioration",
+          "Créer et proposer ses propres variantes avancées",
+          "Combiner plusieurs habiletés en séquence complexe"
+        ],
+        "criteres_reussite": [
+          "L'exécution est fluide, précise et constante",
+          "L'élève maîtrise le geste dans des situations complexes"
+        ]
+      }
+    }
   },
   {
     "titre": "Traversée de la rivière",
@@ -128,8 +614,57 @@
     "variantes": "Cerceaux plus espacés, traversée à reculons, traversée en portant un objet.",
     "adaptation": "Cerceaux plus rapprochés, permettre les deux pieds dans le cerceau, aide d'un partenaire.",
     "duree": 10,
-    "materiel": ["Cerceaux (15-20)", "Espace dégagé"],
-    "tags": ["cerceaux", "équilibre", "saut", "imaginaire"]
+    "materiel": [
+      "Cerceaux (15-20)",
+      "Espace dégagé"
+    ],
+    "tags": [
+      "cerceaux",
+      "équilibre",
+      "saut",
+      "imaginaire"
+    ],
+    "progression": {
+      "niveau1": {
+        "titre": "Débutant",
+        "description": "Le débutant explore les bases de l'activité avec un accompagnement soutenu. Pour « Traversée de la rivière », voici les attentes à ce niveau.",
+        "consignes": [
+          "Exécuter les mouvements de base lentement et avec contrôle",
+          "Se concentrer sur la technique plutôt que la performance",
+          "Pratiquer en situation simplifiée sans pression"
+        ],
+        "criteres_reussite": [
+          "L'élève comprend et respecte les consignes de base",
+          "L'élève participe activement et fait des efforts"
+        ]
+      },
+      "niveau2": {
+        "titre": "Intermédiaire",
+        "description": "L'élève maîtrise les bases et cherche à améliorer sa constance et sa fluidité. Pour « Traversée de la rivière », voici les attentes à ce niveau.",
+        "consignes": [
+          "Augmenter progressivement la complexité de l'exercice",
+          "Introduire des variantes avec partenaire ou en mouvement",
+          "Combiner deux habiletés dans un même exercice"
+        ],
+        "criteres_reussite": [
+          "La technique est maîtrisée dans des situations variées",
+          "L'élève exécute le geste avec régularité"
+        ]
+      },
+      "niveau3": {
+        "titre": "Avancé",
+        "description": "L'expert peut exécuter l'activité dans des contextes variés et exigeants. Pour « Traversée de la rivière », voici les attentes à ce niveau.",
+        "consignes": [
+          "S'auto-évaluer et identifier ses points d'amélioration",
+          "Créer et proposer ses propres variantes avancées",
+          "Exécuter en situation de jeu réelle ou compétitive"
+        ],
+        "criteres_reussite": [
+          "L'élève maîtrise le geste dans des situations complexes",
+          "L'élève transfère ses apprentissages à de nouvelles situations"
+        ]
+      }
+    }
   },
   {
     "titre": "Marche talon-orteil",
@@ -140,8 +675,56 @@
     "variantes": "Marche arrière, marche avec les yeux fermés (5 pas), marche avec objet sur la tête.",
     "adaptation": "Ligne large tracée au sol (10 cm), autoriser de petits écarts, réduire la distance.",
     "duree": 10,
-    "materiel": ["Ruban adhésif ou lignes au sol"],
-    "tags": ["marche", "équilibre", "ligne", "concentration"]
+    "materiel": [
+      "Ruban adhésif ou lignes au sol"
+    ],
+    "tags": [
+      "marche",
+      "équilibre",
+      "ligne",
+      "concentration"
+    ],
+    "progression": {
+      "niveau1": {
+        "titre": "Débutant",
+        "description": "Le débutant explore les bases de l'activité avec un accompagnement soutenu. Pour « Marche talon-orteil », voici les attentes à ce niveau.",
+        "consignes": [
+          "Pratiquer en situation simplifiée sans pression",
+          "Exécuter les mouvements de base lentement et avec contrôle",
+          "Se concentrer sur la technique plutôt que la performance"
+        ],
+        "criteres_reussite": [
+          "L'élève comprend et respecte les consignes de base",
+          "Le geste technique de base est reconnaissable"
+        ]
+      },
+      "niveau2": {
+        "titre": "Intermédiaire",
+        "description": "À ce niveau, on ajoute de la complexité tout en consolidant les acquis. Pour « Marche talon-orteil », voici les attentes à ce niveau.",
+        "consignes": [
+          "Réduire le temps de réflexion entre les actions",
+          "Combiner deux habiletés dans un même exercice",
+          "Augmenter progressivement la complexité de l'exercice"
+        ],
+        "criteres_reussite": [
+          "L'élève exécute le geste avec régularité",
+          "L'élève s'ajuste aux consignes supplémentaires"
+        ]
+      },
+      "niveau3": {
+        "titre": "Avancé",
+        "description": "L'élève perfectionne sa technique et s'adapte à des situations complexes. Pour « Marche talon-orteil », voici les attentes à ce niveau.",
+        "consignes": [
+          "S'auto-évaluer et identifier ses points d'amélioration",
+          "Combiner plusieurs habiletés en séquence complexe",
+          "Aider un pair moins expérimenté comme tuteur"
+        ],
+        "criteres_reussite": [
+          "L'élève transfère ses apprentissages à de nouvelles situations",
+          "L'exécution est fluide, précise et constante"
+        ]
+      }
+    }
   },
   {
     "titre": "Équilibre animal – zoo",
@@ -152,8 +735,57 @@
     "variantes": "Les élèves proposent des animaux, se déplacer comme l'animal, enchaîner 3 animaux.",
     "adaptation": "Proposer des images visuelles des postures. Réduire la durée de tenue. Postures plus simples.",
     "duree": 12,
-    "materiel": ["Cartes d'animaux (optionnel)", "Espace dégagé"],
-    "tags": ["animaux", "équilibre", "imaginaire", "postures"]
+    "materiel": [
+      "Cartes d'animaux (optionnel)",
+      "Espace dégagé"
+    ],
+    "tags": [
+      "animaux",
+      "équilibre",
+      "imaginaire",
+      "postures"
+    ],
+    "progression": {
+      "niveau1": {
+        "titre": "Débutant",
+        "description": "L'élève découvre l'activité et se familiarise avec les mouvements fondamentaux. Pour « Équilibre animal – zoo », voici les attentes à ce niveau.",
+        "consignes": [
+          "Utiliser du matériel adapté (plus léger, plus gros, plus lent)",
+          "Exécuter les mouvements de base lentement et avec contrôle",
+          "Se concentrer sur la technique plutôt que la performance"
+        ],
+        "criteres_reussite": [
+          "Le geste technique de base est reconnaissable",
+          "L'élève participe activement et fait des efforts"
+        ]
+      },
+      "niveau2": {
+        "titre": "Intermédiaire",
+        "description": "L'élève maîtrise les bases et cherche à améliorer sa constance et sa fluidité. Pour « Équilibre animal – zoo », voici les attentes à ce niveau.",
+        "consignes": [
+          "Combiner deux habiletés dans un même exercice",
+          "Augmenter progressivement la complexité de l'exercice",
+          "Introduire des variantes avec partenaire ou en mouvement"
+        ],
+        "criteres_reussite": [
+          "L'élève s'ajuste aux consignes supplémentaires",
+          "L'élève exécute le geste avec régularité"
+        ]
+      },
+      "niveau3": {
+        "titre": "Avancé",
+        "description": "L'expert peut exécuter l'activité dans des contextes variés et exigeants. Pour « Équilibre animal – zoo », voici les attentes à ce niveau.",
+        "consignes": [
+          "Créer et proposer ses propres variantes avancées",
+          "Exécuter en situation de jeu réelle ou compétitive",
+          "Aider un pair moins expérimenté comme tuteur"
+        ],
+        "criteres_reussite": [
+          "L'élève transfère ses apprentissages à de nouvelles situations",
+          "L'élève maîtrise le geste dans des situations complexes"
+        ]
+      }
+    }
   },
   {
     "titre": "Le funambule",
@@ -164,8 +796,57 @@
     "variantes": "Corde en zigzag, corde en cercle, avec un parapluie (bâton), traversée chronométrée.",
     "adaptation": "Marcher à côté de la corde d'abord. Corde large (ruban). Tenir la main d'un ami.",
     "duree": 10,
-    "materiel": ["Corde à sauter ou corde longue", "Espace dégagé"],
-    "tags": ["funambule", "équilibre", "corde", "marche"]
+    "materiel": [
+      "Corde à sauter ou corde longue",
+      "Espace dégagé"
+    ],
+    "tags": [
+      "funambule",
+      "équilibre",
+      "corde",
+      "marche"
+    ],
+    "progression": {
+      "niveau1": {
+        "titre": "Débutant",
+        "description": "À ce stade, l'objectif est d'apprivoiser l'exercice sans pression de performance. Pour « Le funambule », voici les attentes à ce niveau.",
+        "consignes": [
+          "Observer une démonstration avant chaque essai",
+          "Pratiquer en situation simplifiée sans pression",
+          "Se concentrer sur la technique plutôt que la performance"
+        ],
+        "criteres_reussite": [
+          "L'élève comprend et respecte les consignes de base",
+          "L'élève participe activement et fait des efforts"
+        ]
+      },
+      "niveau2": {
+        "titre": "Intermédiaire",
+        "description": "L'élève est capable d'exécuter l'activité de façon autonome avec quelques ajustements. Pour « Le funambule », voici les attentes à ce niveau.",
+        "consignes": [
+          "Réduire le temps de réflexion entre les actions",
+          "Introduire des variantes avec partenaire ou en mouvement",
+          "Augmenter progressivement la complexité de l'exercice"
+        ],
+        "criteres_reussite": [
+          "L'élève s'ajuste aux consignes supplémentaires",
+          "La technique est maîtrisée dans des situations variées"
+        ]
+      },
+      "niveau3": {
+        "titre": "Avancé",
+        "description": "À ce stade avancé, l'élève crée, innove et aide ses pairs. Pour « Le funambule », voici les attentes à ce niveau.",
+        "consignes": [
+          "Exécuter en situation de jeu réelle ou compétitive",
+          "S'auto-évaluer et identifier ses points d'amélioration",
+          "Combiner plusieurs habiletés en séquence complexe"
+        ],
+        "criteres_reussite": [
+          "L'élève transfère ses apprentissages à de nouvelles situations",
+          "L'exécution est fluide, précise et constante"
+        ]
+      }
+    }
   },
   {
     "titre": "Demi-sphères – parcours proprioceptif",
@@ -176,8 +857,57 @@
     "variantes": "Parcours les yeux fermés avec guide verbal, parcours en duo, ajout de lancers pendant la stabilisation.",
     "adaptation": "Demi-sphères retournées (surface plate en haut), aide d'un partenaire, pas de temps imposé.",
     "duree": 15,
-    "materiel": ["Demi-sphères (Bosu) (8-10)", "Tapis de sécurité"],
-    "tags": ["proprioception", "demi-sphère", "équilibre", "parcours"]
+    "materiel": [
+      "Demi-sphères (Bosu) (8-10)",
+      "Tapis de sécurité"
+    ],
+    "tags": [
+      "proprioception",
+      "demi-sphère",
+      "équilibre",
+      "parcours"
+    ],
+    "progression": {
+      "niveau1": {
+        "titre": "Débutant",
+        "description": "L'accent est mis sur la compréhension des consignes et la sécurité. Pour « Demi-sphères – parcours proprioceptif », voici les attentes à ce niveau.",
+        "consignes": [
+          "Exécuter les mouvements de base lentement et avec contrôle",
+          "Observer une démonstration avant chaque essai",
+          "Se concentrer sur la technique plutôt que la performance"
+        ],
+        "criteres_reussite": [
+          "Le geste technique de base est reconnaissable",
+          "L'élève participe activement et fait des efforts"
+        ]
+      },
+      "niveau2": {
+        "titre": "Intermédiaire",
+        "description": "L'élève maîtrise les bases et cherche à améliorer sa constance et sa fluidité. Pour « Demi-sphères – parcours proprioceptif », voici les attentes à ce niveau.",
+        "consignes": [
+          "Réduire le temps de réflexion entre les actions",
+          "Introduire des variantes avec partenaire ou en mouvement",
+          "Ajouter des contraintes de temps ou d'espace"
+        ],
+        "criteres_reussite": [
+          "L'élève s'ajuste aux consignes supplémentaires",
+          "La technique est maîtrisée dans des situations variées"
+        ]
+      },
+      "niveau3": {
+        "titre": "Avancé",
+        "description": "L'élève perfectionne sa technique et s'adapte à des situations complexes. Pour « Demi-sphères – parcours proprioceptif », voici les attentes à ce niveau.",
+        "consignes": [
+          "Combiner plusieurs habiletés en séquence complexe",
+          "Exécuter en situation de jeu réelle ou compétitive",
+          "S'auto-évaluer et identifier ses points d'amélioration"
+        ],
+        "criteres_reussite": [
+          "L'élève maîtrise le geste dans des situations complexes",
+          "L'exécution est fluide, précise et constante"
+        ]
+      }
+    }
   },
   {
     "titre": "Jeu de la tour humaine",
@@ -188,8 +918,57 @@
     "variantes": "Ajouter un thème (lettre de l'alphabet, forme géométrique), compétition amicale entre équipes.",
     "adaptation": "Figures au sol seulement, réduire le nombre de défis, augmenter le nombre de points d'appui.",
     "duree": 20,
-    "materiel": ["Tapis de gym", "Espace dégagé"],
-    "tags": ["coopération", "équilibre", "figures", "groupe"]
+    "materiel": [
+      "Tapis de gym",
+      "Espace dégagé"
+    ],
+    "tags": [
+      "coopération",
+      "équilibre",
+      "figures",
+      "groupe"
+    ],
+    "progression": {
+      "niveau1": {
+        "titre": "Débutant",
+        "description": "Le débutant explore les bases de l'activité avec un accompagnement soutenu. Pour « Jeu de la tour humaine », voici les attentes à ce niveau.",
+        "consignes": [
+          "Se concentrer sur la technique plutôt que la performance",
+          "Utiliser du matériel adapté (plus léger, plus gros, plus lent)",
+          "Observer une démonstration avant chaque essai"
+        ],
+        "criteres_reussite": [
+          "L'élève comprend et respecte les consignes de base",
+          "Le geste technique de base est reconnaissable"
+        ]
+      },
+      "niveau2": {
+        "titre": "Intermédiaire",
+        "description": "L'intermédiaire travaille la régularité et commence à combiner les habiletés. Pour « Jeu de la tour humaine », voici les attentes à ce niveau.",
+        "consignes": [
+          "Réduire le temps de réflexion entre les actions",
+          "Combiner deux habiletés dans un même exercice",
+          "Introduire des variantes avec partenaire ou en mouvement"
+        ],
+        "criteres_reussite": [
+          "L'élève exécute le geste avec régularité",
+          "La technique est maîtrisée dans des situations variées"
+        ]
+      },
+      "niveau3": {
+        "titre": "Avancé",
+        "description": "À ce stade avancé, l'élève crée, innove et aide ses pairs. Pour « Jeu de la tour humaine », voici les attentes à ce niveau.",
+        "consignes": [
+          "Combiner plusieurs habiletés en séquence complexe",
+          "Aider un pair moins expérimenté comme tuteur",
+          "Créer et proposer ses propres variantes avancées"
+        ],
+        "criteres_reussite": [
+          "L'exécution est fluide, précise et constante",
+          "L'élève maîtrise le geste dans des situations complexes"
+        ]
+      }
+    }
   },
   {
     "titre": "Équilibre sur banc renversé",
@@ -200,8 +979,57 @@
     "variantes": "Traversée avec un sac de sable sur la tête, traversée en duo (croisement au centre), traversée latérale.",
     "adaptation": "Banc non renversé (surface large), aide d'un partenaire, tapis épais autour.",
     "duree": 15,
-    "materiel": ["Banc suédois", "Tapis de réception"],
-    "tags": ["banc", "équilibre", "proprioception", "pieds nus"]
+    "materiel": [
+      "Banc suédois",
+      "Tapis de réception"
+    ],
+    "tags": [
+      "banc",
+      "équilibre",
+      "proprioception",
+      "pieds nus"
+    ],
+    "progression": {
+      "niveau1": {
+        "titre": "Débutant",
+        "description": "L'accent est mis sur la compréhension des consignes et la sécurité. Pour « Équilibre sur banc renversé », voici les attentes à ce niveau.",
+        "consignes": [
+          "Exécuter les mouvements de base lentement et avec contrôle",
+          "Pratiquer en situation simplifiée sans pression",
+          "Observer une démonstration avant chaque essai"
+        ],
+        "criteres_reussite": [
+          "L'élève comprend et respecte les consignes de base",
+          "L'élève participe activement et fait des efforts"
+        ]
+      },
+      "niveau2": {
+        "titre": "Intermédiaire",
+        "description": "L'élève maîtrise les bases et cherche à améliorer sa constance et sa fluidité. Pour « Équilibre sur banc renversé », voici les attentes à ce niveau.",
+        "consignes": [
+          "Ajouter des contraintes de temps ou d'espace",
+          "Combiner deux habiletés dans un même exercice",
+          "Introduire des variantes avec partenaire ou en mouvement"
+        ],
+        "criteres_reussite": [
+          "L'élève s'ajuste aux consignes supplémentaires",
+          "L'élève exécute le geste avec régularité"
+        ]
+      },
+      "niveau3": {
+        "titre": "Avancé",
+        "description": "L'expert peut exécuter l'activité dans des contextes variés et exigeants. Pour « Équilibre sur banc renversé », voici les attentes à ce niveau.",
+        "consignes": [
+          "S'auto-évaluer et identifier ses points d'amélioration",
+          "Exécuter en situation de jeu réelle ou compétitive",
+          "Créer et proposer ses propres variantes avancées"
+        ],
+        "criteres_reussite": [
+          "L'exécution est fluide, précise et constante",
+          "L'élève maîtrise le geste dans des situations complexes"
+        ]
+      }
+    }
   },
   {
     "titre": "Équilibre yeux fermés – progressions",
@@ -212,8 +1040,57 @@
     "variantes": "Ajouter des perturbations légères (vent d'un éventail), compter à voix haute pendant l'exercice.",
     "adaptation": "Yeux mi-fermés, un doigt touchant le mur, durées réduites de moitié.",
     "duree": 12,
-    "materiel": ["Coussin d'équilibre (optionnel)", "Chronomètre"],
-    "tags": ["yeux fermés", "proprioception", "équilibre", "progression"]
+    "materiel": [
+      "Coussin d'équilibre (optionnel)",
+      "Chronomètre"
+    ],
+    "tags": [
+      "yeux fermés",
+      "proprioception",
+      "équilibre",
+      "progression"
+    ],
+    "progression": {
+      "niveau1": {
+        "titre": "Débutant",
+        "description": "L'élève découvre l'activité et se familiarise avec les mouvements fondamentaux. Pour « Équilibre yeux fermés – progressions », voici les attentes à ce niveau.",
+        "consignes": [
+          "Pratiquer en situation simplifiée sans pression",
+          "Utiliser du matériel adapté (plus léger, plus gros, plus lent)",
+          "Se concentrer sur la technique plutôt que la performance"
+        ],
+        "criteres_reussite": [
+          "L'élève comprend et respecte les consignes de base",
+          "L'élève participe activement et fait des efforts"
+        ]
+      },
+      "niveau2": {
+        "titre": "Intermédiaire",
+        "description": "À ce niveau, on ajoute de la complexité tout en consolidant les acquis. Pour « Équilibre yeux fermés – progressions », voici les attentes à ce niveau.",
+        "consignes": [
+          "Combiner deux habiletés dans un même exercice",
+          "Réduire le temps de réflexion entre les actions",
+          "Augmenter progressivement la complexité de l'exercice"
+        ],
+        "criteres_reussite": [
+          "La technique est maîtrisée dans des situations variées",
+          "L'élève exécute le geste avec régularité"
+        ]
+      },
+      "niveau3": {
+        "titre": "Avancé",
+        "description": "À ce stade avancé, l'élève crée, innove et aide ses pairs. Pour « Équilibre yeux fermés – progressions », voici les attentes à ce niveau.",
+        "consignes": [
+          "Exécuter en situation de jeu réelle ou compétitive",
+          "Créer et proposer ses propres variantes avancées",
+          "Aider un pair moins expérimenté comme tuteur"
+        ],
+        "criteres_reussite": [
+          "L'élève transfère ses apprentissages à de nouvelles situations",
+          "L'exécution est fluide, précise et constante"
+        ]
+      }
+    }
   },
   {
     "titre": "Le surfeur immobile",
@@ -224,8 +1101,57 @@
     "variantes": "Attraper des balles lancées par un partenaire, surfer les yeux fermés, changer de direction.",
     "adaptation": "Planche plus stable, aide d'un partenaire, durée réduite à 10 secondes.",
     "duree": 12,
-    "materiel": ["Planche d'équilibre ou Bosu", "Tapis de sécurité"],
-    "tags": ["surf", "planche", "équilibre", "chevilles"]
+    "materiel": [
+      "Planche d'équilibre ou Bosu",
+      "Tapis de sécurité"
+    ],
+    "tags": [
+      "surf",
+      "planche",
+      "équilibre",
+      "chevilles"
+    ],
+    "progression": {
+      "niveau1": {
+        "titre": "Débutant",
+        "description": "L'accent est mis sur la compréhension des consignes et la sécurité. Pour « Le surfeur immobile », voici les attentes à ce niveau.",
+        "consignes": [
+          "Exécuter les mouvements de base lentement et avec contrôle",
+          "Utiliser du matériel adapté (plus léger, plus gros, plus lent)",
+          "Pratiquer en situation simplifiée sans pression"
+        ],
+        "criteres_reussite": [
+          "L'élève comprend et respecte les consignes de base",
+          "L'élève participe activement et fait des efforts"
+        ]
+      },
+      "niveau2": {
+        "titre": "Intermédiaire",
+        "description": "L'élève maîtrise les bases et cherche à améliorer sa constance et sa fluidité. Pour « Le surfeur immobile », voici les attentes à ce niveau.",
+        "consignes": [
+          "Réduire le temps de réflexion entre les actions",
+          "Augmenter progressivement la complexité de l'exercice",
+          "Introduire des variantes avec partenaire ou en mouvement"
+        ],
+        "criteres_reussite": [
+          "La technique est maîtrisée dans des situations variées",
+          "L'élève exécute le geste avec régularité"
+        ]
+      },
+      "niveau3": {
+        "titre": "Avancé",
+        "description": "À ce stade avancé, l'élève crée, innove et aide ses pairs. Pour « Le surfeur immobile », voici les attentes à ce niveau.",
+        "consignes": [
+          "Combiner plusieurs habiletés en séquence complexe",
+          "Aider un pair moins expérimenté comme tuteur",
+          "Exécuter en situation de jeu réelle ou compétitive"
+        ],
+        "criteres_reussite": [
+          "L'exécution est fluide, précise et constante",
+          "L'élève transfère ses apprentissages à de nouvelles situations"
+        ]
+      }
+    }
   },
   {
     "titre": "Équilibre en mouvement – slalom",
@@ -236,8 +1162,57 @@
     "variantes": "Slalom à reculons, slalom en portant un ballon sur la tête, slalom chronométré.",
     "adaptation": "Cônes plus rapprochés, pas de temps d'arrêt, marche normale entre les cônes.",
     "duree": 12,
-    "materiel": ["Cônes (8-10)", "Espace dégagé"],
-    "tags": ["slalom", "équilibre", "déplacement", "cônes"]
+    "materiel": [
+      "Cônes (8-10)",
+      "Espace dégagé"
+    ],
+    "tags": [
+      "slalom",
+      "équilibre",
+      "déplacement",
+      "cônes"
+    ],
+    "progression": {
+      "niveau1": {
+        "titre": "Débutant",
+        "description": "L'élève découvre l'activité et se familiarise avec les mouvements fondamentaux. Pour « Équilibre en mouvement – slalom », voici les attentes à ce niveau.",
+        "consignes": [
+          "Observer une démonstration avant chaque essai",
+          "Se concentrer sur la technique plutôt que la performance",
+          "Utiliser du matériel adapté (plus léger, plus gros, plus lent)"
+        ],
+        "criteres_reussite": [
+          "L'élève participe activement et fait des efforts",
+          "L'élève comprend et respecte les consignes de base"
+        ]
+      },
+      "niveau2": {
+        "titre": "Intermédiaire",
+        "description": "L'intermédiaire travaille la régularité et commence à combiner les habiletés. Pour « Équilibre en mouvement – slalom », voici les attentes à ce niveau.",
+        "consignes": [
+          "Ajouter des contraintes de temps ou d'espace",
+          "Introduire des variantes avec partenaire ou en mouvement",
+          "Réduire le temps de réflexion entre les actions"
+        ],
+        "criteres_reussite": [
+          "L'élève exécute le geste avec régularité",
+          "L'élève s'ajuste aux consignes supplémentaires"
+        ]
+      },
+      "niveau3": {
+        "titre": "Avancé",
+        "description": "À ce stade avancé, l'élève crée, innove et aide ses pairs. Pour « Équilibre en mouvement – slalom », voici les attentes à ce niveau.",
+        "consignes": [
+          "S'auto-évaluer et identifier ses points d'amélioration",
+          "Combiner plusieurs habiletés en séquence complexe",
+          "Créer et proposer ses propres variantes avancées"
+        ],
+        "criteres_reussite": [
+          "L'élève transfère ses apprentissages à de nouvelles situations",
+          "L'exécution est fluide, précise et constante"
+        ]
+      }
+    }
   },
   {
     "titre": "Défi de la chaise au mur",
@@ -248,8 +1223,57 @@
     "variantes": "Chaise sur un pied, chaise avec balle entre les genoux, chaise avec lancer de balle en duo.",
     "adaptation": "Descendre moins bas (cuisses à 45 degrés), durée réduite, pauses fréquentes.",
     "duree": 10,
-    "materiel": ["Mur lisse", "Chronomètre"],
-    "tags": ["chaise", "isométrique", "équilibre", "endurance"]
+    "materiel": [
+      "Mur lisse",
+      "Chronomètre"
+    ],
+    "tags": [
+      "chaise",
+      "isométrique",
+      "équilibre",
+      "endurance"
+    ],
+    "progression": {
+      "niveau1": {
+        "titre": "Débutant",
+        "description": "L'élève découvre l'activité et se familiarise avec les mouvements fondamentaux. Pour « Défi de la chaise au mur », voici les attentes à ce niveau.",
+        "consignes": [
+          "Exécuter les mouvements de base lentement et avec contrôle",
+          "Utiliser du matériel adapté (plus léger, plus gros, plus lent)",
+          "Pratiquer en situation simplifiée sans pression"
+        ],
+        "criteres_reussite": [
+          "L'élève participe activement et fait des efforts",
+          "Le geste technique de base est reconnaissable"
+        ]
+      },
+      "niveau2": {
+        "titre": "Intermédiaire",
+        "description": "L'intermédiaire travaille la régularité et commence à combiner les habiletés. Pour « Défi de la chaise au mur », voici les attentes à ce niveau.",
+        "consignes": [
+          "Combiner deux habiletés dans un même exercice",
+          "Augmenter progressivement la complexité de l'exercice",
+          "Introduire des variantes avec partenaire ou en mouvement"
+        ],
+        "criteres_reussite": [
+          "La technique est maîtrisée dans des situations variées",
+          "L'élève s'ajuste aux consignes supplémentaires"
+        ]
+      },
+      "niveau3": {
+        "titre": "Avancé",
+        "description": "À ce stade avancé, l'élève crée, innove et aide ses pairs. Pour « Défi de la chaise au mur », voici les attentes à ce niveau.",
+        "consignes": [
+          "Exécuter en situation de jeu réelle ou compétitive",
+          "Aider un pair moins expérimenté comme tuteur",
+          "Combiner plusieurs habiletés en séquence complexe"
+        ],
+        "criteres_reussite": [
+          "L'exécution est fluide, précise et constante",
+          "L'élève maîtrise le geste dans des situations complexes"
+        ]
+      }
+    }
   },
   {
     "titre": "Posture de l'avion",
@@ -260,8 +1284,56 @@
     "variantes": "L'avion qui tourne (rotation lente du tronc), l'avion qui atterrit (descendre et remonter), duo en formation.",
     "adaptation": "Inclinaison moindre, main sur un support, durée réduite à 8 secondes.",
     "duree": 10,
-    "materiel": ["Espace dégagé"],
-    "tags": ["avion", "équilibre", "unipodal", "gainage"]
+    "materiel": [
+      "Espace dégagé"
+    ],
+    "tags": [
+      "avion",
+      "équilibre",
+      "unipodal",
+      "gainage"
+    ],
+    "progression": {
+      "niveau1": {
+        "titre": "Débutant",
+        "description": "Le débutant explore les bases de l'activité avec un accompagnement soutenu. Pour « Posture de l'avion », voici les attentes à ce niveau.",
+        "consignes": [
+          "Exécuter les mouvements de base lentement et avec contrôle",
+          "Utiliser du matériel adapté (plus léger, plus gros, plus lent)",
+          "Se concentrer sur la technique plutôt que la performance"
+        ],
+        "criteres_reussite": [
+          "L'élève participe activement et fait des efforts",
+          "Le geste technique de base est reconnaissable"
+        ]
+      },
+      "niveau2": {
+        "titre": "Intermédiaire",
+        "description": "L'élève maîtrise les bases et cherche à améliorer sa constance et sa fluidité. Pour « Posture de l'avion », voici les attentes à ce niveau.",
+        "consignes": [
+          "Augmenter progressivement la complexité de l'exercice",
+          "Combiner deux habiletés dans un même exercice",
+          "Ajouter des contraintes de temps ou d'espace"
+        ],
+        "criteres_reussite": [
+          "La technique est maîtrisée dans des situations variées",
+          "L'élève exécute le geste avec régularité"
+        ]
+      },
+      "niveau3": {
+        "titre": "Avancé",
+        "description": "À ce stade avancé, l'élève crée, innove et aide ses pairs. Pour « Posture de l'avion », voici les attentes à ce niveau.",
+        "consignes": [
+          "Combiner plusieurs habiletés en séquence complexe",
+          "Aider un pair moins expérimenté comme tuteur",
+          "Exécuter en situation de jeu réelle ou compétitive"
+        ],
+        "criteres_reussite": [
+          "L'élève maîtrise le geste dans des situations complexes",
+          "L'élève transfère ses apprentissages à de nouvelles situations"
+        ]
+      }
+    }
   },
   {
     "titre": "Relais d'équilibre",
@@ -272,8 +1344,59 @@
     "variantes": "Ajouter des étapes, augmenter la difficulté, parcours à reculons.",
     "adaptation": "Retirer les étapes les plus difficiles, élargir les surfaces, pas de chrono.",
     "duree": 15,
-    "materiel": ["Banc suédois", "Cerceaux", "Livres", "Cônes"],
-    "tags": ["relais", "équilibre", "équipe", "compétition"]
+    "materiel": [
+      "Banc suédois",
+      "Cerceaux",
+      "Livres",
+      "Cônes"
+    ],
+    "tags": [
+      "relais",
+      "équilibre",
+      "équipe",
+      "compétition"
+    ],
+    "progression": {
+      "niveau1": {
+        "titre": "Débutant",
+        "description": "L'élève découvre l'activité et se familiarise avec les mouvements fondamentaux. Pour « Relais d'équilibre », voici les attentes à ce niveau.",
+        "consignes": [
+          "Utiliser du matériel adapté (plus léger, plus gros, plus lent)",
+          "Observer une démonstration avant chaque essai",
+          "Exécuter les mouvements de base lentement et avec contrôle"
+        ],
+        "criteres_reussite": [
+          "L'élève participe activement et fait des efforts",
+          "L'élève comprend et respecte les consignes de base"
+        ]
+      },
+      "niveau2": {
+        "titre": "Intermédiaire",
+        "description": "L'intermédiaire travaille la régularité et commence à combiner les habiletés. Pour « Relais d'équilibre », voici les attentes à ce niveau.",
+        "consignes": [
+          "Combiner deux habiletés dans un même exercice",
+          "Ajouter des contraintes de temps ou d'espace",
+          "Augmenter progressivement la complexité de l'exercice"
+        ],
+        "criteres_reussite": [
+          "L'élève s'ajuste aux consignes supplémentaires",
+          "La technique est maîtrisée dans des situations variées"
+        ]
+      },
+      "niveau3": {
+        "titre": "Avancé",
+        "description": "L'élève perfectionne sa technique et s'adapte à des situations complexes. Pour « Relais d'équilibre », voici les attentes à ce niveau.",
+        "consignes": [
+          "Combiner plusieurs habiletés en séquence complexe",
+          "Exécuter en situation de jeu réelle ou compétitive",
+          "S'auto-évaluer et identifier ses points d'amélioration"
+        ],
+        "criteres_reussite": [
+          "L'élève maîtrise le geste dans des situations complexes",
+          "L'exécution est fluide, précise et constante"
+        ]
+      }
+    }
   },
   {
     "titre": "Équilibre réactif – perturbations",
@@ -284,8 +1407,56 @@
     "variantes": "Yeux fermés, sur surface instable, perturbations avec un ballon mousse lancé.",
     "adaptation": "Poussées très légères, sur deux pieds d'abord, partenaire attentif.",
     "duree": 12,
-    "materiel": ["Espace dégagé"],
-    "tags": ["réactif", "perturbation", "équilibre", "duo"]
+    "materiel": [
+      "Espace dégagé"
+    ],
+    "tags": [
+      "réactif",
+      "perturbation",
+      "équilibre",
+      "duo"
+    ],
+    "progression": {
+      "niveau1": {
+        "titre": "Débutant",
+        "description": "L'élève découvre l'activité et se familiarise avec les mouvements fondamentaux. Pour « Équilibre réactif – perturbations », voici les attentes à ce niveau.",
+        "consignes": [
+          "Utiliser du matériel adapté (plus léger, plus gros, plus lent)",
+          "Se concentrer sur la technique plutôt que la performance",
+          "Exécuter les mouvements de base lentement et avec contrôle"
+        ],
+        "criteres_reussite": [
+          "L'élève participe activement et fait des efforts",
+          "Le geste technique de base est reconnaissable"
+        ]
+      },
+      "niveau2": {
+        "titre": "Intermédiaire",
+        "description": "L'élève est capable d'exécuter l'activité de façon autonome avec quelques ajustements. Pour « Équilibre réactif – perturbations », voici les attentes à ce niveau.",
+        "consignes": [
+          "Combiner deux habiletés dans un même exercice",
+          "Augmenter progressivement la complexité de l'exercice",
+          "Ajouter des contraintes de temps ou d'espace"
+        ],
+        "criteres_reussite": [
+          "L'élève exécute le geste avec régularité",
+          "L'élève s'ajuste aux consignes supplémentaires"
+        ]
+      },
+      "niveau3": {
+        "titre": "Avancé",
+        "description": "L'élève perfectionne sa technique et s'adapte à des situations complexes. Pour « Équilibre réactif – perturbations », voici les attentes à ce niveau.",
+        "consignes": [
+          "Créer et proposer ses propres variantes avancées",
+          "Exécuter en situation de jeu réelle ou compétitive",
+          "Aider un pair moins expérimenté comme tuteur"
+        ],
+        "criteres_reussite": [
+          "L'élève maîtrise le geste dans des situations complexes",
+          "L'exécution est fluide, précise et constante"
+        ]
+      }
+    }
   },
   {
     "titre": "Yoga guerrier – enchaînement",
@@ -296,8 +1467,57 @@
     "variantes": "Enchaîner avec d'autres postures de yoga, musique méditative, démonstration en groupe.",
     "adaptation": "Posture du guerrier I et II seulement, appui au mur pour le III, durée réduite.",
     "duree": 15,
-    "materiel": ["Tapis de gym", "Musique douce (optionnel)"],
-    "tags": ["yoga", "guerrier", "équilibre", "enchaînement"]
+    "materiel": [
+      "Tapis de gym",
+      "Musique douce (optionnel)"
+    ],
+    "tags": [
+      "yoga",
+      "guerrier",
+      "équilibre",
+      "enchaînement"
+    ],
+    "progression": {
+      "niveau1": {
+        "titre": "Débutant",
+        "description": "L'élève découvre l'activité et se familiarise avec les mouvements fondamentaux. Pour « Yoga guerrier – enchaînement », voici les attentes à ce niveau.",
+        "consignes": [
+          "Utiliser du matériel adapté (plus léger, plus gros, plus lent)",
+          "Pratiquer en situation simplifiée sans pression",
+          "Exécuter les mouvements de base lentement et avec contrôle"
+        ],
+        "criteres_reussite": [
+          "L'élève comprend et respecte les consignes de base",
+          "L'élève participe activement et fait des efforts"
+        ]
+      },
+      "niveau2": {
+        "titre": "Intermédiaire",
+        "description": "À ce niveau, on ajoute de la complexité tout en consolidant les acquis. Pour « Yoga guerrier – enchaînement », voici les attentes à ce niveau.",
+        "consignes": [
+          "Réduire le temps de réflexion entre les actions",
+          "Combiner deux habiletés dans un même exercice",
+          "Introduire des variantes avec partenaire ou en mouvement"
+        ],
+        "criteres_reussite": [
+          "L'élève exécute le geste avec régularité",
+          "La technique est maîtrisée dans des situations variées"
+        ]
+      },
+      "niveau3": {
+        "titre": "Avancé",
+        "description": "L'élève démontre une maîtrise complète et peut enseigner aux autres. Pour « Yoga guerrier – enchaînement », voici les attentes à ce niveau.",
+        "consignes": [
+          "S'auto-évaluer et identifier ses points d'amélioration",
+          "Exécuter en situation de jeu réelle ou compétitive",
+          "Combiner plusieurs habiletés en séquence complexe"
+        ],
+        "criteres_reussite": [
+          "L'exécution est fluide, précise et constante",
+          "L'élève transfère ses apprentissages à de nouvelles situations"
+        ]
+      }
+    }
   },
   {
     "titre": "Course à obstacles en équilibre",
@@ -308,8 +1528,59 @@
     "variantes": "Parcours à reculons, parcours en duo synchronisé, parcours avec lancer de balle.",
     "adaptation": "Retirer les pénalités, stations simplifiées, temps d'équilibre réduit.",
     "duree": 18,
-    "materiel": ["Cônes", "Banc", "Demi-sphères", "Chronomètre"],
-    "tags": ["parcours", "course", "équilibre", "chrono"]
+    "materiel": [
+      "Cônes",
+      "Banc",
+      "Demi-sphères",
+      "Chronomètre"
+    ],
+    "tags": [
+      "parcours",
+      "course",
+      "équilibre",
+      "chrono"
+    ],
+    "progression": {
+      "niveau1": {
+        "titre": "Débutant",
+        "description": "L'accent est mis sur la compréhension des consignes et la sécurité. Pour « Course à obstacles en équilibre », voici les attentes à ce niveau.",
+        "consignes": [
+          "Observer une démonstration avant chaque essai",
+          "Exécuter les mouvements de base lentement et avec contrôle",
+          "Se concentrer sur la technique plutôt que la performance"
+        ],
+        "criteres_reussite": [
+          "L'élève participe activement et fait des efforts",
+          "L'élève comprend et respecte les consignes de base"
+        ]
+      },
+      "niveau2": {
+        "titre": "Intermédiaire",
+        "description": "L'élève maîtrise les bases et cherche à améliorer sa constance et sa fluidité. Pour « Course à obstacles en équilibre », voici les attentes à ce niveau.",
+        "consignes": [
+          "Ajouter des contraintes de temps ou d'espace",
+          "Réduire le temps de réflexion entre les actions",
+          "Combiner deux habiletés dans un même exercice"
+        ],
+        "criteres_reussite": [
+          "L'élève exécute le geste avec régularité",
+          "L'élève s'ajuste aux consignes supplémentaires"
+        ]
+      },
+      "niveau3": {
+        "titre": "Avancé",
+        "description": "L'expert peut exécuter l'activité dans des contextes variés et exigeants. Pour « Course à obstacles en équilibre », voici les attentes à ce niveau.",
+        "consignes": [
+          "Exécuter en situation de jeu réelle ou compétitive",
+          "S'auto-évaluer et identifier ses points d'amélioration",
+          "Créer et proposer ses propres variantes avancées"
+        ],
+        "criteres_reussite": [
+          "L'élève maîtrise le geste dans des situations complexes",
+          "L'élève transfère ses apprentissages à de nouvelles situations"
+        ]
+      }
+    }
   },
   {
     "titre": "Échasses fabriquées",
@@ -320,8 +1591,58 @@
     "variantes": "Parcours chronométré, relais en échasses, danse sur échasses.",
     "adaptation": "Boîtes plus basses, aide d'un partenaire, parcours court et simple.",
     "duree": 20,
-    "materiel": ["Boîtes de conserve (2 par élève)", "Corde solide", "Espace extérieur"],
-    "tags": ["échasses", "équilibre", "fabrication", "coordination"]
+    "materiel": [
+      "Boîtes de conserve (2 par élève)",
+      "Corde solide",
+      "Espace extérieur"
+    ],
+    "tags": [
+      "échasses",
+      "équilibre",
+      "fabrication",
+      "coordination"
+    ],
+    "progression": {
+      "niveau1": {
+        "titre": "Débutant",
+        "description": "À ce stade, l'objectif est d'apprivoiser l'exercice sans pression de performance. Pour « Échasses fabriquées », voici les attentes à ce niveau.",
+        "consignes": [
+          "Utiliser du matériel adapté (plus léger, plus gros, plus lent)",
+          "Pratiquer en situation simplifiée sans pression",
+          "Se concentrer sur la technique plutôt que la performance"
+        ],
+        "criteres_reussite": [
+          "L'élève participe activement et fait des efforts",
+          "Le geste technique de base est reconnaissable"
+        ]
+      },
+      "niveau2": {
+        "titre": "Intermédiaire",
+        "description": "L'intermédiaire travaille la régularité et commence à combiner les habiletés. Pour « Échasses fabriquées », voici les attentes à ce niveau.",
+        "consignes": [
+          "Introduire des variantes avec partenaire ou en mouvement",
+          "Ajouter des contraintes de temps ou d'espace",
+          "Augmenter progressivement la complexité de l'exercice"
+        ],
+        "criteres_reussite": [
+          "L'élève exécute le geste avec régularité",
+          "L'élève s'ajuste aux consignes supplémentaires"
+        ]
+      },
+      "niveau3": {
+        "titre": "Avancé",
+        "description": "L'expert peut exécuter l'activité dans des contextes variés et exigeants. Pour « Échasses fabriquées », voici les attentes à ce niveau.",
+        "consignes": [
+          "S'auto-évaluer et identifier ses points d'amélioration",
+          "Aider un pair moins expérimenté comme tuteur",
+          "Créer et proposer ses propres variantes avancées"
+        ],
+        "criteres_reussite": [
+          "L'élève transfère ses apprentissages à de nouvelles situations",
+          "L'exécution est fluide, précise et constante"
+        ]
+      }
+    }
   },
   {
     "titre": "Équilibre en duo – pression des mains",
@@ -332,8 +1653,56 @@
     "variantes": "Sur un pied, mains croisées, yeux fermés, dos à dos.",
     "adaptation": "Pieds écartés pour plus de stabilité, poussées très légères seulement.",
     "duree": 10,
-    "materiel": ["Espace dégagé"],
-    "tags": ["duo", "poussée", "équilibre", "défi"]
+    "materiel": [
+      "Espace dégagé"
+    ],
+    "tags": [
+      "duo",
+      "poussée",
+      "équilibre",
+      "défi"
+    ],
+    "progression": {
+      "niveau1": {
+        "titre": "Débutant",
+        "description": "Le débutant explore les bases de l'activité avec un accompagnement soutenu. Pour « Équilibre en duo – pression des mains », voici les attentes à ce niveau.",
+        "consignes": [
+          "Observer une démonstration avant chaque essai",
+          "Se concentrer sur la technique plutôt que la performance",
+          "Exécuter les mouvements de base lentement et avec contrôle"
+        ],
+        "criteres_reussite": [
+          "Le geste technique de base est reconnaissable",
+          "L'élève participe activement et fait des efforts"
+        ]
+      },
+      "niveau2": {
+        "titre": "Intermédiaire",
+        "description": "L'élève maîtrise les bases et cherche à améliorer sa constance et sa fluidité. Pour « Équilibre en duo – pression des mains », voici les attentes à ce niveau.",
+        "consignes": [
+          "Réduire le temps de réflexion entre les actions",
+          "Ajouter des contraintes de temps ou d'espace",
+          "Augmenter progressivement la complexité de l'exercice"
+        ],
+        "criteres_reussite": [
+          "L'élève s'ajuste aux consignes supplémentaires",
+          "L'élève exécute le geste avec régularité"
+        ]
+      },
+      "niveau3": {
+        "titre": "Avancé",
+        "description": "À ce stade avancé, l'élève crée, innove et aide ses pairs. Pour « Équilibre en duo – pression des mains », voici les attentes à ce niveau.",
+        "consignes": [
+          "Combiner plusieurs habiletés en séquence complexe",
+          "Exécuter en situation de jeu réelle ou compétitive",
+          "S'auto-évaluer et identifier ses points d'amélioration"
+        ],
+        "criteres_reussite": [
+          "L'exécution est fluide, précise et constante",
+          "L'élève maîtrise le geste dans des situations complexes"
+        ]
+      }
+    }
   },
   {
     "titre": "Parcours ninja",
@@ -344,8 +1713,60 @@
     "variantes": "Parcours chronométré, parcours à reculons, ajout de stations, parcours en duo.",
     "adaptation": "Retirer les stations les plus difficiles, surfaces plus larges, aide aux transitions.",
     "duree": 25,
-    "materiel": ["Poutres", "Bancs", "Cordes", "Espalier", "Tapis"],
-    "tags": ["ninja", "parcours", "équilibre", "défi"]
+    "materiel": [
+      "Poutres",
+      "Bancs",
+      "Cordes",
+      "Espalier",
+      "Tapis"
+    ],
+    "tags": [
+      "ninja",
+      "parcours",
+      "équilibre",
+      "défi"
+    ],
+    "progression": {
+      "niveau1": {
+        "titre": "Débutant",
+        "description": "L'accent est mis sur la compréhension des consignes et la sécurité. Pour « Parcours ninja », voici les attentes à ce niveau.",
+        "consignes": [
+          "Se concentrer sur la technique plutôt que la performance",
+          "Exécuter les mouvements de base lentement et avec contrôle",
+          "Observer une démonstration avant chaque essai"
+        ],
+        "criteres_reussite": [
+          "L'élève comprend et respecte les consignes de base",
+          "Le geste technique de base est reconnaissable"
+        ]
+      },
+      "niveau2": {
+        "titre": "Intermédiaire",
+        "description": "L'intermédiaire travaille la régularité et commence à combiner les habiletés. Pour « Parcours ninja », voici les attentes à ce niveau.",
+        "consignes": [
+          "Ajouter des contraintes de temps ou d'espace",
+          "Réduire le temps de réflexion entre les actions",
+          "Combiner deux habiletés dans un même exercice"
+        ],
+        "criteres_reussite": [
+          "L'élève s'ajuste aux consignes supplémentaires",
+          "La technique est maîtrisée dans des situations variées"
+        ]
+      },
+      "niveau3": {
+        "titre": "Avancé",
+        "description": "L'élève perfectionne sa technique et s'adapte à des situations complexes. Pour « Parcours ninja », voici les attentes à ce niveau.",
+        "consignes": [
+          "Aider un pair moins expérimenté comme tuteur",
+          "Créer et proposer ses propres variantes avancées",
+          "Exécuter en situation de jeu réelle ou compétitive"
+        ],
+        "criteres_reussite": [
+          "L'élève maîtrise le geste dans des situations complexes",
+          "L'exécution est fluide, précise et constante"
+        ]
+      }
+    }
   },
   {
     "titre": "Planche d'équilibre – défis progressifs",
@@ -356,8 +1777,57 @@
     "variantes": "Deux planches (un pied sur chaque), planche avec lancer de ballon, planche avec partenaire.",
     "adaptation": "Planche plus stable, aide d'un partenaire, niveaux 1-2 seulement.",
     "duree": 15,
-    "materiel": ["Planche d'équilibre (wobble board)", "Balles de tennis"],
-    "tags": ["wobble board", "équilibre", "chevilles", "progression"]
+    "materiel": [
+      "Planche d'équilibre (wobble board)",
+      "Balles de tennis"
+    ],
+    "tags": [
+      "wobble board",
+      "équilibre",
+      "chevilles",
+      "progression"
+    ],
+    "progression": {
+      "niveau1": {
+        "titre": "Débutant",
+        "description": "À ce stade, l'objectif est d'apprivoiser l'exercice sans pression de performance. Pour « Planche d'équilibre – défis progressifs », voici les attentes à ce niveau.",
+        "consignes": [
+          "Pratiquer en situation simplifiée sans pression",
+          "Se concentrer sur la technique plutôt que la performance",
+          "Exécuter les mouvements de base lentement et avec contrôle"
+        ],
+        "criteres_reussite": [
+          "L'élève participe activement et fait des efforts",
+          "L'élève comprend et respecte les consignes de base"
+        ]
+      },
+      "niveau2": {
+        "titre": "Intermédiaire",
+        "description": "L'élève est capable d'exécuter l'activité de façon autonome avec quelques ajustements. Pour « Planche d'équilibre – défis progressifs », voici les attentes à ce niveau.",
+        "consignes": [
+          "Combiner deux habiletés dans un même exercice",
+          "Introduire des variantes avec partenaire ou en mouvement",
+          "Augmenter progressivement la complexité de l'exercice"
+        ],
+        "criteres_reussite": [
+          "La technique est maîtrisée dans des situations variées",
+          "L'élève s'ajuste aux consignes supplémentaires"
+        ]
+      },
+      "niveau3": {
+        "titre": "Avancé",
+        "description": "L'élève perfectionne sa technique et s'adapte à des situations complexes. Pour « Planche d'équilibre – défis progressifs », voici les attentes à ce niveau.",
+        "consignes": [
+          "Combiner plusieurs habiletés en séquence complexe",
+          "Aider un pair moins expérimenté comme tuteur",
+          "Exécuter en situation de jeu réelle ou compétitive"
+        ],
+        "criteres_reussite": [
+          "L'élève maîtrise le geste dans des situations complexes",
+          "L'exécution est fluide, précise et constante"
+        ]
+      }
+    }
   },
   {
     "titre": "Acrosport – figures d'équilibre à 3",
@@ -368,8 +1838,57 @@
     "variantes": "Créer ses propres figures, enchaîner 3 figures avec transitions, musique.",
     "adaptation": "Figures au sol uniquement, pareur toujours présent, figures simplifiées.",
     "duree": 25,
-    "materiel": ["Tapis de gym épais", "Fiches de figures"],
-    "tags": ["acrosport", "trio", "équilibre", "coopération"]
+    "materiel": [
+      "Tapis de gym épais",
+      "Fiches de figures"
+    ],
+    "tags": [
+      "acrosport",
+      "trio",
+      "équilibre",
+      "coopération"
+    ],
+    "progression": {
+      "niveau1": {
+        "titre": "Débutant",
+        "description": "À ce stade, l'objectif est d'apprivoiser l'exercice sans pression de performance. Pour « Acrosport – figures d'équilibre à 3 », voici les attentes à ce niveau.",
+        "consignes": [
+          "Exécuter les mouvements de base lentement et avec contrôle",
+          "Utiliser du matériel adapté (plus léger, plus gros, plus lent)",
+          "Observer une démonstration avant chaque essai"
+        ],
+        "criteres_reussite": [
+          "L'élève participe activement et fait des efforts",
+          "L'élève comprend et respecte les consignes de base"
+        ]
+      },
+      "niveau2": {
+        "titre": "Intermédiaire",
+        "description": "L'élève maîtrise les bases et cherche à améliorer sa constance et sa fluidité. Pour « Acrosport – figures d'équilibre à 3 », voici les attentes à ce niveau.",
+        "consignes": [
+          "Réduire le temps de réflexion entre les actions",
+          "Combiner deux habiletés dans un même exercice",
+          "Augmenter progressivement la complexité de l'exercice"
+        ],
+        "criteres_reussite": [
+          "L'élève s'ajuste aux consignes supplémentaires",
+          "La technique est maîtrisée dans des situations variées"
+        ]
+      },
+      "niveau3": {
+        "titre": "Avancé",
+        "description": "À ce stade avancé, l'élève crée, innove et aide ses pairs. Pour « Acrosport – figures d'équilibre à 3 », voici les attentes à ce niveau.",
+        "consignes": [
+          "Exécuter en situation de jeu réelle ou compétitive",
+          "Combiner plusieurs habiletés en séquence complexe",
+          "S'auto-évaluer et identifier ses points d'amélioration"
+        ],
+        "criteres_reussite": [
+          "L'exécution est fluide, précise et constante",
+          "L'élève maîtrise le geste dans des situations complexes"
+        ]
+      }
+    }
   },
   {
     "titre": "Slackline au sol",
@@ -380,8 +1899,58 @@
     "variantes": "Sans aide, traversée complète, demi-tour sur la sangle, s'asseoir et se relever.",
     "adaptation": "Sangle très basse (10 cm), aide permanente d'un partenaire de chaque côté.",
     "duree": 20,
-    "materiel": ["Slackline", "Points d'ancrage solides", "Tapis dessous"],
-    "tags": ["slackline", "équilibre", "défi", "pieds nus"]
+    "materiel": [
+      "Slackline",
+      "Points d'ancrage solides",
+      "Tapis dessous"
+    ],
+    "tags": [
+      "slackline",
+      "équilibre",
+      "défi",
+      "pieds nus"
+    ],
+    "progression": {
+      "niveau1": {
+        "titre": "Débutant",
+        "description": "À ce stade, l'objectif est d'apprivoiser l'exercice sans pression de performance. Pour « Slackline au sol », voici les attentes à ce niveau.",
+        "consignes": [
+          "Utiliser du matériel adapté (plus léger, plus gros, plus lent)",
+          "Se concentrer sur la technique plutôt que la performance",
+          "Pratiquer en situation simplifiée sans pression"
+        ],
+        "criteres_reussite": [
+          "L'élève participe activement et fait des efforts",
+          "L'élève comprend et respecte les consignes de base"
+        ]
+      },
+      "niveau2": {
+        "titre": "Intermédiaire",
+        "description": "L'élève maîtrise les bases et cherche à améliorer sa constance et sa fluidité. Pour « Slackline au sol », voici les attentes à ce niveau.",
+        "consignes": [
+          "Introduire des variantes avec partenaire ou en mouvement",
+          "Augmenter progressivement la complexité de l'exercice",
+          "Combiner deux habiletés dans un même exercice"
+        ],
+        "criteres_reussite": [
+          "La technique est maîtrisée dans des situations variées",
+          "L'élève exécute le geste avec régularité"
+        ]
+      },
+      "niveau3": {
+        "titre": "Avancé",
+        "description": "À ce stade avancé, l'élève crée, innove et aide ses pairs. Pour « Slackline au sol », voici les attentes à ce niveau.",
+        "consignes": [
+          "Combiner plusieurs habiletés en séquence complexe",
+          "Aider un pair moins expérimenté comme tuteur",
+          "Créer et proposer ses propres variantes avancées"
+        ],
+        "criteres_reussite": [
+          "L'élève maîtrise le geste dans des situations complexes",
+          "L'exécution est fluide, précise et constante"
+        ]
+      }
+    }
   },
   {
     "titre": "Défi d'équilibre sur coussin",
@@ -392,8 +1961,57 @@
     "variantes": "Squats sur coussin, fentes sur coussin, réception de passes sur coussin.",
     "adaptation": "Coussin plus ferme, durées réduites, appui à portée de main.",
     "duree": 12,
-    "materiel": ["Coussin d'équilibre (Airex)", "Balles"],
-    "tags": ["coussin", "proprioception", "prévention", "cheville"]
+    "materiel": [
+      "Coussin d'équilibre (Airex)",
+      "Balles"
+    ],
+    "tags": [
+      "coussin",
+      "proprioception",
+      "prévention",
+      "cheville"
+    ],
+    "progression": {
+      "niveau1": {
+        "titre": "Débutant",
+        "description": "À ce stade, l'objectif est d'apprivoiser l'exercice sans pression de performance. Pour « Défi d'équilibre sur coussin », voici les attentes à ce niveau.",
+        "consignes": [
+          "Utiliser du matériel adapté (plus léger, plus gros, plus lent)",
+          "Pratiquer en situation simplifiée sans pression",
+          "Exécuter les mouvements de base lentement et avec contrôle"
+        ],
+        "criteres_reussite": [
+          "Le geste technique de base est reconnaissable",
+          "L'élève participe activement et fait des efforts"
+        ]
+      },
+      "niveau2": {
+        "titre": "Intermédiaire",
+        "description": "À ce niveau, on ajoute de la complexité tout en consolidant les acquis. Pour « Défi d'équilibre sur coussin », voici les attentes à ce niveau.",
+        "consignes": [
+          "Ajouter des contraintes de temps ou d'espace",
+          "Combiner deux habiletés dans un même exercice",
+          "Réduire le temps de réflexion entre les actions"
+        ],
+        "criteres_reussite": [
+          "L'élève exécute le geste avec régularité",
+          "L'élève s'ajuste aux consignes supplémentaires"
+        ]
+      },
+      "niveau3": {
+        "titre": "Avancé",
+        "description": "L'expert peut exécuter l'activité dans des contextes variés et exigeants. Pour « Défi d'équilibre sur coussin », voici les attentes à ce niveau.",
+        "consignes": [
+          "Combiner plusieurs habiletés en séquence complexe",
+          "S'auto-évaluer et identifier ses points d'amélioration",
+          "Exécuter en situation de jeu réelle ou compétitive"
+        ],
+        "criteres_reussite": [
+          "L'élève transfère ses apprentissages à de nouvelles situations",
+          "L'exécution est fluide, précise et constante"
+        ]
+      }
+    }
   },
   {
     "titre": "Parcours d'équilibre dynamique",
@@ -404,8 +2022,59 @@
     "variantes": "Augmenter la vitesse, ajouter des contraintes visuelles, parcours chronométré.",
     "adaptation": "Retirer les stations difficiles, augmenter les surfaces d'appui, pas de chronomètre.",
     "duree": 20,
-    "materiel": ["Poutre", "Banc", "Cônes", "Lignes au sol"],
-    "tags": ["circuit", "dynamique", "équilibre", "stations"]
+    "materiel": [
+      "Poutre",
+      "Banc",
+      "Cônes",
+      "Lignes au sol"
+    ],
+    "tags": [
+      "circuit",
+      "dynamique",
+      "équilibre",
+      "stations"
+    ],
+    "progression": {
+      "niveau1": {
+        "titre": "Débutant",
+        "description": "À ce stade, l'objectif est d'apprivoiser l'exercice sans pression de performance. Pour « Parcours d'équilibre dynamique », voici les attentes à ce niveau.",
+        "consignes": [
+          "Utiliser du matériel adapté (plus léger, plus gros, plus lent)",
+          "Pratiquer en situation simplifiée sans pression",
+          "Observer une démonstration avant chaque essai"
+        ],
+        "criteres_reussite": [
+          "L'élève comprend et respecte les consignes de base",
+          "L'élève participe activement et fait des efforts"
+        ]
+      },
+      "niveau2": {
+        "titre": "Intermédiaire",
+        "description": "L'élève maîtrise les bases et cherche à améliorer sa constance et sa fluidité. Pour « Parcours d'équilibre dynamique », voici les attentes à ce niveau.",
+        "consignes": [
+          "Ajouter des contraintes de temps ou d'espace",
+          "Réduire le temps de réflexion entre les actions",
+          "Augmenter progressivement la complexité de l'exercice"
+        ],
+        "criteres_reussite": [
+          "La technique est maîtrisée dans des situations variées",
+          "L'élève exécute le geste avec régularité"
+        ]
+      },
+      "niveau3": {
+        "titre": "Avancé",
+        "description": "À ce stade avancé, l'élève crée, innove et aide ses pairs. Pour « Parcours d'équilibre dynamique », voici les attentes à ce niveau.",
+        "consignes": [
+          "Créer et proposer ses propres variantes avancées",
+          "Combiner plusieurs habiletés en séquence complexe",
+          "S'auto-évaluer et identifier ses points d'amélioration"
+        ],
+        "criteres_reussite": [
+          "L'élève transfère ses apprentissages à de nouvelles situations",
+          "L'exécution est fluide, précise et constante"
+        ]
+      }
+    }
   },
   {
     "titre": "Équilibre et jonglerie",
@@ -416,8 +2085,57 @@
     "variantes": "Jongler sur un Bosu, jongler en marchant sur une ligne, jongler avec des objets variés.",
     "adaptation": "Jongler sur deux pieds d'abord, un seul foulard, tempo très lent.",
     "duree": 15,
-    "materiel": ["Foulards de jonglerie", "Balles de jonglerie"],
-    "tags": ["jonglerie", "équilibre", "double tâche", "coordination"]
+    "materiel": [
+      "Foulards de jonglerie",
+      "Balles de jonglerie"
+    ],
+    "tags": [
+      "jonglerie",
+      "équilibre",
+      "double tâche",
+      "coordination"
+    ],
+    "progression": {
+      "niveau1": {
+        "titre": "Débutant",
+        "description": "À ce stade, l'objectif est d'apprivoiser l'exercice sans pression de performance. Pour « Équilibre et jonglerie », voici les attentes à ce niveau.",
+        "consignes": [
+          "Exécuter les mouvements de base lentement et avec contrôle",
+          "Pratiquer en situation simplifiée sans pression",
+          "Utiliser du matériel adapté (plus léger, plus gros, plus lent)"
+        ],
+        "criteres_reussite": [
+          "L'élève participe activement et fait des efforts",
+          "L'élève comprend et respecte les consignes de base"
+        ]
+      },
+      "niveau2": {
+        "titre": "Intermédiaire",
+        "description": "L'élève est capable d'exécuter l'activité de façon autonome avec quelques ajustements. Pour « Équilibre et jonglerie », voici les attentes à ce niveau.",
+        "consignes": [
+          "Ajouter des contraintes de temps ou d'espace",
+          "Combiner deux habiletés dans un même exercice",
+          "Réduire le temps de réflexion entre les actions"
+        ],
+        "criteres_reussite": [
+          "L'élève s'ajuste aux consignes supplémentaires",
+          "La technique est maîtrisée dans des situations variées"
+        ]
+      },
+      "niveau3": {
+        "titre": "Avancé",
+        "description": "L'élève démontre une maîtrise complète et peut enseigner aux autres. Pour « Équilibre et jonglerie », voici les attentes à ce niveau.",
+        "consignes": [
+          "S'auto-évaluer et identifier ses points d'amélioration",
+          "Aider un pair moins expérimenté comme tuteur",
+          "Exécuter en situation de jeu réelle ou compétitive"
+        ],
+        "criteres_reussite": [
+          "L'exécution est fluide, précise et constante",
+          "L'élève transfère ses apprentissages à de nouvelles situations"
+        ]
+      }
+    }
   },
   {
     "titre": "Équilibre sport-spécifique – basketball",
@@ -428,8 +2146,57 @@
     "variantes": "Ajout de défenseur passif, surfaces instables, enchaîner plusieurs actions.",
     "adaptation": "Sans défenseur, ballon plus léger, surface stable, pas de saut.",
     "duree": 15,
-    "materiel": ["Ballons de basketball", "Cônes"],
-    "tags": ["basketball", "équilibre", "sport", "réception"]
+    "materiel": [
+      "Ballons de basketball",
+      "Cônes"
+    ],
+    "tags": [
+      "basketball",
+      "équilibre",
+      "sport",
+      "réception"
+    ],
+    "progression": {
+      "niveau1": {
+        "titre": "Débutant",
+        "description": "L'élève découvre l'activité et se familiarise avec les mouvements fondamentaux. Pour « Équilibre sport-spécifique – basketball », voici les attentes à ce niveau.",
+        "consignes": [
+          "Pratiquer en situation simplifiée sans pression",
+          "Observer une démonstration avant chaque essai",
+          "Se concentrer sur la technique plutôt que la performance"
+        ],
+        "criteres_reussite": [
+          "L'élève participe activement et fait des efforts",
+          "Le geste technique de base est reconnaissable"
+        ]
+      },
+      "niveau2": {
+        "titre": "Intermédiaire",
+        "description": "L'élève est capable d'exécuter l'activité de façon autonome avec quelques ajustements. Pour « Équilibre sport-spécifique – basketball », voici les attentes à ce niveau.",
+        "consignes": [
+          "Introduire des variantes avec partenaire ou en mouvement",
+          "Ajouter des contraintes de temps ou d'espace",
+          "Augmenter progressivement la complexité de l'exercice"
+        ],
+        "criteres_reussite": [
+          "La technique est maîtrisée dans des situations variées",
+          "L'élève exécute le geste avec régularité"
+        ]
+      },
+      "niveau3": {
+        "titre": "Avancé",
+        "description": "L'expert peut exécuter l'activité dans des contextes variés et exigeants. Pour « Équilibre sport-spécifique – basketball », voici les attentes à ce niveau.",
+        "consignes": [
+          "Combiner plusieurs habiletés en séquence complexe",
+          "Créer et proposer ses propres variantes avancées",
+          "S'auto-évaluer et identifier ses points d'amélioration"
+        ],
+        "criteres_reussite": [
+          "L'exécution est fluide, précise et constante",
+          "L'élève maîtrise le geste dans des situations complexes"
+        ]
+      }
+    }
   },
   {
     "titre": "Équilibre inversé – appui renversé au mur",
@@ -440,8 +2207,58 @@
     "variantes": "S'éloigner du mur, tenir plus longtemps, appui renversé libre (avancé).",
     "adaptation": "Rester aux étapes 1-2, pareur obligatoire, tapis épais au sol.",
     "duree": 20,
-    "materiel": ["Mur libre", "Tapis de gym épais", "Banc"],
-    "tags": ["appui renversé", "inversion", "équilibre", "force"]
+    "materiel": [
+      "Mur libre",
+      "Tapis de gym épais",
+      "Banc"
+    ],
+    "tags": [
+      "appui renversé",
+      "inversion",
+      "équilibre",
+      "force"
+    ],
+    "progression": {
+      "niveau1": {
+        "titre": "Débutant",
+        "description": "L'accent est mis sur la compréhension des consignes et la sécurité. Pour « Équilibre inversé – appui renversé au mur », voici les attentes à ce niveau.",
+        "consignes": [
+          "Utiliser du matériel adapté (plus léger, plus gros, plus lent)",
+          "Exécuter les mouvements de base lentement et avec contrôle",
+          "Pratiquer en situation simplifiée sans pression"
+        ],
+        "criteres_reussite": [
+          "L'élève comprend et respecte les consignes de base",
+          "Le geste technique de base est reconnaissable"
+        ]
+      },
+      "niveau2": {
+        "titre": "Intermédiaire",
+        "description": "L'élève est capable d'exécuter l'activité de façon autonome avec quelques ajustements. Pour « Équilibre inversé – appui renversé au mur », voici les attentes à ce niveau.",
+        "consignes": [
+          "Ajouter des contraintes de temps ou d'espace",
+          "Réduire le temps de réflexion entre les actions",
+          "Augmenter progressivement la complexité de l'exercice"
+        ],
+        "criteres_reussite": [
+          "L'élève s'ajuste aux consignes supplémentaires",
+          "L'élève exécute le geste avec régularité"
+        ]
+      },
+      "niveau3": {
+        "titre": "Avancé",
+        "description": "L'élève démontre une maîtrise complète et peut enseigner aux autres. Pour « Équilibre inversé – appui renversé au mur », voici les attentes à ce niveau.",
+        "consignes": [
+          "S'auto-évaluer et identifier ses points d'amélioration",
+          "Créer et proposer ses propres variantes avancées",
+          "Combiner plusieurs habiletés en séquence complexe"
+        ],
+        "criteres_reussite": [
+          "L'exécution est fluide, précise et constante",
+          "L'élève transfère ses apprentissages à de nouvelles situations"
+        ]
+      }
+    }
   },
   {
     "titre": "Défi de la poutre haute",
@@ -452,8 +2269,57 @@
     "variantes": "Enchaînement libre, éléments de danse, duo (croisement sur la poutre).",
     "adaptation": "Poutre basse (30 cm), aide du pareur, éléments simplifiés.",
     "duree": 20,
-    "materiel": ["Poutre de gym réglable", "Tapis de réception épais"],
-    "tags": ["poutre", "hauteur", "équilibre", "gymnastique"]
+    "materiel": [
+      "Poutre de gym réglable",
+      "Tapis de réception épais"
+    ],
+    "tags": [
+      "poutre",
+      "hauteur",
+      "équilibre",
+      "gymnastique"
+    ],
+    "progression": {
+      "niveau1": {
+        "titre": "Débutant",
+        "description": "L'accent est mis sur la compréhension des consignes et la sécurité. Pour « Défi de la poutre haute », voici les attentes à ce niveau.",
+        "consignes": [
+          "Pratiquer en situation simplifiée sans pression",
+          "Utiliser du matériel adapté (plus léger, plus gros, plus lent)",
+          "Se concentrer sur la technique plutôt que la performance"
+        ],
+        "criteres_reussite": [
+          "Le geste technique de base est reconnaissable",
+          "L'élève participe activement et fait des efforts"
+        ]
+      },
+      "niveau2": {
+        "titre": "Intermédiaire",
+        "description": "L'élève maîtrise les bases et cherche à améliorer sa constance et sa fluidité. Pour « Défi de la poutre haute », voici les attentes à ce niveau.",
+        "consignes": [
+          "Augmenter progressivement la complexité de l'exercice",
+          "Introduire des variantes avec partenaire ou en mouvement",
+          "Combiner deux habiletés dans un même exercice"
+        ],
+        "criteres_reussite": [
+          "L'élève exécute le geste avec régularité",
+          "La technique est maîtrisée dans des situations variées"
+        ]
+      },
+      "niveau3": {
+        "titre": "Avancé",
+        "description": "L'expert peut exécuter l'activité dans des contextes variés et exigeants. Pour « Défi de la poutre haute », voici les attentes à ce niveau.",
+        "consignes": [
+          "Créer et proposer ses propres variantes avancées",
+          "Exécuter en situation de jeu réelle ou compétitive",
+          "Combiner plusieurs habiletés en séquence complexe"
+        ],
+        "criteres_reussite": [
+          "L'élève transfère ses apprentissages à de nouvelles situations",
+          "L'élève maîtrise le geste dans des situations complexes"
+        ]
+      }
+    }
   },
   {
     "titre": "Tableau d'équilibre – défis collectifs",
@@ -464,8 +2330,58 @@
     "variantes": "Créer ses propres défis, compétition entre équipes, tournoi sur plusieurs cours.",
     "adaptation": "Défis adaptés, barème de points ajusté, temps supplémentaire.",
     "duree": 25,
-    "materiel": ["Tableau des défis", "Matériel varié", "Feuille de pointage"],
-    "tags": ["défis", "collectif", "équilibre", "pointage"]
+    "materiel": [
+      "Tableau des défis",
+      "Matériel varié",
+      "Feuille de pointage"
+    ],
+    "tags": [
+      "défis",
+      "collectif",
+      "équilibre",
+      "pointage"
+    ],
+    "progression": {
+      "niveau1": {
+        "titre": "Débutant",
+        "description": "L'élève découvre l'activité et se familiarise avec les mouvements fondamentaux. Pour « Tableau d'équilibre – défis collectifs », voici les attentes à ce niveau.",
+        "consignes": [
+          "Se concentrer sur la technique plutôt que la performance",
+          "Exécuter les mouvements de base lentement et avec contrôle",
+          "Pratiquer en situation simplifiée sans pression"
+        ],
+        "criteres_reussite": [
+          "L'élève comprend et respecte les consignes de base",
+          "Le geste technique de base est reconnaissable"
+        ]
+      },
+      "niveau2": {
+        "titre": "Intermédiaire",
+        "description": "L'intermédiaire travaille la régularité et commence à combiner les habiletés. Pour « Tableau d'équilibre – défis collectifs », voici les attentes à ce niveau.",
+        "consignes": [
+          "Ajouter des contraintes de temps ou d'espace",
+          "Introduire des variantes avec partenaire ou en mouvement",
+          "Combiner deux habiletés dans un même exercice"
+        ],
+        "criteres_reussite": [
+          "L'élève exécute le geste avec régularité",
+          "La technique est maîtrisée dans des situations variées"
+        ]
+      },
+      "niveau3": {
+        "titre": "Avancé",
+        "description": "L'expert peut exécuter l'activité dans des contextes variés et exigeants. Pour « Tableau d'équilibre – défis collectifs », voici les attentes à ce niveau.",
+        "consignes": [
+          "Créer et proposer ses propres variantes avancées",
+          "S'auto-évaluer et identifier ses points d'amélioration",
+          "Exécuter en situation de jeu réelle ou compétitive"
+        ],
+        "criteres_reussite": [
+          "L'élève transfère ses apprentissages à de nouvelles situations",
+          "L'élève maîtrise le geste dans des situations complexes"
+        ]
+      }
+    }
   },
   {
     "titre": "Équilibre et arts martiaux – coups de pied",
@@ -476,8 +2392,57 @@
     "variantes": "Enchaîner 3 coups sans poser le pied, sur surface instable, avec cible (pad).",
     "adaptation": "Hauteur de coup réduite, appui mural, coups sans extension complète.",
     "duree": 15,
-    "materiel": ["Espace dégagé", "Cibles (optionnel)"],
-    "tags": ["arts martiaux", "coup de pied", "équilibre", "contrôle"]
+    "materiel": [
+      "Espace dégagé",
+      "Cibles (optionnel)"
+    ],
+    "tags": [
+      "arts martiaux",
+      "coup de pied",
+      "équilibre",
+      "contrôle"
+    ],
+    "progression": {
+      "niveau1": {
+        "titre": "Débutant",
+        "description": "L'accent est mis sur la compréhension des consignes et la sécurité. Pour « Équilibre et arts martiaux – coups de pied », voici les attentes à ce niveau.",
+        "consignes": [
+          "Exécuter les mouvements de base lentement et avec contrôle",
+          "Utiliser du matériel adapté (plus léger, plus gros, plus lent)",
+          "Se concentrer sur la technique plutôt que la performance"
+        ],
+        "criteres_reussite": [
+          "Le geste technique de base est reconnaissable",
+          "L'élève participe activement et fait des efforts"
+        ]
+      },
+      "niveau2": {
+        "titre": "Intermédiaire",
+        "description": "L'élève est capable d'exécuter l'activité de façon autonome avec quelques ajustements. Pour « Équilibre et arts martiaux – coups de pied », voici les attentes à ce niveau.",
+        "consignes": [
+          "Ajouter des contraintes de temps ou d'espace",
+          "Augmenter progressivement la complexité de l'exercice",
+          "Introduire des variantes avec partenaire ou en mouvement"
+        ],
+        "criteres_reussite": [
+          "L'élève s'ajuste aux consignes supplémentaires",
+          "L'élève exécute le geste avec régularité"
+        ]
+      },
+      "niveau3": {
+        "titre": "Avancé",
+        "description": "L'élève démontre une maîtrise complète et peut enseigner aux autres. Pour « Équilibre et arts martiaux – coups de pied », voici les attentes à ce niveau.",
+        "consignes": [
+          "Combiner plusieurs habiletés en séquence complexe",
+          "S'auto-évaluer et identifier ses points d'amélioration",
+          "Créer et proposer ses propres variantes avancées"
+        ],
+        "criteres_reussite": [
+          "L'élève transfère ses apprentissages à de nouvelles situations",
+          "L'élève maîtrise le geste dans des situations complexes"
+        ]
+      }
+    }
   },
   {
     "titre": "Proprioception sur trampoline",
@@ -488,8 +2453,57 @@
     "variantes": "Réception sur Bosu après le trampoline, enchaîner 2 sauts différents, yeux fermés au sol.",
     "adaptation": "Sauts bas, réception sur deux pieds, aide du pareur.",
     "duree": 15,
-    "materiel": ["Mini-trampoline", "Tapis de réception épais"],
-    "tags": ["trampoline", "réception", "proprioception", "saut"]
+    "materiel": [
+      "Mini-trampoline",
+      "Tapis de réception épais"
+    ],
+    "tags": [
+      "trampoline",
+      "réception",
+      "proprioception",
+      "saut"
+    ],
+    "progression": {
+      "niveau1": {
+        "titre": "Débutant",
+        "description": "L'élève découvre l'activité et se familiarise avec les mouvements fondamentaux. Pour « Proprioception sur trampoline », voici les attentes à ce niveau.",
+        "consignes": [
+          "Se concentrer sur la technique plutôt que la performance",
+          "Pratiquer en situation simplifiée sans pression",
+          "Utiliser du matériel adapté (plus léger, plus gros, plus lent)"
+        ],
+        "criteres_reussite": [
+          "Le geste technique de base est reconnaissable",
+          "L'élève participe activement et fait des efforts"
+        ]
+      },
+      "niveau2": {
+        "titre": "Intermédiaire",
+        "description": "À ce niveau, on ajoute de la complexité tout en consolidant les acquis. Pour « Proprioception sur trampoline », voici les attentes à ce niveau.",
+        "consignes": [
+          "Réduire le temps de réflexion entre les actions",
+          "Introduire des variantes avec partenaire ou en mouvement",
+          "Combiner deux habiletés dans un même exercice"
+        ],
+        "criteres_reussite": [
+          "L'élève s'ajuste aux consignes supplémentaires",
+          "La technique est maîtrisée dans des situations variées"
+        ]
+      },
+      "niveau3": {
+        "titre": "Avancé",
+        "description": "À ce stade avancé, l'élève crée, innove et aide ses pairs. Pour « Proprioception sur trampoline », voici les attentes à ce niveau.",
+        "consignes": [
+          "Aider un pair moins expérimenté comme tuteur",
+          "S'auto-évaluer et identifier ses points d'amélioration",
+          "Créer et proposer ses propres variantes avancées"
+        ],
+        "criteres_reussite": [
+          "L'élève maîtrise le geste dans des situations complexes",
+          "L'exécution est fluide, précise et constante"
+        ]
+      }
+    }
   },
   {
     "titre": "Équilibre fonctionnel – ramasser et déposer",
@@ -500,8 +2514,58 @@
     "variantes": "Yeux fermés, sur surface instable, objets plus éloignés, chronométré.",
     "adaptation": "Objets proches, toucher l'autre pied au sol entre chaque objet, plus gros objets.",
     "duree": 12,
-    "materiel": ["Cônes", "Balles", "Cerceaux"],
-    "tags": ["fonctionnel", "ramasser", "unipodal", "contrôle"]
+    "materiel": [
+      "Cônes",
+      "Balles",
+      "Cerceaux"
+    ],
+    "tags": [
+      "fonctionnel",
+      "ramasser",
+      "unipodal",
+      "contrôle"
+    ],
+    "progression": {
+      "niveau1": {
+        "titre": "Débutant",
+        "description": "L'accent est mis sur la compréhension des consignes et la sécurité. Pour « Équilibre fonctionnel – ramasser et déposer », voici les attentes à ce niveau.",
+        "consignes": [
+          "Observer une démonstration avant chaque essai",
+          "Se concentrer sur la technique plutôt que la performance",
+          "Pratiquer en situation simplifiée sans pression"
+        ],
+        "criteres_reussite": [
+          "L'élève participe activement et fait des efforts",
+          "L'élève comprend et respecte les consignes de base"
+        ]
+      },
+      "niveau2": {
+        "titre": "Intermédiaire",
+        "description": "L'élève est capable d'exécuter l'activité de façon autonome avec quelques ajustements. Pour « Équilibre fonctionnel – ramasser et déposer », voici les attentes à ce niveau.",
+        "consignes": [
+          "Réduire le temps de réflexion entre les actions",
+          "Ajouter des contraintes de temps ou d'espace",
+          "Augmenter progressivement la complexité de l'exercice"
+        ],
+        "criteres_reussite": [
+          "La technique est maîtrisée dans des situations variées",
+          "L'élève s'ajuste aux consignes supplémentaires"
+        ]
+      },
+      "niveau3": {
+        "titre": "Avancé",
+        "description": "L'élève perfectionne sa technique et s'adapte à des situations complexes. Pour « Équilibre fonctionnel – ramasser et déposer », voici les attentes à ce niveau.",
+        "consignes": [
+          "S'auto-évaluer et identifier ses points d'amélioration",
+          "Créer et proposer ses propres variantes avancées",
+          "Combiner plusieurs habiletés en séquence complexe"
+        ],
+        "criteres_reussite": [
+          "L'élève transfère ses apprentissages à de nouvelles situations",
+          "L'élève maîtrise le geste dans des situations complexes"
+        ]
+      }
+    }
   },
   {
     "titre": "Équilibre et musculation – squat pistol",
@@ -512,8 +2576,58 @@
     "variantes": "Avec poids, sur surface instable, enchaîner pistol + saut.",
     "adaptation": "Rester aux étapes 1-2, squat partiel seulement, aide permanente.",
     "duree": 15,
-    "materiel": ["Banc", "TRX ou corde", "Espalier"],
-    "tags": ["pistol squat", "force", "unipodal", "musculation"]
+    "materiel": [
+      "Banc",
+      "TRX ou corde",
+      "Espalier"
+    ],
+    "tags": [
+      "pistol squat",
+      "force",
+      "unipodal",
+      "musculation"
+    ],
+    "progression": {
+      "niveau1": {
+        "titre": "Débutant",
+        "description": "L'accent est mis sur la compréhension des consignes et la sécurité. Pour « Équilibre et musculation – squat pistol », voici les attentes à ce niveau.",
+        "consignes": [
+          "Se concentrer sur la technique plutôt que la performance",
+          "Observer une démonstration avant chaque essai",
+          "Pratiquer en situation simplifiée sans pression"
+        ],
+        "criteres_reussite": [
+          "L'élève participe activement et fait des efforts",
+          "Le geste technique de base est reconnaissable"
+        ]
+      },
+      "niveau2": {
+        "titre": "Intermédiaire",
+        "description": "À ce niveau, on ajoute de la complexité tout en consolidant les acquis. Pour « Équilibre et musculation – squat pistol », voici les attentes à ce niveau.",
+        "consignes": [
+          "Introduire des variantes avec partenaire ou en mouvement",
+          "Combiner deux habiletés dans un même exercice",
+          "Augmenter progressivement la complexité de l'exercice"
+        ],
+        "criteres_reussite": [
+          "L'élève s'ajuste aux consignes supplémentaires",
+          "La technique est maîtrisée dans des situations variées"
+        ]
+      },
+      "niveau3": {
+        "titre": "Avancé",
+        "description": "L'expert peut exécuter l'activité dans des contextes variés et exigeants. Pour « Équilibre et musculation – squat pistol », voici les attentes à ce niveau.",
+        "consignes": [
+          "Aider un pair moins expérimenté comme tuteur",
+          "Exécuter en situation de jeu réelle ou compétitive",
+          "Combiner plusieurs habiletés en séquence complexe"
+        ],
+        "criteres_reussite": [
+          "L'élève transfère ses apprentissages à de nouvelles situations",
+          "L'exécution est fluide, précise et constante"
+        ]
+      }
+    }
   },
   {
     "titre": "Parcours vestibulaire",
@@ -524,8 +2638,58 @@
     "variantes": "Plus de rotations, parcours à reculons, yeux fermés après les rotations.",
     "adaptation": "Moins de rotations, pauses entre les stations, retirer la poutre.",
     "duree": 20,
-    "materiel": ["Poutre", "Tapis", "Cônes"],
-    "tags": ["vestibulaire", "rotation", "équilibre", "parcours"]
+    "materiel": [
+      "Poutre",
+      "Tapis",
+      "Cônes"
+    ],
+    "tags": [
+      "vestibulaire",
+      "rotation",
+      "équilibre",
+      "parcours"
+    ],
+    "progression": {
+      "niveau1": {
+        "titre": "Débutant",
+        "description": "L'élève découvre l'activité et se familiarise avec les mouvements fondamentaux. Pour « Parcours vestibulaire », voici les attentes à ce niveau.",
+        "consignes": [
+          "Exécuter les mouvements de base lentement et avec contrôle",
+          "Se concentrer sur la technique plutôt que la performance",
+          "Observer une démonstration avant chaque essai"
+        ],
+        "criteres_reussite": [
+          "L'élève participe activement et fait des efforts",
+          "L'élève comprend et respecte les consignes de base"
+        ]
+      },
+      "niveau2": {
+        "titre": "Intermédiaire",
+        "description": "L'élève maîtrise les bases et cherche à améliorer sa constance et sa fluidité. Pour « Parcours vestibulaire », voici les attentes à ce niveau.",
+        "consignes": [
+          "Ajouter des contraintes de temps ou d'espace",
+          "Combiner deux habiletés dans un même exercice",
+          "Augmenter progressivement la complexité de l'exercice"
+        ],
+        "criteres_reussite": [
+          "L'élève exécute le geste avec régularité",
+          "L'élève s'ajuste aux consignes supplémentaires"
+        ]
+      },
+      "niveau3": {
+        "titre": "Avancé",
+        "description": "L'élève perfectionne sa technique et s'adapte à des situations complexes. Pour « Parcours vestibulaire », voici les attentes à ce niveau.",
+        "consignes": [
+          "Aider un pair moins expérimenté comme tuteur",
+          "Créer et proposer ses propres variantes avancées",
+          "Exécuter en situation de jeu réelle ou compétitive"
+        ],
+        "criteres_reussite": [
+          "L'élève maîtrise le geste dans des situations complexes",
+          "L'exécution est fluide, précise et constante"
+        ]
+      }
+    }
   },
   {
     "titre": "Yoga – posture de l'arbre avancée",
@@ -536,8 +2700,57 @@
     "variantes": "Sur Bosu, en duo (arbres qui se touchent), enchaîner 4 postures debout.",
     "adaptation": "Pied contre la cheville, main au mur, yeux ouverts seulement.",
     "duree": 15,
-    "materiel": ["Tapis de yoga", "Espace calme"],
-    "tags": ["yoga", "arbre", "équilibre", "concentration"]
+    "materiel": [
+      "Tapis de yoga",
+      "Espace calme"
+    ],
+    "tags": [
+      "yoga",
+      "arbre",
+      "équilibre",
+      "concentration"
+    ],
+    "progression": {
+      "niveau1": {
+        "titre": "Débutant",
+        "description": "À ce stade, l'objectif est d'apprivoiser l'exercice sans pression de performance. Pour « Yoga – posture de l'arbre avancée », voici les attentes à ce niveau.",
+        "consignes": [
+          "Pratiquer en situation simplifiée sans pression",
+          "Exécuter les mouvements de base lentement et avec contrôle",
+          "Se concentrer sur la technique plutôt que la performance"
+        ],
+        "criteres_reussite": [
+          "L'élève participe activement et fait des efforts",
+          "L'élève comprend et respecte les consignes de base"
+        ]
+      },
+      "niveau2": {
+        "titre": "Intermédiaire",
+        "description": "À ce niveau, on ajoute de la complexité tout en consolidant les acquis. Pour « Yoga – posture de l'arbre avancée », voici les attentes à ce niveau.",
+        "consignes": [
+          "Réduire le temps de réflexion entre les actions",
+          "Combiner deux habiletés dans un même exercice",
+          "Introduire des variantes avec partenaire ou en mouvement"
+        ],
+        "criteres_reussite": [
+          "L'élève exécute le geste avec régularité",
+          "L'élève s'ajuste aux consignes supplémentaires"
+        ]
+      },
+      "niveau3": {
+        "titre": "Avancé",
+        "description": "L'élève démontre une maîtrise complète et peut enseigner aux autres. Pour « Yoga – posture de l'arbre avancée », voici les attentes à ce niveau.",
+        "consignes": [
+          "S'auto-évaluer et identifier ses points d'amélioration",
+          "Aider un pair moins expérimenté comme tuteur",
+          "Combiner plusieurs habiletés en séquence complexe"
+        ],
+        "criteres_reussite": [
+          "L'élève transfère ses apprentissages à de nouvelles situations",
+          "L'élève maîtrise le geste dans des situations complexes"
+        ]
+      }
+    }
   },
   {
     "titre": "Circuit d'équilibre haute intensité",
@@ -548,8 +2761,57 @@
     "variantes": "Augmenter les durées, ajouter du poids, surface instable.",
     "adaptation": "20 s effort / 20 s repos, retirer les sauts, 2 tours seulement.",
     "duree": 20,
-    "materiel": ["Chronomètre", "Tapis"],
-    "tags": ["HIIT", "équilibre", "intensité", "circuit"]
+    "materiel": [
+      "Chronomètre",
+      "Tapis"
+    ],
+    "tags": [
+      "HIIT",
+      "équilibre",
+      "intensité",
+      "circuit"
+    ],
+    "progression": {
+      "niveau1": {
+        "titre": "Débutant",
+        "description": "L'accent est mis sur la compréhension des consignes et la sécurité. Pour « Circuit d'équilibre haute intensité », voici les attentes à ce niveau.",
+        "consignes": [
+          "Se concentrer sur la technique plutôt que la performance",
+          "Observer une démonstration avant chaque essai",
+          "Exécuter les mouvements de base lentement et avec contrôle"
+        ],
+        "criteres_reussite": [
+          "Le geste technique de base est reconnaissable",
+          "L'élève participe activement et fait des efforts"
+        ]
+      },
+      "niveau2": {
+        "titre": "Intermédiaire",
+        "description": "L'intermédiaire travaille la régularité et commence à combiner les habiletés. Pour « Circuit d'équilibre haute intensité », voici les attentes à ce niveau.",
+        "consignes": [
+          "Introduire des variantes avec partenaire ou en mouvement",
+          "Réduire le temps de réflexion entre les actions",
+          "Combiner deux habiletés dans un même exercice"
+        ],
+        "criteres_reussite": [
+          "L'élève exécute le geste avec régularité",
+          "La technique est maîtrisée dans des situations variées"
+        ]
+      },
+      "niveau3": {
+        "titre": "Avancé",
+        "description": "L'élève démontre une maîtrise complète et peut enseigner aux autres. Pour « Circuit d'équilibre haute intensité », voici les attentes à ce niveau.",
+        "consignes": [
+          "Combiner plusieurs habiletés en séquence complexe",
+          "Exécuter en situation de jeu réelle ou compétitive",
+          "Aider un pair moins expérimenté comme tuteur"
+        ],
+        "criteres_reussite": [
+          "L'exécution est fluide, précise et constante",
+          "L'élève maîtrise le geste dans des situations complexes"
+        ]
+      }
+    }
   },
   {
     "titre": "Équilibre les yeux bandés – parcours sensoriel",
@@ -560,8 +2822,59 @@
     "variantes": "Parcours plus long, guide tactile seulement (toucher l'épaule), parcours avec obstacles.",
     "adaptation": "Yeux mi-ouverts, parcours très court, guide proche.",
     "duree": 20,
-    "materiel": ["Bandeaux", "Banc", "Cônes", "Espace sécuritaire"],
-    "tags": ["yeux bandés", "sensoriel", "confiance", "proprioception"]
+    "materiel": [
+      "Bandeaux",
+      "Banc",
+      "Cônes",
+      "Espace sécuritaire"
+    ],
+    "tags": [
+      "yeux bandés",
+      "sensoriel",
+      "confiance",
+      "proprioception"
+    ],
+    "progression": {
+      "niveau1": {
+        "titre": "Débutant",
+        "description": "L'accent est mis sur la compréhension des consignes et la sécurité. Pour « Équilibre les yeux bandés – parcours sensoriel », voici les attentes à ce niveau.",
+        "consignes": [
+          "Observer une démonstration avant chaque essai",
+          "Se concentrer sur la technique plutôt que la performance",
+          "Utiliser du matériel adapté (plus léger, plus gros, plus lent)"
+        ],
+        "criteres_reussite": [
+          "Le geste technique de base est reconnaissable",
+          "L'élève participe activement et fait des efforts"
+        ]
+      },
+      "niveau2": {
+        "titre": "Intermédiaire",
+        "description": "L'élève est capable d'exécuter l'activité de façon autonome avec quelques ajustements. Pour « Équilibre les yeux bandés – parcours sensoriel », voici les attentes à ce niveau.",
+        "consignes": [
+          "Combiner deux habiletés dans un même exercice",
+          "Augmenter progressivement la complexité de l'exercice",
+          "Réduire le temps de réflexion entre les actions"
+        ],
+        "criteres_reussite": [
+          "L'élève exécute le geste avec régularité",
+          "La technique est maîtrisée dans des situations variées"
+        ]
+      },
+      "niveau3": {
+        "titre": "Avancé",
+        "description": "L'élève démontre une maîtrise complète et peut enseigner aux autres. Pour « Équilibre les yeux bandés – parcours sensoriel », voici les attentes à ce niveau.",
+        "consignes": [
+          "Créer et proposer ses propres variantes avancées",
+          "S'auto-évaluer et identifier ses points d'amélioration",
+          "Combiner plusieurs habiletés en séquence complexe"
+        ],
+        "criteres_reussite": [
+          "L'élève transfère ses apprentissages à de nouvelles situations",
+          "L'élève maîtrise le geste dans des situations complexes"
+        ]
+      }
+    }
   },
   {
     "titre": "Rollerboard – équilibre dynamique",
@@ -572,8 +2885,58 @@
     "variantes": "Parcours chronométré, slalom, attraper des objets en mouvement, duo remorqué.",
     "adaptation": "Rester en position assise, surface plane et lisse, vitesse très lente.",
     "duree": 20,
-    "materiel": ["Planche à roulettes ou rollerboard", "Cônes", "Surface lisse"],
-    "tags": ["rollerboard", "équilibre", "dynamique", "déplacement"]
+    "materiel": [
+      "Planche à roulettes ou rollerboard",
+      "Cônes",
+      "Surface lisse"
+    ],
+    "tags": [
+      "rollerboard",
+      "équilibre",
+      "dynamique",
+      "déplacement"
+    ],
+    "progression": {
+      "niveau1": {
+        "titre": "Débutant",
+        "description": "L'accent est mis sur la compréhension des consignes et la sécurité. Pour « Rollerboard – équilibre dynamique », voici les attentes à ce niveau.",
+        "consignes": [
+          "Se concentrer sur la technique plutôt que la performance",
+          "Observer une démonstration avant chaque essai",
+          "Utiliser du matériel adapté (plus léger, plus gros, plus lent)"
+        ],
+        "criteres_reussite": [
+          "L'élève participe activement et fait des efforts",
+          "Le geste technique de base est reconnaissable"
+        ]
+      },
+      "niveau2": {
+        "titre": "Intermédiaire",
+        "description": "L'élève est capable d'exécuter l'activité de façon autonome avec quelques ajustements. Pour « Rollerboard – équilibre dynamique », voici les attentes à ce niveau.",
+        "consignes": [
+          "Combiner deux habiletés dans un même exercice",
+          "Introduire des variantes avec partenaire ou en mouvement",
+          "Réduire le temps de réflexion entre les actions"
+        ],
+        "criteres_reussite": [
+          "L'élève s'ajuste aux consignes supplémentaires",
+          "L'élève exécute le geste avec régularité"
+        ]
+      },
+      "niveau3": {
+        "titre": "Avancé",
+        "description": "L'élève perfectionne sa technique et s'adapte à des situations complexes. Pour « Rollerboard – équilibre dynamique », voici les attentes à ce niveau.",
+        "consignes": [
+          "Exécuter en situation de jeu réelle ou compétitive",
+          "Combiner plusieurs habiletés en séquence complexe",
+          "S'auto-évaluer et identifier ses points d'amélioration"
+        ],
+        "criteres_reussite": [
+          "L'exécution est fluide, précise et constante",
+          "L'élève transfère ses apprentissages à de nouvelles situations"
+        ]
+      }
+    }
   },
   {
     "titre": "Le roi de la montagne – équilibre",
@@ -584,8 +2947,57 @@
     "variantes": "Sur un pied, dos à dos en poussant des fesses, sur un banc retourné.",
     "adaptation": "Surface plus grande, poussées très légères, arbitre proche.",
     "duree": 15,
-    "materiel": ["Gros coussin ou tapis épais surélevé", "Tapis autour"],
-    "tags": ["défi", "duo", "équilibre", "poussée"]
+    "materiel": [
+      "Gros coussin ou tapis épais surélevé",
+      "Tapis autour"
+    ],
+    "tags": [
+      "défi",
+      "duo",
+      "équilibre",
+      "poussée"
+    ],
+    "progression": {
+      "niveau1": {
+        "titre": "Débutant",
+        "description": "Le débutant explore les bases de l'activité avec un accompagnement soutenu. Pour « Le roi de la montagne – équilibre », voici les attentes à ce niveau.",
+        "consignes": [
+          "Se concentrer sur la technique plutôt que la performance",
+          "Pratiquer en situation simplifiée sans pression",
+          "Observer une démonstration avant chaque essai"
+        ],
+        "criteres_reussite": [
+          "L'élève participe activement et fait des efforts",
+          "L'élève comprend et respecte les consignes de base"
+        ]
+      },
+      "niveau2": {
+        "titre": "Intermédiaire",
+        "description": "L'élève est capable d'exécuter l'activité de façon autonome avec quelques ajustements. Pour « Le roi de la montagne – équilibre », voici les attentes à ce niveau.",
+        "consignes": [
+          "Augmenter progressivement la complexité de l'exercice",
+          "Ajouter des contraintes de temps ou d'espace",
+          "Réduire le temps de réflexion entre les actions"
+        ],
+        "criteres_reussite": [
+          "La technique est maîtrisée dans des situations variées",
+          "L'élève s'ajuste aux consignes supplémentaires"
+        ]
+      },
+      "niveau3": {
+        "titre": "Avancé",
+        "description": "L'élève démontre une maîtrise complète et peut enseigner aux autres. Pour « Le roi de la montagne – équilibre », voici les attentes à ce niveau.",
+        "consignes": [
+          "Combiner plusieurs habiletés en séquence complexe",
+          "Créer et proposer ses propres variantes avancées",
+          "Exécuter en situation de jeu réelle ou compétitive"
+        ],
+        "criteres_reussite": [
+          "L'élève transfère ses apprentissages à de nouvelles situations",
+          "L'élève maîtrise le geste dans des situations complexes"
+        ]
+      }
+    }
   },
   {
     "titre": "Marche sur échelle au sol",
@@ -596,8 +3008,56 @@
     "variantes": "Latéral, à reculons, en sautillant, un pied seulement.",
     "adaptation": "Cases plus grandes, marche libre à côté de l'échelle d'abord, rythme très lent.",
     "duree": 10,
-    "materiel": ["Échelle d'agilité"],
-    "tags": ["échelle", "agilité", "équilibre", "pieds"]
+    "materiel": [
+      "Échelle d'agilité"
+    ],
+    "tags": [
+      "échelle",
+      "agilité",
+      "équilibre",
+      "pieds"
+    ],
+    "progression": {
+      "niveau1": {
+        "titre": "Débutant",
+        "description": "L'accent est mis sur la compréhension des consignes et la sécurité. Pour « Marche sur échelle au sol », voici les attentes à ce niveau.",
+        "consignes": [
+          "Exécuter les mouvements de base lentement et avec contrôle",
+          "Observer une démonstration avant chaque essai",
+          "Utiliser du matériel adapté (plus léger, plus gros, plus lent)"
+        ],
+        "criteres_reussite": [
+          "L'élève participe activement et fait des efforts",
+          "Le geste technique de base est reconnaissable"
+        ]
+      },
+      "niveau2": {
+        "titre": "Intermédiaire",
+        "description": "L'élève maîtrise les bases et cherche à améliorer sa constance et sa fluidité. Pour « Marche sur échelle au sol », voici les attentes à ce niveau.",
+        "consignes": [
+          "Réduire le temps de réflexion entre les actions",
+          "Combiner deux habiletés dans un même exercice",
+          "Augmenter progressivement la complexité de l'exercice"
+        ],
+        "criteres_reussite": [
+          "La technique est maîtrisée dans des situations variées",
+          "L'élève exécute le geste avec régularité"
+        ]
+      },
+      "niveau3": {
+        "titre": "Avancé",
+        "description": "L'élève démontre une maîtrise complète et peut enseigner aux autres. Pour « Marche sur échelle au sol », voici les attentes à ce niveau.",
+        "consignes": [
+          "Créer et proposer ses propres variantes avancées",
+          "Exécuter en situation de jeu réelle ou compétitive",
+          "S'auto-évaluer et identifier ses points d'amélioration"
+        ],
+        "criteres_reussite": [
+          "L'élève maîtrise le geste dans des situations complexes",
+          "L'exécution est fluide, précise et constante"
+        ]
+      }
+    }
   },
   {
     "titre": "Équilibre et lancer – double tâche",
@@ -608,7 +3068,56 @@
     "variantes": "Lancer avec rotation, lancer par-dessous, deux ballons en alternance.",
     "adaptation": "Deux pieds au sol, ballon mousse, distance réduite au mur.",
     "duree": 12,
-    "materiel": ["Ballons", "Mur"],
-    "tags": ["lancer", "double tâche", "unipodal", "coordination"]
+    "materiel": [
+      "Ballons",
+      "Mur"
+    ],
+    "tags": [
+      "lancer",
+      "double tâche",
+      "unipodal",
+      "coordination"
+    ],
+    "progression": {
+      "niveau1": {
+        "titre": "Débutant",
+        "description": "L'accent est mis sur la compréhension des consignes et la sécurité. Pour « Équilibre et lancer – double tâche », voici les attentes à ce niveau.",
+        "consignes": [
+          "Pratiquer en situation simplifiée sans pression",
+          "Observer une démonstration avant chaque essai",
+          "Exécuter les mouvements de base lentement et avec contrôle"
+        ],
+        "criteres_reussite": [
+          "L'élève comprend et respecte les consignes de base",
+          "L'élève participe activement et fait des efforts"
+        ]
+      },
+      "niveau2": {
+        "titre": "Intermédiaire",
+        "description": "L'élève maîtrise les bases et cherche à améliorer sa constance et sa fluidité. Pour « Équilibre et lancer – double tâche », voici les attentes à ce niveau.",
+        "consignes": [
+          "Introduire des variantes avec partenaire ou en mouvement",
+          "Combiner deux habiletés dans un même exercice",
+          "Ajouter des contraintes de temps ou d'espace"
+        ],
+        "criteres_reussite": [
+          "L'élève exécute le geste avec régularité",
+          "L'élève s'ajuste aux consignes supplémentaires"
+        ]
+      },
+      "niveau3": {
+        "titre": "Avancé",
+        "description": "L'élève démontre une maîtrise complète et peut enseigner aux autres. Pour « Équilibre et lancer – double tâche », voici les attentes à ce niveau.",
+        "consignes": [
+          "S'auto-évaluer et identifier ses points d'amélioration",
+          "Exécuter en situation de jeu réelle ou compétitive",
+          "Aider un pair moins expérimenté comme tuteur"
+        ],
+        "criteres_reussite": [
+          "L'exécution est fluide, précise et constante",
+          "L'élève maîtrise le geste dans des situations complexes"
+        ]
+      }
+    }
   }
 ]

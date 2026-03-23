@@ -8,8 +8,56 @@
     "variantes": "Galipette depuis debout, galipette enchaînée (3), galipette avec réception debout.",
     "adaptation": "Aider l'élève en guidant les hanches. Commencer sur plan incliné légèrement.",
     "duree": 12,
-    "materiel": ["Tapis de gym épais (5 cm minimum)"],
-    "tags": ["galipette", "roulade", "tapis", "acrobatie"]
+    "materiel": [
+      "Tapis de gym épais (5 cm minimum)"
+    ],
+    "tags": [
+      "galipette",
+      "roulade",
+      "tapis",
+      "acrobatie"
+    ],
+    "progression": {
+      "niveau1": {
+        "titre": "Débutant",
+        "description": "À ce stade, l'objectif est d'apprivoiser l'exercice sans pression de performance. Pour « Galipette avant sur tapis », voici les attentes à ce niveau.",
+        "consignes": [
+          "Respecter les limites de son espace",
+          "Suivre des lignes au sol ou des repères visuels",
+          "Garder le contrôle de son corps en mouvement"
+        ],
+        "criteres_reussite": [
+          "L'élève freine et s'arrête sur commande",
+          "L'élève se déplace de façon contrôlée"
+        ]
+      },
+      "niveau2": {
+        "titre": "Intermédiaire",
+        "description": "L'intermédiaire travaille la régularité et commence à combiner les habiletés. Pour « Galipette avant sur tapis », voici les attentes à ce niveau.",
+        "consignes": [
+          "Combiner déplacement et manipulation d'objet",
+          "Alterner entre deux types de déplacement",
+          "Se déplacer en changeant de direction sur signal"
+        ],
+        "criteres_reussite": [
+          "L'élève change de direction sans perte d'équilibre",
+          "L'élève maintient sa vitesse dans les changements"
+        ]
+      },
+      "niveau3": {
+        "titre": "Avancé",
+        "description": "À ce stade avancé, l'élève crée, innove et aide ses pairs. Pour « Galipette avant sur tapis », voici les attentes à ce niveau.",
+        "consignes": [
+          "Réagir rapidement aux changements d'environnement",
+          "Combiner plusieurs types de déplacement en enchaînement",
+          "Se déplacer en situation de jeu avec adversaire"
+        ],
+        "criteres_reussite": [
+          "L'élève adapte ses déplacements à la situation de jeu",
+          "L'élève se déplace avec agilité et efficacité"
+        ]
+      }
+    }
   },
   {
     "titre": "Roulade arrière initiation",
@@ -20,8 +68,57 @@
     "variantes": "Roulade arrière vers debout, roulade arrière en diagonale, enchaîner avant-arrière.",
     "adaptation": "Utiliser un plan incliné. Aide de l'enseignant pour guider les hanches. Débuter avec roulade sur le côté.",
     "duree": 15,
-    "materiel": ["Tapis épais", "Plan incliné (tapis en pente légère)"],
-    "tags": ["roulade arrière", "protection", "tapis", "acrobatie"]
+    "materiel": [
+      "Tapis épais",
+      "Plan incliné (tapis en pente légère)"
+    ],
+    "tags": [
+      "roulade arrière",
+      "protection",
+      "tapis",
+      "acrobatie"
+    ],
+    "progression": {
+      "niveau1": {
+        "titre": "Débutant",
+        "description": "Le débutant explore les bases de l'activité avec un accompagnement soutenu. Pour « Roulade arrière initiation », voici les attentes à ce niveau.",
+        "consignes": [
+          "Se déplacer à vitesse lente dans un espace délimité",
+          "Garder le contrôle de son corps en mouvement",
+          "Respecter les limites de son espace"
+        ],
+        "criteres_reussite": [
+          "L'élève freine et s'arrête sur commande",
+          "L'élève se déplace de façon contrôlée"
+        ]
+      },
+      "niveau2": {
+        "titre": "Intermédiaire",
+        "description": "L'intermédiaire travaille la régularité et commence à combiner les habiletés. Pour « Roulade arrière initiation », voici les attentes à ce niveau.",
+        "consignes": [
+          "Combiner déplacement et manipulation d'objet",
+          "S'adapter au rythme d'un partenaire",
+          "Augmenter la vitesse tout en gardant le contrôle"
+        ],
+        "criteres_reussite": [
+          "L'élève change de direction sans perte d'équilibre",
+          "L'élève maintient sa vitesse dans les changements"
+        ]
+      },
+      "niveau3": {
+        "titre": "Avancé",
+        "description": "À ce stade avancé, l'élève crée, innove et aide ses pairs. Pour « Roulade arrière initiation », voici les attentes à ce niveau.",
+        "consignes": [
+          "Se déplacer en situation de jeu avec adversaire",
+          "Réagir rapidement aux changements d'environnement",
+          "Combiner plusieurs types de déplacement en enchaînement"
+        ],
+        "criteres_reussite": [
+          "L'élève se déplace avec agilité et efficacité",
+          "Les enchaînements sont fluides et rapides"
+        ]
+      }
+    }
   },
   {
     "titre": "Parcours ramper-rouler",
@@ -32,8 +129,58 @@
     "variantes": "Ajouter obstacles à franchir, faire le circuit à l'envers, en duo synchronisé.",
     "adaptation": "Augmenter la hauteur des passages, roulade optionnelle, rythme plus lent.",
     "duree": 18,
-    "materiel": ["Tables/bancs bas", "Tapis", "Cônes"],
-    "tags": ["parcours", "sol", "circuit", "roulade"]
+    "materiel": [
+      "Tables/bancs bas",
+      "Tapis",
+      "Cônes"
+    ],
+    "tags": [
+      "parcours",
+      "sol",
+      "circuit",
+      "roulade"
+    ],
+    "progression": {
+      "niveau1": {
+        "titre": "Débutant",
+        "description": "L'élève découvre l'activité et se familiarise avec les mouvements fondamentaux. Pour « Parcours ramper-rouler », voici les attentes à ce niveau.",
+        "consignes": [
+          "Garder le contrôle de son corps en mouvement",
+          "Se déplacer à vitesse lente dans un espace délimité",
+          "Suivre des lignes au sol ou des repères visuels"
+        ],
+        "criteres_reussite": [
+          "L'élève se déplace de façon contrôlée",
+          "Le patron moteur de base est reconnaissable"
+        ]
+      },
+      "niveau2": {
+        "titre": "Intermédiaire",
+        "description": "L'élève est capable d'exécuter l'activité de façon autonome avec quelques ajustements. Pour « Parcours ramper-rouler », voici les attentes à ce niveau.",
+        "consignes": [
+          "S'adapter au rythme d'un partenaire",
+          "Alterner entre deux types de déplacement",
+          "Se déplacer en changeant de direction sur signal"
+        ],
+        "criteres_reussite": [
+          "L'élève maintient sa vitesse dans les changements",
+          "La transition entre les déplacements est fluide"
+        ]
+      },
+      "niveau3": {
+        "titre": "Avancé",
+        "description": "L'élève démontre une maîtrise complète et peut enseigner aux autres. Pour « Parcours ramper-rouler », voici les attentes à ce niveau.",
+        "consignes": [
+          "Créer des feintes et des changements de rythme",
+          "Se déplacer en situation de jeu avec adversaire",
+          "Optimiser ses trajectoires pour l'efficacité"
+        ],
+        "criteres_reussite": [
+          "Les enchaînements sont fluides et rapides",
+          "L'élève se déplace avec agilité et efficacité"
+        ]
+      }
+    }
   },
   {
     "titre": "Ramper commando (armée)",
@@ -44,8 +191,57 @@
     "variantes": "Ramper sous un filet tendu, ramper avec un objet sur le dos, course de rampage en relais.",
     "adaptation": "Distance réduite à 4 m, ramper à genoux (pas ventre au sol), pauses fréquentes.",
     "duree": 10,
-    "materiel": ["Tapis longs", "Cônes"],
-    "tags": ["commando", "ramper", "coordination", "sol"]
+    "materiel": [
+      "Tapis longs",
+      "Cônes"
+    ],
+    "tags": [
+      "commando",
+      "ramper",
+      "coordination",
+      "sol"
+    ],
+    "progression": {
+      "niveau1": {
+        "titre": "Débutant",
+        "description": "L'accent est mis sur la compréhension des consignes et la sécurité. Pour « Ramper commando (armée) », voici les attentes à ce niveau.",
+        "consignes": [
+          "Suivre des lignes au sol ou des repères visuels",
+          "Pratiquer un seul type de déplacement à la fois",
+          "Garder le contrôle de son corps en mouvement"
+        ],
+        "criteres_reussite": [
+          "Le patron moteur de base est reconnaissable",
+          "L'élève freine et s'arrête sur commande"
+        ]
+      },
+      "niveau2": {
+        "titre": "Intermédiaire",
+        "description": "L'élève maîtrise les bases et cherche à améliorer sa constance et sa fluidité. Pour « Ramper commando (armée) », voici les attentes à ce niveau.",
+        "consignes": [
+          "Combiner déplacement et manipulation d'objet",
+          "Alterner entre deux types de déplacement",
+          "Augmenter la vitesse tout en gardant le contrôle"
+        ],
+        "criteres_reussite": [
+          "L'élève change de direction sans perte d'équilibre",
+          "La transition entre les déplacements est fluide"
+        ]
+      },
+      "niveau3": {
+        "titre": "Avancé",
+        "description": "L'élève démontre une maîtrise complète et peut enseigner aux autres. Pour « Ramper commando (armée) », voici les attentes à ce niveau.",
+        "consignes": [
+          "Réagir rapidement aux changements d'environnement",
+          "Optimiser ses trajectoires pour l'efficacité",
+          "Créer des feintes et des changements de rythme"
+        ],
+        "criteres_reussite": [
+          "Les enchaînements sont fluides et rapides",
+          "L'élève adapte ses déplacements à la situation de jeu"
+        ]
+      }
+    }
   },
   {
     "titre": "Roulade latérale (tronc d'arbre)",
@@ -56,8 +252,56 @@
     "variantes": "Rouler avec un ballon tenu entre les mains, rouler les yeux fermés, rouler en duo côte à côte.",
     "adaptation": "Tapis plus large, rouler sur un plan légèrement incliné, aide de l'enseignant pour maintenir l'alignement.",
     "duree": 8,
-    "materiel": ["Tapis de gym longs"],
-    "tags": ["roulade latérale", "tronc", "gainage", "maternelle"]
+    "materiel": [
+      "Tapis de gym longs"
+    ],
+    "tags": [
+      "roulade latérale",
+      "tronc",
+      "gainage",
+      "maternelle"
+    ],
+    "progression": {
+      "niveau1": {
+        "titre": "Débutant",
+        "description": "L'élève découvre l'activité et se familiarise avec les mouvements fondamentaux. Pour « Roulade latérale (tronc d'arbre) », voici les attentes à ce niveau.",
+        "consignes": [
+          "Pratiquer un seul type de déplacement à la fois",
+          "Se déplacer à vitesse lente dans un espace délimité",
+          "Respecter les limites de son espace"
+        ],
+        "criteres_reussite": [
+          "L'élève se déplace de façon contrôlée",
+          "L'élève freine et s'arrête sur commande"
+        ]
+      },
+      "niveau2": {
+        "titre": "Intermédiaire",
+        "description": "L'élève maîtrise les bases et cherche à améliorer sa constance et sa fluidité. Pour « Roulade latérale (tronc d'arbre) », voici les attentes à ce niveau.",
+        "consignes": [
+          "Se déplacer en changeant de direction sur signal",
+          "Augmenter la vitesse tout en gardant le contrôle",
+          "S'adapter au rythme d'un partenaire"
+        ],
+        "criteres_reussite": [
+          "La transition entre les déplacements est fluide",
+          "L'élève change de direction sans perte d'équilibre"
+        ]
+      },
+      "niveau3": {
+        "titre": "Avancé",
+        "description": "L'élève perfectionne sa technique et s'adapte à des situations complexes. Pour « Roulade latérale (tronc d'arbre) », voici les attentes à ce niveau.",
+        "consignes": [
+          "Combiner plusieurs types de déplacement en enchaînement",
+          "Réagir rapidement aux changements d'environnement",
+          "Se déplacer en situation de jeu avec adversaire"
+        ],
+        "criteres_reussite": [
+          "L'élève se déplace avec agilité et efficacité",
+          "Les enchaînements sont fluides et rapides"
+        ]
+      }
+    }
   },
   {
     "titre": "Ramper sous le tunnel de cerceaux",
@@ -68,8 +312,57 @@
     "variantes": "Tunnel en zigzag, tunnel avec tapis colorés au sol, tunnel à traverser en reculons.",
     "adaptation": "Cerceaux plus grands, tunnel plus large, passer à genoux au lieu de ramper.",
     "duree": 10,
-    "materiel": ["6-8 cerceaux", "Cônes pour les maintenir debout"],
-    "tags": ["tunnel", "cerceaux", "ramper", "maternelle"]
+    "materiel": [
+      "6-8 cerceaux",
+      "Cônes pour les maintenir debout"
+    ],
+    "tags": [
+      "tunnel",
+      "cerceaux",
+      "ramper",
+      "maternelle"
+    ],
+    "progression": {
+      "niveau1": {
+        "titre": "Débutant",
+        "description": "À ce stade, l'objectif est d'apprivoiser l'exercice sans pression de performance. Pour « Ramper sous le tunnel de cerceaux », voici les attentes à ce niveau.",
+        "consignes": [
+          "Garder le contrôle de son corps en mouvement",
+          "Suivre des lignes au sol ou des repères visuels",
+          "Pratiquer un seul type de déplacement à la fois"
+        ],
+        "criteres_reussite": [
+          "Le patron moteur de base est reconnaissable",
+          "L'élève se déplace de façon contrôlée"
+        ]
+      },
+      "niveau2": {
+        "titre": "Intermédiaire",
+        "description": "L'élève maîtrise les bases et cherche à améliorer sa constance et sa fluidité. Pour « Ramper sous le tunnel de cerceaux », voici les attentes à ce niveau.",
+        "consignes": [
+          "Alterner entre deux types de déplacement",
+          "Combiner déplacement et manipulation d'objet",
+          "S'adapter au rythme d'un partenaire"
+        ],
+        "criteres_reussite": [
+          "L'élève change de direction sans perte d'équilibre",
+          "La transition entre les déplacements est fluide"
+        ]
+      },
+      "niveau3": {
+        "titre": "Avancé",
+        "description": "L'élève perfectionne sa technique et s'adapte à des situations complexes. Pour « Ramper sous le tunnel de cerceaux », voici les attentes à ce niveau.",
+        "consignes": [
+          "Se déplacer en situation de jeu avec adversaire",
+          "Optimiser ses trajectoires pour l'efficacité",
+          "Combiner plusieurs types de déplacement en enchaînement"
+        ],
+        "criteres_reussite": [
+          "L'élève adapte ses déplacements à la situation de jeu",
+          "L'élève se déplace avec agilité et efficacité"
+        ]
+      }
+    }
   },
   {
     "titre": "Roulade avant enchaînée (3 roulades)",
@@ -80,8 +373,56 @@
     "variantes": "4-5 roulades enchaînées, alterner roulade avant et arrière, roulades avec réception debout entre chaque.",
     "adaptation": "2 roulades seulement, pause entre chaque, aide pour se relever.",
     "duree": 12,
-    "materiel": ["Tapis de gym longs (6 m minimum)"],
-    "tags": ["roulade avant", "enchaînement", "fluidité", "technique"]
+    "materiel": [
+      "Tapis de gym longs (6 m minimum)"
+    ],
+    "tags": [
+      "roulade avant",
+      "enchaînement",
+      "fluidité",
+      "technique"
+    ],
+    "progression": {
+      "niveau1": {
+        "titre": "Débutant",
+        "description": "L'élève découvre l'activité et se familiarise avec les mouvements fondamentaux. Pour « Roulade avant enchaînée (3 roulades) », voici les attentes à ce niveau.",
+        "consignes": [
+          "Garder le contrôle de son corps en mouvement",
+          "Suivre des lignes au sol ou des repères visuels",
+          "Pratiquer un seul type de déplacement à la fois"
+        ],
+        "criteres_reussite": [
+          "L'élève se déplace de façon contrôlée",
+          "Le patron moteur de base est reconnaissable"
+        ]
+      },
+      "niveau2": {
+        "titre": "Intermédiaire",
+        "description": "L'intermédiaire travaille la régularité et commence à combiner les habiletés. Pour « Roulade avant enchaînée (3 roulades) », voici les attentes à ce niveau.",
+        "consignes": [
+          "Augmenter la vitesse tout en gardant le contrôle",
+          "Se déplacer en changeant de direction sur signal",
+          "Alterner entre deux types de déplacement"
+        ],
+        "criteres_reussite": [
+          "La transition entre les déplacements est fluide",
+          "L'élève change de direction sans perte d'équilibre"
+        ]
+      },
+      "niveau3": {
+        "titre": "Avancé",
+        "description": "L'expert peut exécuter l'activité dans des contextes variés et exigeants. Pour « Roulade avant enchaînée (3 roulades) », voici les attentes à ce niveau.",
+        "consignes": [
+          "Optimiser ses trajectoires pour l'efficacité",
+          "Combiner plusieurs types de déplacement en enchaînement",
+          "Créer des feintes et des changements de rythme"
+        ],
+        "criteres_reussite": [
+          "L'élève se déplace avec agilité et efficacité",
+          "L'élève adapte ses déplacements à la situation de jeu"
+        ]
+      }
+    }
   },
   {
     "titre": "Ramper en chenille (inchworm)",
@@ -92,8 +433,56 @@
     "variantes": "Chenille à reculons, chenille avec push-up entre chaque avancée, chenille en duo synchronisé.",
     "adaptation": "Avancer les mains moins loin, genoux au sol permis, distance réduite.",
     "duree": 10,
-    "materiel": ["Tapis ou surface propre"],
-    "tags": ["chenille", "inchworm", "renforcement", "flexibilité"]
+    "materiel": [
+      "Tapis ou surface propre"
+    ],
+    "tags": [
+      "chenille",
+      "inchworm",
+      "renforcement",
+      "flexibilité"
+    ],
+    "progression": {
+      "niveau1": {
+        "titre": "Débutant",
+        "description": "L'accent est mis sur la compréhension des consignes et la sécurité. Pour « Ramper en chenille (inchworm) », voici les attentes à ce niveau.",
+        "consignes": [
+          "Garder le contrôle de son corps en mouvement",
+          "Pratiquer un seul type de déplacement à la fois",
+          "Se déplacer à vitesse lente dans un espace délimité"
+        ],
+        "criteres_reussite": [
+          "L'élève freine et s'arrête sur commande",
+          "Le patron moteur de base est reconnaissable"
+        ]
+      },
+      "niveau2": {
+        "titre": "Intermédiaire",
+        "description": "À ce niveau, on ajoute de la complexité tout en consolidant les acquis. Pour « Ramper en chenille (inchworm) », voici les attentes à ce niveau.",
+        "consignes": [
+          "Alterner entre deux types de déplacement",
+          "Combiner déplacement et manipulation d'objet",
+          "Augmenter la vitesse tout en gardant le contrôle"
+        ],
+        "criteres_reussite": [
+          "La transition entre les déplacements est fluide",
+          "L'élève maintient sa vitesse dans les changements"
+        ]
+      },
+      "niveau3": {
+        "titre": "Avancé",
+        "description": "L'élève perfectionne sa technique et s'adapte à des situations complexes. Pour « Ramper en chenille (inchworm) », voici les attentes à ce niveau.",
+        "consignes": [
+          "Optimiser ses trajectoires pour l'efficacité",
+          "Réagir rapidement aux changements d'environnement",
+          "Créer des feintes et des changements de rythme"
+        ],
+        "criteres_reussite": [
+          "L'élève se déplace avec agilité et efficacité",
+          "Les enchaînements sont fluides et rapides"
+        ]
+      }
+    }
   },
   {
     "titre": "Roulade groupée depuis debout",
@@ -104,8 +493,56 @@
     "variantes": "Roulade depuis un step, roulade avec impulsion (roulade plongée simplifiée), roulade vers position d'équilibre.",
     "adaptation": "Roulade depuis position accroupie, aide de l'enseignant, tapis plus épais.",
     "duree": 12,
-    "materiel": ["Tapis de gym épais"],
-    "tags": ["roulade", "debout", "groupé", "transition"]
+    "materiel": [
+      "Tapis de gym épais"
+    ],
+    "tags": [
+      "roulade",
+      "debout",
+      "groupé",
+      "transition"
+    ],
+    "progression": {
+      "niveau1": {
+        "titre": "Débutant",
+        "description": "L'élève découvre l'activité et se familiarise avec les mouvements fondamentaux. Pour « Roulade groupée depuis debout », voici les attentes à ce niveau.",
+        "consignes": [
+          "Garder le contrôle de son corps en mouvement",
+          "Suivre des lignes au sol ou des repères visuels",
+          "Pratiquer un seul type de déplacement à la fois"
+        ],
+        "criteres_reussite": [
+          "L'élève freine et s'arrête sur commande",
+          "L'élève se déplace de façon contrôlée"
+        ]
+      },
+      "niveau2": {
+        "titre": "Intermédiaire",
+        "description": "À ce niveau, on ajoute de la complexité tout en consolidant les acquis. Pour « Roulade groupée depuis debout », voici les attentes à ce niveau.",
+        "consignes": [
+          "Alterner entre deux types de déplacement",
+          "S'adapter au rythme d'un partenaire",
+          "Combiner déplacement et manipulation d'objet"
+        ],
+        "criteres_reussite": [
+          "La transition entre les déplacements est fluide",
+          "L'élève change de direction sans perte d'équilibre"
+        ]
+      },
+      "niveau3": {
+        "titre": "Avancé",
+        "description": "L'élève démontre une maîtrise complète et peut enseigner aux autres. Pour « Roulade groupée depuis debout », voici les attentes à ce niveau.",
+        "consignes": [
+          "Créer des feintes et des changements de rythme",
+          "Réagir rapidement aux changements d'environnement",
+          "Combiner plusieurs types de déplacement en enchaînement"
+        ],
+        "criteres_reussite": [
+          "L'élève adapte ses déplacements à la situation de jeu",
+          "Les enchaînements sont fluides et rapides"
+        ]
+      }
+    }
   },
   {
     "titre": "Ramper en étoile de mer",
@@ -116,8 +553,56 @@
     "variantes": "Étoile de mer sur le dos, étoile de mer en reculant, étoile de mer qui se retourne sur elle-même.",
     "adaptation": "Distance très courte (2 m), juste bouger les bras et jambes sur place, tapis confortable.",
     "duree": 8,
-    "materiel": ["Tapis de gym"],
-    "tags": ["étoile de mer", "ramper", "coordination", "maternelle"]
+    "materiel": [
+      "Tapis de gym"
+    ],
+    "tags": [
+      "étoile de mer",
+      "ramper",
+      "coordination",
+      "maternelle"
+    ],
+    "progression": {
+      "niveau1": {
+        "titre": "Débutant",
+        "description": "L'élève découvre l'activité et se familiarise avec les mouvements fondamentaux. Pour « Ramper en étoile de mer », voici les attentes à ce niveau.",
+        "consignes": [
+          "Pratiquer un seul type de déplacement à la fois",
+          "Respecter les limites de son espace",
+          "Suivre des lignes au sol ou des repères visuels"
+        ],
+        "criteres_reussite": [
+          "L'élève freine et s'arrête sur commande",
+          "Le patron moteur de base est reconnaissable"
+        ]
+      },
+      "niveau2": {
+        "titre": "Intermédiaire",
+        "description": "À ce niveau, on ajoute de la complexité tout en consolidant les acquis. Pour « Ramper en étoile de mer », voici les attentes à ce niveau.",
+        "consignes": [
+          "Alterner entre deux types de déplacement",
+          "Combiner déplacement et manipulation d'objet",
+          "S'adapter au rythme d'un partenaire"
+        ],
+        "criteres_reussite": [
+          "L'élève change de direction sans perte d'équilibre",
+          "La transition entre les déplacements est fluide"
+        ]
+      },
+      "niveau3": {
+        "titre": "Avancé",
+        "description": "L'élève perfectionne sa technique et s'adapte à des situations complexes. Pour « Ramper en étoile de mer », voici les attentes à ce niveau.",
+        "consignes": [
+          "Se déplacer en situation de jeu avec adversaire",
+          "Combiner plusieurs types de déplacement en enchaînement",
+          "Créer des feintes et des changements de rythme"
+        ],
+        "criteres_reussite": [
+          "Les enchaînements sont fluides et rapides",
+          "L'élève se déplace avec agilité et efficacité"
+        ]
+      }
+    }
   },
   {
     "titre": "Roulade en diagonale",
@@ -128,8 +613,56 @@
     "variantes": "Roulade arrière en diagonale, enchaîner diagonale aller-diagonale retour, roulade en courbe.",
     "adaptation": "Roulade droite d'abord, léger virage seulement, aide directionnelle de l'enseignant.",
     "duree": 12,
-    "materiel": ["Grand tapis (ou plusieurs tapis assemblés)"],
-    "tags": ["diagonale", "roulade", "direction", "contrôle"]
+    "materiel": [
+      "Grand tapis (ou plusieurs tapis assemblés)"
+    ],
+    "tags": [
+      "diagonale",
+      "roulade",
+      "direction",
+      "contrôle"
+    ],
+    "progression": {
+      "niveau1": {
+        "titre": "Débutant",
+        "description": "L'élève découvre l'activité et se familiarise avec les mouvements fondamentaux. Pour « Roulade en diagonale », voici les attentes à ce niveau.",
+        "consignes": [
+          "Suivre des lignes au sol ou des repères visuels",
+          "Se déplacer à vitesse lente dans un espace délimité",
+          "Respecter les limites de son espace"
+        ],
+        "criteres_reussite": [
+          "L'élève se déplace de façon contrôlée",
+          "L'élève freine et s'arrête sur commande"
+        ]
+      },
+      "niveau2": {
+        "titre": "Intermédiaire",
+        "description": "À ce niveau, on ajoute de la complexité tout en consolidant les acquis. Pour « Roulade en diagonale », voici les attentes à ce niveau.",
+        "consignes": [
+          "Augmenter la vitesse tout en gardant le contrôle",
+          "Combiner déplacement et manipulation d'objet",
+          "Se déplacer en changeant de direction sur signal"
+        ],
+        "criteres_reussite": [
+          "La transition entre les déplacements est fluide",
+          "L'élève maintient sa vitesse dans les changements"
+        ]
+      },
+      "niveau3": {
+        "titre": "Avancé",
+        "description": "À ce stade avancé, l'élève crée, innove et aide ses pairs. Pour « Roulade en diagonale », voici les attentes à ce niveau.",
+        "consignes": [
+          "Optimiser ses trajectoires pour l'efficacité",
+          "Combiner plusieurs types de déplacement en enchaînement",
+          "Réagir rapidement aux changements d'environnement"
+        ],
+        "criteres_reussite": [
+          "L'élève adapte ses déplacements à la situation de jeu",
+          "L'élève se déplace avec agilité et efficacité"
+        ]
+      }
+    }
   },
   {
     "titre": "Parcours militaire simplifié",
@@ -140,8 +673,59 @@
     "variantes": "Parcours en duo (un chrono, l'autre fait), ajouter stations, parcours en relais.",
     "adaptation": "Moins de stations, hauteurs augmentées, pas de chronomètre, assistance aux stations difficiles.",
     "duree": 20,
-    "materiel": ["Bâtons et cônes", "Tapis", "Banc", "Chronomètre"],
-    "tags": ["militaire", "parcours", "circuit", "chrono"]
+    "materiel": [
+      "Bâtons et cônes",
+      "Tapis",
+      "Banc",
+      "Chronomètre"
+    ],
+    "tags": [
+      "militaire",
+      "parcours",
+      "circuit",
+      "chrono"
+    ],
+    "progression": {
+      "niveau1": {
+        "titre": "Débutant",
+        "description": "Le débutant explore les bases de l'activité avec un accompagnement soutenu. Pour « Parcours militaire simplifié », voici les attentes à ce niveau.",
+        "consignes": [
+          "Pratiquer un seul type de déplacement à la fois",
+          "Se déplacer à vitesse lente dans un espace délimité",
+          "Respecter les limites de son espace"
+        ],
+        "criteres_reussite": [
+          "L'élève se déplace de façon contrôlée",
+          "L'élève freine et s'arrête sur commande"
+        ]
+      },
+      "niveau2": {
+        "titre": "Intermédiaire",
+        "description": "L'élève maîtrise les bases et cherche à améliorer sa constance et sa fluidité. Pour « Parcours militaire simplifié », voici les attentes à ce niveau.",
+        "consignes": [
+          "Se déplacer en changeant de direction sur signal",
+          "Augmenter la vitesse tout en gardant le contrôle",
+          "Combiner déplacement et manipulation d'objet"
+        ],
+        "criteres_reussite": [
+          "La transition entre les déplacements est fluide",
+          "L'élève change de direction sans perte d'équilibre"
+        ]
+      },
+      "niveau3": {
+        "titre": "Avancé",
+        "description": "À ce stade avancé, l'élève crée, innove et aide ses pairs. Pour « Parcours militaire simplifié », voici les attentes à ce niveau.",
+        "consignes": [
+          "Optimiser ses trajectoires pour l'efficacité",
+          "Créer des feintes et des changements de rythme",
+          "Combiner plusieurs types de déplacement en enchaînement"
+        ],
+        "criteres_reussite": [
+          "Les enchaînements sont fluides et rapides",
+          "L'élève se déplace avec agilité et efficacité"
+        ]
+      }
+    }
   },
   {
     "titre": "Ramper sur le dos (araignée inversée)",
@@ -152,8 +736,56 @@
     "variantes": "Araignée vers l'avant, araignée latérale, araignée avec ballon sur le ventre à transporter.",
     "adaptation": "Hanches au sol, avancer sur les fesses en poussant des pieds, distance réduite.",
     "duree": 10,
-    "materiel": ["Surface propre ou tapis"],
-    "tags": ["araignée", "crabe", "renforcement", "dos"]
+    "materiel": [
+      "Surface propre ou tapis"
+    ],
+    "tags": [
+      "araignée",
+      "crabe",
+      "renforcement",
+      "dos"
+    ],
+    "progression": {
+      "niveau1": {
+        "titre": "Débutant",
+        "description": "L'élève découvre l'activité et se familiarise avec les mouvements fondamentaux. Pour « Ramper sur le dos (araignée inversée) », voici les attentes à ce niveau.",
+        "consignes": [
+          "Suivre des lignes au sol ou des repères visuels",
+          "Respecter les limites de son espace",
+          "Garder le contrôle de son corps en mouvement"
+        ],
+        "criteres_reussite": [
+          "L'élève freine et s'arrête sur commande",
+          "Le patron moteur de base est reconnaissable"
+        ]
+      },
+      "niveau2": {
+        "titre": "Intermédiaire",
+        "description": "À ce niveau, on ajoute de la complexité tout en consolidant les acquis. Pour « Ramper sur le dos (araignée inversée) », voici les attentes à ce niveau.",
+        "consignes": [
+          "Combiner déplacement et manipulation d'objet",
+          "Alterner entre deux types de déplacement",
+          "S'adapter au rythme d'un partenaire"
+        ],
+        "criteres_reussite": [
+          "L'élève maintient sa vitesse dans les changements",
+          "La transition entre les déplacements est fluide"
+        ]
+      },
+      "niveau3": {
+        "titre": "Avancé",
+        "description": "L'élève démontre une maîtrise complète et peut enseigner aux autres. Pour « Ramper sur le dos (araignée inversée) », voici les attentes à ce niveau.",
+        "consignes": [
+          "Se déplacer en situation de jeu avec adversaire",
+          "Réagir rapidement aux changements d'environnement",
+          "Combiner plusieurs types de déplacement en enchaînement"
+        ],
+        "criteres_reussite": [
+          "L'élève se déplace avec agilité et efficacité",
+          "L'élève adapte ses déplacements à la situation de jeu"
+        ]
+      }
+    }
   },
   {
     "titre": "Roulade plongée sur tapis",
@@ -164,8 +796,57 @@
     "variantes": "Roulade plongée par-dessus un partenaire en boule, roulade plongée en longueur (mesurer), roulade plongée latérale.",
     "adaptation": "Pas d'obstacle, juste la roulade avec élan minimal, aide de l'enseignant pour les hanches.",
     "duree": 15,
-    "materiel": ["Tapis épais de réception", "Petit obstacle souple (mousse)"],
-    "tags": ["plongée", "roulade", "vol", "avancé"]
+    "materiel": [
+      "Tapis épais de réception",
+      "Petit obstacle souple (mousse)"
+    ],
+    "tags": [
+      "plongée",
+      "roulade",
+      "vol",
+      "avancé"
+    ],
+    "progression": {
+      "niveau1": {
+        "titre": "Débutant",
+        "description": "Le débutant explore les bases de l'activité avec un accompagnement soutenu. Pour « Roulade plongée sur tapis », voici les attentes à ce niveau.",
+        "consignes": [
+          "Respecter les limites de son espace",
+          "Se déplacer à vitesse lente dans un espace délimité",
+          "Pratiquer un seul type de déplacement à la fois"
+        ],
+        "criteres_reussite": [
+          "L'élève freine et s'arrête sur commande",
+          "L'élève se déplace de façon contrôlée"
+        ]
+      },
+      "niveau2": {
+        "titre": "Intermédiaire",
+        "description": "L'élève maîtrise les bases et cherche à améliorer sa constance et sa fluidité. Pour « Roulade plongée sur tapis », voici les attentes à ce niveau.",
+        "consignes": [
+          "Se déplacer en changeant de direction sur signal",
+          "Alterner entre deux types de déplacement",
+          "Combiner déplacement et manipulation d'objet"
+        ],
+        "criteres_reussite": [
+          "L'élève change de direction sans perte d'équilibre",
+          "L'élève maintient sa vitesse dans les changements"
+        ]
+      },
+      "niveau3": {
+        "titre": "Avancé",
+        "description": "L'élève perfectionne sa technique et s'adapte à des situations complexes. Pour « Roulade plongée sur tapis », voici les attentes à ce niveau.",
+        "consignes": [
+          "Optimiser ses trajectoires pour l'efficacité",
+          "Combiner plusieurs types de déplacement en enchaînement",
+          "Réagir rapidement aux changements d'environnement"
+        ],
+        "criteres_reussite": [
+          "L'élève se déplace avec agilité et efficacité",
+          "Les enchaînements sont fluides et rapides"
+        ]
+      }
+    }
   },
   {
     "titre": "Serpent au sol (ondulation)",
@@ -176,8 +857,56 @@
     "variantes": "Serpent qui siffle (faire le son), serpent qui suit un chemin tracé, serpent en duo.",
     "adaptation": "Utiliser les bras pour aider, ramper normal si l'ondulation est trop difficile, tapis confortable.",
     "duree": 8,
-    "materiel": ["Tapis de gym"],
-    "tags": ["serpent", "ondulation", "imitation", "maternelle"]
+    "materiel": [
+      "Tapis de gym"
+    ],
+    "tags": [
+      "serpent",
+      "ondulation",
+      "imitation",
+      "maternelle"
+    ],
+    "progression": {
+      "niveau1": {
+        "titre": "Débutant",
+        "description": "L'élève découvre l'activité et se familiarise avec les mouvements fondamentaux. Pour « Serpent au sol (ondulation) », voici les attentes à ce niveau.",
+        "consignes": [
+          "Suivre des lignes au sol ou des repères visuels",
+          "Se déplacer à vitesse lente dans un espace délimité",
+          "Pratiquer un seul type de déplacement à la fois"
+        ],
+        "criteres_reussite": [
+          "L'élève freine et s'arrête sur commande",
+          "L'élève se déplace de façon contrôlée"
+        ]
+      },
+      "niveau2": {
+        "titre": "Intermédiaire",
+        "description": "L'élève est capable d'exécuter l'activité de façon autonome avec quelques ajustements. Pour « Serpent au sol (ondulation) », voici les attentes à ce niveau.",
+        "consignes": [
+          "Combiner déplacement et manipulation d'objet",
+          "S'adapter au rythme d'un partenaire",
+          "Augmenter la vitesse tout en gardant le contrôle"
+        ],
+        "criteres_reussite": [
+          "L'élève maintient sa vitesse dans les changements",
+          "La transition entre les déplacements est fluide"
+        ]
+      },
+      "niveau3": {
+        "titre": "Avancé",
+        "description": "L'élève démontre une maîtrise complète et peut enseigner aux autres. Pour « Serpent au sol (ondulation) », voici les attentes à ce niveau.",
+        "consignes": [
+          "Se déplacer en situation de jeu avec adversaire",
+          "Optimiser ses trajectoires pour l'efficacité",
+          "Réagir rapidement aux changements d'environnement"
+        ],
+        "criteres_reussite": [
+          "Les enchaînements sont fluides et rapides",
+          "L'élève adapte ses déplacements à la situation de jeu"
+        ]
+      }
+    }
   },
   {
     "titre": "Roulade avant puis saut vertical",
@@ -188,8 +917,56 @@
     "variantes": "Roulade + saut groupé, roulade + saut demi-tour, roulade + sprint 5 m.",
     "adaptation": "Roulade puis lever debout seulement (sans saut), tempo lent, aide pour se relever.",
     "duree": 12,
-    "materiel": ["Tapis de gym"],
-    "tags": ["enchaînement", "roulade-saut", "transition", "réactivité"]
+    "materiel": [
+      "Tapis de gym"
+    ],
+    "tags": [
+      "enchaînement",
+      "roulade-saut",
+      "transition",
+      "réactivité"
+    ],
+    "progression": {
+      "niveau1": {
+        "titre": "Débutant",
+        "description": "À ce stade, l'objectif est d'apprivoiser l'exercice sans pression de performance. Pour « Roulade avant puis saut vertical », voici les attentes à ce niveau.",
+        "consignes": [
+          "Garder le contrôle de son corps en mouvement",
+          "Suivre des lignes au sol ou des repères visuels",
+          "Respecter les limites de son espace"
+        ],
+        "criteres_reussite": [
+          "L'élève freine et s'arrête sur commande",
+          "Le patron moteur de base est reconnaissable"
+        ]
+      },
+      "niveau2": {
+        "titre": "Intermédiaire",
+        "description": "L'élève est capable d'exécuter l'activité de façon autonome avec quelques ajustements. Pour « Roulade avant puis saut vertical », voici les attentes à ce niveau.",
+        "consignes": [
+          "Augmenter la vitesse tout en gardant le contrôle",
+          "Se déplacer en changeant de direction sur signal",
+          "Combiner déplacement et manipulation d'objet"
+        ],
+        "criteres_reussite": [
+          "L'élève maintient sa vitesse dans les changements",
+          "L'élève change de direction sans perte d'équilibre"
+        ]
+      },
+      "niveau3": {
+        "titre": "Avancé",
+        "description": "L'élève démontre une maîtrise complète et peut enseigner aux autres. Pour « Roulade avant puis saut vertical », voici les attentes à ce niveau.",
+        "consignes": [
+          "Réagir rapidement aux changements d'environnement",
+          "Se déplacer en situation de jeu avec adversaire",
+          "Optimiser ses trajectoires pour l'efficacité"
+        ],
+        "criteres_reussite": [
+          "L'élève adapte ses déplacements à la situation de jeu",
+          "L'élève se déplace avec agilité et efficacité"
+        ]
+      }
+    }
   },
   {
     "titre": "Ramper en duo synchronisé",
@@ -200,8 +977,56 @@
     "variantes": "Ramper face à face, ramper en file (suivre le leader), trio synchronisé.",
     "adaptation": "Ramper lentement, parcours court (4 m), pas de compétition.",
     "duree": 10,
-    "materiel": ["Tapis de gym (2 côte à côte)"],
-    "tags": ["duo", "synchronisé", "coopération", "ramper"]
+    "materiel": [
+      "Tapis de gym (2 côte à côte)"
+    ],
+    "tags": [
+      "duo",
+      "synchronisé",
+      "coopération",
+      "ramper"
+    ],
+    "progression": {
+      "niveau1": {
+        "titre": "Débutant",
+        "description": "À ce stade, l'objectif est d'apprivoiser l'exercice sans pression de performance. Pour « Ramper en duo synchronisé », voici les attentes à ce niveau.",
+        "consignes": [
+          "Pratiquer un seul type de déplacement à la fois",
+          "Suivre des lignes au sol ou des repères visuels",
+          "Se déplacer à vitesse lente dans un espace délimité"
+        ],
+        "criteres_reussite": [
+          "Le patron moteur de base est reconnaissable",
+          "L'élève freine et s'arrête sur commande"
+        ]
+      },
+      "niveau2": {
+        "titre": "Intermédiaire",
+        "description": "L'élève est capable d'exécuter l'activité de façon autonome avec quelques ajustements. Pour « Ramper en duo synchronisé », voici les attentes à ce niveau.",
+        "consignes": [
+          "Combiner déplacement et manipulation d'objet",
+          "Augmenter la vitesse tout en gardant le contrôle",
+          "Se déplacer en changeant de direction sur signal"
+        ],
+        "criteres_reussite": [
+          "La transition entre les déplacements est fluide",
+          "L'élève change de direction sans perte d'équilibre"
+        ]
+      },
+      "niveau3": {
+        "titre": "Avancé",
+        "description": "L'élève démontre une maîtrise complète et peut enseigner aux autres. Pour « Ramper en duo synchronisé », voici les attentes à ce niveau.",
+        "consignes": [
+          "Optimiser ses trajectoires pour l'efficacité",
+          "Créer des feintes et des changements de rythme",
+          "Se déplacer en situation de jeu avec adversaire"
+        ],
+        "criteres_reussite": [
+          "L'élève adapte ses déplacements à la situation de jeu",
+          "Les enchaînements sont fluides et rapides"
+        ]
+      }
+    }
   },
   {
     "titre": "Roue simplifiée (ligne au sol)",
@@ -212,8 +1037,58 @@
     "variantes": "Roue d'un seul bras, roue enchaînée, rondade (roue avec réception 2 pieds).",
     "adaptation": "Monter les pieds au mur seulement, aide de l'enseignant (tenir les hanches), mini-roue (quart de tour).",
     "duree": 20,
-    "materiel": ["Tapis de gym épais", "Mur", "Ligne au sol"],
-    "tags": ["roue", "acrobatie", "verticale", "technique"]
+    "materiel": [
+      "Tapis de gym épais",
+      "Mur",
+      "Ligne au sol"
+    ],
+    "tags": [
+      "roue",
+      "acrobatie",
+      "verticale",
+      "technique"
+    ],
+    "progression": {
+      "niveau1": {
+        "titre": "Débutant",
+        "description": "L'accent est mis sur la compréhension des consignes et la sécurité. Pour « Roue simplifiée (ligne au sol) », voici les attentes à ce niveau.",
+        "consignes": [
+          "Garder le contrôle de son corps en mouvement",
+          "Respecter les limites de son espace",
+          "Suivre des lignes au sol ou des repères visuels"
+        ],
+        "criteres_reussite": [
+          "Le patron moteur de base est reconnaissable",
+          "L'élève freine et s'arrête sur commande"
+        ]
+      },
+      "niveau2": {
+        "titre": "Intermédiaire",
+        "description": "À ce niveau, on ajoute de la complexité tout en consolidant les acquis. Pour « Roue simplifiée (ligne au sol) », voici les attentes à ce niveau.",
+        "consignes": [
+          "Augmenter la vitesse tout en gardant le contrôle",
+          "S'adapter au rythme d'un partenaire",
+          "Alterner entre deux types de déplacement"
+        ],
+        "criteres_reussite": [
+          "L'élève change de direction sans perte d'équilibre",
+          "L'élève maintient sa vitesse dans les changements"
+        ]
+      },
+      "niveau3": {
+        "titre": "Avancé",
+        "description": "L'expert peut exécuter l'activité dans des contextes variés et exigeants. Pour « Roue simplifiée (ligne au sol) », voici les attentes à ce niveau.",
+        "consignes": [
+          "Créer des feintes et des changements de rythme",
+          "Réagir rapidement aux changements d'environnement",
+          "Se déplacer en situation de jeu avec adversaire"
+        ],
+        "criteres_reussite": [
+          "L'élève adapte ses déplacements à la situation de jeu",
+          "Les enchaînements sont fluides et rapides"
+        ]
+      }
+    }
   },
   {
     "titre": "Ramper sous filet bas",
@@ -224,8 +1099,58 @@
     "variantes": "Hauteur progressive (40, 35, 30 cm), ramper sous le filet avec objet dans la main, filet en zigzag.",
     "adaptation": "Filet plus haut (50 cm), passer en rampant ou à quatre pattes, distance réduite.",
     "duree": 10,
-    "materiel": ["Filet ou cordes tendues", "Cônes pour supporter", "Tapis"],
-    "tags": ["filet", "ramper", "espace", "hauteur"]
+    "materiel": [
+      "Filet ou cordes tendues",
+      "Cônes pour supporter",
+      "Tapis"
+    ],
+    "tags": [
+      "filet",
+      "ramper",
+      "espace",
+      "hauteur"
+    ],
+    "progression": {
+      "niveau1": {
+        "titre": "Débutant",
+        "description": "L'élève découvre l'activité et se familiarise avec les mouvements fondamentaux. Pour « Ramper sous filet bas », voici les attentes à ce niveau.",
+        "consignes": [
+          "Pratiquer un seul type de déplacement à la fois",
+          "Suivre des lignes au sol ou des repères visuels",
+          "Garder le contrôle de son corps en mouvement"
+        ],
+        "criteres_reussite": [
+          "L'élève se déplace de façon contrôlée",
+          "Le patron moteur de base est reconnaissable"
+        ]
+      },
+      "niveau2": {
+        "titre": "Intermédiaire",
+        "description": "L'élève maîtrise les bases et cherche à améliorer sa constance et sa fluidité. Pour « Ramper sous filet bas », voici les attentes à ce niveau.",
+        "consignes": [
+          "S'adapter au rythme d'un partenaire",
+          "Combiner déplacement et manipulation d'objet",
+          "Augmenter la vitesse tout en gardant le contrôle"
+        ],
+        "criteres_reussite": [
+          "L'élève maintient sa vitesse dans les changements",
+          "La transition entre les déplacements est fluide"
+        ]
+      },
+      "niveau3": {
+        "titre": "Avancé",
+        "description": "L'élève démontre une maîtrise complète et peut enseigner aux autres. Pour « Ramper sous filet bas », voici les attentes à ce niveau.",
+        "consignes": [
+          "Se déplacer en situation de jeu avec adversaire",
+          "Créer des feintes et des changements de rythme",
+          "Optimiser ses trajectoires pour l'efficacité"
+        ],
+        "criteres_reussite": [
+          "L'élève adapte ses déplacements à la situation de jeu",
+          "L'élève se déplace avec agilité et efficacité"
+        ]
+      }
+    }
   },
   {
     "titre": "Roulade cosaque (jambe tendue)",
@@ -236,8 +1161,56 @@
     "variantes": "Roulade cosaque arrière, enchaîner cosaque + pirouette, cosaque avec changement de jambe.",
     "adaptation": "Roulade normale avec tentative de lever une jambe à la fin, aide de l'enseignant, tapis épais.",
     "duree": 15,
-    "materiel": ["Tapis de gym épais"],
-    "tags": ["cosaque", "roulade", "dissociation", "gymnique"]
+    "materiel": [
+      "Tapis de gym épais"
+    ],
+    "tags": [
+      "cosaque",
+      "roulade",
+      "dissociation",
+      "gymnique"
+    ],
+    "progression": {
+      "niveau1": {
+        "titre": "Débutant",
+        "description": "À ce stade, l'objectif est d'apprivoiser l'exercice sans pression de performance. Pour « Roulade cosaque (jambe tendue) », voici les attentes à ce niveau.",
+        "consignes": [
+          "Respecter les limites de son espace",
+          "Garder le contrôle de son corps en mouvement",
+          "Se déplacer à vitesse lente dans un espace délimité"
+        ],
+        "criteres_reussite": [
+          "Le patron moteur de base est reconnaissable",
+          "L'élève se déplace de façon contrôlée"
+        ]
+      },
+      "niveau2": {
+        "titre": "Intermédiaire",
+        "description": "L'élève est capable d'exécuter l'activité de façon autonome avec quelques ajustements. Pour « Roulade cosaque (jambe tendue) », voici les attentes à ce niveau.",
+        "consignes": [
+          "Combiner déplacement et manipulation d'objet",
+          "Augmenter la vitesse tout en gardant le contrôle",
+          "S'adapter au rythme d'un partenaire"
+        ],
+        "criteres_reussite": [
+          "L'élève maintient sa vitesse dans les changements",
+          "L'élève change de direction sans perte d'équilibre"
+        ]
+      },
+      "niveau3": {
+        "titre": "Avancé",
+        "description": "L'élève démontre une maîtrise complète et peut enseigner aux autres. Pour « Roulade cosaque (jambe tendue) », voici les attentes à ce niveau.",
+        "consignes": [
+          "Créer des feintes et des changements de rythme",
+          "Se déplacer en situation de jeu avec adversaire",
+          "Combiner plusieurs types de déplacement en enchaînement"
+        ],
+        "criteres_reussite": [
+          "Les enchaînements sont fluides et rapides",
+          "L'élève adapte ses déplacements à la situation de jeu"
+        ]
+      }
+    }
   },
   {
     "titre": "Chenille humaine (groupe)",
@@ -248,8 +1221,56 @@
     "variantes": "Chenille en reculant, chenille en virage, course de chenilles entre équipes.",
     "adaptation": "Groupe de 3, avancer lentement, tenir les pieds au lieu des chevilles.",
     "duree": 10,
-    "materiel": ["Espace dégagé"],
-    "tags": ["chenille humaine", "groupe", "coopération", "coordination"]
+    "materiel": [
+      "Espace dégagé"
+    ],
+    "tags": [
+      "chenille humaine",
+      "groupe",
+      "coopération",
+      "coordination"
+    ],
+    "progression": {
+      "niveau1": {
+        "titre": "Débutant",
+        "description": "L'élève découvre l'activité et se familiarise avec les mouvements fondamentaux. Pour « Chenille humaine (groupe) », voici les attentes à ce niveau.",
+        "consignes": [
+          "Suivre des lignes au sol ou des repères visuels",
+          "Respecter les limites de son espace",
+          "Garder le contrôle de son corps en mouvement"
+        ],
+        "criteres_reussite": [
+          "Le patron moteur de base est reconnaissable",
+          "L'élève se déplace de façon contrôlée"
+        ]
+      },
+      "niveau2": {
+        "titre": "Intermédiaire",
+        "description": "L'intermédiaire travaille la régularité et commence à combiner les habiletés. Pour « Chenille humaine (groupe) », voici les attentes à ce niveau.",
+        "consignes": [
+          "Alterner entre deux types de déplacement",
+          "S'adapter au rythme d'un partenaire",
+          "Combiner déplacement et manipulation d'objet"
+        ],
+        "criteres_reussite": [
+          "L'élève change de direction sans perte d'équilibre",
+          "L'élève maintient sa vitesse dans les changements"
+        ]
+      },
+      "niveau3": {
+        "titre": "Avancé",
+        "description": "À ce stade avancé, l'élève crée, innove et aide ses pairs. Pour « Chenille humaine (groupe) », voici les attentes à ce niveau.",
+        "consignes": [
+          "Combiner plusieurs types de déplacement en enchaînement",
+          "Réagir rapidement aux changements d'environnement",
+          "Se déplacer en situation de jeu avec adversaire"
+        ],
+        "criteres_reussite": [
+          "L'élève se déplace avec agilité et efficacité",
+          "L'élève adapte ses déplacements à la situation de jeu"
+        ]
+      }
+    }
   },
   {
     "titre": "Roulade arrière à position debout",
@@ -260,8 +1281,56 @@
     "variantes": "Roulade arrière + saut, roulade arrière + pivot 180°, enchaîner avant-arrière debout.",
     "adaptation": "Se relever avec une main au sol, plan incliné, aide de l'enseignant.",
     "duree": 12,
-    "materiel": ["Tapis de gym épais"],
-    "tags": ["roulade arrière", "debout", "puissance", "technique"]
+    "materiel": [
+      "Tapis de gym épais"
+    ],
+    "tags": [
+      "roulade arrière",
+      "debout",
+      "puissance",
+      "technique"
+    ],
+    "progression": {
+      "niveau1": {
+        "titre": "Débutant",
+        "description": "L'accent est mis sur la compréhension des consignes et la sécurité. Pour « Roulade arrière à position debout », voici les attentes à ce niveau.",
+        "consignes": [
+          "Pratiquer un seul type de déplacement à la fois",
+          "Se déplacer à vitesse lente dans un espace délimité",
+          "Suivre des lignes au sol ou des repères visuels"
+        ],
+        "criteres_reussite": [
+          "L'élève freine et s'arrête sur commande",
+          "Le patron moteur de base est reconnaissable"
+        ]
+      },
+      "niveau2": {
+        "titre": "Intermédiaire",
+        "description": "L'intermédiaire travaille la régularité et commence à combiner les habiletés. Pour « Roulade arrière à position debout », voici les attentes à ce niveau.",
+        "consignes": [
+          "Combiner déplacement et manipulation d'objet",
+          "Se déplacer en changeant de direction sur signal",
+          "S'adapter au rythme d'un partenaire"
+        ],
+        "criteres_reussite": [
+          "L'élève change de direction sans perte d'équilibre",
+          "La transition entre les déplacements est fluide"
+        ]
+      },
+      "niveau3": {
+        "titre": "Avancé",
+        "description": "L'élève perfectionne sa technique et s'adapte à des situations complexes. Pour « Roulade arrière à position debout », voici les attentes à ce niveau.",
+        "consignes": [
+          "Combiner plusieurs types de déplacement en enchaînement",
+          "Se déplacer en situation de jeu avec adversaire",
+          "Créer des feintes et des changements de rythme"
+        ],
+        "criteres_reussite": [
+          "L'élève se déplace avec agilité et efficacité",
+          "Les enchaînements sont fluides et rapides"
+        ]
+      }
+    }
   },
   {
     "titre": "Ramper en course de relais sous obstacles",
@@ -272,8 +1341,58 @@
     "variantes": "Obstacles de hauteurs différentes, ramper + roulade + sprint, parcours en zigzag.",
     "adaptation": "Obstacles plus hauts, moins d'obstacles, distance réduite.",
     "duree": 15,
-    "materiel": ["Bancs ou haies", "Cônes", "Chronomètre"],
-    "tags": ["relais", "ramper", "obstacles", "vitesse"]
+    "materiel": [
+      "Bancs ou haies",
+      "Cônes",
+      "Chronomètre"
+    ],
+    "tags": [
+      "relais",
+      "ramper",
+      "obstacles",
+      "vitesse"
+    ],
+    "progression": {
+      "niveau1": {
+        "titre": "Débutant",
+        "description": "Le débutant explore les bases de l'activité avec un accompagnement soutenu. Pour « Ramper en course de relais sous obstacles », voici les attentes à ce niveau.",
+        "consignes": [
+          "Respecter les limites de son espace",
+          "Garder le contrôle de son corps en mouvement",
+          "Se déplacer à vitesse lente dans un espace délimité"
+        ],
+        "criteres_reussite": [
+          "L'élève freine et s'arrête sur commande",
+          "Le patron moteur de base est reconnaissable"
+        ]
+      },
+      "niveau2": {
+        "titre": "Intermédiaire",
+        "description": "L'élève maîtrise les bases et cherche à améliorer sa constance et sa fluidité. Pour « Ramper en course de relais sous obstacles », voici les attentes à ce niveau.",
+        "consignes": [
+          "Augmenter la vitesse tout en gardant le contrôle",
+          "Alterner entre deux types de déplacement",
+          "Se déplacer en changeant de direction sur signal"
+        ],
+        "criteres_reussite": [
+          "L'élève change de direction sans perte d'équilibre",
+          "La transition entre les déplacements est fluide"
+        ]
+      },
+      "niveau3": {
+        "titre": "Avancé",
+        "description": "L'élève démontre une maîtrise complète et peut enseigner aux autres. Pour « Ramper en course de relais sous obstacles », voici les attentes à ce niveau.",
+        "consignes": [
+          "Combiner plusieurs types de déplacement en enchaînement",
+          "Se déplacer en situation de jeu avec adversaire",
+          "Optimiser ses trajectoires pour l'efficacité"
+        ],
+        "criteres_reussite": [
+          "Les enchaînements sont fluides et rapides",
+          "L'élève adapte ses déplacements à la situation de jeu"
+        ]
+      }
+    }
   },
   {
     "titre": "Roulade sur plan incliné (tremplin)",
@@ -284,8 +1403,57 @@
     "variantes": "Plan incliné plus abrupt, roulade arrière en descendant, roulade depuis genoux.",
     "adaptation": "Pente très douce, aide aux hanches, juste basculer en arrière sur le tapis.",
     "duree": 10,
-    "materiel": ["Tapis incliné ou tremplin mousse", "Tapis de réception en bas"],
-    "tags": ["plan incliné", "initiation", "roulade", "maternelle"]
+    "materiel": [
+      "Tapis incliné ou tremplin mousse",
+      "Tapis de réception en bas"
+    ],
+    "tags": [
+      "plan incliné",
+      "initiation",
+      "roulade",
+      "maternelle"
+    ],
+    "progression": {
+      "niveau1": {
+        "titre": "Débutant",
+        "description": "L'accent est mis sur la compréhension des consignes et la sécurité. Pour « Roulade sur plan incliné (tremplin) », voici les attentes à ce niveau.",
+        "consignes": [
+          "Suivre des lignes au sol ou des repères visuels",
+          "Se déplacer à vitesse lente dans un espace délimité",
+          "Pratiquer un seul type de déplacement à la fois"
+        ],
+        "criteres_reussite": [
+          "L'élève freine et s'arrête sur commande",
+          "Le patron moteur de base est reconnaissable"
+        ]
+      },
+      "niveau2": {
+        "titre": "Intermédiaire",
+        "description": "L'intermédiaire travaille la régularité et commence à combiner les habiletés. Pour « Roulade sur plan incliné (tremplin) », voici les attentes à ce niveau.",
+        "consignes": [
+          "S'adapter au rythme d'un partenaire",
+          "Augmenter la vitesse tout en gardant le contrôle",
+          "Combiner déplacement et manipulation d'objet"
+        ],
+        "criteres_reussite": [
+          "L'élève change de direction sans perte d'équilibre",
+          "La transition entre les déplacements est fluide"
+        ]
+      },
+      "niveau3": {
+        "titre": "Avancé",
+        "description": "À ce stade avancé, l'élève crée, innove et aide ses pairs. Pour « Roulade sur plan incliné (tremplin) », voici les attentes à ce niveau.",
+        "consignes": [
+          "Réagir rapidement aux changements d'environnement",
+          "Combiner plusieurs types de déplacement en enchaînement",
+          "Se déplacer en situation de jeu avec adversaire"
+        ],
+        "criteres_reussite": [
+          "L'élève se déplace avec agilité et efficacité",
+          "L'élève adapte ses déplacements à la situation de jeu"
+        ]
+      }
+    }
   },
   {
     "titre": "Déplacement du crocodile",
@@ -296,8 +1464,56 @@
     "variantes": "Crocodile à reculons, crocodile avec objet entre les pieds, course de crocodiles.",
     "adaptation": "Distance réduite à 4 m, utiliser les genoux en plus des orteils, pauses fréquentes.",
     "duree": 10,
-    "materiel": ["Tapis de gym"],
-    "tags": ["crocodile", "traction", "renforcement", "sol"]
+    "materiel": [
+      "Tapis de gym"
+    ],
+    "tags": [
+      "crocodile",
+      "traction",
+      "renforcement",
+      "sol"
+    ],
+    "progression": {
+      "niveau1": {
+        "titre": "Débutant",
+        "description": "L'élève découvre l'activité et se familiarise avec les mouvements fondamentaux. Pour « Déplacement du crocodile », voici les attentes à ce niveau.",
+        "consignes": [
+          "Respecter les limites de son espace",
+          "Pratiquer un seul type de déplacement à la fois",
+          "Garder le contrôle de son corps en mouvement"
+        ],
+        "criteres_reussite": [
+          "Le patron moteur de base est reconnaissable",
+          "L'élève se déplace de façon contrôlée"
+        ]
+      },
+      "niveau2": {
+        "titre": "Intermédiaire",
+        "description": "L'intermédiaire travaille la régularité et commence à combiner les habiletés. Pour « Déplacement du crocodile », voici les attentes à ce niveau.",
+        "consignes": [
+          "Augmenter la vitesse tout en gardant le contrôle",
+          "Se déplacer en changeant de direction sur signal",
+          "S'adapter au rythme d'un partenaire"
+        ],
+        "criteres_reussite": [
+          "L'élève maintient sa vitesse dans les changements",
+          "L'élève change de direction sans perte d'équilibre"
+        ]
+      },
+      "niveau3": {
+        "titre": "Avancé",
+        "description": "À ce stade avancé, l'élève crée, innove et aide ses pairs. Pour « Déplacement du crocodile », voici les attentes à ce niveau.",
+        "consignes": [
+          "Créer des feintes et des changements de rythme",
+          "Optimiser ses trajectoires pour l'efficacité",
+          "Combiner plusieurs types de déplacement en enchaînement"
+        ],
+        "criteres_reussite": [
+          "L'élève adapte ses déplacements à la situation de jeu",
+          "Les enchaînements sont fluides et rapides"
+        ]
+      }
+    }
   },
   {
     "titre": "Enchaînement gymnastique au sol (débutant)",
@@ -308,8 +1524,56 @@
     "variantes": "Ajouter un saut dans l'enchaînement, créer son propre enchaînement, enchaînement en musique.",
     "adaptation": "2 éléments seulement, pauses permises, aide technique de l'enseignant.",
     "duree": 20,
-    "materiel": ["Tapis de gym longs"],
-    "tags": ["enchaînement", "gymnastique", "fluidité", "évaluation"]
+    "materiel": [
+      "Tapis de gym longs"
+    ],
+    "tags": [
+      "enchaînement",
+      "gymnastique",
+      "fluidité",
+      "évaluation"
+    ],
+    "progression": {
+      "niveau1": {
+        "titre": "Débutant",
+        "description": "L'élève découvre l'activité et se familiarise avec les mouvements fondamentaux. Pour « Enchaînement gymnastique au sol (débutant) », voici les attentes à ce niveau.",
+        "consignes": [
+          "Pratiquer un seul type de déplacement à la fois",
+          "Respecter les limites de son espace",
+          "Se déplacer à vitesse lente dans un espace délimité"
+        ],
+        "criteres_reussite": [
+          "L'élève freine et s'arrête sur commande",
+          "Le patron moteur de base est reconnaissable"
+        ]
+      },
+      "niveau2": {
+        "titre": "Intermédiaire",
+        "description": "L'intermédiaire travaille la régularité et commence à combiner les habiletés. Pour « Enchaînement gymnastique au sol (débutant) », voici les attentes à ce niveau.",
+        "consignes": [
+          "Combiner déplacement et manipulation d'objet",
+          "Se déplacer en changeant de direction sur signal",
+          "Alterner entre deux types de déplacement"
+        ],
+        "criteres_reussite": [
+          "L'élève change de direction sans perte d'équilibre",
+          "L'élève maintient sa vitesse dans les changements"
+        ]
+      },
+      "niveau3": {
+        "titre": "Avancé",
+        "description": "L'expert peut exécuter l'activité dans des contextes variés et exigeants. Pour « Enchaînement gymnastique au sol (débutant) », voici les attentes à ce niveau.",
+        "consignes": [
+          "Réagir rapidement aux changements d'environnement",
+          "Optimiser ses trajectoires pour l'efficacité",
+          "Se déplacer en situation de jeu avec adversaire"
+        ],
+        "criteres_reussite": [
+          "Les enchaînements sont fluides et rapides",
+          "L'élève se déplace avec agilité et efficacité"
+        ]
+      }
+    }
   },
   {
     "titre": "Ramper en marche arrière sous banc",
@@ -320,8 +1584,57 @@
     "variantes": "Ramper en arrière les yeux fermés (guidé par un partenaire), sous plusieurs bancs en ligne, en compétition de vitesse.",
     "adaptation": "Banc plus haut, distance réduite, ramper en avant sous le banc d'abord.",
     "duree": 10,
-    "materiel": ["Banc suédois", "Tapis"],
-    "tags": ["marche arrière", "banc", "proprioception", "espace"]
+    "materiel": [
+      "Banc suédois",
+      "Tapis"
+    ],
+    "tags": [
+      "marche arrière",
+      "banc",
+      "proprioception",
+      "espace"
+    ],
+    "progression": {
+      "niveau1": {
+        "titre": "Débutant",
+        "description": "À ce stade, l'objectif est d'apprivoiser l'exercice sans pression de performance. Pour « Ramper en marche arrière sous banc », voici les attentes à ce niveau.",
+        "consignes": [
+          "Garder le contrôle de son corps en mouvement",
+          "Se déplacer à vitesse lente dans un espace délimité",
+          "Suivre des lignes au sol ou des repères visuels"
+        ],
+        "criteres_reussite": [
+          "L'élève freine et s'arrête sur commande",
+          "L'élève se déplace de façon contrôlée"
+        ]
+      },
+      "niveau2": {
+        "titre": "Intermédiaire",
+        "description": "L'intermédiaire travaille la régularité et commence à combiner les habiletés. Pour « Ramper en marche arrière sous banc », voici les attentes à ce niveau.",
+        "consignes": [
+          "S'adapter au rythme d'un partenaire",
+          "Alterner entre deux types de déplacement",
+          "Se déplacer en changeant de direction sur signal"
+        ],
+        "criteres_reussite": [
+          "L'élève maintient sa vitesse dans les changements",
+          "L'élève change de direction sans perte d'équilibre"
+        ]
+      },
+      "niveau3": {
+        "titre": "Avancé",
+        "description": "L'élève perfectionne sa technique et s'adapte à des situations complexes. Pour « Ramper en marche arrière sous banc », voici les attentes à ce niveau.",
+        "consignes": [
+          "Optimiser ses trajectoires pour l'efficacité",
+          "Se déplacer en situation de jeu avec adversaire",
+          "Créer des feintes et des changements de rythme"
+        ],
+        "criteres_reussite": [
+          "Les enchaînements sont fluides et rapides",
+          "L'élève adapte ses déplacements à la situation de jeu"
+        ]
+      }
+    }
   },
   {
     "titre": "Roulade sur le côté avec ballon",
@@ -332,8 +1645,57 @@
     "variantes": "Roulade avec objet entre les pieds, roulade en passant le ballon au partenaire à la fin, roulade les yeux fermés.",
     "adaptation": "Ballon léger (mousse), roulade sans objet d'abord, aide de l'enseignant.",
     "duree": 10,
-    "materiel": ["Ballons de mousse", "Tapis de gym"],
-    "tags": ["roulade", "ballon", "coordination", "latérale"]
+    "materiel": [
+      "Ballons de mousse",
+      "Tapis de gym"
+    ],
+    "tags": [
+      "roulade",
+      "ballon",
+      "coordination",
+      "latérale"
+    ],
+    "progression": {
+      "niveau1": {
+        "titre": "Débutant",
+        "description": "L'accent est mis sur la compréhension des consignes et la sécurité. Pour « Roulade sur le côté avec ballon », voici les attentes à ce niveau.",
+        "consignes": [
+          "Pratiquer un seul type de déplacement à la fois",
+          "Garder le contrôle de son corps en mouvement",
+          "Suivre des lignes au sol ou des repères visuels"
+        ],
+        "criteres_reussite": [
+          "Le patron moteur de base est reconnaissable",
+          "L'élève freine et s'arrête sur commande"
+        ]
+      },
+      "niveau2": {
+        "titre": "Intermédiaire",
+        "description": "À ce niveau, on ajoute de la complexité tout en consolidant les acquis. Pour « Roulade sur le côté avec ballon », voici les attentes à ce niveau.",
+        "consignes": [
+          "Se déplacer en changeant de direction sur signal",
+          "Augmenter la vitesse tout en gardant le contrôle",
+          "Combiner déplacement et manipulation d'objet"
+        ],
+        "criteres_reussite": [
+          "L'élève maintient sa vitesse dans les changements",
+          "La transition entre les déplacements est fluide"
+        ]
+      },
+      "niveau3": {
+        "titre": "Avancé",
+        "description": "L'élève perfectionne sa technique et s'adapte à des situations complexes. Pour « Roulade sur le côté avec ballon », voici les attentes à ce niveau.",
+        "consignes": [
+          "Optimiser ses trajectoires pour l'efficacité",
+          "Réagir rapidement aux changements d'environnement",
+          "Se déplacer en situation de jeu avec adversaire"
+        ],
+        "criteres_reussite": [
+          "L'élève se déplace avec agilité et efficacité",
+          "Les enchaînements sont fluides et rapides"
+        ]
+      }
+    }
   },
   {
     "titre": "Parcours ninja au sol",
@@ -344,8 +1706,60 @@
     "variantes": "Parcours en duo (synchronisé ou compétitif), ajout d'épreuves de force, parcours à l'envers.",
     "adaptation": "Moins de stations, pas de chrono, éléments simplifiés, assistance aux stations difficiles.",
     "duree": 25,
-    "materiel": ["Filet", "Tapis", "Cônes", "Haies basses", "Chronomètre"],
-    "tags": ["ninja", "parcours", "circuit", "complet"]
+    "materiel": [
+      "Filet",
+      "Tapis",
+      "Cônes",
+      "Haies basses",
+      "Chronomètre"
+    ],
+    "tags": [
+      "ninja",
+      "parcours",
+      "circuit",
+      "complet"
+    ],
+    "progression": {
+      "niveau1": {
+        "titre": "Débutant",
+        "description": "À ce stade, l'objectif est d'apprivoiser l'exercice sans pression de performance. Pour « Parcours ninja au sol », voici les attentes à ce niveau.",
+        "consignes": [
+          "Pratiquer un seul type de déplacement à la fois",
+          "Se déplacer à vitesse lente dans un espace délimité",
+          "Garder le contrôle de son corps en mouvement"
+        ],
+        "criteres_reussite": [
+          "L'élève se déplace de façon contrôlée",
+          "L'élève freine et s'arrête sur commande"
+        ]
+      },
+      "niveau2": {
+        "titre": "Intermédiaire",
+        "description": "À ce niveau, on ajoute de la complexité tout en consolidant les acquis. Pour « Parcours ninja au sol », voici les attentes à ce niveau.",
+        "consignes": [
+          "Alterner entre deux types de déplacement",
+          "Augmenter la vitesse tout en gardant le contrôle",
+          "Combiner déplacement et manipulation d'objet"
+        ],
+        "criteres_reussite": [
+          "L'élève change de direction sans perte d'équilibre",
+          "L'élève maintient sa vitesse dans les changements"
+        ]
+      },
+      "niveau3": {
+        "titre": "Avancé",
+        "description": "L'expert peut exécuter l'activité dans des contextes variés et exigeants. Pour « Parcours ninja au sol », voici les attentes à ce niveau.",
+        "consignes": [
+          "Combiner plusieurs types de déplacement en enchaînement",
+          "Créer des feintes et des changements de rythme",
+          "Optimiser ses trajectoires pour l'efficacité"
+        ],
+        "criteres_reussite": [
+          "L'élève adapte ses déplacements à la situation de jeu",
+          "L'élève se déplace avec agilité et efficacité"
+        ]
+      }
+    }
   },
   {
     "titre": "Roulade avant en équilibre sur poutre basse",
@@ -356,8 +1770,57 @@
     "variantes": "Roulade arrière sur poutre, enchaînement roulade + marche + tour sur poutre.",
     "adaptation": "Roulade sur banc retourné (plus large), aide de l'enseignant, roulade au sol à côté de la poutre.",
     "duree": 20,
-    "materiel": ["Poutre basse", "Tapis de sécurité de chaque côté"],
-    "tags": ["poutre", "roulade", "équilibre", "contrôle"]
+    "materiel": [
+      "Poutre basse",
+      "Tapis de sécurité de chaque côté"
+    ],
+    "tags": [
+      "poutre",
+      "roulade",
+      "équilibre",
+      "contrôle"
+    ],
+    "progression": {
+      "niveau1": {
+        "titre": "Débutant",
+        "description": "Le débutant explore les bases de l'activité avec un accompagnement soutenu. Pour « Roulade avant en équilibre sur poutre basse », voici les attentes à ce niveau.",
+        "consignes": [
+          "Respecter les limites de son espace",
+          "Se déplacer à vitesse lente dans un espace délimité",
+          "Garder le contrôle de son corps en mouvement"
+        ],
+        "criteres_reussite": [
+          "L'élève freine et s'arrête sur commande",
+          "Le patron moteur de base est reconnaissable"
+        ]
+      },
+      "niveau2": {
+        "titre": "Intermédiaire",
+        "description": "À ce niveau, on ajoute de la complexité tout en consolidant les acquis. Pour « Roulade avant en équilibre sur poutre basse », voici les attentes à ce niveau.",
+        "consignes": [
+          "Alterner entre deux types de déplacement",
+          "S'adapter au rythme d'un partenaire",
+          "Combiner déplacement et manipulation d'objet"
+        ],
+        "criteres_reussite": [
+          "L'élève maintient sa vitesse dans les changements",
+          "L'élève change de direction sans perte d'équilibre"
+        ]
+      },
+      "niveau3": {
+        "titre": "Avancé",
+        "description": "L'élève perfectionne sa technique et s'adapte à des situations complexes. Pour « Roulade avant en équilibre sur poutre basse », voici les attentes à ce niveau.",
+        "consignes": [
+          "Combiner plusieurs types de déplacement en enchaînement",
+          "Se déplacer en situation de jeu avec adversaire",
+          "Créer des feintes et des changements de rythme"
+        ],
+        "criteres_reussite": [
+          "L'élève adapte ses déplacements à la situation de jeu",
+          "L'élève se déplace avec agilité et efficacité"
+        ]
+      }
+    }
   },
   {
     "titre": "Ramper avec transport d'objet",
@@ -368,8 +1831,57 @@
     "variantes": "Transporter un ballon de mousse, un anneau sur la tête, 2 poches de sable à la fois.",
     "adaptation": "Objet léger et large (assiette de mousse), distance réduite, transporter dans les mains.",
     "duree": 10,
-    "materiel": ["Poches de sable", "Tapis"],
-    "tags": ["transport", "ramper", "équilibre", "dos"]
+    "materiel": [
+      "Poches de sable",
+      "Tapis"
+    ],
+    "tags": [
+      "transport",
+      "ramper",
+      "équilibre",
+      "dos"
+    ],
+    "progression": {
+      "niveau1": {
+        "titre": "Débutant",
+        "description": "L'accent est mis sur la compréhension des consignes et la sécurité. Pour « Ramper avec transport d'objet », voici les attentes à ce niveau.",
+        "consignes": [
+          "Garder le contrôle de son corps en mouvement",
+          "Suivre des lignes au sol ou des repères visuels",
+          "Se déplacer à vitesse lente dans un espace délimité"
+        ],
+        "criteres_reussite": [
+          "L'élève se déplace de façon contrôlée",
+          "L'élève freine et s'arrête sur commande"
+        ]
+      },
+      "niveau2": {
+        "titre": "Intermédiaire",
+        "description": "À ce niveau, on ajoute de la complexité tout en consolidant les acquis. Pour « Ramper avec transport d'objet », voici les attentes à ce niveau.",
+        "consignes": [
+          "Se déplacer en changeant de direction sur signal",
+          "Augmenter la vitesse tout en gardant le contrôle",
+          "Combiner déplacement et manipulation d'objet"
+        ],
+        "criteres_reussite": [
+          "L'élève change de direction sans perte d'équilibre",
+          "La transition entre les déplacements est fluide"
+        ]
+      },
+      "niveau3": {
+        "titre": "Avancé",
+        "description": "L'élève démontre une maîtrise complète et peut enseigner aux autres. Pour « Ramper avec transport d'objet », voici les attentes à ce niveau.",
+        "consignes": [
+          "Optimiser ses trajectoires pour l'efficacité",
+          "Réagir rapidement aux changements d'environnement",
+          "Créer des feintes et des changements de rythme"
+        ],
+        "criteres_reussite": [
+          "L'élève adapte ses déplacements à la situation de jeu",
+          "L'élève se déplace avec agilité et efficacité"
+        ]
+      }
+    }
   },
   {
     "titre": "Roulade avant avec départ surélevé",
@@ -380,8 +1892,57 @@
     "variantes": "Step plus haut (30 cm), roulade avec élan depuis le step, roulade depuis genoux sur step.",
     "adaptation": "Step minimal (10 cm), aide aux hanches, tapis très épais en dessous.",
     "duree": 12,
-    "materiel": ["Step aérobie ou plinth bas", "Tapis épais de réception"],
-    "tags": ["surélevé", "roulade", "step", "confiance"]
+    "materiel": [
+      "Step aérobie ou plinth bas",
+      "Tapis épais de réception"
+    ],
+    "tags": [
+      "surélevé",
+      "roulade",
+      "step",
+      "confiance"
+    ],
+    "progression": {
+      "niveau1": {
+        "titre": "Débutant",
+        "description": "Le débutant explore les bases de l'activité avec un accompagnement soutenu. Pour « Roulade avant avec départ surélevé », voici les attentes à ce niveau.",
+        "consignes": [
+          "Suivre des lignes au sol ou des repères visuels",
+          "Se déplacer à vitesse lente dans un espace délimité",
+          "Garder le contrôle de son corps en mouvement"
+        ],
+        "criteres_reussite": [
+          "L'élève se déplace de façon contrôlée",
+          "L'élève freine et s'arrête sur commande"
+        ]
+      },
+      "niveau2": {
+        "titre": "Intermédiaire",
+        "description": "À ce niveau, on ajoute de la complexité tout en consolidant les acquis. Pour « Roulade avant avec départ surélevé », voici les attentes à ce niveau.",
+        "consignes": [
+          "Augmenter la vitesse tout en gardant le contrôle",
+          "S'adapter au rythme d'un partenaire",
+          "Se déplacer en changeant de direction sur signal"
+        ],
+        "criteres_reussite": [
+          "L'élève change de direction sans perte d'équilibre",
+          "L'élève maintient sa vitesse dans les changements"
+        ]
+      },
+      "niveau3": {
+        "titre": "Avancé",
+        "description": "L'expert peut exécuter l'activité dans des contextes variés et exigeants. Pour « Roulade avant avec départ surélevé », voici les attentes à ce niveau.",
+        "consignes": [
+          "Se déplacer en situation de jeu avec adversaire",
+          "Réagir rapidement aux changements d'environnement",
+          "Combiner plusieurs types de déplacement en enchaînement"
+        ],
+        "criteres_reussite": [
+          "L'élève se déplace avec agilité et efficacité",
+          "Les enchaînements sont fluides et rapides"
+        ]
+      }
+    }
   },
   {
     "titre": "Course à quatre pattes en relais",
@@ -392,8 +1953,56 @@
     "variantes": "Quatre pattes en reculant, quatre pattes latéral, quatre pattes avec obstacle à contourner.",
     "adaptation": "Distance réduite, revenir aussi à quatre pattes, pas de compétition.",
     "duree": 10,
-    "materiel": ["Cônes (2 par équipe)"],
-    "tags": ["quatre pattes", "relais", "maternelle", "transition"]
+    "materiel": [
+      "Cônes (2 par équipe)"
+    ],
+    "tags": [
+      "quatre pattes",
+      "relais",
+      "maternelle",
+      "transition"
+    ],
+    "progression": {
+      "niveau1": {
+        "titre": "Débutant",
+        "description": "À ce stade, l'objectif est d'apprivoiser l'exercice sans pression de performance. Pour « Course à quatre pattes en relais », voici les attentes à ce niveau.",
+        "consignes": [
+          "Respecter les limites de son espace",
+          "Garder le contrôle de son corps en mouvement",
+          "Pratiquer un seul type de déplacement à la fois"
+        ],
+        "criteres_reussite": [
+          "L'élève freine et s'arrête sur commande",
+          "Le patron moteur de base est reconnaissable"
+        ]
+      },
+      "niveau2": {
+        "titre": "Intermédiaire",
+        "description": "L'élève maîtrise les bases et cherche à améliorer sa constance et sa fluidité. Pour « Course à quatre pattes en relais », voici les attentes à ce niveau.",
+        "consignes": [
+          "Combiner déplacement et manipulation d'objet",
+          "Se déplacer en changeant de direction sur signal",
+          "Augmenter la vitesse tout en gardant le contrôle"
+        ],
+        "criteres_reussite": [
+          "L'élève maintient sa vitesse dans les changements",
+          "L'élève change de direction sans perte d'équilibre"
+        ]
+      },
+      "niveau3": {
+        "titre": "Avancé",
+        "description": "L'élève perfectionne sa technique et s'adapte à des situations complexes. Pour « Course à quatre pattes en relais », voici les attentes à ce niveau.",
+        "consignes": [
+          "Réagir rapidement aux changements d'environnement",
+          "Créer des feintes et des changements de rythme",
+          "Combiner plusieurs types de déplacement en enchaînement"
+        ],
+        "criteres_reussite": [
+          "L'élève se déplace avec agilité et efficacité",
+          "L'élève adapte ses déplacements à la situation de jeu"
+        ]
+      }
+    }
   },
   {
     "titre": "Rondade initiation",
@@ -404,8 +2013,58 @@
     "variantes": "Rondade + saut vertical, rondade + roulade arrière, rondade enchaînée.",
     "adaptation": "Roue avec essai de fermeture des pieds, contre le mur, aide de l'enseignant.",
     "duree": 20,
-    "materiel": ["Tapis épais", "Ligne au sol", "Espace de sécurité"],
-    "tags": ["rondade", "acrobatie", "roue", "réception"]
+    "materiel": [
+      "Tapis épais",
+      "Ligne au sol",
+      "Espace de sécurité"
+    ],
+    "tags": [
+      "rondade",
+      "acrobatie",
+      "roue",
+      "réception"
+    ],
+    "progression": {
+      "niveau1": {
+        "titre": "Débutant",
+        "description": "L'élève découvre l'activité et se familiarise avec les mouvements fondamentaux. Pour « Rondade initiation », voici les attentes à ce niveau.",
+        "consignes": [
+          "Garder le contrôle de son corps en mouvement",
+          "Pratiquer un seul type de déplacement à la fois",
+          "Respecter les limites de son espace"
+        ],
+        "criteres_reussite": [
+          "L'élève se déplace de façon contrôlée",
+          "Le patron moteur de base est reconnaissable"
+        ]
+      },
+      "niveau2": {
+        "titre": "Intermédiaire",
+        "description": "L'intermédiaire travaille la régularité et commence à combiner les habiletés. Pour « Rondade initiation », voici les attentes à ce niveau.",
+        "consignes": [
+          "Combiner déplacement et manipulation d'objet",
+          "Alterner entre deux types de déplacement",
+          "Se déplacer en changeant de direction sur signal"
+        ],
+        "criteres_reussite": [
+          "L'élève maintient sa vitesse dans les changements",
+          "L'élève change de direction sans perte d'équilibre"
+        ]
+      },
+      "niveau3": {
+        "titre": "Avancé",
+        "description": "L'expert peut exécuter l'activité dans des contextes variés et exigeants. Pour « Rondade initiation », voici les attentes à ce niveau.",
+        "consignes": [
+          "Créer des feintes et des changements de rythme",
+          "Réagir rapidement aux changements d'environnement",
+          "Optimiser ses trajectoires pour l'efficacité"
+        ],
+        "criteres_reussite": [
+          "L'élève adapte ses déplacements à la situation de jeu",
+          "L'élève se déplace avec agilité et efficacité"
+        ]
+      }
+    }
   },
   {
     "titre": "Ramper entre les plots en slalom",
@@ -416,8 +2075,57 @@
     "variantes": "Slalom en crabe, slalom en marche de l'ours, slalom chronométré.",
     "adaptation": "Cônes plus espacés, moins de cônes, ramper en ligne droite d'abord.",
     "duree": 10,
-    "materiel": ["8 cônes", "Tapis (optionnel)"],
-    "tags": ["slalom", "ramper", "direction", "sol"]
+    "materiel": [
+      "8 cônes",
+      "Tapis (optionnel)"
+    ],
+    "tags": [
+      "slalom",
+      "ramper",
+      "direction",
+      "sol"
+    ],
+    "progression": {
+      "niveau1": {
+        "titre": "Débutant",
+        "description": "Le débutant explore les bases de l'activité avec un accompagnement soutenu. Pour « Ramper entre les plots en slalom », voici les attentes à ce niveau.",
+        "consignes": [
+          "Pratiquer un seul type de déplacement à la fois",
+          "Garder le contrôle de son corps en mouvement",
+          "Suivre des lignes au sol ou des repères visuels"
+        ],
+        "criteres_reussite": [
+          "L'élève freine et s'arrête sur commande",
+          "Le patron moteur de base est reconnaissable"
+        ]
+      },
+      "niveau2": {
+        "titre": "Intermédiaire",
+        "description": "À ce niveau, on ajoute de la complexité tout en consolidant les acquis. Pour « Ramper entre les plots en slalom », voici les attentes à ce niveau.",
+        "consignes": [
+          "Combiner déplacement et manipulation d'objet",
+          "Se déplacer en changeant de direction sur signal",
+          "Augmenter la vitesse tout en gardant le contrôle"
+        ],
+        "criteres_reussite": [
+          "La transition entre les déplacements est fluide",
+          "L'élève change de direction sans perte d'équilibre"
+        ]
+      },
+      "niveau3": {
+        "titre": "Avancé",
+        "description": "L'élève démontre une maîtrise complète et peut enseigner aux autres. Pour « Ramper entre les plots en slalom », voici les attentes à ce niveau.",
+        "consignes": [
+          "Créer des feintes et des changements de rythme",
+          "Se déplacer en situation de jeu avec adversaire",
+          "Combiner plusieurs types de déplacement en enchaînement"
+        ],
+        "criteres_reussite": [
+          "L'élève adapte ses déplacements à la situation de jeu",
+          "Les enchaînements sont fluides et rapides"
+        ]
+      }
+    }
   },
   {
     "titre": "Roulade arrière depuis step",
@@ -428,8 +2136,57 @@
     "variantes": "Roulade arrière depuis step + saut à la sortie, roulade arrière depuis debout sur step.",
     "adaptation": "Step très bas, tapis épais, aide de l'enseignant pour les hanches.",
     "duree": 12,
-    "materiel": ["Step aérobie", "Tapis épais"],
-    "tags": ["roulade arrière", "step", "élan", "confiance"]
+    "materiel": [
+      "Step aérobie",
+      "Tapis épais"
+    ],
+    "tags": [
+      "roulade arrière",
+      "step",
+      "élan",
+      "confiance"
+    ],
+    "progression": {
+      "niveau1": {
+        "titre": "Débutant",
+        "description": "L'accent est mis sur la compréhension des consignes et la sécurité. Pour « Roulade arrière depuis step », voici les attentes à ce niveau.",
+        "consignes": [
+          "Garder le contrôle de son corps en mouvement",
+          "Respecter les limites de son espace",
+          "Suivre des lignes au sol ou des repères visuels"
+        ],
+        "criteres_reussite": [
+          "Le patron moteur de base est reconnaissable",
+          "L'élève freine et s'arrête sur commande"
+        ]
+      },
+      "niveau2": {
+        "titre": "Intermédiaire",
+        "description": "L'élève est capable d'exécuter l'activité de façon autonome avec quelques ajustements. Pour « Roulade arrière depuis step », voici les attentes à ce niveau.",
+        "consignes": [
+          "Combiner déplacement et manipulation d'objet",
+          "Augmenter la vitesse tout en gardant le contrôle",
+          "Alterner entre deux types de déplacement"
+        ],
+        "criteres_reussite": [
+          "L'élève maintient sa vitesse dans les changements",
+          "La transition entre les déplacements est fluide"
+        ]
+      },
+      "niveau3": {
+        "titre": "Avancé",
+        "description": "L'élève démontre une maîtrise complète et peut enseigner aux autres. Pour « Roulade arrière depuis step », voici les attentes à ce niveau.",
+        "consignes": [
+          "Combiner plusieurs types de déplacement en enchaînement",
+          "Se déplacer en situation de jeu avec adversaire",
+          "Optimiser ses trajectoires pour l'efficacité"
+        ],
+        "criteres_reussite": [
+          "Les enchaînements sont fluides et rapides",
+          "L'élève se déplace avec agilité et efficacité"
+        ]
+      }
+    }
   },
   {
     "titre": "Déplacement en phoque",
@@ -440,8 +2197,56 @@
     "variantes": "Phoque à reculons, phoque avec ballon entre les pieds, phoque en montée (tapis incliné).",
     "adaptation": "Distance réduite à 3 m, utiliser les jambes légèrement, pauses fréquentes.",
     "duree": 10,
-    "materiel": ["Surface lisse ou tapis"],
-    "tags": ["phoque", "bras", "traction", "renforcement"]
+    "materiel": [
+      "Surface lisse ou tapis"
+    ],
+    "tags": [
+      "phoque",
+      "bras",
+      "traction",
+      "renforcement"
+    ],
+    "progression": {
+      "niveau1": {
+        "titre": "Débutant",
+        "description": "À ce stade, l'objectif est d'apprivoiser l'exercice sans pression de performance. Pour « Déplacement en phoque », voici les attentes à ce niveau.",
+        "consignes": [
+          "Pratiquer un seul type de déplacement à la fois",
+          "Se déplacer à vitesse lente dans un espace délimité",
+          "Suivre des lignes au sol ou des repères visuels"
+        ],
+        "criteres_reussite": [
+          "L'élève freine et s'arrête sur commande",
+          "L'élève se déplace de façon contrôlée"
+        ]
+      },
+      "niveau2": {
+        "titre": "Intermédiaire",
+        "description": "L'élève est capable d'exécuter l'activité de façon autonome avec quelques ajustements. Pour « Déplacement en phoque », voici les attentes à ce niveau.",
+        "consignes": [
+          "S'adapter au rythme d'un partenaire",
+          "Augmenter la vitesse tout en gardant le contrôle",
+          "Alterner entre deux types de déplacement"
+        ],
+        "criteres_reussite": [
+          "L'élève change de direction sans perte d'équilibre",
+          "L'élève maintient sa vitesse dans les changements"
+        ]
+      },
+      "niveau3": {
+        "titre": "Avancé",
+        "description": "L'élève perfectionne sa technique et s'adapte à des situations complexes. Pour « Déplacement en phoque », voici les attentes à ce niveau.",
+        "consignes": [
+          "Optimiser ses trajectoires pour l'efficacité",
+          "Se déplacer en situation de jeu avec adversaire",
+          "Créer des feintes et des changements de rythme"
+        ],
+        "criteres_reussite": [
+          "Les enchaînements sont fluides et rapides",
+          "L'élève se déplace avec agilité et efficacité"
+        ]
+      }
+    }
   },
   {
     "titre": "Enchaînement roulade-équilibre-roulade",
@@ -452,8 +2257,56 @@
     "variantes": "Ajouter un ATR (appui tendu renversé) entre les roulades, enchaîner 2 fois, en musique.",
     "adaptation": "Chandelle contre un mur, pauses entre les éléments, aide de l'enseignant.",
     "duree": 15,
-    "materiel": ["Tapis de gym épais"],
-    "tags": ["enchaînement", "chandelle", "gymnastique", "transition"]
+    "materiel": [
+      "Tapis de gym épais"
+    ],
+    "tags": [
+      "enchaînement",
+      "chandelle",
+      "gymnastique",
+      "transition"
+    ],
+    "progression": {
+      "niveau1": {
+        "titre": "Débutant",
+        "description": "À ce stade, l'objectif est d'apprivoiser l'exercice sans pression de performance. Pour « Enchaînement roulade-équilibre-roulade », voici les attentes à ce niveau.",
+        "consignes": [
+          "Garder le contrôle de son corps en mouvement",
+          "Respecter les limites de son espace",
+          "Se déplacer à vitesse lente dans un espace délimité"
+        ],
+        "criteres_reussite": [
+          "Le patron moteur de base est reconnaissable",
+          "L'élève freine et s'arrête sur commande"
+        ]
+      },
+      "niveau2": {
+        "titre": "Intermédiaire",
+        "description": "L'élève est capable d'exécuter l'activité de façon autonome avec quelques ajustements. Pour « Enchaînement roulade-équilibre-roulade », voici les attentes à ce niveau.",
+        "consignes": [
+          "Augmenter la vitesse tout en gardant le contrôle",
+          "Combiner déplacement et manipulation d'objet",
+          "Se déplacer en changeant de direction sur signal"
+        ],
+        "criteres_reussite": [
+          "L'élève maintient sa vitesse dans les changements",
+          "La transition entre les déplacements est fluide"
+        ]
+      },
+      "niveau3": {
+        "titre": "Avancé",
+        "description": "L'expert peut exécuter l'activité dans des contextes variés et exigeants. Pour « Enchaînement roulade-équilibre-roulade », voici les attentes à ce niveau.",
+        "consignes": [
+          "Optimiser ses trajectoires pour l'efficacité",
+          "Se déplacer en situation de jeu avec adversaire",
+          "Créer des feintes et des changements de rythme"
+        ],
+        "criteres_reussite": [
+          "L'élève adapte ses déplacements à la situation de jeu",
+          "L'élève se déplace avec agilité et efficacité"
+        ]
+      }
+    }
   },
   {
     "titre": "Ramper sous parachute collectif",
@@ -464,8 +2317,56 @@
     "variantes": "Ramper sous le parachute en transportant un objet, tout le monde dessous en même temps, roulade sous le parachute.",
     "adaptation": "Parachute tenu haut plus longtemps, moins d'élèves en même temps, passer à quatre pattes.",
     "duree": 12,
-    "materiel": ["Parachute géant"],
-    "tags": ["parachute", "ramper", "collectif", "maternelle"]
+    "materiel": [
+      "Parachute géant"
+    ],
+    "tags": [
+      "parachute",
+      "ramper",
+      "collectif",
+      "maternelle"
+    ],
+    "progression": {
+      "niveau1": {
+        "titre": "Débutant",
+        "description": "Le débutant explore les bases de l'activité avec un accompagnement soutenu. Pour « Ramper sous parachute collectif », voici les attentes à ce niveau.",
+        "consignes": [
+          "Se déplacer à vitesse lente dans un espace délimité",
+          "Respecter les limites de son espace",
+          "Suivre des lignes au sol ou des repères visuels"
+        ],
+        "criteres_reussite": [
+          "L'élève freine et s'arrête sur commande",
+          "Le patron moteur de base est reconnaissable"
+        ]
+      },
+      "niveau2": {
+        "titre": "Intermédiaire",
+        "description": "L'élève est capable d'exécuter l'activité de façon autonome avec quelques ajustements. Pour « Ramper sous parachute collectif », voici les attentes à ce niveau.",
+        "consignes": [
+          "Augmenter la vitesse tout en gardant le contrôle",
+          "S'adapter au rythme d'un partenaire",
+          "Se déplacer en changeant de direction sur signal"
+        ],
+        "criteres_reussite": [
+          "La transition entre les déplacements est fluide",
+          "L'élève change de direction sans perte d'équilibre"
+        ]
+      },
+      "niveau3": {
+        "titre": "Avancé",
+        "description": "L'expert peut exécuter l'activité dans des contextes variés et exigeants. Pour « Ramper sous parachute collectif », voici les attentes à ce niveau.",
+        "consignes": [
+          "Optimiser ses trajectoires pour l'efficacité",
+          "Combiner plusieurs types de déplacement en enchaînement",
+          "Se déplacer en situation de jeu avec adversaire"
+        ],
+        "criteres_reussite": [
+          "L'élève adapte ses déplacements à la situation de jeu",
+          "L'élève se déplace avec agilité et efficacité"
+        ]
+      }
+    }
   },
   {
     "titre": "ATR (appui tendu renversé) contre mur",
@@ -476,8 +2377,57 @@
     "variantes": "ATR sans mur (aide d'un partenaire), ATR + roulade avant en sortie, marcher sur les mains.",
     "adaptation": "Monter les pieds au mur depuis la position de planche, aide de l'enseignant, tapis épais.",
     "duree": 15,
-    "materiel": ["Mur lisse", "Tapis de gym au sol"],
-    "tags": ["ATR", "poirier", "renversé", "force"]
+    "materiel": [
+      "Mur lisse",
+      "Tapis de gym au sol"
+    ],
+    "tags": [
+      "ATR",
+      "poirier",
+      "renversé",
+      "force"
+    ],
+    "progression": {
+      "niveau1": {
+        "titre": "Débutant",
+        "description": "Le débutant explore les bases de l'activité avec un accompagnement soutenu. Pour « ATR (appui tendu renversé) contre mur », voici les attentes à ce niveau.",
+        "consignes": [
+          "Pratiquer un seul type de déplacement à la fois",
+          "Garder le contrôle de son corps en mouvement",
+          "Respecter les limites de son espace"
+        ],
+        "criteres_reussite": [
+          "L'élève se déplace de façon contrôlée",
+          "L'élève freine et s'arrête sur commande"
+        ]
+      },
+      "niveau2": {
+        "titre": "Intermédiaire",
+        "description": "L'élève est capable d'exécuter l'activité de façon autonome avec quelques ajustements. Pour « ATR (appui tendu renversé) contre mur », voici les attentes à ce niveau.",
+        "consignes": [
+          "Se déplacer en changeant de direction sur signal",
+          "S'adapter au rythme d'un partenaire",
+          "Combiner déplacement et manipulation d'objet"
+        ],
+        "criteres_reussite": [
+          "L'élève change de direction sans perte d'équilibre",
+          "La transition entre les déplacements est fluide"
+        ]
+      },
+      "niveau3": {
+        "titre": "Avancé",
+        "description": "À ce stade avancé, l'élève crée, innove et aide ses pairs. Pour « ATR (appui tendu renversé) contre mur », voici les attentes à ce niveau.",
+        "consignes": [
+          "Combiner plusieurs types de déplacement en enchaînement",
+          "Créer des feintes et des changements de rythme",
+          "Se déplacer en situation de jeu avec adversaire"
+        ],
+        "criteres_reussite": [
+          "Les enchaînements sont fluides et rapides",
+          "L'élève adapte ses déplacements à la situation de jeu"
+        ]
+      }
+    }
   },
   {
     "titre": "Galipette en duo (synchronisée)",
@@ -488,8 +2438,56 @@
     "variantes": "Roulade en miroir (face à face), roulade en canon (un après l'autre), trio synchronisé.",
     "adaptation": "Roulade latérale synchronisée (plus facile), roulade à rythme lent, aide de l'enseignant.",
     "duree": 10,
-    "materiel": ["Tapis de gym (2 côte à côte)"],
-    "tags": ["duo", "synchronisé", "galipette", "coopération"]
+    "materiel": [
+      "Tapis de gym (2 côte à côte)"
+    ],
+    "tags": [
+      "duo",
+      "synchronisé",
+      "galipette",
+      "coopération"
+    ],
+    "progression": {
+      "niveau1": {
+        "titre": "Débutant",
+        "description": "L'accent est mis sur la compréhension des consignes et la sécurité. Pour « Galipette en duo (synchronisée) », voici les attentes à ce niveau.",
+        "consignes": [
+          "Suivre des lignes au sol ou des repères visuels",
+          "Pratiquer un seul type de déplacement à la fois",
+          "Garder le contrôle de son corps en mouvement"
+        ],
+        "criteres_reussite": [
+          "L'élève se déplace de façon contrôlée",
+          "Le patron moteur de base est reconnaissable"
+        ]
+      },
+      "niveau2": {
+        "titre": "Intermédiaire",
+        "description": "À ce niveau, on ajoute de la complexité tout en consolidant les acquis. Pour « Galipette en duo (synchronisée) », voici les attentes à ce niveau.",
+        "consignes": [
+          "Se déplacer en changeant de direction sur signal",
+          "S'adapter au rythme d'un partenaire",
+          "Combiner déplacement et manipulation d'objet"
+        ],
+        "criteres_reussite": [
+          "La transition entre les déplacements est fluide",
+          "L'élève change de direction sans perte d'équilibre"
+        ]
+      },
+      "niveau3": {
+        "titre": "Avancé",
+        "description": "À ce stade avancé, l'élève crée, innove et aide ses pairs. Pour « Galipette en duo (synchronisée) », voici les attentes à ce niveau.",
+        "consignes": [
+          "Réagir rapidement aux changements d'environnement",
+          "Se déplacer en situation de jeu avec adversaire",
+          "Créer des feintes et des changements de rythme"
+        ],
+        "criteres_reussite": [
+          "L'élève adapte ses déplacements à la situation de jeu",
+          "L'élève se déplace avec agilité et efficacité"
+        ]
+      }
+    }
   },
   {
     "titre": "Ramper en chenille de groupe (ver de terre géant)",
@@ -500,8 +2498,56 @@
     "variantes": "Ver de terre en virage, ver de terre à reculons, ver de terre avec son (bourdonnement).",
     "adaptation": "Groupe plus petit, avancer très lentement, l'enseignant en tête donne le rythme.",
     "duree": 8,
-    "materiel": ["Espace dégagé au sol"],
-    "tags": ["ver de terre", "groupe", "coopération", "ramper"]
+    "materiel": [
+      "Espace dégagé au sol"
+    ],
+    "tags": [
+      "ver de terre",
+      "groupe",
+      "coopération",
+      "ramper"
+    ],
+    "progression": {
+      "niveau1": {
+        "titre": "Débutant",
+        "description": "L'accent est mis sur la compréhension des consignes et la sécurité. Pour « Ramper en chenille de groupe (ver de terre géant) », voici les attentes à ce niveau.",
+        "consignes": [
+          "Garder le contrôle de son corps en mouvement",
+          "Respecter les limites de son espace",
+          "Se déplacer à vitesse lente dans un espace délimité"
+        ],
+        "criteres_reussite": [
+          "Le patron moteur de base est reconnaissable",
+          "L'élève se déplace de façon contrôlée"
+        ]
+      },
+      "niveau2": {
+        "titre": "Intermédiaire",
+        "description": "L'élève est capable d'exécuter l'activité de façon autonome avec quelques ajustements. Pour « Ramper en chenille de groupe (ver de terre géant) », voici les attentes à ce niveau.",
+        "consignes": [
+          "Augmenter la vitesse tout en gardant le contrôle",
+          "Se déplacer en changeant de direction sur signal",
+          "Alterner entre deux types de déplacement"
+        ],
+        "criteres_reussite": [
+          "L'élève maintient sa vitesse dans les changements",
+          "La transition entre les déplacements est fluide"
+        ]
+      },
+      "niveau3": {
+        "titre": "Avancé",
+        "description": "À ce stade avancé, l'élève crée, innove et aide ses pairs. Pour « Ramper en chenille de groupe (ver de terre géant) », voici les attentes à ce niveau.",
+        "consignes": [
+          "Créer des feintes et des changements de rythme",
+          "Réagir rapidement aux changements d'environnement",
+          "Combiner plusieurs types de déplacement en enchaînement"
+        ],
+        "criteres_reussite": [
+          "Les enchaînements sont fluides et rapides",
+          "L'élève adapte ses déplacements à la situation de jeu"
+        ]
+      }
+    }
   },
   {
     "titre": "Acro-gym duo: pyramides basses",
@@ -512,8 +2558,56 @@
     "variantes": "Trio pyramides, enchaînement de 3 figures, figures avec transitions roulées.",
     "adaptation": "Figures au sol uniquement, aide d'un troisième (pareur), figures simplifiées.",
     "duree": 25,
-    "materiel": ["Tapis de gym épais et larges"],
-    "tags": ["acro-gym", "pyramides", "duo", "porté"]
+    "materiel": [
+      "Tapis de gym épais et larges"
+    ],
+    "tags": [
+      "acro-gym",
+      "pyramides",
+      "duo",
+      "porté"
+    ],
+    "progression": {
+      "niveau1": {
+        "titre": "Débutant",
+        "description": "À ce stade, l'objectif est d'apprivoiser l'exercice sans pression de performance. Pour « Acro-gym duo: pyramides basses », voici les attentes à ce niveau.",
+        "consignes": [
+          "Pratiquer un seul type de déplacement à la fois",
+          "Suivre des lignes au sol ou des repères visuels",
+          "Garder le contrôle de son corps en mouvement"
+        ],
+        "criteres_reussite": [
+          "L'élève se déplace de façon contrôlée",
+          "Le patron moteur de base est reconnaissable"
+        ]
+      },
+      "niveau2": {
+        "titre": "Intermédiaire",
+        "description": "À ce niveau, on ajoute de la complexité tout en consolidant les acquis. Pour « Acro-gym duo: pyramides basses », voici les attentes à ce niveau.",
+        "consignes": [
+          "Augmenter la vitesse tout en gardant le contrôle",
+          "Alterner entre deux types de déplacement",
+          "S'adapter au rythme d'un partenaire"
+        ],
+        "criteres_reussite": [
+          "La transition entre les déplacements est fluide",
+          "L'élève maintient sa vitesse dans les changements"
+        ]
+      },
+      "niveau3": {
+        "titre": "Avancé",
+        "description": "À ce stade avancé, l'élève crée, innove et aide ses pairs. Pour « Acro-gym duo: pyramides basses », voici les attentes à ce niveau.",
+        "consignes": [
+          "Réagir rapidement aux changements d'environnement",
+          "Créer des feintes et des changements de rythme",
+          "Se déplacer en situation de jeu avec adversaire"
+        ],
+        "criteres_reussite": [
+          "Les enchaînements sont fluides et rapides",
+          "L'élève se déplace avec agilité et efficacité"
+        ]
+      }
+    }
   },
   {
     "titre": "Roulade avec yeux fermés",
@@ -524,8 +2618,56 @@
     "variantes": "Roulade arrière yeux fermés, roulade latérale yeux fermés, enchaîner 2 roulades yeux fermés.",
     "adaptation": "Fermer les yeux juste au moment de la bascule, tapis plus large, aide de l'enseignant.",
     "duree": 10,
-    "materiel": ["Tapis de gym larges"],
-    "tags": ["yeux fermés", "proprioception", "confiance", "roulade"]
+    "materiel": [
+      "Tapis de gym larges"
+    ],
+    "tags": [
+      "yeux fermés",
+      "proprioception",
+      "confiance",
+      "roulade"
+    ],
+    "progression": {
+      "niveau1": {
+        "titre": "Débutant",
+        "description": "À ce stade, l'objectif est d'apprivoiser l'exercice sans pression de performance. Pour « Roulade avec yeux fermés », voici les attentes à ce niveau.",
+        "consignes": [
+          "Respecter les limites de son espace",
+          "Se déplacer à vitesse lente dans un espace délimité",
+          "Suivre des lignes au sol ou des repères visuels"
+        ],
+        "criteres_reussite": [
+          "L'élève freine et s'arrête sur commande",
+          "L'élève se déplace de façon contrôlée"
+        ]
+      },
+      "niveau2": {
+        "titre": "Intermédiaire",
+        "description": "L'élève maîtrise les bases et cherche à améliorer sa constance et sa fluidité. Pour « Roulade avec yeux fermés », voici les attentes à ce niveau.",
+        "consignes": [
+          "S'adapter au rythme d'un partenaire",
+          "Se déplacer en changeant de direction sur signal",
+          "Alterner entre deux types de déplacement"
+        ],
+        "criteres_reussite": [
+          "La transition entre les déplacements est fluide",
+          "L'élève maintient sa vitesse dans les changements"
+        ]
+      },
+      "niveau3": {
+        "titre": "Avancé",
+        "description": "L'élève perfectionne sa technique et s'adapte à des situations complexes. Pour « Roulade avec yeux fermés », voici les attentes à ce niveau.",
+        "consignes": [
+          "Réagir rapidement aux changements d'environnement",
+          "Créer des feintes et des changements de rythme",
+          "Combiner plusieurs types de déplacement en enchaînement"
+        ],
+        "criteres_reussite": [
+          "L'élève se déplace avec agilité et efficacité",
+          "Les enchaînements sont fluides et rapides"
+        ]
+      }
+    }
   },
   {
     "titre": "Déplacement en crabe avec ballon",
@@ -536,8 +2678,57 @@
     "variantes": "Crabe avec ballon entre les genoux, crabe en reculons avec ballon, crabe en duo avec un ballon entre les deux.",
     "adaptation": "Sans ballon d'abord, ballon léger (mousse), distance réduite.",
     "duree": 10,
-    "materiel": ["Ballons de mousse", "Surface propre"],
-    "tags": ["crabe", "ballon", "gainage", "coordination"]
+    "materiel": [
+      "Ballons de mousse",
+      "Surface propre"
+    ],
+    "tags": [
+      "crabe",
+      "ballon",
+      "gainage",
+      "coordination"
+    ],
+    "progression": {
+      "niveau1": {
+        "titre": "Débutant",
+        "description": "À ce stade, l'objectif est d'apprivoiser l'exercice sans pression de performance. Pour « Déplacement en crabe avec ballon », voici les attentes à ce niveau.",
+        "consignes": [
+          "Se déplacer à vitesse lente dans un espace délimité",
+          "Garder le contrôle de son corps en mouvement",
+          "Respecter les limites de son espace"
+        ],
+        "criteres_reussite": [
+          "Le patron moteur de base est reconnaissable",
+          "L'élève freine et s'arrête sur commande"
+        ]
+      },
+      "niveau2": {
+        "titre": "Intermédiaire",
+        "description": "L'intermédiaire travaille la régularité et commence à combiner les habiletés. Pour « Déplacement en crabe avec ballon », voici les attentes à ce niveau.",
+        "consignes": [
+          "Combiner déplacement et manipulation d'objet",
+          "S'adapter au rythme d'un partenaire",
+          "Se déplacer en changeant de direction sur signal"
+        ],
+        "criteres_reussite": [
+          "L'élève change de direction sans perte d'équilibre",
+          "La transition entre les déplacements est fluide"
+        ]
+      },
+      "niveau3": {
+        "titre": "Avancé",
+        "description": "L'élève démontre une maîtrise complète et peut enseigner aux autres. Pour « Déplacement en crabe avec ballon », voici les attentes à ce niveau.",
+        "consignes": [
+          "Combiner plusieurs types de déplacement en enchaînement",
+          "Réagir rapidement aux changements d'environnement",
+          "Se déplacer en situation de jeu avec adversaire"
+        ],
+        "criteres_reussite": [
+          "Les enchaînements sont fluides et rapides",
+          "L'élève se déplace avec agilité et efficacité"
+        ]
+      }
+    }
   },
   {
     "titre": "Roulade avant depuis les genoux",
@@ -548,8 +2739,56 @@
     "variantes": "Depuis genoux vers position debout, roulade depuis genoux avec ballon, enchaîner 2 roulades depuis genoux.",
     "adaptation": "Sur plan incliné, aide de l'enseignant, tapis très épais et mou.",
     "duree": 8,
-    "materiel": ["Tapis de gym épais"],
-    "tags": ["genoux", "roulade", "initiation", "maternelle"]
+    "materiel": [
+      "Tapis de gym épais"
+    ],
+    "tags": [
+      "genoux",
+      "roulade",
+      "initiation",
+      "maternelle"
+    ],
+    "progression": {
+      "niveau1": {
+        "titre": "Débutant",
+        "description": "L'élève découvre l'activité et se familiarise avec les mouvements fondamentaux. Pour « Roulade avant depuis les genoux », voici les attentes à ce niveau.",
+        "consignes": [
+          "Pratiquer un seul type de déplacement à la fois",
+          "Suivre des lignes au sol ou des repères visuels",
+          "Respecter les limites de son espace"
+        ],
+        "criteres_reussite": [
+          "L'élève se déplace de façon contrôlée",
+          "Le patron moteur de base est reconnaissable"
+        ]
+      },
+      "niveau2": {
+        "titre": "Intermédiaire",
+        "description": "L'intermédiaire travaille la régularité et commence à combiner les habiletés. Pour « Roulade avant depuis les genoux », voici les attentes à ce niveau.",
+        "consignes": [
+          "Alterner entre deux types de déplacement",
+          "S'adapter au rythme d'un partenaire",
+          "Augmenter la vitesse tout en gardant le contrôle"
+        ],
+        "criteres_reussite": [
+          "L'élève maintient sa vitesse dans les changements",
+          "La transition entre les déplacements est fluide"
+        ]
+      },
+      "niveau3": {
+        "titre": "Avancé",
+        "description": "L'élève démontre une maîtrise complète et peut enseigner aux autres. Pour « Roulade avant depuis les genoux », voici les attentes à ce niveau.",
+        "consignes": [
+          "Se déplacer en situation de jeu avec adversaire",
+          "Réagir rapidement aux changements d'environnement",
+          "Optimiser ses trajectoires pour l'efficacité"
+        ],
+        "criteres_reussite": [
+          "Les enchaînements sont fluides et rapides",
+          "L'élève se déplace avec agilité et efficacité"
+        ]
+      }
+    }
   },
   {
     "titre": "Course de vers de terre en duo",
@@ -560,8 +2799,57 @@
     "variantes": "Course en trio, ramper en reculons, ramper avec obstacle à contourner.",
     "adaptation": "Distance réduite, ramper à quatre pattes, pas de compétition.",
     "duree": 10,
-    "materiel": ["Cônes", "Tapis"],
-    "tags": ["course", "ver de terre", "duo", "compétition"]
+    "materiel": [
+      "Cônes",
+      "Tapis"
+    ],
+    "tags": [
+      "course",
+      "ver de terre",
+      "duo",
+      "compétition"
+    ],
+    "progression": {
+      "niveau1": {
+        "titre": "Débutant",
+        "description": "Le débutant explore les bases de l'activité avec un accompagnement soutenu. Pour « Course de vers de terre en duo », voici les attentes à ce niveau.",
+        "consignes": [
+          "Pratiquer un seul type de déplacement à la fois",
+          "Garder le contrôle de son corps en mouvement",
+          "Se déplacer à vitesse lente dans un espace délimité"
+        ],
+        "criteres_reussite": [
+          "Le patron moteur de base est reconnaissable",
+          "L'élève se déplace de façon contrôlée"
+        ]
+      },
+      "niveau2": {
+        "titre": "Intermédiaire",
+        "description": "L'élève est capable d'exécuter l'activité de façon autonome avec quelques ajustements. Pour « Course de vers de terre en duo », voici les attentes à ce niveau.",
+        "consignes": [
+          "Se déplacer en changeant de direction sur signal",
+          "Alterner entre deux types de déplacement",
+          "S'adapter au rythme d'un partenaire"
+        ],
+        "criteres_reussite": [
+          "L'élève change de direction sans perte d'équilibre",
+          "L'élève maintient sa vitesse dans les changements"
+        ]
+      },
+      "niveau3": {
+        "titre": "Avancé",
+        "description": "À ce stade avancé, l'élève crée, innove et aide ses pairs. Pour « Course de vers de terre en duo », voici les attentes à ce niveau.",
+        "consignes": [
+          "Combiner plusieurs types de déplacement en enchaînement",
+          "Créer des feintes et des changements de rythme",
+          "Optimiser ses trajectoires pour l'efficacité"
+        ],
+        "criteres_reussite": [
+          "L'élève se déplace avec agilité et efficacité",
+          "L'élève adapte ses déplacements à la situation de jeu"
+        ]
+      }
+    }
   },
   {
     "titre": "Roulade groupée arrière en plan incliné",
@@ -572,8 +2860,57 @@
     "variantes": "Plan incliné plus abrupt, roulade arrière sans plan incliné, enchaîner 2 roulades arrière.",
     "adaptation": "Pente très faible, aide de l'enseignant aux hanches, roulade sur le côté d'abord.",
     "duree": 12,
-    "materiel": ["Tapis en pente (plan incliné)", "Tapis de réception en bas"],
-    "tags": ["plan incliné", "roulade arrière", "facilitation", "technique"]
+    "materiel": [
+      "Tapis en pente (plan incliné)",
+      "Tapis de réception en bas"
+    ],
+    "tags": [
+      "plan incliné",
+      "roulade arrière",
+      "facilitation",
+      "technique"
+    ],
+    "progression": {
+      "niveau1": {
+        "titre": "Débutant",
+        "description": "L'élève découvre l'activité et se familiarise avec les mouvements fondamentaux. Pour « Roulade groupée arrière en plan incliné », voici les attentes à ce niveau.",
+        "consignes": [
+          "Suivre des lignes au sol ou des repères visuels",
+          "Se déplacer à vitesse lente dans un espace délimité",
+          "Respecter les limites de son espace"
+        ],
+        "criteres_reussite": [
+          "Le patron moteur de base est reconnaissable",
+          "L'élève freine et s'arrête sur commande"
+        ]
+      },
+      "niveau2": {
+        "titre": "Intermédiaire",
+        "description": "L'élève maîtrise les bases et cherche à améliorer sa constance et sa fluidité. Pour « Roulade groupée arrière en plan incliné », voici les attentes à ce niveau.",
+        "consignes": [
+          "Combiner déplacement et manipulation d'objet",
+          "Se déplacer en changeant de direction sur signal",
+          "Alterner entre deux types de déplacement"
+        ],
+        "criteres_reussite": [
+          "La transition entre les déplacements est fluide",
+          "L'élève maintient sa vitesse dans les changements"
+        ]
+      },
+      "niveau3": {
+        "titre": "Avancé",
+        "description": "L'élève perfectionne sa technique et s'adapte à des situations complexes. Pour « Roulade groupée arrière en plan incliné », voici les attentes à ce niveau.",
+        "consignes": [
+          "Créer des feintes et des changements de rythme",
+          "Optimiser ses trajectoires pour l'efficacité",
+          "Réagir rapidement aux changements d'environnement"
+        ],
+        "criteres_reussite": [
+          "Les enchaînements sont fluides et rapides",
+          "L'élève se déplace avec agilité et efficacité"
+        ]
+      }
+    }
   },
   {
     "titre": "Parcours sensoriel au sol (pieds et mains)",
@@ -584,8 +2921,58 @@
     "variantes": "Parcours les yeux fermés, nommer les textures en rampant, parcours avec obstacles sensoriels.",
     "adaptation": "Moins de textures, parcours court, aide de l'enseignant.",
     "duree": 10,
-    "materiel": ["Tapis de différentes textures", "Couvertures", "Surfaces variées"],
-    "tags": ["sensoriel", "textures", "ramper", "exploration"]
+    "materiel": [
+      "Tapis de différentes textures",
+      "Couvertures",
+      "Surfaces variées"
+    ],
+    "tags": [
+      "sensoriel",
+      "textures",
+      "ramper",
+      "exploration"
+    ],
+    "progression": {
+      "niveau1": {
+        "titre": "Débutant",
+        "description": "À ce stade, l'objectif est d'apprivoiser l'exercice sans pression de performance. Pour « Parcours sensoriel au sol (pieds et mains) », voici les attentes à ce niveau.",
+        "consignes": [
+          "Suivre des lignes au sol ou des repères visuels",
+          "Garder le contrôle de son corps en mouvement",
+          "Se déplacer à vitesse lente dans un espace délimité"
+        ],
+        "criteres_reussite": [
+          "L'élève se déplace de façon contrôlée",
+          "Le patron moteur de base est reconnaissable"
+        ]
+      },
+      "niveau2": {
+        "titre": "Intermédiaire",
+        "description": "L'élève maîtrise les bases et cherche à améliorer sa constance et sa fluidité. Pour « Parcours sensoriel au sol (pieds et mains) », voici les attentes à ce niveau.",
+        "consignes": [
+          "Augmenter la vitesse tout en gardant le contrôle",
+          "Alterner entre deux types de déplacement",
+          "Se déplacer en changeant de direction sur signal"
+        ],
+        "criteres_reussite": [
+          "L'élève maintient sa vitesse dans les changements",
+          "L'élève change de direction sans perte d'équilibre"
+        ]
+      },
+      "niveau3": {
+        "titre": "Avancé",
+        "description": "À ce stade avancé, l'élève crée, innove et aide ses pairs. Pour « Parcours sensoriel au sol (pieds et mains) », voici les attentes à ce niveau.",
+        "consignes": [
+          "Se déplacer en situation de jeu avec adversaire",
+          "Optimiser ses trajectoires pour l'efficacité",
+          "Combiner plusieurs types de déplacement en enchaînement"
+        ],
+        "criteres_reussite": [
+          "L'élève se déplace avec agilité et efficacité",
+          "L'élève adapte ses déplacements à la situation de jeu"
+        ]
+      }
+    }
   },
   {
     "titre": "Enchaînement gymnique au sol intermédiaire",
@@ -596,7 +2983,56 @@
     "variantes": "Enchaînement en duo, ajout de la danse, enchaînement thématique.",
     "adaptation": "Moins d'éléments exigés, éléments simplifiés, aide technique aux éléments difficiles.",
     "duree": 25,
-    "materiel": ["Tapis de gym longs", "Musique (optionnel)"],
-    "tags": ["enchaînement", "gymnique", "évaluation", "création"]
+    "materiel": [
+      "Tapis de gym longs",
+      "Musique (optionnel)"
+    ],
+    "tags": [
+      "enchaînement",
+      "gymnique",
+      "évaluation",
+      "création"
+    ],
+    "progression": {
+      "niveau1": {
+        "titre": "Débutant",
+        "description": "L'accent est mis sur la compréhension des consignes et la sécurité. Pour « Enchaînement gymnique au sol intermédiaire », voici les attentes à ce niveau.",
+        "consignes": [
+          "Suivre des lignes au sol ou des repères visuels",
+          "Respecter les limites de son espace",
+          "Pratiquer un seul type de déplacement à la fois"
+        ],
+        "criteres_reussite": [
+          "Le patron moteur de base est reconnaissable",
+          "L'élève freine et s'arrête sur commande"
+        ]
+      },
+      "niveau2": {
+        "titre": "Intermédiaire",
+        "description": "L'élève maîtrise les bases et cherche à améliorer sa constance et sa fluidité. Pour « Enchaînement gymnique au sol intermédiaire », voici les attentes à ce niveau.",
+        "consignes": [
+          "Combiner déplacement et manipulation d'objet",
+          "Alterner entre deux types de déplacement",
+          "Se déplacer en changeant de direction sur signal"
+        ],
+        "criteres_reussite": [
+          "La transition entre les déplacements est fluide",
+          "L'élève maintient sa vitesse dans les changements"
+        ]
+      },
+      "niveau3": {
+        "titre": "Avancé",
+        "description": "À ce stade avancé, l'élève crée, innove et aide ses pairs. Pour « Enchaînement gymnique au sol intermédiaire », voici les attentes à ce niveau.",
+        "consignes": [
+          "Optimiser ses trajectoires pour l'efficacité",
+          "Combiner plusieurs types de déplacement en enchaînement",
+          "Créer des feintes et des changements de rythme"
+        ],
+        "criteres_reussite": [
+          "L'élève se déplace avec agilité et efficacité",
+          "L'élève adapte ses déplacements à la situation de jeu"
+        ]
+      }
+    }
   }
 ]

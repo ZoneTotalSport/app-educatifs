@@ -8,8 +8,56 @@
     "variantes": "Départ couché, départ dos à la ligne, sprint en duo côte à côte, sprint avec départ au signal sonore.",
     "adaptation": "Réduire la distance à 10 m, courir en ligne moins rapidement, se concentrer sur la forme.",
     "duree": 10,
-    "materiel": ["Cônes de départ et arrivée"],
-    "tags": ["sprint", "vitesse", "départ", "technique"]
+    "materiel": [
+      "Cônes de départ et arrivée"
+    ],
+    "tags": [
+      "sprint",
+      "vitesse",
+      "départ",
+      "technique"
+    ],
+    "progression": {
+      "niveau1": {
+        "titre": "Débutant",
+        "description": "Le débutant explore les bases de l'activité avec un accompagnement soutenu. Pour « Sprint ligne droite », voici les attentes à ce niveau.",
+        "consignes": [
+          "Respecter les limites de son espace",
+          "Pratiquer un seul type de déplacement à la fois",
+          "Suivre des lignes au sol ou des repères visuels"
+        ],
+        "criteres_reussite": [
+          "L'élève freine et s'arrête sur commande",
+          "Le patron moteur de base est reconnaissable"
+        ]
+      },
+      "niveau2": {
+        "titre": "Intermédiaire",
+        "description": "L'élève est capable d'exécuter l'activité de façon autonome avec quelques ajustements. Pour « Sprint ligne droite », voici les attentes à ce niveau.",
+        "consignes": [
+          "Se déplacer en changeant de direction sur signal",
+          "S'adapter au rythme d'un partenaire",
+          "Alterner entre deux types de déplacement"
+        ],
+        "criteres_reussite": [
+          "La transition entre les déplacements est fluide",
+          "L'élève maintient sa vitesse dans les changements"
+        ]
+      },
+      "niveau3": {
+        "titre": "Avancé",
+        "description": "L'expert peut exécuter l'activité dans des contextes variés et exigeants. Pour « Sprint ligne droite », voici les attentes à ce niveau.",
+        "consignes": [
+          "Se déplacer en situation de jeu avec adversaire",
+          "Créer des feintes et des changements de rythme",
+          "Réagir rapidement aux changements d'environnement"
+        ],
+        "criteres_reussite": [
+          "Les enchaînements sont fluides et rapides",
+          "L'élève se déplace avec agilité et efficacité"
+        ]
+      }
+    }
   },
   {
     "titre": "Course haies basses",
@@ -20,8 +68,57 @@
     "variantes": "Varier l'espacement, alterner le pied d'attaque, course avec 1 foulée entre haies.",
     "adaptation": "Haies encore plus basses (15 cm) ou cônes à franchir. Ralentir l'allure.",
     "duree": 15,
-    "materiel": ["5-8 haies basses (30 cm)", "Cônes"],
-    "tags": ["haies", "rythme", "foulée", "technique"]
+    "materiel": [
+      "5-8 haies basses (30 cm)",
+      "Cônes"
+    ],
+    "tags": [
+      "haies",
+      "rythme",
+      "foulée",
+      "technique"
+    ],
+    "progression": {
+      "niveau1": {
+        "titre": "Débutant",
+        "description": "L'élève découvre l'activité et se familiarise avec les mouvements fondamentaux. Pour « Course haies basses », voici les attentes à ce niveau.",
+        "consignes": [
+          "Respecter les limites de son espace",
+          "Se déplacer à vitesse lente dans un espace délimité",
+          "Pratiquer un seul type de déplacement à la fois"
+        ],
+        "criteres_reussite": [
+          "L'élève se déplace de façon contrôlée",
+          "L'élève freine et s'arrête sur commande"
+        ]
+      },
+      "niveau2": {
+        "titre": "Intermédiaire",
+        "description": "L'intermédiaire travaille la régularité et commence à combiner les habiletés. Pour « Course haies basses », voici les attentes à ce niveau.",
+        "consignes": [
+          "Combiner déplacement et manipulation d'objet",
+          "Alterner entre deux types de déplacement",
+          "Se déplacer en changeant de direction sur signal"
+        ],
+        "criteres_reussite": [
+          "L'élève change de direction sans perte d'équilibre",
+          "La transition entre les déplacements est fluide"
+        ]
+      },
+      "niveau3": {
+        "titre": "Avancé",
+        "description": "L'élève perfectionne sa technique et s'adapte à des situations complexes. Pour « Course haies basses », voici les attentes à ce niveau.",
+        "consignes": [
+          "Se déplacer en situation de jeu avec adversaire",
+          "Réagir rapidement aux changements d'environnement",
+          "Créer des feintes et des changements de rythme"
+        ],
+        "criteres_reussite": [
+          "L'élève se déplace avec agilité et efficacité",
+          "L'élève adapte ses déplacements à la situation de jeu"
+        ]
+      }
+    }
   },
   {
     "titre": "Relais simple 4x25 m",
@@ -32,8 +129,57 @@
     "variantes": "Relais navette, relais avec obstacles, relais thématique (objets à transporter).",
     "adaptation": "Témoin plus gros (bâton de hockey coupé), zone de passage plus longue, distance réduite.",
     "duree": 15,
-    "materiel": ["Témoin de relais", "Cônes de zone de passage"],
-    "tags": ["relais", "témoin", "équipe", "vitesse"]
+    "materiel": [
+      "Témoin de relais",
+      "Cônes de zone de passage"
+    ],
+    "tags": [
+      "relais",
+      "témoin",
+      "équipe",
+      "vitesse"
+    ],
+    "progression": {
+      "niveau1": {
+        "titre": "Débutant",
+        "description": "L'élève découvre l'activité et se familiarise avec les mouvements fondamentaux. Pour « Relais simple 4x25 m », voici les attentes à ce niveau.",
+        "consignes": [
+          "Respecter les limites de son espace",
+          "Se déplacer à vitesse lente dans un espace délimité",
+          "Garder le contrôle de son corps en mouvement"
+        ],
+        "criteres_reussite": [
+          "L'élève freine et s'arrête sur commande",
+          "L'élève se déplace de façon contrôlée"
+        ]
+      },
+      "niveau2": {
+        "titre": "Intermédiaire",
+        "description": "À ce niveau, on ajoute de la complexité tout en consolidant les acquis. Pour « Relais simple 4x25 m », voici les attentes à ce niveau.",
+        "consignes": [
+          "Alterner entre deux types de déplacement",
+          "S'adapter au rythme d'un partenaire",
+          "Se déplacer en changeant de direction sur signal"
+        ],
+        "criteres_reussite": [
+          "L'élève change de direction sans perte d'équilibre",
+          "La transition entre les déplacements est fluide"
+        ]
+      },
+      "niveau3": {
+        "titre": "Avancé",
+        "description": "L'élève perfectionne sa technique et s'adapte à des situations complexes. Pour « Relais simple 4x25 m », voici les attentes à ce niveau.",
+        "consignes": [
+          "Combiner plusieurs types de déplacement en enchaînement",
+          "Se déplacer en situation de jeu avec adversaire",
+          "Optimiser ses trajectoires pour l'efficacité"
+        ],
+        "criteres_reussite": [
+          "Les enchaînements sont fluides et rapides",
+          "L'élève adapte ses déplacements à la situation de jeu"
+        ]
+      }
+    }
   },
   {
     "titre": "Course fractionnée 30-30",
@@ -44,8 +190,57 @@
     "variantes": "Fractionnés 20-40 (récup plus longue), fractionnés pyramidaux (10-10, 20-20, 30-30, 40-40...).",
     "adaptation": "Réduire l'intensité, augmenter la récupération, utiliser un périmètre plus petit.",
     "duree": 20,
-    "materiel": ["Chronomètre ou minuterie sonore", "Terrain dégagé de 40 m"],
-    "tags": ["fractionné", "endurance", "intensité", "gestion"]
+    "materiel": [
+      "Chronomètre ou minuterie sonore",
+      "Terrain dégagé de 40 m"
+    ],
+    "tags": [
+      "fractionné",
+      "endurance",
+      "intensité",
+      "gestion"
+    ],
+    "progression": {
+      "niveau1": {
+        "titre": "Débutant",
+        "description": "Le débutant explore les bases de l'activité avec un accompagnement soutenu. Pour « Course fractionnée 30-30 », voici les attentes à ce niveau.",
+        "consignes": [
+          "Garder le contrôle de son corps en mouvement",
+          "Pratiquer un seul type de déplacement à la fois",
+          "Suivre des lignes au sol ou des repères visuels"
+        ],
+        "criteres_reussite": [
+          "L'élève freine et s'arrête sur commande",
+          "Le patron moteur de base est reconnaissable"
+        ]
+      },
+      "niveau2": {
+        "titre": "Intermédiaire",
+        "description": "L'élève est capable d'exécuter l'activité de façon autonome avec quelques ajustements. Pour « Course fractionnée 30-30 », voici les attentes à ce niveau.",
+        "consignes": [
+          "Augmenter la vitesse tout en gardant le contrôle",
+          "Alterner entre deux types de déplacement",
+          "S'adapter au rythme d'un partenaire"
+        ],
+        "criteres_reussite": [
+          "L'élève change de direction sans perte d'équilibre",
+          "La transition entre les déplacements est fluide"
+        ]
+      },
+      "niveau3": {
+        "titre": "Avancé",
+        "description": "L'élève démontre une maîtrise complète et peut enseigner aux autres. Pour « Course fractionnée 30-30 », voici les attentes à ce niveau.",
+        "consignes": [
+          "Réagir rapidement aux changements d'environnement",
+          "Combiner plusieurs types de déplacement en enchaînement",
+          "Se déplacer en situation de jeu avec adversaire"
+        ],
+        "criteres_reussite": [
+          "Les enchaînements sont fluides et rapides",
+          "L'élève se déplace avec agilité et efficacité"
+        ]
+      }
+    }
   },
   {
     "titre": "Départ réaction signal",
@@ -56,8 +251,58 @@
     "variantes": "Départ dos à la ligne, départ dos dos en duo, réaction à une couleur spécifique seulement.",
     "adaptation": "Signaux plus clairs et espacés, départ toujours de la même position.",
     "duree": 12,
-    "materiel": ["Sifflet", "Cartons de couleurs", "Cônes"],
-    "tags": ["réaction", "départ", "vitesse", "signal"]
+    "materiel": [
+      "Sifflet",
+      "Cartons de couleurs",
+      "Cônes"
+    ],
+    "tags": [
+      "réaction",
+      "départ",
+      "vitesse",
+      "signal"
+    ],
+    "progression": {
+      "niveau1": {
+        "titre": "Débutant",
+        "description": "À ce stade, l'objectif est d'apprivoiser l'exercice sans pression de performance. Pour « Départ réaction signal », voici les attentes à ce niveau.",
+        "consignes": [
+          "Se déplacer à vitesse lente dans un espace délimité",
+          "Garder le contrôle de son corps en mouvement",
+          "Respecter les limites de son espace"
+        ],
+        "criteres_reussite": [
+          "L'élève freine et s'arrête sur commande",
+          "Le patron moteur de base est reconnaissable"
+        ]
+      },
+      "niveau2": {
+        "titre": "Intermédiaire",
+        "description": "À ce niveau, on ajoute de la complexité tout en consolidant les acquis. Pour « Départ réaction signal », voici les attentes à ce niveau.",
+        "consignes": [
+          "Combiner déplacement et manipulation d'objet",
+          "Alterner entre deux types de déplacement",
+          "S'adapter au rythme d'un partenaire"
+        ],
+        "criteres_reussite": [
+          "L'élève maintient sa vitesse dans les changements",
+          "La transition entre les déplacements est fluide"
+        ]
+      },
+      "niveau3": {
+        "titre": "Avancé",
+        "description": "L'élève perfectionne sa technique et s'adapte à des situations complexes. Pour « Départ réaction signal », voici les attentes à ce niveau.",
+        "consignes": [
+          "Créer des feintes et des changements de rythme",
+          "Combiner plusieurs types de déplacement en enchaînement",
+          "Se déplacer en situation de jeu avec adversaire"
+        ],
+        "criteres_reussite": [
+          "L'élève adapte ses déplacements à la situation de jeu",
+          "Les enchaînements sont fluides et rapides"
+        ]
+      }
+    }
   },
   {
     "titre": "Course obstacles variés",
@@ -68,8 +313,61 @@
     "variantes": "Parcours à l'envers, parcours en duo synchronisé, parcours avec porter un objet.",
     "adaptation": "Réduire le nombre d'obstacles, faciliter chaque station, éliminer le chrono.",
     "duree": 20,
-    "materiel": ["Haies", "Cerceaux", "Cônes", "Tapis", "Tunnel", "Planche d'équilibre"],
-    "tags": ["obstacles", "parcours", "polyvalence", "agilité"]
+    "materiel": [
+      "Haies",
+      "Cerceaux",
+      "Cônes",
+      "Tapis",
+      "Tunnel",
+      "Planche d'équilibre"
+    ],
+    "tags": [
+      "obstacles",
+      "parcours",
+      "polyvalence",
+      "agilité"
+    ],
+    "progression": {
+      "niveau1": {
+        "titre": "Débutant",
+        "description": "L'accent est mis sur la compréhension des consignes et la sécurité. Pour « Course obstacles variés », voici les attentes à ce niveau.",
+        "consignes": [
+          "Se déplacer à vitesse lente dans un espace délimité",
+          "Respecter les limites de son espace",
+          "Garder le contrôle de son corps en mouvement"
+        ],
+        "criteres_reussite": [
+          "L'élève freine et s'arrête sur commande",
+          "Le patron moteur de base est reconnaissable"
+        ]
+      },
+      "niveau2": {
+        "titre": "Intermédiaire",
+        "description": "L'élève maîtrise les bases et cherche à améliorer sa constance et sa fluidité. Pour « Course obstacles variés », voici les attentes à ce niveau.",
+        "consignes": [
+          "Alterner entre deux types de déplacement",
+          "Combiner déplacement et manipulation d'objet",
+          "S'adapter au rythme d'un partenaire"
+        ],
+        "criteres_reussite": [
+          "L'élève maintient sa vitesse dans les changements",
+          "L'élève change de direction sans perte d'équilibre"
+        ]
+      },
+      "niveau3": {
+        "titre": "Avancé",
+        "description": "L'élève démontre une maîtrise complète et peut enseigner aux autres. Pour « Course obstacles variés », voici les attentes à ce niveau.",
+        "consignes": [
+          "Optimiser ses trajectoires pour l'efficacité",
+          "Réagir rapidement aux changements d'environnement",
+          "Combiner plusieurs types de déplacement en enchaînement"
+        ],
+        "criteres_reussite": [
+          "L'élève adapte ses déplacements à la situation de jeu",
+          "Les enchaînements sont fluides et rapides"
+        ]
+      }
+    }
   },
   {
     "titre": "Poursuite en couloir",
@@ -80,8 +378,56 @@
     "variantes": "Poursuite dans un labyrinthe, poursuite avec ballon, poursuite avec défi à la fin.",
     "adaptation": "Couloir plus large, distance initiale plus grande, rôle de poursuivant plus court.",
     "duree": 12,
-    "materiel": ["Cônes pour délimiter les couloirs"],
-    "tags": ["poursuite", "vitesse", "réaction", "duo"]
+    "materiel": [
+      "Cônes pour délimiter les couloirs"
+    ],
+    "tags": [
+      "poursuite",
+      "vitesse",
+      "réaction",
+      "duo"
+    ],
+    "progression": {
+      "niveau1": {
+        "titre": "Débutant",
+        "description": "L'accent est mis sur la compréhension des consignes et la sécurité. Pour « Poursuite en couloir », voici les attentes à ce niveau.",
+        "consignes": [
+          "Respecter les limites de son espace",
+          "Se déplacer à vitesse lente dans un espace délimité",
+          "Pratiquer un seul type de déplacement à la fois"
+        ],
+        "criteres_reussite": [
+          "L'élève freine et s'arrête sur commande",
+          "Le patron moteur de base est reconnaissable"
+        ]
+      },
+      "niveau2": {
+        "titre": "Intermédiaire",
+        "description": "L'élève maîtrise les bases et cherche à améliorer sa constance et sa fluidité. Pour « Poursuite en couloir », voici les attentes à ce niveau.",
+        "consignes": [
+          "Combiner déplacement et manipulation d'objet",
+          "S'adapter au rythme d'un partenaire",
+          "Se déplacer en changeant de direction sur signal"
+        ],
+        "criteres_reussite": [
+          "L'élève change de direction sans perte d'équilibre",
+          "L'élève maintient sa vitesse dans les changements"
+        ]
+      },
+      "niveau3": {
+        "titre": "Avancé",
+        "description": "L'expert peut exécuter l'activité dans des contextes variés et exigeants. Pour « Poursuite en couloir », voici les attentes à ce niveau.",
+        "consignes": [
+          "Optimiser ses trajectoires pour l'efficacité",
+          "Créer des feintes et des changements de rythme",
+          "Combiner plusieurs types de déplacement en enchaînement"
+        ],
+        "criteres_reussite": [
+          "L'élève adapte ses déplacements à la situation de jeu",
+          "Les enchaînements sont fluides et rapides"
+        ]
+      }
+    }
   },
   {
     "titre": "Course en cercle progressif",
@@ -92,8 +438,57 @@
     "variantes": "Ajouter des gestes en courant (toucher le sol, sauter), courir en duo main dans la main, suivre un leader.",
     "adaptation": "Marcher au lieu de courir, cercle plus petit, signaux plus lents et espacés.",
     "duree": 8,
-    "materiel": ["Tambourin ou sifflet", "Cônes pour le cercle"],
-    "tags": ["cercle", "écoute", "direction", "maternelle"]
+    "materiel": [
+      "Tambourin ou sifflet",
+      "Cônes pour le cercle"
+    ],
+    "tags": [
+      "cercle",
+      "écoute",
+      "direction",
+      "maternelle"
+    ],
+    "progression": {
+      "niveau1": {
+        "titre": "Débutant",
+        "description": "Le débutant explore les bases de l'activité avec un accompagnement soutenu. Pour « Course en cercle progressif », voici les attentes à ce niveau.",
+        "consignes": [
+          "Pratiquer un seul type de déplacement à la fois",
+          "Garder le contrôle de son corps en mouvement",
+          "Se déplacer à vitesse lente dans un espace délimité"
+        ],
+        "criteres_reussite": [
+          "L'élève freine et s'arrête sur commande",
+          "L'élève se déplace de façon contrôlée"
+        ]
+      },
+      "niveau2": {
+        "titre": "Intermédiaire",
+        "description": "À ce niveau, on ajoute de la complexité tout en consolidant les acquis. Pour « Course en cercle progressif », voici les attentes à ce niveau.",
+        "consignes": [
+          "S'adapter au rythme d'un partenaire",
+          "Se déplacer en changeant de direction sur signal",
+          "Alterner entre deux types de déplacement"
+        ],
+        "criteres_reussite": [
+          "La transition entre les déplacements est fluide",
+          "L'élève maintient sa vitesse dans les changements"
+        ]
+      },
+      "niveau3": {
+        "titre": "Avancé",
+        "description": "L'expert peut exécuter l'activité dans des contextes variés et exigeants. Pour « Course en cercle progressif », voici les attentes à ce niveau.",
+        "consignes": [
+          "Se déplacer en situation de jeu avec adversaire",
+          "Combiner plusieurs types de déplacement en enchaînement",
+          "Créer des feintes et des changements de rythme"
+        ],
+        "criteres_reussite": [
+          "L'élève adapte ses déplacements à la situation de jeu",
+          "L'élève se déplace avec agilité et efficacité"
+        ]
+      }
+    }
   },
   {
     "titre": "Course en pas chassés latéraux",
@@ -104,8 +499,56 @@
     "variantes": "Pas chassés avec ballon, pas chassés en miroir avec un partenaire, enchaîner chassés et sprint avant.",
     "adaptation": "Distance plus courte (5 m), rythme plus lent, main sur un mur pour le support.",
     "duree": 10,
-    "materiel": ["Cônes (2 par ligne)"],
-    "tags": ["latéral", "pas chassés", "agilité", "déplacement"]
+    "materiel": [
+      "Cônes (2 par ligne)"
+    ],
+    "tags": [
+      "latéral",
+      "pas chassés",
+      "agilité",
+      "déplacement"
+    ],
+    "progression": {
+      "niveau1": {
+        "titre": "Débutant",
+        "description": "L'accent est mis sur la compréhension des consignes et la sécurité. Pour « Course en pas chassés latéraux », voici les attentes à ce niveau.",
+        "consignes": [
+          "Garder le contrôle de son corps en mouvement",
+          "Se déplacer à vitesse lente dans un espace délimité",
+          "Pratiquer un seul type de déplacement à la fois"
+        ],
+        "criteres_reussite": [
+          "L'élève freine et s'arrête sur commande",
+          "Le patron moteur de base est reconnaissable"
+        ]
+      },
+      "niveau2": {
+        "titre": "Intermédiaire",
+        "description": "L'élève maîtrise les bases et cherche à améliorer sa constance et sa fluidité. Pour « Course en pas chassés latéraux », voici les attentes à ce niveau.",
+        "consignes": [
+          "Alterner entre deux types de déplacement",
+          "Combiner déplacement et manipulation d'objet",
+          "Se déplacer en changeant de direction sur signal"
+        ],
+        "criteres_reussite": [
+          "L'élève change de direction sans perte d'équilibre",
+          "L'élève maintient sa vitesse dans les changements"
+        ]
+      },
+      "niveau3": {
+        "titre": "Avancé",
+        "description": "L'élève démontre une maîtrise complète et peut enseigner aux autres. Pour « Course en pas chassés latéraux », voici les attentes à ce niveau.",
+        "consignes": [
+          "Se déplacer en situation de jeu avec adversaire",
+          "Combiner plusieurs types de déplacement en enchaînement",
+          "Réagir rapidement aux changements d'environnement"
+        ],
+        "criteres_reussite": [
+          "L'élève adapte ses déplacements à la situation de jeu",
+          "L'élève se déplace avec agilité et efficacité"
+        ]
+      }
+    }
   },
   {
     "titre": "Course à reculons contrôlée",
@@ -116,8 +559,57 @@
     "variantes": "Reculons en slalom, reculons en duo face à face, alterner avant-arrière au signal.",
     "adaptation": "Marcher à reculons d'abord, distance réduite à 8 m, couloir balisé pour la sécurité.",
     "duree": 10,
-    "materiel": ["Cônes", "Couloir dégagé de 15 m"],
-    "tags": ["reculons", "proprioception", "posture", "sécurité"]
+    "materiel": [
+      "Cônes",
+      "Couloir dégagé de 15 m"
+    ],
+    "tags": [
+      "reculons",
+      "proprioception",
+      "posture",
+      "sécurité"
+    ],
+    "progression": {
+      "niveau1": {
+        "titre": "Débutant",
+        "description": "L'accent est mis sur la compréhension des consignes et la sécurité. Pour « Course à reculons contrôlée », voici les attentes à ce niveau.",
+        "consignes": [
+          "Garder le contrôle de son corps en mouvement",
+          "Se déplacer à vitesse lente dans un espace délimité",
+          "Pratiquer un seul type de déplacement à la fois"
+        ],
+        "criteres_reussite": [
+          "L'élève freine et s'arrête sur commande",
+          "Le patron moteur de base est reconnaissable"
+        ]
+      },
+      "niveau2": {
+        "titre": "Intermédiaire",
+        "description": "L'élève maîtrise les bases et cherche à améliorer sa constance et sa fluidité. Pour « Course à reculons contrôlée », voici les attentes à ce niveau.",
+        "consignes": [
+          "S'adapter au rythme d'un partenaire",
+          "Combiner déplacement et manipulation d'objet",
+          "Alterner entre deux types de déplacement"
+        ],
+        "criteres_reussite": [
+          "L'élève change de direction sans perte d'équilibre",
+          "La transition entre les déplacements est fluide"
+        ]
+      },
+      "niveau3": {
+        "titre": "Avancé",
+        "description": "L'élève démontre une maîtrise complète et peut enseigner aux autres. Pour « Course à reculons contrôlée », voici les attentes à ce niveau.",
+        "consignes": [
+          "Réagir rapidement aux changements d'environnement",
+          "Combiner plusieurs types de déplacement en enchaînement",
+          "Se déplacer en situation de jeu avec adversaire"
+        ],
+        "criteres_reussite": [
+          "L'élève se déplace avec agilité et efficacité",
+          "L'élève adapte ses déplacements à la situation de jeu"
+        ]
+      }
+    }
   },
   {
     "titre": "Navette progressive (bip test simplifié)",
@@ -128,8 +620,57 @@
     "variantes": "En équipe (total de paliers), avec musique, navette en duo côte à côte.",
     "adaptation": "Distance réduite à 15 m, signaux plus espacés, permettre la marche rapide.",
     "duree": 15,
-    "materiel": ["Enregistrement audio bip test ou chronomètre", "Cônes 20 m"],
-    "tags": ["navette", "endurance", "palier", "bip test"]
+    "materiel": [
+      "Enregistrement audio bip test ou chronomètre",
+      "Cônes 20 m"
+    ],
+    "tags": [
+      "navette",
+      "endurance",
+      "palier",
+      "bip test"
+    ],
+    "progression": {
+      "niveau1": {
+        "titre": "Débutant",
+        "description": "L'élève découvre l'activité et se familiarise avec les mouvements fondamentaux. Pour « Navette progressive (bip test simplifié) », voici les attentes à ce niveau.",
+        "consignes": [
+          "Respecter les limites de son espace",
+          "Suivre des lignes au sol ou des repères visuels",
+          "Pratiquer un seul type de déplacement à la fois"
+        ],
+        "criteres_reussite": [
+          "L'élève freine et s'arrête sur commande",
+          "L'élève se déplace de façon contrôlée"
+        ]
+      },
+      "niveau2": {
+        "titre": "Intermédiaire",
+        "description": "L'élève est capable d'exécuter l'activité de façon autonome avec quelques ajustements. Pour « Navette progressive (bip test simplifié) », voici les attentes à ce niveau.",
+        "consignes": [
+          "Alterner entre deux types de déplacement",
+          "Augmenter la vitesse tout en gardant le contrôle",
+          "Combiner déplacement et manipulation d'objet"
+        ],
+        "criteres_reussite": [
+          "L'élève maintient sa vitesse dans les changements",
+          "L'élève change de direction sans perte d'équilibre"
+        ]
+      },
+      "niveau3": {
+        "titre": "Avancé",
+        "description": "L'élève perfectionne sa technique et s'adapte à des situations complexes. Pour « Navette progressive (bip test simplifié) », voici les attentes à ce niveau.",
+        "consignes": [
+          "Créer des feintes et des changements de rythme",
+          "Combiner plusieurs types de déplacement en enchaînement",
+          "Optimiser ses trajectoires pour l'efficacité"
+        ],
+        "criteres_reussite": [
+          "L'élève adapte ses déplacements à la situation de jeu",
+          "L'élève se déplace avec agilité et efficacité"
+        ]
+      }
+    }
   },
   {
     "titre": "Course en étoile",
@@ -140,8 +681,56 @@
     "variantes": "Étoile dans le désordre (appeler les couleurs), en reculons, en pas chassés.",
     "adaptation": "3 cônes au lieu de 5, distance réduite à 3 m, rythme libre sans chronomètre.",
     "duree": 10,
-    "materiel": ["6 cônes de couleurs différentes"],
-    "tags": ["étoile", "direction", "orientation", "accélération"]
+    "materiel": [
+      "6 cônes de couleurs différentes"
+    ],
+    "tags": [
+      "étoile",
+      "direction",
+      "orientation",
+      "accélération"
+    ],
+    "progression": {
+      "niveau1": {
+        "titre": "Débutant",
+        "description": "À ce stade, l'objectif est d'apprivoiser l'exercice sans pression de performance. Pour « Course en étoile », voici les attentes à ce niveau.",
+        "consignes": [
+          "Suivre des lignes au sol ou des repères visuels",
+          "Se déplacer à vitesse lente dans un espace délimité",
+          "Respecter les limites de son espace"
+        ],
+        "criteres_reussite": [
+          "L'élève se déplace de façon contrôlée",
+          "Le patron moteur de base est reconnaissable"
+        ]
+      },
+      "niveau2": {
+        "titre": "Intermédiaire",
+        "description": "À ce niveau, on ajoute de la complexité tout en consolidant les acquis. Pour « Course en étoile », voici les attentes à ce niveau.",
+        "consignes": [
+          "S'adapter au rythme d'un partenaire",
+          "Alterner entre deux types de déplacement",
+          "Combiner déplacement et manipulation d'objet"
+        ],
+        "criteres_reussite": [
+          "L'élève change de direction sans perte d'équilibre",
+          "La transition entre les déplacements est fluide"
+        ]
+      },
+      "niveau3": {
+        "titre": "Avancé",
+        "description": "L'expert peut exécuter l'activité dans des contextes variés et exigeants. Pour « Course en étoile », voici les attentes à ce niveau.",
+        "consignes": [
+          "Combiner plusieurs types de déplacement en enchaînement",
+          "Se déplacer en situation de jeu avec adversaire",
+          "Optimiser ses trajectoires pour l'efficacité"
+        ],
+        "criteres_reussite": [
+          "Les enchaînements sont fluides et rapides",
+          "L'élève adapte ses déplacements à la situation de jeu"
+        ]
+      }
+    }
   },
   {
     "titre": "Course en file indienne avec dépassement",
@@ -152,8 +741,56 @@
     "variantes": "Dépassement par la gauche seulement, en duo qui dépasse ensemble, avec ballon en main.",
     "adaptation": "Groupe plus petit (4-5), trot plus lent, distance de dépassement réduite.",
     "duree": 12,
-    "materiel": ["Espace dégagé (gymnase complet)"],
-    "tags": ["file", "dépassement", "sprint", "groupe"]
+    "materiel": [
+      "Espace dégagé (gymnase complet)"
+    ],
+    "tags": [
+      "file",
+      "dépassement",
+      "sprint",
+      "groupe"
+    ],
+    "progression": {
+      "niveau1": {
+        "titre": "Débutant",
+        "description": "À ce stade, l'objectif est d'apprivoiser l'exercice sans pression de performance. Pour « Course en file indienne avec dépassement », voici les attentes à ce niveau.",
+        "consignes": [
+          "Se déplacer à vitesse lente dans un espace délimité",
+          "Suivre des lignes au sol ou des repères visuels",
+          "Garder le contrôle de son corps en mouvement"
+        ],
+        "criteres_reussite": [
+          "L'élève se déplace de façon contrôlée",
+          "L'élève freine et s'arrête sur commande"
+        ]
+      },
+      "niveau2": {
+        "titre": "Intermédiaire",
+        "description": "L'élève est capable d'exécuter l'activité de façon autonome avec quelques ajustements. Pour « Course en file indienne avec dépassement », voici les attentes à ce niveau.",
+        "consignes": [
+          "Se déplacer en changeant de direction sur signal",
+          "Alterner entre deux types de déplacement",
+          "Combiner déplacement et manipulation d'objet"
+        ],
+        "criteres_reussite": [
+          "La transition entre les déplacements est fluide",
+          "L'élève change de direction sans perte d'équilibre"
+        ]
+      },
+      "niveau3": {
+        "titre": "Avancé",
+        "description": "À ce stade avancé, l'élève crée, innove et aide ses pairs. Pour « Course en file indienne avec dépassement », voici les attentes à ce niveau.",
+        "consignes": [
+          "Se déplacer en situation de jeu avec adversaire",
+          "Réagir rapidement aux changements d'environnement",
+          "Optimiser ses trajectoires pour l'efficacité"
+        ],
+        "criteres_reussite": [
+          "L'élève se déplace avec agilité et efficacité",
+          "Les enchaînements sont fluides et rapides"
+        ]
+      }
+    }
   },
   {
     "titre": "Course en montée et descente",
@@ -164,8 +801,56 @@
     "variantes": "Monter 2 marches à la fois, monter en pas chassés latéraux, sprint en descente contrôlée.",
     "adaptation": "Moins de marches, monter en marchant, récupération plus longue.",
     "duree": 15,
-    "materiel": ["Estrades ou escalier sécuritaire"],
-    "tags": ["montée", "escalier", "puissance", "jambes"]
+    "materiel": [
+      "Estrades ou escalier sécuritaire"
+    ],
+    "tags": [
+      "montée",
+      "escalier",
+      "puissance",
+      "jambes"
+    ],
+    "progression": {
+      "niveau1": {
+        "titre": "Débutant",
+        "description": "À ce stade, l'objectif est d'apprivoiser l'exercice sans pression de performance. Pour « Course en montée et descente », voici les attentes à ce niveau.",
+        "consignes": [
+          "Respecter les limites de son espace",
+          "Se déplacer à vitesse lente dans un espace délimité",
+          "Garder le contrôle de son corps en mouvement"
+        ],
+        "criteres_reussite": [
+          "L'élève se déplace de façon contrôlée",
+          "Le patron moteur de base est reconnaissable"
+        ]
+      },
+      "niveau2": {
+        "titre": "Intermédiaire",
+        "description": "À ce niveau, on ajoute de la complexité tout en consolidant les acquis. Pour « Course en montée et descente », voici les attentes à ce niveau.",
+        "consignes": [
+          "Alterner entre deux types de déplacement",
+          "Combiner déplacement et manipulation d'objet",
+          "S'adapter au rythme d'un partenaire"
+        ],
+        "criteres_reussite": [
+          "L'élève change de direction sans perte d'équilibre",
+          "L'élève maintient sa vitesse dans les changements"
+        ]
+      },
+      "niveau3": {
+        "titre": "Avancé",
+        "description": "À ce stade avancé, l'élève crée, innove et aide ses pairs. Pour « Course en montée et descente », voici les attentes à ce niveau.",
+        "consignes": [
+          "Combiner plusieurs types de déplacement en enchaînement",
+          "Réagir rapidement aux changements d'environnement",
+          "Se déplacer en situation de jeu avec adversaire"
+        ],
+        "criteres_reussite": [
+          "L'élève adapte ses déplacements à la situation de jeu",
+          "Les enchaînements sont fluides et rapides"
+        ]
+      }
+    }
   },
   {
     "titre": "Course tempo (allure constante)",
@@ -176,8 +861,57 @@
     "variantes": "Course à deux (maintenir le même rythme), course avec musique au tempo choisi, course sur sentier.",
     "adaptation": "Alterner 1 min course / 1 min marche, durée réduite à 5 minutes.",
     "duree": 15,
-    "materiel": ["Chronomètre", "Parcours balisé avec cônes"],
-    "tags": ["tempo", "endurance", "respiration", "régularité"]
+    "materiel": [
+      "Chronomètre",
+      "Parcours balisé avec cônes"
+    ],
+    "tags": [
+      "tempo",
+      "endurance",
+      "respiration",
+      "régularité"
+    ],
+    "progression": {
+      "niveau1": {
+        "titre": "Débutant",
+        "description": "L'accent est mis sur la compréhension des consignes et la sécurité. Pour « Course tempo (allure constante) », voici les attentes à ce niveau.",
+        "consignes": [
+          "Suivre des lignes au sol ou des repères visuels",
+          "Respecter les limites de son espace",
+          "Pratiquer un seul type de déplacement à la fois"
+        ],
+        "criteres_reussite": [
+          "Le patron moteur de base est reconnaissable",
+          "L'élève freine et s'arrête sur commande"
+        ]
+      },
+      "niveau2": {
+        "titre": "Intermédiaire",
+        "description": "À ce niveau, on ajoute de la complexité tout en consolidant les acquis. Pour « Course tempo (allure constante) », voici les attentes à ce niveau.",
+        "consignes": [
+          "Augmenter la vitesse tout en gardant le contrôle",
+          "S'adapter au rythme d'un partenaire",
+          "Se déplacer en changeant de direction sur signal"
+        ],
+        "criteres_reussite": [
+          "L'élève maintient sa vitesse dans les changements",
+          "L'élève change de direction sans perte d'équilibre"
+        ]
+      },
+      "niveau3": {
+        "titre": "Avancé",
+        "description": "L'élève démontre une maîtrise complète et peut enseigner aux autres. Pour « Course tempo (allure constante) », voici les attentes à ce niveau.",
+        "consignes": [
+          "Optimiser ses trajectoires pour l'efficacité",
+          "Combiner plusieurs types de déplacement en enchaînement",
+          "Réagir rapidement aux changements d'environnement"
+        ],
+        "criteres_reussite": [
+          "Les enchaînements sont fluides et rapides",
+          "L'élève adapte ses déplacements à la situation de jeu"
+        ]
+      }
+    }
   },
   {
     "titre": "Sprint en côte virtuelle (résistance)",
@@ -188,8 +922,57 @@
     "variantes": "Sprint tracté (le partenaire tire légèrement), sprint en montée réelle, double résistance.",
     "adaptation": "Résistance très légère, distance réduite à 10 m, sans élastique (courir dans le sable).",
     "duree": 15,
-    "materiel": ["Élastiques de résistance ou ceintures", "Cônes"],
-    "tags": ["résistance", "puissance", "sprint", "partenaire"]
+    "materiel": [
+      "Élastiques de résistance ou ceintures",
+      "Cônes"
+    ],
+    "tags": [
+      "résistance",
+      "puissance",
+      "sprint",
+      "partenaire"
+    ],
+    "progression": {
+      "niveau1": {
+        "titre": "Débutant",
+        "description": "Le débutant explore les bases de l'activité avec un accompagnement soutenu. Pour « Sprint en côte virtuelle (résistance) », voici les attentes à ce niveau.",
+        "consignes": [
+          "Se déplacer à vitesse lente dans un espace délimité",
+          "Suivre des lignes au sol ou des repères visuels",
+          "Respecter les limites de son espace"
+        ],
+        "criteres_reussite": [
+          "L'élève se déplace de façon contrôlée",
+          "L'élève freine et s'arrête sur commande"
+        ]
+      },
+      "niveau2": {
+        "titre": "Intermédiaire",
+        "description": "L'intermédiaire travaille la régularité et commence à combiner les habiletés. Pour « Sprint en côte virtuelle (résistance) », voici les attentes à ce niveau.",
+        "consignes": [
+          "S'adapter au rythme d'un partenaire",
+          "Augmenter la vitesse tout en gardant le contrôle",
+          "Combiner déplacement et manipulation d'objet"
+        ],
+        "criteres_reussite": [
+          "L'élève maintient sa vitesse dans les changements",
+          "L'élève change de direction sans perte d'équilibre"
+        ]
+      },
+      "niveau3": {
+        "titre": "Avancé",
+        "description": "L'élève démontre une maîtrise complète et peut enseigner aux autres. Pour « Sprint en côte virtuelle (résistance) », voici les attentes à ce niveau.",
+        "consignes": [
+          "Combiner plusieurs types de déplacement en enchaînement",
+          "Se déplacer en situation de jeu avec adversaire",
+          "Créer des feintes et des changements de rythme"
+        ],
+        "criteres_reussite": [
+          "L'élève se déplace avec agilité et efficacité",
+          "Les enchaînements sont fluides et rapides"
+        ]
+      }
+    }
   },
   {
     "titre": "Course serpentin entre les cônes",
@@ -200,8 +983,56 @@
     "variantes": "Serpentin en marche rapide, serpentin à reculons, serpentin en duo.",
     "adaptation": "Cônes plus espacés (2 m), moins de cônes (5), faire en marchant d'abord.",
     "duree": 8,
-    "materiel": ["10 cônes"],
-    "tags": ["serpentin", "contrôle", "slalom", "maternelle"]
+    "materiel": [
+      "10 cônes"
+    ],
+    "tags": [
+      "serpentin",
+      "contrôle",
+      "slalom",
+      "maternelle"
+    ],
+    "progression": {
+      "niveau1": {
+        "titre": "Débutant",
+        "description": "Le débutant explore les bases de l'activité avec un accompagnement soutenu. Pour « Course serpentin entre les cônes », voici les attentes à ce niveau.",
+        "consignes": [
+          "Suivre des lignes au sol ou des repères visuels",
+          "Respecter les limites de son espace",
+          "Pratiquer un seul type de déplacement à la fois"
+        ],
+        "criteres_reussite": [
+          "L'élève se déplace de façon contrôlée",
+          "L'élève freine et s'arrête sur commande"
+        ]
+      },
+      "niveau2": {
+        "titre": "Intermédiaire",
+        "description": "L'élève est capable d'exécuter l'activité de façon autonome avec quelques ajustements. Pour « Course serpentin entre les cônes », voici les attentes à ce niveau.",
+        "consignes": [
+          "Se déplacer en changeant de direction sur signal",
+          "Augmenter la vitesse tout en gardant le contrôle",
+          "Combiner déplacement et manipulation d'objet"
+        ],
+        "criteres_reussite": [
+          "La transition entre les déplacements est fluide",
+          "L'élève maintient sa vitesse dans les changements"
+        ]
+      },
+      "niveau3": {
+        "titre": "Avancé",
+        "description": "À ce stade avancé, l'élève crée, innove et aide ses pairs. Pour « Course serpentin entre les cônes », voici les attentes à ce niveau.",
+        "consignes": [
+          "Combiner plusieurs types de déplacement en enchaînement",
+          "Créer des feintes et des changements de rythme",
+          "Réagir rapidement aux changements d'environnement"
+        ],
+        "criteres_reussite": [
+          "L'élève se déplace avec agilité et efficacité",
+          "L'élève adapte ses déplacements à la situation de jeu"
+        ]
+      }
+    }
   },
   {
     "titre": "Course des animaux",
@@ -212,8 +1043,57 @@
     "variantes": "Les élèves choisissent leur animal, course avec sons d'animaux, parcours animalier par stations.",
     "adaptation": "Images des animaux affichées, démonstration préalable de chaque déplacement.",
     "duree": 10,
-    "materiel": ["Images d'animaux (optionnel)", "Espace dégagé"],
-    "tags": ["animaux", "imitation", "créativité", "allures"]
+    "materiel": [
+      "Images d'animaux (optionnel)",
+      "Espace dégagé"
+    ],
+    "tags": [
+      "animaux",
+      "imitation",
+      "créativité",
+      "allures"
+    ],
+    "progression": {
+      "niveau1": {
+        "titre": "Débutant",
+        "description": "À ce stade, l'objectif est d'apprivoiser l'exercice sans pression de performance. Pour « Course des animaux », voici les attentes à ce niveau.",
+        "consignes": [
+          "Se déplacer à vitesse lente dans un espace délimité",
+          "Garder le contrôle de son corps en mouvement",
+          "Pratiquer un seul type de déplacement à la fois"
+        ],
+        "criteres_reussite": [
+          "L'élève se déplace de façon contrôlée",
+          "L'élève freine et s'arrête sur commande"
+        ]
+      },
+      "niveau2": {
+        "titre": "Intermédiaire",
+        "description": "À ce niveau, on ajoute de la complexité tout en consolidant les acquis. Pour « Course des animaux », voici les attentes à ce niveau.",
+        "consignes": [
+          "Combiner déplacement et manipulation d'objet",
+          "Se déplacer en changeant de direction sur signal",
+          "Augmenter la vitesse tout en gardant le contrôle"
+        ],
+        "criteres_reussite": [
+          "L'élève change de direction sans perte d'équilibre",
+          "La transition entre les déplacements est fluide"
+        ]
+      },
+      "niveau3": {
+        "titre": "Avancé",
+        "description": "L'élève démontre une maîtrise complète et peut enseigner aux autres. Pour « Course des animaux », voici les attentes à ce niveau.",
+        "consignes": [
+          "Combiner plusieurs types de déplacement en enchaînement",
+          "Réagir rapidement aux changements d'environnement",
+          "Créer des feintes et des changements de rythme"
+        ],
+        "criteres_reussite": [
+          "L'élève se déplace avec agilité et efficacité",
+          "L'élève adapte ses déplacements à la situation de jeu"
+        ]
+      }
+    }
   },
   {
     "titre": "Course avec changement de vitesse",
@@ -224,8 +1104,56 @@
     "variantes": "Ajouter vitesse 0 (arrêt statue), vitesse 5 (sprint maximum), signaux visuels au lieu de verbaux.",
     "adaptation": "Seulement 3 vitesses, transitions lentes, démonstration par l'enseignant.",
     "duree": 10,
-    "materiel": ["Espace dégagé"],
-    "tags": ["vitesse", "écoute", "transition", "contrôle"]
+    "materiel": [
+      "Espace dégagé"
+    ],
+    "tags": [
+      "vitesse",
+      "écoute",
+      "transition",
+      "contrôle"
+    ],
+    "progression": {
+      "niveau1": {
+        "titre": "Débutant",
+        "description": "L'accent est mis sur la compréhension des consignes et la sécurité. Pour « Course avec changement de vitesse », voici les attentes à ce niveau.",
+        "consignes": [
+          "Suivre des lignes au sol ou des repères visuels",
+          "Garder le contrôle de son corps en mouvement",
+          "Se déplacer à vitesse lente dans un espace délimité"
+        ],
+        "criteres_reussite": [
+          "L'élève se déplace de façon contrôlée",
+          "Le patron moteur de base est reconnaissable"
+        ]
+      },
+      "niveau2": {
+        "titre": "Intermédiaire",
+        "description": "À ce niveau, on ajoute de la complexité tout en consolidant les acquis. Pour « Course avec changement de vitesse », voici les attentes à ce niveau.",
+        "consignes": [
+          "Alterner entre deux types de déplacement",
+          "Combiner déplacement et manipulation d'objet",
+          "S'adapter au rythme d'un partenaire"
+        ],
+        "criteres_reussite": [
+          "L'élève change de direction sans perte d'équilibre",
+          "La transition entre les déplacements est fluide"
+        ]
+      },
+      "niveau3": {
+        "titre": "Avancé",
+        "description": "L'expert peut exécuter l'activité dans des contextes variés et exigeants. Pour « Course avec changement de vitesse », voici les attentes à ce niveau.",
+        "consignes": [
+          "Optimiser ses trajectoires pour l'efficacité",
+          "Réagir rapidement aux changements d'environnement",
+          "Combiner plusieurs types de déplacement en enchaînement"
+        ],
+        "criteres_reussite": [
+          "Les enchaînements sont fluides et rapides",
+          "L'élève se déplace avec agilité et efficacité"
+        ]
+      }
+    }
   },
   {
     "titre": "Course chrono personnelle 40 m",
@@ -236,8 +1164,58 @@
     "variantes": "Sprint 20 m (explosivité pure), sprint 60 m (vitesse-endurance), sprint avec départ au sol.",
     "adaptation": "Distance réduite à 20 m, comparer uniquement avec soi-même, temps non affiché publiquement.",
     "duree": 20,
-    "materiel": ["Chronomètre", "Cônes 40 m", "Fiches de notation"],
-    "tags": ["chrono", "40 m", "progression", "performance"]
+    "materiel": [
+      "Chronomètre",
+      "Cônes 40 m",
+      "Fiches de notation"
+    ],
+    "tags": [
+      "chrono",
+      "40 m",
+      "progression",
+      "performance"
+    ],
+    "progression": {
+      "niveau1": {
+        "titre": "Débutant",
+        "description": "L'élève découvre l'activité et se familiarise avec les mouvements fondamentaux. Pour « Course chrono personnelle 40 m », voici les attentes à ce niveau.",
+        "consignes": [
+          "Pratiquer un seul type de déplacement à la fois",
+          "Suivre des lignes au sol ou des repères visuels",
+          "Garder le contrôle de son corps en mouvement"
+        ],
+        "criteres_reussite": [
+          "L'élève se déplace de façon contrôlée",
+          "L'élève freine et s'arrête sur commande"
+        ]
+      },
+      "niveau2": {
+        "titre": "Intermédiaire",
+        "description": "L'élève est capable d'exécuter l'activité de façon autonome avec quelques ajustements. Pour « Course chrono personnelle 40 m », voici les attentes à ce niveau.",
+        "consignes": [
+          "Se déplacer en changeant de direction sur signal",
+          "Augmenter la vitesse tout en gardant le contrôle",
+          "Alterner entre deux types de déplacement"
+        ],
+        "criteres_reussite": [
+          "La transition entre les déplacements est fluide",
+          "L'élève maintient sa vitesse dans les changements"
+        ]
+      },
+      "niveau3": {
+        "titre": "Avancé",
+        "description": "À ce stade avancé, l'élève crée, innove et aide ses pairs. Pour « Course chrono personnelle 40 m », voici les attentes à ce niveau.",
+        "consignes": [
+          "Se déplacer en situation de jeu avec adversaire",
+          "Réagir rapidement aux changements d'environnement",
+          "Combiner plusieurs types de déplacement en enchaînement"
+        ],
+        "criteres_reussite": [
+          "Les enchaînements sont fluides et rapides",
+          "L'élève se déplace avec agilité et efficacité"
+        ]
+      }
+    }
   },
   {
     "titre": "Course en duo miroir",
@@ -248,8 +1226,56 @@
     "variantes": "Miroir avec ballon, miroir en trio (1 leader, 2 suiveurs), miroir avec ajout de mouvements de bras.",
     "adaptation": "Zone plus grande, déplacements plus lents, leader qui annonce ses mouvements.",
     "duree": 12,
-    "materiel": ["Cônes pour délimiter la zone (4 m x 4 m)"],
-    "tags": ["miroir", "réactivité", "duo", "lecture"]
+    "materiel": [
+      "Cônes pour délimiter la zone (4 m x 4 m)"
+    ],
+    "tags": [
+      "miroir",
+      "réactivité",
+      "duo",
+      "lecture"
+    ],
+    "progression": {
+      "niveau1": {
+        "titre": "Débutant",
+        "description": "À ce stade, l'objectif est d'apprivoiser l'exercice sans pression de performance. Pour « Course en duo miroir », voici les attentes à ce niveau.",
+        "consignes": [
+          "Respecter les limites de son espace",
+          "Suivre des lignes au sol ou des repères visuels",
+          "Se déplacer à vitesse lente dans un espace délimité"
+        ],
+        "criteres_reussite": [
+          "Le patron moteur de base est reconnaissable",
+          "L'élève freine et s'arrête sur commande"
+        ]
+      },
+      "niveau2": {
+        "titre": "Intermédiaire",
+        "description": "L'élève est capable d'exécuter l'activité de façon autonome avec quelques ajustements. Pour « Course en duo miroir », voici les attentes à ce niveau.",
+        "consignes": [
+          "S'adapter au rythme d'un partenaire",
+          "Combiner déplacement et manipulation d'objet",
+          "Augmenter la vitesse tout en gardant le contrôle"
+        ],
+        "criteres_reussite": [
+          "La transition entre les déplacements est fluide",
+          "L'élève change de direction sans perte d'équilibre"
+        ]
+      },
+      "niveau3": {
+        "titre": "Avancé",
+        "description": "À ce stade avancé, l'élève crée, innove et aide ses pairs. Pour « Course en duo miroir », voici les attentes à ce niveau.",
+        "consignes": [
+          "Se déplacer en situation de jeu avec adversaire",
+          "Créer des feintes et des changements de rythme",
+          "Optimiser ses trajectoires pour l'efficacité"
+        ],
+        "criteres_reussite": [
+          "Les enchaînements sont fluides et rapides",
+          "L'élève se déplace avec agilité et efficacité"
+        ]
+      }
+    }
   },
   {
     "titre": "Relais déménageur",
@@ -260,8 +1286,59 @@
     "variantes": "Objets de tailles différentes, parcours avec obstacle, déménagement en reculons.",
     "adaptation": "Distance réduite à 10 m, moins d'objets, permettre la marche rapide.",
     "duree": 12,
-    "materiel": ["Poches de sable", "Balles", "Cerceaux", "Cônes"],
-    "tags": ["relais", "déménageur", "équipe", "objets"]
+    "materiel": [
+      "Poches de sable",
+      "Balles",
+      "Cerceaux",
+      "Cônes"
+    ],
+    "tags": [
+      "relais",
+      "déménageur",
+      "équipe",
+      "objets"
+    ],
+    "progression": {
+      "niveau1": {
+        "titre": "Débutant",
+        "description": "L'accent est mis sur la compréhension des consignes et la sécurité. Pour « Relais déménageur », voici les attentes à ce niveau.",
+        "consignes": [
+          "Respecter les limites de son espace",
+          "Se déplacer à vitesse lente dans un espace délimité",
+          "Suivre des lignes au sol ou des repères visuels"
+        ],
+        "criteres_reussite": [
+          "L'élève se déplace de façon contrôlée",
+          "L'élève freine et s'arrête sur commande"
+        ]
+      },
+      "niveau2": {
+        "titre": "Intermédiaire",
+        "description": "L'élève est capable d'exécuter l'activité de façon autonome avec quelques ajustements. Pour « Relais déménageur », voici les attentes à ce niveau.",
+        "consignes": [
+          "S'adapter au rythme d'un partenaire",
+          "Alterner entre deux types de déplacement",
+          "Augmenter la vitesse tout en gardant le contrôle"
+        ],
+        "criteres_reussite": [
+          "L'élève maintient sa vitesse dans les changements",
+          "La transition entre les déplacements est fluide"
+        ]
+      },
+      "niveau3": {
+        "titre": "Avancé",
+        "description": "L'élève perfectionne sa technique et s'adapte à des situations complexes. Pour « Relais déménageur », voici les attentes à ce niveau.",
+        "consignes": [
+          "Combiner plusieurs types de déplacement en enchaînement",
+          "Optimiser ses trajectoires pour l'efficacité",
+          "Se déplacer en situation de jeu avec adversaire"
+        ],
+        "criteres_reussite": [
+          "L'élève se déplace avec agilité et efficacité",
+          "L'élève adapte ses déplacements à la situation de jeu"
+        ]
+      }
+    }
   },
   {
     "titre": "Fartlek en gymnase",
@@ -272,8 +1349,57 @@
     "variantes": "Fartlek guidé par musique (sprint au refrain), fartlek en duo (un mène, l'autre suit), fartlek extérieur.",
     "adaptation": "Durée réduite à 6 minutes, alternance marche-trot seulement, pauses debout permises.",
     "duree": 15,
-    "materiel": ["Chronomètre", "Espace de course (gymnase ou extérieur)"],
-    "tags": ["fartlek", "endurance", "variation", "allures"]
+    "materiel": [
+      "Chronomètre",
+      "Espace de course (gymnase ou extérieur)"
+    ],
+    "tags": [
+      "fartlek",
+      "endurance",
+      "variation",
+      "allures"
+    ],
+    "progression": {
+      "niveau1": {
+        "titre": "Débutant",
+        "description": "À ce stade, l'objectif est d'apprivoiser l'exercice sans pression de performance. Pour « Fartlek en gymnase », voici les attentes à ce niveau.",
+        "consignes": [
+          "Garder le contrôle de son corps en mouvement",
+          "Suivre des lignes au sol ou des repères visuels",
+          "Se déplacer à vitesse lente dans un espace délimité"
+        ],
+        "criteres_reussite": [
+          "Le patron moteur de base est reconnaissable",
+          "L'élève freine et s'arrête sur commande"
+        ]
+      },
+      "niveau2": {
+        "titre": "Intermédiaire",
+        "description": "À ce niveau, on ajoute de la complexité tout en consolidant les acquis. Pour « Fartlek en gymnase », voici les attentes à ce niveau.",
+        "consignes": [
+          "Alterner entre deux types de déplacement",
+          "S'adapter au rythme d'un partenaire",
+          "Augmenter la vitesse tout en gardant le contrôle"
+        ],
+        "criteres_reussite": [
+          "L'élève maintient sa vitesse dans les changements",
+          "La transition entre les déplacements est fluide"
+        ]
+      },
+      "niveau3": {
+        "titre": "Avancé",
+        "description": "L'élève démontre une maîtrise complète et peut enseigner aux autres. Pour « Fartlek en gymnase », voici les attentes à ce niveau.",
+        "consignes": [
+          "Optimiser ses trajectoires pour l'efficacité",
+          "Combiner plusieurs types de déplacement en enchaînement",
+          "Se déplacer en situation de jeu avec adversaire"
+        ],
+        "criteres_reussite": [
+          "Les enchaînements sont fluides et rapides",
+          "L'élève se déplace avec agilité et efficacité"
+        ]
+      }
+    }
   },
   {
     "titre": "Course en quadrupédie (ours)",
@@ -284,8 +1410,57 @@
     "variantes": "Ours à reculons, ours latéral, ours avec objet sur le dos, course d'ours en relais.",
     "adaptation": "Distance réduite à 5 m, pauses fréquentes, ramper au sol si trop difficile.",
     "duree": 10,
-    "materiel": ["Tapis (optionnel)", "Cônes"],
-    "tags": ["quadrupédie", "ours", "renforcement", "coordination"]
+    "materiel": [
+      "Tapis (optionnel)",
+      "Cônes"
+    ],
+    "tags": [
+      "quadrupédie",
+      "ours",
+      "renforcement",
+      "coordination"
+    ],
+    "progression": {
+      "niveau1": {
+        "titre": "Débutant",
+        "description": "L'élève découvre l'activité et se familiarise avec les mouvements fondamentaux. Pour « Course en quadrupédie (ours) », voici les attentes à ce niveau.",
+        "consignes": [
+          "Suivre des lignes au sol ou des repères visuels",
+          "Pratiquer un seul type de déplacement à la fois",
+          "Garder le contrôle de son corps en mouvement"
+        ],
+        "criteres_reussite": [
+          "Le patron moteur de base est reconnaissable",
+          "L'élève se déplace de façon contrôlée"
+        ]
+      },
+      "niveau2": {
+        "titre": "Intermédiaire",
+        "description": "L'élève est capable d'exécuter l'activité de façon autonome avec quelques ajustements. Pour « Course en quadrupédie (ours) », voici les attentes à ce niveau.",
+        "consignes": [
+          "Combiner déplacement et manipulation d'objet",
+          "Se déplacer en changeant de direction sur signal",
+          "S'adapter au rythme d'un partenaire"
+        ],
+        "criteres_reussite": [
+          "L'élève change de direction sans perte d'équilibre",
+          "La transition entre les déplacements est fluide"
+        ]
+      },
+      "niveau3": {
+        "titre": "Avancé",
+        "description": "L'élève perfectionne sa technique et s'adapte à des situations complexes. Pour « Course en quadrupédie (ours) », voici les attentes à ce niveau.",
+        "consignes": [
+          "Réagir rapidement aux changements d'environnement",
+          "Se déplacer en situation de jeu avec adversaire",
+          "Créer des feintes et des changements de rythme"
+        ],
+        "criteres_reussite": [
+          "L'élève se déplace avec agilité et efficacité",
+          "Les enchaînements sont fluides et rapides"
+        ]
+      }
+    }
   },
   {
     "titre": "Course en zigzag réactif",
@@ -296,8 +1471,57 @@
     "variantes": "Zigzag avec ballon au pied, zigzag à reculons, zigzag avec feinte à chaque cône.",
     "adaptation": "Cônes plus espacés, moins de cônes, trot au lieu de sprint.",
     "duree": 12,
-    "materiel": ["6 cônes", "Chronomètre"],
-    "tags": ["zigzag", "agilité", "changement direction", "explosivité"]
+    "materiel": [
+      "6 cônes",
+      "Chronomètre"
+    ],
+    "tags": [
+      "zigzag",
+      "agilité",
+      "changement direction",
+      "explosivité"
+    ],
+    "progression": {
+      "niveau1": {
+        "titre": "Débutant",
+        "description": "Le débutant explore les bases de l'activité avec un accompagnement soutenu. Pour « Course en zigzag réactif », voici les attentes à ce niveau.",
+        "consignes": [
+          "Respecter les limites de son espace",
+          "Pratiquer un seul type de déplacement à la fois",
+          "Se déplacer à vitesse lente dans un espace délimité"
+        ],
+        "criteres_reussite": [
+          "L'élève se déplace de façon contrôlée",
+          "Le patron moteur de base est reconnaissable"
+        ]
+      },
+      "niveau2": {
+        "titre": "Intermédiaire",
+        "description": "L'élève maîtrise les bases et cherche à améliorer sa constance et sa fluidité. Pour « Course en zigzag réactif », voici les attentes à ce niveau.",
+        "consignes": [
+          "Combiner déplacement et manipulation d'objet",
+          "Alterner entre deux types de déplacement",
+          "Augmenter la vitesse tout en gardant le contrôle"
+        ],
+        "criteres_reussite": [
+          "La transition entre les déplacements est fluide",
+          "L'élève change de direction sans perte d'équilibre"
+        ]
+      },
+      "niveau3": {
+        "titre": "Avancé",
+        "description": "L'élève perfectionne sa technique et s'adapte à des situations complexes. Pour « Course en zigzag réactif », voici les attentes à ce niveau.",
+        "consignes": [
+          "Créer des feintes et des changements de rythme",
+          "Se déplacer en situation de jeu avec adversaire",
+          "Combiner plusieurs types de déplacement en enchaînement"
+        ],
+        "criteres_reussite": [
+          "Les enchaînements sont fluides et rapides",
+          "L'élève se déplace avec agilité et efficacité"
+        ]
+      }
+    }
   },
   {
     "titre": "Course avec contrainte cognitive",
@@ -308,8 +1532,57 @@
     "variantes": "Résoudre des calculs mentaux, répondre à des questions de culture générale, jeu de catégories.",
     "adaptation": "Tâches cognitives plus simples, marche rapide au lieu de course, travailler en duo.",
     "duree": 12,
-    "materiel": ["Cartes de questions (optionnel)", "Espace de course"],
-    "tags": ["cognitif", "double tâche", "concentration", "course"]
+    "materiel": [
+      "Cartes de questions (optionnel)",
+      "Espace de course"
+    ],
+    "tags": [
+      "cognitif",
+      "double tâche",
+      "concentration",
+      "course"
+    ],
+    "progression": {
+      "niveau1": {
+        "titre": "Débutant",
+        "description": "Le débutant explore les bases de l'activité avec un accompagnement soutenu. Pour « Course avec contrainte cognitive », voici les attentes à ce niveau.",
+        "consignes": [
+          "Garder le contrôle de son corps en mouvement",
+          "Suivre des lignes au sol ou des repères visuels",
+          "Pratiquer un seul type de déplacement à la fois"
+        ],
+        "criteres_reussite": [
+          "L'élève se déplace de façon contrôlée",
+          "Le patron moteur de base est reconnaissable"
+        ]
+      },
+      "niveau2": {
+        "titre": "Intermédiaire",
+        "description": "L'intermédiaire travaille la régularité et commence à combiner les habiletés. Pour « Course avec contrainte cognitive », voici les attentes à ce niveau.",
+        "consignes": [
+          "Se déplacer en changeant de direction sur signal",
+          "Combiner déplacement et manipulation d'objet",
+          "Augmenter la vitesse tout en gardant le contrôle"
+        ],
+        "criteres_reussite": [
+          "L'élève change de direction sans perte d'équilibre",
+          "L'élève maintient sa vitesse dans les changements"
+        ]
+      },
+      "niveau3": {
+        "titre": "Avancé",
+        "description": "L'élève démontre une maîtrise complète et peut enseigner aux autres. Pour « Course avec contrainte cognitive », voici les attentes à ce niveau.",
+        "consignes": [
+          "Réagir rapidement aux changements d'environnement",
+          "Optimiser ses trajectoires pour l'efficacité",
+          "Se déplacer en situation de jeu avec adversaire"
+        ],
+        "criteres_reussite": [
+          "L'élève adapte ses déplacements à la situation de jeu",
+          "L'élève se déplace avec agilité et efficacité"
+        ]
+      }
+    }
   },
   {
     "titre": "Sprint-décélération contrôlée",
@@ -320,8 +1593,57 @@
     "variantes": "Décélération en 5 m (plus court), décélération avec changement de direction, sprint-arrêt net.",
     "adaptation": "Vitesse sous-maximale, zone de décélération plus longue (15 m).",
     "duree": 12,
-    "materiel": ["Cônes (3 zones marquées)", "Espace de 30 m"],
-    "tags": ["décélération", "freinage", "prévention", "technique"]
+    "materiel": [
+      "Cônes (3 zones marquées)",
+      "Espace de 30 m"
+    ],
+    "tags": [
+      "décélération",
+      "freinage",
+      "prévention",
+      "technique"
+    ],
+    "progression": {
+      "niveau1": {
+        "titre": "Débutant",
+        "description": "L'élève découvre l'activité et se familiarise avec les mouvements fondamentaux. Pour « Sprint-décélération contrôlée », voici les attentes à ce niveau.",
+        "consignes": [
+          "Respecter les limites de son espace",
+          "Pratiquer un seul type de déplacement à la fois",
+          "Suivre des lignes au sol ou des repères visuels"
+        ],
+        "criteres_reussite": [
+          "L'élève freine et s'arrête sur commande",
+          "Le patron moteur de base est reconnaissable"
+        ]
+      },
+      "niveau2": {
+        "titre": "Intermédiaire",
+        "description": "À ce niveau, on ajoute de la complexité tout en consolidant les acquis. Pour « Sprint-décélération contrôlée », voici les attentes à ce niveau.",
+        "consignes": [
+          "Augmenter la vitesse tout en gardant le contrôle",
+          "Combiner déplacement et manipulation d'objet",
+          "Alterner entre deux types de déplacement"
+        ],
+        "criteres_reussite": [
+          "L'élève change de direction sans perte d'équilibre",
+          "La transition entre les déplacements est fluide"
+        ]
+      },
+      "niveau3": {
+        "titre": "Avancé",
+        "description": "L'élève perfectionne sa technique et s'adapte à des situations complexes. Pour « Sprint-décélération contrôlée », voici les attentes à ce niveau.",
+        "consignes": [
+          "Réagir rapidement aux changements d'environnement",
+          "Combiner plusieurs types de déplacement en enchaînement",
+          "Optimiser ses trajectoires pour l'efficacité"
+        ],
+        "criteres_reussite": [
+          "L'élève se déplace avec agilité et efficacité",
+          "Les enchaînements sont fluides et rapides"
+        ]
+      }
+    }
   },
   {
     "titre": "Jeu du filet (course collective)",
@@ -332,8 +1654,57 @@
     "variantes": "Plusieurs petits filets, filet qui peut se diviser en 2 quand il atteint 6, zones refuges limitées.",
     "adaptation": "Terrain plus petit, filet de 2 seulement, poissons marchent au lieu de courir.",
     "duree": 15,
-    "materiel": ["Dossards pour identifier le filet", "Cônes pour le terrain"],
-    "tags": ["filet", "collectif", "poursuite", "coopération"]
+    "materiel": [
+      "Dossards pour identifier le filet",
+      "Cônes pour le terrain"
+    ],
+    "tags": [
+      "filet",
+      "collectif",
+      "poursuite",
+      "coopération"
+    ],
+    "progression": {
+      "niveau1": {
+        "titre": "Débutant",
+        "description": "Le débutant explore les bases de l'activité avec un accompagnement soutenu. Pour « Jeu du filet (course collective) », voici les attentes à ce niveau.",
+        "consignes": [
+          "Suivre des lignes au sol ou des repères visuels",
+          "Garder le contrôle de son corps en mouvement",
+          "Se déplacer à vitesse lente dans un espace délimité"
+        ],
+        "criteres_reussite": [
+          "L'élève se déplace de façon contrôlée",
+          "L'élève freine et s'arrête sur commande"
+        ]
+      },
+      "niveau2": {
+        "titre": "Intermédiaire",
+        "description": "L'élève est capable d'exécuter l'activité de façon autonome avec quelques ajustements. Pour « Jeu du filet (course collective) », voici les attentes à ce niveau.",
+        "consignes": [
+          "Combiner déplacement et manipulation d'objet",
+          "Augmenter la vitesse tout en gardant le contrôle",
+          "S'adapter au rythme d'un partenaire"
+        ],
+        "criteres_reussite": [
+          "La transition entre les déplacements est fluide",
+          "L'élève maintient sa vitesse dans les changements"
+        ]
+      },
+      "niveau3": {
+        "titre": "Avancé",
+        "description": "À ce stade avancé, l'élève crée, innove et aide ses pairs. Pour « Jeu du filet (course collective) », voici les attentes à ce niveau.",
+        "consignes": [
+          "Combiner plusieurs types de déplacement en enchaînement",
+          "Réagir rapidement aux changements d'environnement",
+          "Créer des feintes et des changements de rythme"
+        ],
+        "criteres_reussite": [
+          "L'élève se déplace avec agilité et efficacité",
+          "L'élève adapte ses déplacements à la situation de jeu"
+        ]
+      }
+    }
   },
   {
     "titre": "Course en pas croisés",
@@ -344,8 +1715,56 @@
     "variantes": "Carioca avec ballon en main, carioca rapide chronométré, enchaîner carioca et sprint.",
     "adaptation": "Ralentir le rythme, faire sans croisement derrière d'abord, tenir un mur.",
     "duree": 10,
-    "materiel": ["Cônes (2 par ligne)"],
-    "tags": ["pas croisés", "carioca", "latéral", "hanches"]
+    "materiel": [
+      "Cônes (2 par ligne)"
+    ],
+    "tags": [
+      "pas croisés",
+      "carioca",
+      "latéral",
+      "hanches"
+    ],
+    "progression": {
+      "niveau1": {
+        "titre": "Débutant",
+        "description": "Le débutant explore les bases de l'activité avec un accompagnement soutenu. Pour « Course en pas croisés », voici les attentes à ce niveau.",
+        "consignes": [
+          "Respecter les limites de son espace",
+          "Pratiquer un seul type de déplacement à la fois",
+          "Suivre des lignes au sol ou des repères visuels"
+        ],
+        "criteres_reussite": [
+          "L'élève freine et s'arrête sur commande",
+          "Le patron moteur de base est reconnaissable"
+        ]
+      },
+      "niveau2": {
+        "titre": "Intermédiaire",
+        "description": "L'intermédiaire travaille la régularité et commence à combiner les habiletés. Pour « Course en pas croisés », voici les attentes à ce niveau.",
+        "consignes": [
+          "Combiner déplacement et manipulation d'objet",
+          "S'adapter au rythme d'un partenaire",
+          "Augmenter la vitesse tout en gardant le contrôle"
+        ],
+        "criteres_reussite": [
+          "La transition entre les déplacements est fluide",
+          "L'élève change de direction sans perte d'équilibre"
+        ]
+      },
+      "niveau3": {
+        "titre": "Avancé",
+        "description": "L'expert peut exécuter l'activité dans des contextes variés et exigeants. Pour « Course en pas croisés », voici les attentes à ce niveau.",
+        "consignes": [
+          "Se déplacer en situation de jeu avec adversaire",
+          "Réagir rapidement aux changements d'environnement",
+          "Combiner plusieurs types de déplacement en enchaînement"
+        ],
+        "criteres_reussite": [
+          "Les enchaînements sont fluides et rapides",
+          "L'élève adapte ses déplacements à la situation de jeu"
+        ]
+      }
+    }
   },
   {
     "titre": "Course par vagues successives",
@@ -356,8 +1775,56 @@
     "variantes": "Vagues avec sauts, vagues avec roulade au mur, course en duo par vague.",
     "adaptation": "Distance réduite, course au choix de l'élève, accompagnement par l'enseignant.",
     "duree": 8,
-    "materiel": ["Espace dégagé"],
-    "tags": ["vagues", "imaginaire", "maternelle", "groupe"]
+    "materiel": [
+      "Espace dégagé"
+    ],
+    "tags": [
+      "vagues",
+      "imaginaire",
+      "maternelle",
+      "groupe"
+    ],
+    "progression": {
+      "niveau1": {
+        "titre": "Débutant",
+        "description": "À ce stade, l'objectif est d'apprivoiser l'exercice sans pression de performance. Pour « Course par vagues successives », voici les attentes à ce niveau.",
+        "consignes": [
+          "Se déplacer à vitesse lente dans un espace délimité",
+          "Suivre des lignes au sol ou des repères visuels",
+          "Garder le contrôle de son corps en mouvement"
+        ],
+        "criteres_reussite": [
+          "Le patron moteur de base est reconnaissable",
+          "L'élève freine et s'arrête sur commande"
+        ]
+      },
+      "niveau2": {
+        "titre": "Intermédiaire",
+        "description": "À ce niveau, on ajoute de la complexité tout en consolidant les acquis. Pour « Course par vagues successives », voici les attentes à ce niveau.",
+        "consignes": [
+          "S'adapter au rythme d'un partenaire",
+          "Augmenter la vitesse tout en gardant le contrôle",
+          "Se déplacer en changeant de direction sur signal"
+        ],
+        "criteres_reussite": [
+          "L'élève maintient sa vitesse dans les changements",
+          "La transition entre les déplacements est fluide"
+        ]
+      },
+      "niveau3": {
+        "titre": "Avancé",
+        "description": "L'élève perfectionne sa technique et s'adapte à des situations complexes. Pour « Course par vagues successives », voici les attentes à ce niveau.",
+        "consignes": [
+          "Se déplacer en situation de jeu avec adversaire",
+          "Créer des feintes et des changements de rythme",
+          "Combiner plusieurs types de déplacement en enchaînement"
+        ],
+        "criteres_reussite": [
+          "L'élève se déplace avec agilité et efficacité",
+          "L'élève adapte ses déplacements à la situation de jeu"
+        ]
+      }
+    }
   },
   {
     "titre": "Course avec relais de cerceaux",
@@ -368,8 +1835,57 @@
     "variantes": "Transporter 2 objets, courir avec le cerceau autour de la taille, parcours avec obstacles.",
     "adaptation": "Distance réduite, objets plus légers, pas de compétition (chacun son rythme).",
     "duree": 12,
-    "materiel": ["Cerceaux (1 par équipe)", "Cônes"],
-    "tags": ["relais", "cerceaux", "équipe", "transport"]
+    "materiel": [
+      "Cerceaux (1 par équipe)",
+      "Cônes"
+    ],
+    "tags": [
+      "relais",
+      "cerceaux",
+      "équipe",
+      "transport"
+    ],
+    "progression": {
+      "niveau1": {
+        "titre": "Débutant",
+        "description": "À ce stade, l'objectif est d'apprivoiser l'exercice sans pression de performance. Pour « Course avec relais de cerceaux », voici les attentes à ce niveau.",
+        "consignes": [
+          "Pratiquer un seul type de déplacement à la fois",
+          "Suivre des lignes au sol ou des repères visuels",
+          "Garder le contrôle de son corps en mouvement"
+        ],
+        "criteres_reussite": [
+          "Le patron moteur de base est reconnaissable",
+          "L'élève freine et s'arrête sur commande"
+        ]
+      },
+      "niveau2": {
+        "titre": "Intermédiaire",
+        "description": "À ce niveau, on ajoute de la complexité tout en consolidant les acquis. Pour « Course avec relais de cerceaux », voici les attentes à ce niveau.",
+        "consignes": [
+          "Augmenter la vitesse tout en gardant le contrôle",
+          "Alterner entre deux types de déplacement",
+          "Se déplacer en changeant de direction sur signal"
+        ],
+        "criteres_reussite": [
+          "La transition entre les déplacements est fluide",
+          "L'élève maintient sa vitesse dans les changements"
+        ]
+      },
+      "niveau3": {
+        "titre": "Avancé",
+        "description": "L'élève perfectionne sa technique et s'adapte à des situations complexes. Pour « Course avec relais de cerceaux », voici les attentes à ce niveau.",
+        "consignes": [
+          "Réagir rapidement aux changements d'environnement",
+          "Optimiser ses trajectoires pour l'efficacité",
+          "Créer des feintes et des changements de rythme"
+        ],
+        "criteres_reussite": [
+          "L'élève se déplace avec agilité et efficacité",
+          "Les enchaînements sont fluides et rapides"
+        ]
+      }
+    }
   },
   {
     "titre": "Interval training 10-20-30",
@@ -380,8 +1896,58 @@
     "variantes": "Pyramide inversée (10-20-30 puis 30-20-10), en binôme (un court, l'autre chrono), sur piste extérieure.",
     "adaptation": "Réduire à 2 séries, augmenter les phases lentes, permettre la marche en récupération.",
     "duree": 20,
-    "materiel": ["Chronomètre", "Parcours balisé", "Cardiofréquencemètre (optionnel)"],
-    "tags": ["interval", "intensité", "zones", "cardio"]
+    "materiel": [
+      "Chronomètre",
+      "Parcours balisé",
+      "Cardiofréquencemètre (optionnel)"
+    ],
+    "tags": [
+      "interval",
+      "intensité",
+      "zones",
+      "cardio"
+    ],
+    "progression": {
+      "niveau1": {
+        "titre": "Débutant",
+        "description": "Le débutant explore les bases de l'activité avec un accompagnement soutenu. Pour « Interval training 10-20-30 », voici les attentes à ce niveau.",
+        "consignes": [
+          "Se déplacer à vitesse lente dans un espace délimité",
+          "Garder le contrôle de son corps en mouvement",
+          "Suivre des lignes au sol ou des repères visuels"
+        ],
+        "criteres_reussite": [
+          "L'élève se déplace de façon contrôlée",
+          "Le patron moteur de base est reconnaissable"
+        ]
+      },
+      "niveau2": {
+        "titre": "Intermédiaire",
+        "description": "L'intermédiaire travaille la régularité et commence à combiner les habiletés. Pour « Interval training 10-20-30 », voici les attentes à ce niveau.",
+        "consignes": [
+          "Augmenter la vitesse tout en gardant le contrôle",
+          "Alterner entre deux types de déplacement",
+          "Se déplacer en changeant de direction sur signal"
+        ],
+        "criteres_reussite": [
+          "L'élève maintient sa vitesse dans les changements",
+          "La transition entre les déplacements est fluide"
+        ]
+      },
+      "niveau3": {
+        "titre": "Avancé",
+        "description": "L'élève démontre une maîtrise complète et peut enseigner aux autres. Pour « Interval training 10-20-30 », voici les attentes à ce niveau.",
+        "consignes": [
+          "Optimiser ses trajectoires pour l'efficacité",
+          "Réagir rapidement aux changements d'environnement",
+          "Créer des feintes et des changements de rythme"
+        ],
+        "criteres_reussite": [
+          "L'élève adapte ses déplacements à la situation de jeu",
+          "L'élève se déplace avec agilité et efficacité"
+        ]
+      }
+    }
   },
   {
     "titre": "Course en sac (relais ludique)",
@@ -392,8 +1958,57 @@
     "variantes": "Course en sac en duo (2 dans un grand sac), parcours avec virages, course en sac à reculons.",
     "adaptation": "Sac tenu à la taille (pas besoin de sauter dedans), distance réduite, aide d'un partenaire.",
     "duree": 12,
-    "materiel": ["Sacs de jute (1 par équipe)", "Cônes"],
-    "tags": ["sac", "ludique", "relais", "équilibre"]
+    "materiel": [
+      "Sacs de jute (1 par équipe)",
+      "Cônes"
+    ],
+    "tags": [
+      "sac",
+      "ludique",
+      "relais",
+      "équilibre"
+    ],
+    "progression": {
+      "niveau1": {
+        "titre": "Débutant",
+        "description": "À ce stade, l'objectif est d'apprivoiser l'exercice sans pression de performance. Pour « Course en sac (relais ludique) », voici les attentes à ce niveau.",
+        "consignes": [
+          "Pratiquer un seul type de déplacement à la fois",
+          "Se déplacer à vitesse lente dans un espace délimité",
+          "Respecter les limites de son espace"
+        ],
+        "criteres_reussite": [
+          "Le patron moteur de base est reconnaissable",
+          "L'élève se déplace de façon contrôlée"
+        ]
+      },
+      "niveau2": {
+        "titre": "Intermédiaire",
+        "description": "À ce niveau, on ajoute de la complexité tout en consolidant les acquis. Pour « Course en sac (relais ludique) », voici les attentes à ce niveau.",
+        "consignes": [
+          "S'adapter au rythme d'un partenaire",
+          "Alterner entre deux types de déplacement",
+          "Augmenter la vitesse tout en gardant le contrôle"
+        ],
+        "criteres_reussite": [
+          "L'élève change de direction sans perte d'équilibre",
+          "La transition entre les déplacements est fluide"
+        ]
+      },
+      "niveau3": {
+        "titre": "Avancé",
+        "description": "À ce stade avancé, l'élève crée, innove et aide ses pairs. Pour « Course en sac (relais ludique) », voici les attentes à ce niveau.",
+        "consignes": [
+          "Optimiser ses trajectoires pour l'efficacité",
+          "Réagir rapidement aux changements d'environnement",
+          "Combiner plusieurs types de déplacement en enchaînement"
+        ],
+        "criteres_reussite": [
+          "Les enchaînements sont fluides et rapides",
+          "L'élève se déplace avec agilité et efficacité"
+        ]
+      }
+    }
   },
   {
     "titre": "Course en cercle d'horloge",
@@ -404,8 +2019,57 @@
     "variantes": "Appeler 2 heures successives, courir en reculons, courir en pas chassés vers le cône.",
     "adaptation": "Cercle plus petit, appeler les couleurs au lieu des heures, rythme plus lent.",
     "duree": 10,
-    "materiel": ["12 cônes de couleurs", "Dossard pour l'élève au centre"],
-    "tags": ["horloge", "orientation", "sprint", "réactivité"]
+    "materiel": [
+      "12 cônes de couleurs",
+      "Dossard pour l'élève au centre"
+    ],
+    "tags": [
+      "horloge",
+      "orientation",
+      "sprint",
+      "réactivité"
+    ],
+    "progression": {
+      "niveau1": {
+        "titre": "Débutant",
+        "description": "L'élève découvre l'activité et se familiarise avec les mouvements fondamentaux. Pour « Course en cercle d'horloge », voici les attentes à ce niveau.",
+        "consignes": [
+          "Respecter les limites de son espace",
+          "Suivre des lignes au sol ou des repères visuels",
+          "Garder le contrôle de son corps en mouvement"
+        ],
+        "criteres_reussite": [
+          "L'élève se déplace de façon contrôlée",
+          "L'élève freine et s'arrête sur commande"
+        ]
+      },
+      "niveau2": {
+        "titre": "Intermédiaire",
+        "description": "L'élève est capable d'exécuter l'activité de façon autonome avec quelques ajustements. Pour « Course en cercle d'horloge », voici les attentes à ce niveau.",
+        "consignes": [
+          "S'adapter au rythme d'un partenaire",
+          "Combiner déplacement et manipulation d'objet",
+          "Se déplacer en changeant de direction sur signal"
+        ],
+        "criteres_reussite": [
+          "L'élève maintient sa vitesse dans les changements",
+          "L'élève change de direction sans perte d'équilibre"
+        ]
+      },
+      "niveau3": {
+        "titre": "Avancé",
+        "description": "L'expert peut exécuter l'activité dans des contextes variés et exigeants. Pour « Course en cercle d'horloge », voici les attentes à ce niveau.",
+        "consignes": [
+          "Se déplacer en situation de jeu avec adversaire",
+          "Optimiser ses trajectoires pour l'efficacité",
+          "Créer des feintes et des changements de rythme"
+        ],
+        "criteres_reussite": [
+          "L'élève adapte ses déplacements à la situation de jeu",
+          "L'élève se déplace avec agilité et efficacité"
+        ]
+      }
+    }
   },
   {
     "titre": "Course continue 12 minutes (Cooper adapté)",
@@ -416,8 +2080,58 @@
     "variantes": "En duo (rester ensemble), version 6 minutes pour les débutants, Cooper avec musique motivante.",
     "adaptation": "Réduire à 8 minutes, alterner course et marche, parcours plus court avec plus de tours.",
     "duree": 20,
-    "materiel": ["Parcours mesuré (piste ou gymnase)", "Chronomètre", "Fiches de résultat"],
-    "tags": ["Cooper", "endurance", "12 minutes", "aérobie"]
+    "materiel": [
+      "Parcours mesuré (piste ou gymnase)",
+      "Chronomètre",
+      "Fiches de résultat"
+    ],
+    "tags": [
+      "Cooper",
+      "endurance",
+      "12 minutes",
+      "aérobie"
+    ],
+    "progression": {
+      "niveau1": {
+        "titre": "Débutant",
+        "description": "L'accent est mis sur la compréhension des consignes et la sécurité. Pour « Course continue 12 minutes (Cooper adapté) », voici les attentes à ce niveau.",
+        "consignes": [
+          "Garder le contrôle de son corps en mouvement",
+          "Suivre des lignes au sol ou des repères visuels",
+          "Pratiquer un seul type de déplacement à la fois"
+        ],
+        "criteres_reussite": [
+          "Le patron moteur de base est reconnaissable",
+          "L'élève freine et s'arrête sur commande"
+        ]
+      },
+      "niveau2": {
+        "titre": "Intermédiaire",
+        "description": "L'intermédiaire travaille la régularité et commence à combiner les habiletés. Pour « Course continue 12 minutes (Cooper adapté) », voici les attentes à ce niveau.",
+        "consignes": [
+          "Se déplacer en changeant de direction sur signal",
+          "Alterner entre deux types de déplacement",
+          "Augmenter la vitesse tout en gardant le contrôle"
+        ],
+        "criteres_reussite": [
+          "La transition entre les déplacements est fluide",
+          "L'élève maintient sa vitesse dans les changements"
+        ]
+      },
+      "niveau3": {
+        "titre": "Avancé",
+        "description": "L'élève démontre une maîtrise complète et peut enseigner aux autres. Pour « Course continue 12 minutes (Cooper adapté) », voici les attentes à ce niveau.",
+        "consignes": [
+          "Optimiser ses trajectoires pour l'efficacité",
+          "Combiner plusieurs types de déplacement en enchaînement",
+          "Créer des feintes et des changements de rythme"
+        ],
+        "criteres_reussite": [
+          "L'élève adapte ses déplacements à la situation de jeu",
+          "Les enchaînements sont fluides et rapides"
+        ]
+      }
+    }
   },
   {
     "titre": "Course-tag avec dossards",
@@ -428,8 +2142,57 @@
     "variantes": "2 équipes (voler seulement les queues adverses), zones refuges, tag avec ballon en main.",
     "adaptation": "Terrain plus petit, marche rapide permise, zones d'immunité plus nombreuses.",
     "duree": 12,
-    "materiel": ["Dossards ou foulards (1 par élève)", "Cônes pour le terrain"],
-    "tags": ["tag", "dossard", "agilité", "poursuite"]
+    "materiel": [
+      "Dossards ou foulards (1 par élève)",
+      "Cônes pour le terrain"
+    ],
+    "tags": [
+      "tag",
+      "dossard",
+      "agilité",
+      "poursuite"
+    ],
+    "progression": {
+      "niveau1": {
+        "titre": "Débutant",
+        "description": "L'accent est mis sur la compréhension des consignes et la sécurité. Pour « Course-tag avec dossards », voici les attentes à ce niveau.",
+        "consignes": [
+          "Garder le contrôle de son corps en mouvement",
+          "Pratiquer un seul type de déplacement à la fois",
+          "Se déplacer à vitesse lente dans un espace délimité"
+        ],
+        "criteres_reussite": [
+          "L'élève freine et s'arrête sur commande",
+          "Le patron moteur de base est reconnaissable"
+        ]
+      },
+      "niveau2": {
+        "titre": "Intermédiaire",
+        "description": "L'élève est capable d'exécuter l'activité de façon autonome avec quelques ajustements. Pour « Course-tag avec dossards », voici les attentes à ce niveau.",
+        "consignes": [
+          "Augmenter la vitesse tout en gardant le contrôle",
+          "Alterner entre deux types de déplacement",
+          "Combiner déplacement et manipulation d'objet"
+        ],
+        "criteres_reussite": [
+          "L'élève change de direction sans perte d'équilibre",
+          "La transition entre les déplacements est fluide"
+        ]
+      },
+      "niveau3": {
+        "titre": "Avancé",
+        "description": "L'élève perfectionne sa technique et s'adapte à des situations complexes. Pour « Course-tag avec dossards », voici les attentes à ce niveau.",
+        "consignes": [
+          "Créer des feintes et des changements de rythme",
+          "Réagir rapidement aux changements d'environnement",
+          "Combiner plusieurs types de déplacement en enchaînement"
+        ],
+        "criteres_reussite": [
+          "L'élève adapte ses déplacements à la situation de jeu",
+          "Les enchaînements sont fluides et rapides"
+        ]
+      }
+    }
   },
   {
     "titre": "Sprint en duo compétitif",
@@ -440,8 +2203,57 @@
     "variantes": "Départ assis, départ couché sur le ventre, sprint avec ramasser un objet au cône.",
     "adaptation": "Appariement par vitesse similaire, distance réduite, départ debout seulement.",
     "duree": 15,
-    "materiel": ["Cônes", "Sifflet"],
-    "tags": ["duo", "compétition", "sprint", "réaction"]
+    "materiel": [
+      "Cônes",
+      "Sifflet"
+    ],
+    "tags": [
+      "duo",
+      "compétition",
+      "sprint",
+      "réaction"
+    ],
+    "progression": {
+      "niveau1": {
+        "titre": "Débutant",
+        "description": "À ce stade, l'objectif est d'apprivoiser l'exercice sans pression de performance. Pour « Sprint en duo compétitif », voici les attentes à ce niveau.",
+        "consignes": [
+          "Se déplacer à vitesse lente dans un espace délimité",
+          "Garder le contrôle de son corps en mouvement",
+          "Pratiquer un seul type de déplacement à la fois"
+        ],
+        "criteres_reussite": [
+          "Le patron moteur de base est reconnaissable",
+          "L'élève freine et s'arrête sur commande"
+        ]
+      },
+      "niveau2": {
+        "titre": "Intermédiaire",
+        "description": "À ce niveau, on ajoute de la complexité tout en consolidant les acquis. Pour « Sprint en duo compétitif », voici les attentes à ce niveau.",
+        "consignes": [
+          "S'adapter au rythme d'un partenaire",
+          "Combiner déplacement et manipulation d'objet",
+          "Se déplacer en changeant de direction sur signal"
+        ],
+        "criteres_reussite": [
+          "L'élève maintient sa vitesse dans les changements",
+          "L'élève change de direction sans perte d'équilibre"
+        ]
+      },
+      "niveau3": {
+        "titre": "Avancé",
+        "description": "L'élève perfectionne sa technique et s'adapte à des situations complexes. Pour « Sprint en duo compétitif », voici les attentes à ce niveau.",
+        "consignes": [
+          "Se déplacer en situation de jeu avec adversaire",
+          "Optimiser ses trajectoires pour l'efficacité",
+          "Créer des feintes et des changements de rythme"
+        ],
+        "criteres_reussite": [
+          "L'élève adapte ses déplacements à la situation de jeu",
+          "Les enchaînements sont fluides et rapides"
+        ]
+      }
+    }
   },
   {
     "titre": "Course en parcours alphabet",
@@ -452,8 +2264,57 @@
     "variantes": "Mots plus longs, course en équipe relais, lettres en hauteur (sauter pour toucher).",
     "adaptation": "Mots courts (3 lettres), lettres regroupées en zone, pas de chronomètre.",
     "duree": 15,
-    "materiel": ["Cartons lettres alphabet", "Cônes"],
-    "tags": ["alphabet", "cognitif", "orientation", "lecture"]
+    "materiel": [
+      "Cartons lettres alphabet",
+      "Cônes"
+    ],
+    "tags": [
+      "alphabet",
+      "cognitif",
+      "orientation",
+      "lecture"
+    ],
+    "progression": {
+      "niveau1": {
+        "titre": "Débutant",
+        "description": "À ce stade, l'objectif est d'apprivoiser l'exercice sans pression de performance. Pour « Course en parcours alphabet », voici les attentes à ce niveau.",
+        "consignes": [
+          "Pratiquer un seul type de déplacement à la fois",
+          "Respecter les limites de son espace",
+          "Suivre des lignes au sol ou des repères visuels"
+        ],
+        "criteres_reussite": [
+          "L'élève freine et s'arrête sur commande",
+          "Le patron moteur de base est reconnaissable"
+        ]
+      },
+      "niveau2": {
+        "titre": "Intermédiaire",
+        "description": "L'élève est capable d'exécuter l'activité de façon autonome avec quelques ajustements. Pour « Course en parcours alphabet », voici les attentes à ce niveau.",
+        "consignes": [
+          "Alterner entre deux types de déplacement",
+          "S'adapter au rythme d'un partenaire",
+          "Combiner déplacement et manipulation d'objet"
+        ],
+        "criteres_reussite": [
+          "La transition entre les déplacements est fluide",
+          "L'élève maintient sa vitesse dans les changements"
+        ]
+      },
+      "niveau3": {
+        "titre": "Avancé",
+        "description": "À ce stade avancé, l'élève crée, innove et aide ses pairs. Pour « Course en parcours alphabet », voici les attentes à ce niveau.",
+        "consignes": [
+          "Combiner plusieurs types de déplacement en enchaînement",
+          "Réagir rapidement aux changements d'environnement",
+          "Se déplacer en situation de jeu avec adversaire"
+        ],
+        "criteres_reussite": [
+          "L'élève se déplace avec agilité et efficacité",
+          "Les enchaînements sont fluides et rapides"
+        ]
+      }
+    }
   },
   {
     "titre": "Course avec parachute de résistance",
@@ -464,8 +2325,57 @@
     "variantes": "Sprint avec lâcher de parachute à mi-parcours (effet de survitesse), double parachute, sprint en côte.",
     "adaptation": "Parachute plus petit, distance réduite à 20 m, sprint sous-maximal.",
     "duree": 15,
-    "materiel": ["Parachutes de résistance (1 par élève ou roulement)", "Espace de 30 m"],
-    "tags": ["parachute", "résistance", "puissance", "accélération"]
+    "materiel": [
+      "Parachutes de résistance (1 par élève ou roulement)",
+      "Espace de 30 m"
+    ],
+    "tags": [
+      "parachute",
+      "résistance",
+      "puissance",
+      "accélération"
+    ],
+    "progression": {
+      "niveau1": {
+        "titre": "Débutant",
+        "description": "Le débutant explore les bases de l'activité avec un accompagnement soutenu. Pour « Course avec parachute de résistance », voici les attentes à ce niveau.",
+        "consignes": [
+          "Se déplacer à vitesse lente dans un espace délimité",
+          "Respecter les limites de son espace",
+          "Suivre des lignes au sol ou des repères visuels"
+        ],
+        "criteres_reussite": [
+          "Le patron moteur de base est reconnaissable",
+          "L'élève se déplace de façon contrôlée"
+        ]
+      },
+      "niveau2": {
+        "titre": "Intermédiaire",
+        "description": "L'élève est capable d'exécuter l'activité de façon autonome avec quelques ajustements. Pour « Course avec parachute de résistance », voici les attentes à ce niveau.",
+        "consignes": [
+          "S'adapter au rythme d'un partenaire",
+          "Combiner déplacement et manipulation d'objet",
+          "Se déplacer en changeant de direction sur signal"
+        ],
+        "criteres_reussite": [
+          "La transition entre les déplacements est fluide",
+          "L'élève maintient sa vitesse dans les changements"
+        ]
+      },
+      "niveau3": {
+        "titre": "Avancé",
+        "description": "L'expert peut exécuter l'activité dans des contextes variés et exigeants. Pour « Course avec parachute de résistance », voici les attentes à ce niveau.",
+        "consignes": [
+          "Combiner plusieurs types de déplacement en enchaînement",
+          "Réagir rapidement aux changements d'environnement",
+          "Optimiser ses trajectoires pour l'efficacité"
+        ],
+        "criteres_reussite": [
+          "L'élève adapte ses déplacements à la situation de jeu",
+          "L'élève se déplace avec agilité et efficacité"
+        ]
+      }
+    }
   },
   {
     "titre": "Course en musique (freeze dance running)",
@@ -476,8 +2386,57 @@
     "variantes": "Freeze en équilibre sur un pied, freeze en duo (toucher un ami), freeze avec posture imposée.",
     "adaptation": "Musique avec pauses plus longues, marche rapide au lieu de course, espace réduit.",
     "duree": 8,
-    "materiel": ["Haut-parleur et musique", "Espace dégagé"],
-    "tags": ["musique", "freeze", "écoute", "maternelle"]
+    "materiel": [
+      "Haut-parleur et musique",
+      "Espace dégagé"
+    ],
+    "tags": [
+      "musique",
+      "freeze",
+      "écoute",
+      "maternelle"
+    ],
+    "progression": {
+      "niveau1": {
+        "titre": "Débutant",
+        "description": "À ce stade, l'objectif est d'apprivoiser l'exercice sans pression de performance. Pour « Course en musique (freeze dance running) », voici les attentes à ce niveau.",
+        "consignes": [
+          "Suivre des lignes au sol ou des repères visuels",
+          "Se déplacer à vitesse lente dans un espace délimité",
+          "Garder le contrôle de son corps en mouvement"
+        ],
+        "criteres_reussite": [
+          "Le patron moteur de base est reconnaissable",
+          "L'élève freine et s'arrête sur commande"
+        ]
+      },
+      "niveau2": {
+        "titre": "Intermédiaire",
+        "description": "L'élève est capable d'exécuter l'activité de façon autonome avec quelques ajustements. Pour « Course en musique (freeze dance running) », voici les attentes à ce niveau.",
+        "consignes": [
+          "Se déplacer en changeant de direction sur signal",
+          "Augmenter la vitesse tout en gardant le contrôle",
+          "Alterner entre deux types de déplacement"
+        ],
+        "criteres_reussite": [
+          "La transition entre les déplacements est fluide",
+          "L'élève maintient sa vitesse dans les changements"
+        ]
+      },
+      "niveau3": {
+        "titre": "Avancé",
+        "description": "À ce stade avancé, l'élève crée, innove et aide ses pairs. Pour « Course en musique (freeze dance running) », voici les attentes à ce niveau.",
+        "consignes": [
+          "Réagir rapidement aux changements d'environnement",
+          "Combiner plusieurs types de déplacement en enchaînement",
+          "Se déplacer en situation de jeu avec adversaire"
+        ],
+        "criteres_reussite": [
+          "Les enchaînements sont fluides et rapides",
+          "L'élève se déplace avec agilité et efficacité"
+        ]
+      }
+    }
   },
   {
     "titre": "Course technique talons-fesses",
@@ -488,8 +2447,56 @@
     "variantes": "Enchaîner talons-fesses puis sprint libre, talons-fesses latéral, talons-fesses avec montées de genoux.",
     "adaptation": "Talons vers les fesses sans toucher, distance réduite, rythme lent.",
     "duree": 8,
-    "materiel": ["Cônes (2 par ligne)"],
-    "tags": ["technique", "talons-fesses", "éducatif course", "foulée"]
+    "materiel": [
+      "Cônes (2 par ligne)"
+    ],
+    "tags": [
+      "technique",
+      "talons-fesses",
+      "éducatif course",
+      "foulée"
+    ],
+    "progression": {
+      "niveau1": {
+        "titre": "Débutant",
+        "description": "Le débutant explore les bases de l'activité avec un accompagnement soutenu. Pour « Course technique talons-fesses », voici les attentes à ce niveau.",
+        "consignes": [
+          "Suivre des lignes au sol ou des repères visuels",
+          "Se déplacer à vitesse lente dans un espace délimité",
+          "Pratiquer un seul type de déplacement à la fois"
+        ],
+        "criteres_reussite": [
+          "L'élève se déplace de façon contrôlée",
+          "Le patron moteur de base est reconnaissable"
+        ]
+      },
+      "niveau2": {
+        "titre": "Intermédiaire",
+        "description": "L'élève maîtrise les bases et cherche à améliorer sa constance et sa fluidité. Pour « Course technique talons-fesses », voici les attentes à ce niveau.",
+        "consignes": [
+          "Se déplacer en changeant de direction sur signal",
+          "S'adapter au rythme d'un partenaire",
+          "Combiner déplacement et manipulation d'objet"
+        ],
+        "criteres_reussite": [
+          "L'élève maintient sa vitesse dans les changements",
+          "La transition entre les déplacements est fluide"
+        ]
+      },
+      "niveau3": {
+        "titre": "Avancé",
+        "description": "L'expert peut exécuter l'activité dans des contextes variés et exigeants. Pour « Course technique talons-fesses », voici les attentes à ce niveau.",
+        "consignes": [
+          "Créer des feintes et des changements de rythme",
+          "Réagir rapidement aux changements d'environnement",
+          "Combiner plusieurs types de déplacement en enchaînement"
+        ],
+        "criteres_reussite": [
+          "L'élève se déplace avec agilité et efficacité",
+          "L'élève adapte ses déplacements à la situation de jeu"
+        ]
+      }
+    }
   },
   {
     "titre": "Course technique montées de genoux",
@@ -500,8 +2507,56 @@
     "variantes": "Montées de genoux sur place, montées de genoux avec obstacle entre les jambes, en montée.",
     "adaptation": "Genoux moins hauts, tenir une barre d'appui, sur place d'abord.",
     "duree": 8,
-    "materiel": ["Cônes (2 par ligne)"],
-    "tags": ["technique", "montées genoux", "éducatif course", "impulsion"]
+    "materiel": [
+      "Cônes (2 par ligne)"
+    ],
+    "tags": [
+      "technique",
+      "montées genoux",
+      "éducatif course",
+      "impulsion"
+    ],
+    "progression": {
+      "niveau1": {
+        "titre": "Débutant",
+        "description": "L'élève découvre l'activité et se familiarise avec les mouvements fondamentaux. Pour « Course technique montées de genoux », voici les attentes à ce niveau.",
+        "consignes": [
+          "Pratiquer un seul type de déplacement à la fois",
+          "Garder le contrôle de son corps en mouvement",
+          "Suivre des lignes au sol ou des repères visuels"
+        ],
+        "criteres_reussite": [
+          "Le patron moteur de base est reconnaissable",
+          "L'élève se déplace de façon contrôlée"
+        ]
+      },
+      "niveau2": {
+        "titre": "Intermédiaire",
+        "description": "L'élève maîtrise les bases et cherche à améliorer sa constance et sa fluidité. Pour « Course technique montées de genoux », voici les attentes à ce niveau.",
+        "consignes": [
+          "Augmenter la vitesse tout en gardant le contrôle",
+          "S'adapter au rythme d'un partenaire",
+          "Se déplacer en changeant de direction sur signal"
+        ],
+        "criteres_reussite": [
+          "L'élève change de direction sans perte d'équilibre",
+          "L'élève maintient sa vitesse dans les changements"
+        ]
+      },
+      "niveau3": {
+        "titre": "Avancé",
+        "description": "L'élève perfectionne sa technique et s'adapte à des situations complexes. Pour « Course technique montées de genoux », voici les attentes à ce niveau.",
+        "consignes": [
+          "Optimiser ses trajectoires pour l'efficacité",
+          "Créer des feintes et des changements de rythme",
+          "Combiner plusieurs types de déplacement en enchaînement"
+        ],
+        "criteres_reussite": [
+          "L'élève se déplace avec agilité et efficacité",
+          "L'élève adapte ses déplacements à la situation de jeu"
+        ]
+      }
+    }
   },
   {
     "titre": "Relais navette 2x10 m",
@@ -512,8 +2567,57 @@
     "variantes": "Navette 3x10 m, navette avec objet à transporter, navette en reculons au retour.",
     "adaptation": "Distance réduite à 7 m, pas de chronomètre, équipes homogènes en vitesse.",
     "duree": 12,
-    "materiel": ["Cônes", "Chronomètre"],
-    "tags": ["navette", "relais", "virage", "équipe"]
+    "materiel": [
+      "Cônes",
+      "Chronomètre"
+    ],
+    "tags": [
+      "navette",
+      "relais",
+      "virage",
+      "équipe"
+    ],
+    "progression": {
+      "niveau1": {
+        "titre": "Débutant",
+        "description": "À ce stade, l'objectif est d'apprivoiser l'exercice sans pression de performance. Pour « Relais navette 2x10 m », voici les attentes à ce niveau.",
+        "consignes": [
+          "Garder le contrôle de son corps en mouvement",
+          "Pratiquer un seul type de déplacement à la fois",
+          "Suivre des lignes au sol ou des repères visuels"
+        ],
+        "criteres_reussite": [
+          "L'élève freine et s'arrête sur commande",
+          "Le patron moteur de base est reconnaissable"
+        ]
+      },
+      "niveau2": {
+        "titre": "Intermédiaire",
+        "description": "L'élève maîtrise les bases et cherche à améliorer sa constance et sa fluidité. Pour « Relais navette 2x10 m », voici les attentes à ce niveau.",
+        "consignes": [
+          "Combiner déplacement et manipulation d'objet",
+          "Se déplacer en changeant de direction sur signal",
+          "Alterner entre deux types de déplacement"
+        ],
+        "criteres_reussite": [
+          "L'élève maintient sa vitesse dans les changements",
+          "La transition entre les déplacements est fluide"
+        ]
+      },
+      "niveau3": {
+        "titre": "Avancé",
+        "description": "À ce stade avancé, l'élève crée, innove et aide ses pairs. Pour « Relais navette 2x10 m », voici les attentes à ce niveau.",
+        "consignes": [
+          "Combiner plusieurs types de déplacement en enchaînement",
+          "Se déplacer en situation de jeu avec adversaire",
+          "Créer des feintes et des changements de rythme"
+        ],
+        "criteres_reussite": [
+          "L'élève adapte ses déplacements à la situation de jeu",
+          "L'élève se déplace avec agilité et efficacité"
+        ]
+      }
+    }
   },
   {
     "titre": "Course d'endurance par paliers",
@@ -524,8 +2628,58 @@
     "variantes": "Paliers plus courts (2 min), paliers inversés (dur au début), course en groupe avec meneur.",
     "adaptation": "Moins de paliers, intensités réduites, alterner course et marche.",
     "duree": 20,
-    "materiel": ["Chronomètre", "Affiche échelle de Borg", "Parcours balisé"],
-    "tags": ["paliers", "endurance", "intensité", "Borg"]
+    "materiel": [
+      "Chronomètre",
+      "Affiche échelle de Borg",
+      "Parcours balisé"
+    ],
+    "tags": [
+      "paliers",
+      "endurance",
+      "intensité",
+      "Borg"
+    ],
+    "progression": {
+      "niveau1": {
+        "titre": "Débutant",
+        "description": "L'accent est mis sur la compréhension des consignes et la sécurité. Pour « Course d'endurance par paliers », voici les attentes à ce niveau.",
+        "consignes": [
+          "Pratiquer un seul type de déplacement à la fois",
+          "Suivre des lignes au sol ou des repères visuels",
+          "Se déplacer à vitesse lente dans un espace délimité"
+        ],
+        "criteres_reussite": [
+          "L'élève se déplace de façon contrôlée",
+          "L'élève freine et s'arrête sur commande"
+        ]
+      },
+      "niveau2": {
+        "titre": "Intermédiaire",
+        "description": "L'élève maîtrise les bases et cherche à améliorer sa constance et sa fluidité. Pour « Course d'endurance par paliers », voici les attentes à ce niveau.",
+        "consignes": [
+          "Alterner entre deux types de déplacement",
+          "S'adapter au rythme d'un partenaire",
+          "Combiner déplacement et manipulation d'objet"
+        ],
+        "criteres_reussite": [
+          "La transition entre les déplacements est fluide",
+          "L'élève maintient sa vitesse dans les changements"
+        ]
+      },
+      "niveau3": {
+        "titre": "Avancé",
+        "description": "L'élève démontre une maîtrise complète et peut enseigner aux autres. Pour « Course d'endurance par paliers », voici les attentes à ce niveau.",
+        "consignes": [
+          "Se déplacer en situation de jeu avec adversaire",
+          "Combiner plusieurs types de déplacement en enchaînement",
+          "Optimiser ses trajectoires pour l'efficacité"
+        ],
+        "criteres_reussite": [
+          "L'élève adapte ses déplacements à la situation de jeu",
+          "L'élève se déplace avec agilité et efficacité"
+        ]
+      }
+    }
   },
   {
     "titre": "Course poursuite en carré",
@@ -536,8 +2690,56 @@
     "variantes": "Carré plus grand, course en sens inverse au second signal, 2 tours avant élimination.",
     "adaptation": "Carré plus grand, trot au lieu de sprint, pas d'élimination (points seulement).",
     "duree": 12,
-    "materiel": ["4 cônes (carré de 8 m)"],
-    "tags": ["poursuite", "carré", "stratégie", "élimination"]
+    "materiel": [
+      "4 cônes (carré de 8 m)"
+    ],
+    "tags": [
+      "poursuite",
+      "carré",
+      "stratégie",
+      "élimination"
+    ],
+    "progression": {
+      "niveau1": {
+        "titre": "Débutant",
+        "description": "L'élève découvre l'activité et se familiarise avec les mouvements fondamentaux. Pour « Course poursuite en carré », voici les attentes à ce niveau.",
+        "consignes": [
+          "Se déplacer à vitesse lente dans un espace délimité",
+          "Pratiquer un seul type de déplacement à la fois",
+          "Respecter les limites de son espace"
+        ],
+        "criteres_reussite": [
+          "L'élève se déplace de façon contrôlée",
+          "Le patron moteur de base est reconnaissable"
+        ]
+      },
+      "niveau2": {
+        "titre": "Intermédiaire",
+        "description": "À ce niveau, on ajoute de la complexité tout en consolidant les acquis. Pour « Course poursuite en carré », voici les attentes à ce niveau.",
+        "consignes": [
+          "Alterner entre deux types de déplacement",
+          "S'adapter au rythme d'un partenaire",
+          "Se déplacer en changeant de direction sur signal"
+        ],
+        "criteres_reussite": [
+          "L'élève change de direction sans perte d'équilibre",
+          "L'élève maintient sa vitesse dans les changements"
+        ]
+      },
+      "niveau3": {
+        "titre": "Avancé",
+        "description": "L'expert peut exécuter l'activité dans des contextes variés et exigeants. Pour « Course poursuite en carré », voici les attentes à ce niveau.",
+        "consignes": [
+          "Réagir rapidement aux changements d'environnement",
+          "Combiner plusieurs types de déplacement en enchaînement",
+          "Optimiser ses trajectoires pour l'efficacité"
+        ],
+        "criteres_reussite": [
+          "L'élève se déplace avec agilité et efficacité",
+          "Les enchaînements sont fluides et rapides"
+        ]
+      }
+    }
   },
   {
     "titre": "Sprint avec départ en position variée",
@@ -548,8 +2750,58 @@
     "variantes": "Ajouter un ballon à ramasser au départ, départ après roulade, départ en équilibre sur un pied.",
     "adaptation": "Seulement 3 positions de départ, distance réduite, sans chronomètre.",
     "duree": 15,
-    "materiel": ["Cônes", "Chronomètre", "Tapis pour les départs au sol"],
-    "tags": ["départ", "positions", "réactivité", "transition"]
+    "materiel": [
+      "Cônes",
+      "Chronomètre",
+      "Tapis pour les départs au sol"
+    ],
+    "tags": [
+      "départ",
+      "positions",
+      "réactivité",
+      "transition"
+    ],
+    "progression": {
+      "niveau1": {
+        "titre": "Débutant",
+        "description": "L'élève découvre l'activité et se familiarise avec les mouvements fondamentaux. Pour « Sprint avec départ en position variée », voici les attentes à ce niveau.",
+        "consignes": [
+          "Pratiquer un seul type de déplacement à la fois",
+          "Suivre des lignes au sol ou des repères visuels",
+          "Respecter les limites de son espace"
+        ],
+        "criteres_reussite": [
+          "L'élève freine et s'arrête sur commande",
+          "L'élève se déplace de façon contrôlée"
+        ]
+      },
+      "niveau2": {
+        "titre": "Intermédiaire",
+        "description": "L'intermédiaire travaille la régularité et commence à combiner les habiletés. Pour « Sprint avec départ en position variée », voici les attentes à ce niveau.",
+        "consignes": [
+          "Alterner entre deux types de déplacement",
+          "S'adapter au rythme d'un partenaire",
+          "Se déplacer en changeant de direction sur signal"
+        ],
+        "criteres_reussite": [
+          "L'élève change de direction sans perte d'équilibre",
+          "L'élève maintient sa vitesse dans les changements"
+        ]
+      },
+      "niveau3": {
+        "titre": "Avancé",
+        "description": "L'élève démontre une maîtrise complète et peut enseigner aux autres. Pour « Sprint avec départ en position variée », voici les attentes à ce niveau.",
+        "consignes": [
+          "Se déplacer en situation de jeu avec adversaire",
+          "Combiner plusieurs types de déplacement en enchaînement",
+          "Réagir rapidement aux changements d'environnement"
+        ],
+        "criteres_reussite": [
+          "L'élève se déplace avec agilité et efficacité",
+          "L'élève adapte ses déplacements à la situation de jeu"
+        ]
+      }
+    }
   },
   {
     "titre": "Course aux trésors chronométrée",
@@ -560,8 +2812,59 @@
     "variantes": "Objets de couleur spécifique à trouver, parcours avec obstacles pour atteindre les objets, en individuel.",
     "adaptation": "Moins d'objets, objets plus visibles, terrain plus petit.",
     "duree": 15,
-    "materiel": ["10 petits objets", "Cônes", "Tapis", "Chronomètre"],
-    "tags": ["trésor", "recherche", "équipe", "observation"]
+    "materiel": [
+      "10 petits objets",
+      "Cônes",
+      "Tapis",
+      "Chronomètre"
+    ],
+    "tags": [
+      "trésor",
+      "recherche",
+      "équipe",
+      "observation"
+    ],
+    "progression": {
+      "niveau1": {
+        "titre": "Débutant",
+        "description": "À ce stade, l'objectif est d'apprivoiser l'exercice sans pression de performance. Pour « Course aux trésors chronométrée », voici les attentes à ce niveau.",
+        "consignes": [
+          "Pratiquer un seul type de déplacement à la fois",
+          "Suivre des lignes au sol ou des repères visuels",
+          "Garder le contrôle de son corps en mouvement"
+        ],
+        "criteres_reussite": [
+          "L'élève freine et s'arrête sur commande",
+          "L'élève se déplace de façon contrôlée"
+        ]
+      },
+      "niveau2": {
+        "titre": "Intermédiaire",
+        "description": "L'élève est capable d'exécuter l'activité de façon autonome avec quelques ajustements. Pour « Course aux trésors chronométrée », voici les attentes à ce niveau.",
+        "consignes": [
+          "Se déplacer en changeant de direction sur signal",
+          "Combiner déplacement et manipulation d'objet",
+          "Augmenter la vitesse tout en gardant le contrôle"
+        ],
+        "criteres_reussite": [
+          "L'élève change de direction sans perte d'équilibre",
+          "L'élève maintient sa vitesse dans les changements"
+        ]
+      },
+      "niveau3": {
+        "titre": "Avancé",
+        "description": "À ce stade avancé, l'élève crée, innove et aide ses pairs. Pour « Course aux trésors chronométrée », voici les attentes à ce niveau.",
+        "consignes": [
+          "Combiner plusieurs types de déplacement en enchaînement",
+          "Réagir rapidement aux changements d'environnement",
+          "Créer des feintes et des changements de rythme"
+        ],
+        "criteres_reussite": [
+          "Les enchaînements sont fluides et rapides",
+          "L'élève se déplace avec agilité et efficacité"
+        ]
+      }
+    }
   },
   {
     "titre": "Course sur échelle d'agilité",
@@ -572,8 +2875,57 @@
     "variantes": "Créer ses propres patrons, échelle avec sprint de sortie, 2 échelles en L.",
     "adaptation": "Échelle au sol dessinée à la craie (cases plus grandes), pas en marchant d'abord, 1 patron seulement.",
     "duree": 15,
-    "materiel": ["Échelle d'agilité (ou tracée au sol)", "Cônes"],
-    "tags": ["échelle", "agilité", "coordination", "appuis"]
+    "materiel": [
+      "Échelle d'agilité (ou tracée au sol)",
+      "Cônes"
+    ],
+    "tags": [
+      "échelle",
+      "agilité",
+      "coordination",
+      "appuis"
+    ],
+    "progression": {
+      "niveau1": {
+        "titre": "Débutant",
+        "description": "L'élève découvre l'activité et se familiarise avec les mouvements fondamentaux. Pour « Course sur échelle d'agilité », voici les attentes à ce niveau.",
+        "consignes": [
+          "Garder le contrôle de son corps en mouvement",
+          "Pratiquer un seul type de déplacement à la fois",
+          "Respecter les limites de son espace"
+        ],
+        "criteres_reussite": [
+          "Le patron moteur de base est reconnaissable",
+          "L'élève se déplace de façon contrôlée"
+        ]
+      },
+      "niveau2": {
+        "titre": "Intermédiaire",
+        "description": "L'élève est capable d'exécuter l'activité de façon autonome avec quelques ajustements. Pour « Course sur échelle d'agilité », voici les attentes à ce niveau.",
+        "consignes": [
+          "Se déplacer en changeant de direction sur signal",
+          "Combiner déplacement et manipulation d'objet",
+          "Alterner entre deux types de déplacement"
+        ],
+        "criteres_reussite": [
+          "La transition entre les déplacements est fluide",
+          "L'élève maintient sa vitesse dans les changements"
+        ]
+      },
+      "niveau3": {
+        "titre": "Avancé",
+        "description": "L'élève démontre une maîtrise complète et peut enseigner aux autres. Pour « Course sur échelle d'agilité », voici les attentes à ce niveau.",
+        "consignes": [
+          "Créer des feintes et des changements de rythme",
+          "Réagir rapidement aux changements d'environnement",
+          "Optimiser ses trajectoires pour l'efficacité"
+        ],
+        "criteres_reussite": [
+          "Les enchaînements sont fluides et rapides",
+          "L'élève se déplace avec agilité et efficacité"
+        ]
+      }
+    }
   },
   {
     "titre": "Course en relais olympique (4x100 m adapté)",
@@ -584,8 +2936,59 @@
     "variantes": "4x50 m extérieur, relais avec passage de témoin par le haut, relais mixte vitesse-endurance.",
     "adaptation": "Zone de passage plus grande, pratique du passage à l'arrêt d'abord, distances réduites.",
     "duree": 20,
-    "materiel": ["Témoins de relais", "Cônes de zone", "Chronomètre", "Ruban pour marquer les zones"],
-    "tags": ["relais olympique", "4x100", "témoin", "passage"]
+    "materiel": [
+      "Témoins de relais",
+      "Cônes de zone",
+      "Chronomètre",
+      "Ruban pour marquer les zones"
+    ],
+    "tags": [
+      "relais olympique",
+      "4x100",
+      "témoin",
+      "passage"
+    ],
+    "progression": {
+      "niveau1": {
+        "titre": "Débutant",
+        "description": "Le débutant explore les bases de l'activité avec un accompagnement soutenu. Pour « Course en relais olympique (4x100 m adapté) », voici les attentes à ce niveau.",
+        "consignes": [
+          "Pratiquer un seul type de déplacement à la fois",
+          "Garder le contrôle de son corps en mouvement",
+          "Se déplacer à vitesse lente dans un espace délimité"
+        ],
+        "criteres_reussite": [
+          "L'élève se déplace de façon contrôlée",
+          "Le patron moteur de base est reconnaissable"
+        ]
+      },
+      "niveau2": {
+        "titre": "Intermédiaire",
+        "description": "L'élève est capable d'exécuter l'activité de façon autonome avec quelques ajustements. Pour « Course en relais olympique (4x100 m adapté) », voici les attentes à ce niveau.",
+        "consignes": [
+          "Augmenter la vitesse tout en gardant le contrôle",
+          "Alterner entre deux types de déplacement",
+          "Se déplacer en changeant de direction sur signal"
+        ],
+        "criteres_reussite": [
+          "La transition entre les déplacements est fluide",
+          "L'élève change de direction sans perte d'équilibre"
+        ]
+      },
+      "niveau3": {
+        "titre": "Avancé",
+        "description": "L'élève démontre une maîtrise complète et peut enseigner aux autres. Pour « Course en relais olympique (4x100 m adapté) », voici les attentes à ce niveau.",
+        "consignes": [
+          "Optimiser ses trajectoires pour l'efficacité",
+          "Combiner plusieurs types de déplacement en enchaînement",
+          "Créer des feintes et des changements de rythme"
+        ],
+        "criteres_reussite": [
+          "L'élève se déplace avec agilité et efficacité",
+          "Les enchaînements sont fluides et rapides"
+        ]
+      }
+    }
   },
   {
     "titre": "Course pieds nus sur surfaces variées",
@@ -596,8 +2999,57 @@
     "variantes": "Yeux fermés sur tapis (guidé par un partenaire), comparaison pieds nus vs chaussures, parcours sensoriel.",
     "adaptation": "Garder les chaussettes, surface unique (tapis), marche au lieu de course.",
     "duree": 12,
-    "materiel": ["Tapis variés", "Surface propre et sécuritaire"],
-    "tags": ["pieds nus", "proprioception", "surfaces", "sensoriel"]
+    "materiel": [
+      "Tapis variés",
+      "Surface propre et sécuritaire"
+    ],
+    "tags": [
+      "pieds nus",
+      "proprioception",
+      "surfaces",
+      "sensoriel"
+    ],
+    "progression": {
+      "niveau1": {
+        "titre": "Débutant",
+        "description": "Le débutant explore les bases de l'activité avec un accompagnement soutenu. Pour « Course pieds nus sur surfaces variées », voici les attentes à ce niveau.",
+        "consignes": [
+          "Respecter les limites de son espace",
+          "Se déplacer à vitesse lente dans un espace délimité",
+          "Pratiquer un seul type de déplacement à la fois"
+        ],
+        "criteres_reussite": [
+          "L'élève se déplace de façon contrôlée",
+          "L'élève freine et s'arrête sur commande"
+        ]
+      },
+      "niveau2": {
+        "titre": "Intermédiaire",
+        "description": "L'élève maîtrise les bases et cherche à améliorer sa constance et sa fluidité. Pour « Course pieds nus sur surfaces variées », voici les attentes à ce niveau.",
+        "consignes": [
+          "Augmenter la vitesse tout en gardant le contrôle",
+          "Se déplacer en changeant de direction sur signal",
+          "Alterner entre deux types de déplacement"
+        ],
+        "criteres_reussite": [
+          "L'élève maintient sa vitesse dans les changements",
+          "La transition entre les déplacements est fluide"
+        ]
+      },
+      "niveau3": {
+        "titre": "Avancé",
+        "description": "L'expert peut exécuter l'activité dans des contextes variés et exigeants. Pour « Course pieds nus sur surfaces variées », voici les attentes à ce niveau.",
+        "consignes": [
+          "Se déplacer en situation de jeu avec adversaire",
+          "Optimiser ses trajectoires pour l'efficacité",
+          "Réagir rapidement aux changements d'environnement"
+        ],
+        "criteres_reussite": [
+          "Les enchaînements sont fluides et rapides",
+          "L'élève adapte ses déplacements à la situation de jeu"
+        ]
+      }
+    }
   },
   {
     "titre": "Course-stop avec exercice",
@@ -608,8 +3060,57 @@
     "variantes": "Exercices avec partenaire (tape les mains), exercices avec ballon, élève leader qui choisit l'exercice.",
     "adaptation": "Marche rapide, exercices plus simples, moins d'arrêts.",
     "duree": 10,
-    "materiel": ["Sifflet", "Espace dégagé"],
-    "tags": ["stop", "exercice", "écoute", "condition physique"]
+    "materiel": [
+      "Sifflet",
+      "Espace dégagé"
+    ],
+    "tags": [
+      "stop",
+      "exercice",
+      "écoute",
+      "condition physique"
+    ],
+    "progression": {
+      "niveau1": {
+        "titre": "Débutant",
+        "description": "L'accent est mis sur la compréhension des consignes et la sécurité. Pour « Course-stop avec exercice », voici les attentes à ce niveau.",
+        "consignes": [
+          "Garder le contrôle de son corps en mouvement",
+          "Pratiquer un seul type de déplacement à la fois",
+          "Suivre des lignes au sol ou des repères visuels"
+        ],
+        "criteres_reussite": [
+          "L'élève freine et s'arrête sur commande",
+          "Le patron moteur de base est reconnaissable"
+        ]
+      },
+      "niveau2": {
+        "titre": "Intermédiaire",
+        "description": "L'élève maîtrise les bases et cherche à améliorer sa constance et sa fluidité. Pour « Course-stop avec exercice », voici les attentes à ce niveau.",
+        "consignes": [
+          "S'adapter au rythme d'un partenaire",
+          "Se déplacer en changeant de direction sur signal",
+          "Alterner entre deux types de déplacement"
+        ],
+        "criteres_reussite": [
+          "La transition entre les déplacements est fluide",
+          "L'élève change de direction sans perte d'équilibre"
+        ]
+      },
+      "niveau3": {
+        "titre": "Avancé",
+        "description": "L'élève perfectionne sa technique et s'adapte à des situations complexes. Pour « Course-stop avec exercice », voici les attentes à ce niveau.",
+        "consignes": [
+          "Réagir rapidement aux changements d'environnement",
+          "Optimiser ses trajectoires pour l'efficacité",
+          "Se déplacer en situation de jeu avec adversaire"
+        ],
+        "criteres_reussite": [
+          "L'élève se déplace avec agilité et efficacité",
+          "L'élève adapte ses déplacements à la situation de jeu"
+        ]
+      }
+    }
   },
   {
     "titre": "Course en terrain simulé (aventure)",
@@ -620,7 +3121,58 @@
     "variantes": "Thèmes variés (espace, jungle, océan), élèves qui inventent les obstacles, parcours musical.",
     "adaptation": "Moins de stations, aide physique aux stations difficiles, parcours plus court.",
     "duree": 12,
-    "materiel": ["Cônes", "Cordes", "Cerceaux", "Tapis"],
-    "tags": ["imaginaire", "aventure", "parcours", "histoire"]
+    "materiel": [
+      "Cônes",
+      "Cordes",
+      "Cerceaux",
+      "Tapis"
+    ],
+    "tags": [
+      "imaginaire",
+      "aventure",
+      "parcours",
+      "histoire"
+    ],
+    "progression": {
+      "niveau1": {
+        "titre": "Débutant",
+        "description": "À ce stade, l'objectif est d'apprivoiser l'exercice sans pression de performance. Pour « Course en terrain simulé (aventure) », voici les attentes à ce niveau.",
+        "consignes": [
+          "Se déplacer à vitesse lente dans un espace délimité",
+          "Respecter les limites de son espace",
+          "Garder le contrôle de son corps en mouvement"
+        ],
+        "criteres_reussite": [
+          "Le patron moteur de base est reconnaissable",
+          "L'élève se déplace de façon contrôlée"
+        ]
+      },
+      "niveau2": {
+        "titre": "Intermédiaire",
+        "description": "L'élève maîtrise les bases et cherche à améliorer sa constance et sa fluidité. Pour « Course en terrain simulé (aventure) », voici les attentes à ce niveau.",
+        "consignes": [
+          "Combiner déplacement et manipulation d'objet",
+          "Se déplacer en changeant de direction sur signal",
+          "Alterner entre deux types de déplacement"
+        ],
+        "criteres_reussite": [
+          "La transition entre les déplacements est fluide",
+          "L'élève change de direction sans perte d'équilibre"
+        ]
+      },
+      "niveau3": {
+        "titre": "Avancé",
+        "description": "L'élève démontre une maîtrise complète et peut enseigner aux autres. Pour « Course en terrain simulé (aventure) », voici les attentes à ce niveau.",
+        "consignes": [
+          "Créer des feintes et des changements de rythme",
+          "Optimiser ses trajectoires pour l'efficacité",
+          "Se déplacer en situation de jeu avec adversaire"
+        ],
+        "criteres_reussite": [
+          "L'élève se déplace avec agilité et efficacité",
+          "Les enchaînements sont fluides et rapides"
+        ]
+      }
+    }
   }
 ]

@@ -8,8 +8,56 @@
     "variantes": "Enchaîner en musique lente, salutation au soleil, créer sa propre séquence de 5.",
     "adaptation": "Postures modifiées avec supports (blocs, mur). Durée réduite. Poser un genou au sol.",
     "duree": 15,
-    "materiel": ["1 tapis de yoga par élève"],
-    "tags": ["yoga", "souplesse", "respiration", "relaxation"]
+    "materiel": [
+      "1 tapis de yoga par élève"
+    ],
+    "tags": [
+      "yoga",
+      "souplesse",
+      "respiration",
+      "relaxation"
+    ],
+    "progression": {
+      "niveau1": {
+        "titre": "Débutant",
+        "description": "L'accent est mis sur la compréhension des consignes et la sécurité. Pour « Circuit yoga 5 postures », voici les attentes à ce niveau.",
+        "consignes": [
+          "Observer une démonstration avant chaque essai",
+          "Se concentrer sur la technique plutôt que la performance",
+          "Utiliser du matériel adapté (plus léger, plus gros, plus lent)"
+        ],
+        "criteres_reussite": [
+          "Le geste technique de base est reconnaissable",
+          "L'élève comprend et respecte les consignes de base"
+        ]
+      },
+      "niveau2": {
+        "titre": "Intermédiaire",
+        "description": "À ce niveau, on ajoute de la complexité tout en consolidant les acquis. Pour « Circuit yoga 5 postures », voici les attentes à ce niveau.",
+        "consignes": [
+          "Ajouter des contraintes de temps ou d'espace",
+          "Augmenter progressivement la complexité de l'exercice",
+          "Réduire le temps de réflexion entre les actions"
+        ],
+        "criteres_reussite": [
+          "La technique est maîtrisée dans des situations variées",
+          "L'élève s'ajuste aux consignes supplémentaires"
+        ]
+      },
+      "niveau3": {
+        "titre": "Avancé",
+        "description": "L'élève perfectionne sa technique et s'adapte à des situations complexes. Pour « Circuit yoga 5 postures », voici les attentes à ce niveau.",
+        "consignes": [
+          "Créer et proposer ses propres variantes avancées",
+          "S'auto-évaluer et identifier ses points d'amélioration",
+          "Exécuter en situation de jeu réelle ou compétitive"
+        ],
+        "criteres_reussite": [
+          "L'élève maîtrise le geste dans des situations complexes",
+          "L'élève transfère ses apprentissages à de nouvelles situations"
+        ]
+      }
+    }
   },
   {
     "titre": "Grand écart progressif",
@@ -20,8 +68,56 @@
     "variantes": "Grand écart latéral (plus difficile), progression avec proprioception, écart assisté.",
     "adaptation": "S'arrêter bien avant la position finale. Utiliser des coussins. Travailler sur la durée.",
     "duree": 15,
-    "materiel": ["Tapis de gym"],
-    "tags": ["grand écart", "souplesse", "fente", "progression"]
+    "materiel": [
+      "Tapis de gym"
+    ],
+    "tags": [
+      "grand écart",
+      "souplesse",
+      "fente",
+      "progression"
+    ],
+    "progression": {
+      "niveau1": {
+        "titre": "Débutant",
+        "description": "L'élève découvre l'activité et se familiarise avec les mouvements fondamentaux. Pour « Grand écart progressif », voici les attentes à ce niveau.",
+        "consignes": [
+          "Exécuter les mouvements de base lentement et avec contrôle",
+          "Observer une démonstration avant chaque essai",
+          "Pratiquer en situation simplifiée sans pression"
+        ],
+        "criteres_reussite": [
+          "Le geste technique de base est reconnaissable",
+          "L'élève comprend et respecte les consignes de base"
+        ]
+      },
+      "niveau2": {
+        "titre": "Intermédiaire",
+        "description": "L'intermédiaire travaille la régularité et commence à combiner les habiletés. Pour « Grand écart progressif », voici les attentes à ce niveau.",
+        "consignes": [
+          "Augmenter progressivement la complexité de l'exercice",
+          "Introduire des variantes avec partenaire ou en mouvement",
+          "Combiner deux habiletés dans un même exercice"
+        ],
+        "criteres_reussite": [
+          "L'élève exécute le geste avec régularité",
+          "La technique est maîtrisée dans des situations variées"
+        ]
+      },
+      "niveau3": {
+        "titre": "Avancé",
+        "description": "L'expert peut exécuter l'activité dans des contextes variés et exigeants. Pour « Grand écart progressif », voici les attentes à ce niveau.",
+        "consignes": [
+          "Exécuter en situation de jeu réelle ou compétitive",
+          "S'auto-évaluer et identifier ses points d'amélioration",
+          "Créer et proposer ses propres variantes avancées"
+        ],
+        "criteres_reussite": [
+          "L'élève maîtrise le geste dans des situations complexes",
+          "L'exécution est fluide, précise et constante"
+        ]
+      }
+    }
   },
   {
     "titre": "Étirements en histoire – les animaux",
@@ -32,8 +128,57 @@
     "variantes": "Les élèves proposent des animaux, ajouter des sons d'animaux, créer une séquence.",
     "adaptation": "Positions simplifiées, durée réduite à 5 secondes, images visuelles au sol.",
     "duree": 10,
-    "materiel": ["Tapis de gym", "Images d'animaux (optionnel)"],
-    "tags": ["animaux", "souplesse", "imaginaire", "maternelle"]
+    "materiel": [
+      "Tapis de gym",
+      "Images d'animaux (optionnel)"
+    ],
+    "tags": [
+      "animaux",
+      "souplesse",
+      "imaginaire",
+      "maternelle"
+    ],
+    "progression": {
+      "niveau1": {
+        "titre": "Débutant",
+        "description": "Le débutant explore les bases de l'activité avec un accompagnement soutenu. Pour « Étirements en histoire – les animaux », voici les attentes à ce niveau.",
+        "consignes": [
+          "Pratiquer en situation simplifiée sans pression",
+          "Exécuter les mouvements de base lentement et avec contrôle",
+          "Utiliser du matériel adapté (plus léger, plus gros, plus lent)"
+        ],
+        "criteres_reussite": [
+          "L'élève participe activement et fait des efforts",
+          "Le geste technique de base est reconnaissable"
+        ]
+      },
+      "niveau2": {
+        "titre": "Intermédiaire",
+        "description": "L'élève est capable d'exécuter l'activité de façon autonome avec quelques ajustements. Pour « Étirements en histoire – les animaux », voici les attentes à ce niveau.",
+        "consignes": [
+          "Réduire le temps de réflexion entre les actions",
+          "Introduire des variantes avec partenaire ou en mouvement",
+          "Augmenter progressivement la complexité de l'exercice"
+        ],
+        "criteres_reussite": [
+          "L'élève s'ajuste aux consignes supplémentaires",
+          "L'élève exécute le geste avec régularité"
+        ]
+      },
+      "niveau3": {
+        "titre": "Avancé",
+        "description": "À ce stade avancé, l'élève crée, innove et aide ses pairs. Pour « Étirements en histoire – les animaux », voici les attentes à ce niveau.",
+        "consignes": [
+          "Créer et proposer ses propres variantes avancées",
+          "Aider un pair moins expérimenté comme tuteur",
+          "S'auto-évaluer et identifier ses points d'amélioration"
+        ],
+        "criteres_reussite": [
+          "L'élève maîtrise le geste dans des situations complexes",
+          "L'élève transfère ses apprentissages à de nouvelles situations"
+        ]
+      }
+    }
   },
   {
     "titre": "Le papillon magique",
@@ -44,8 +189,56 @@
     "variantes": "Papillon rapide puis lent, papillon avec un ami (dos à dos), papillon couché.",
     "adaptation": "Pieds plus éloignés du corps, ne pas forcer la descente, coussin sous les fesses.",
     "duree": 8,
-    "materiel": ["Tapis de gym"],
-    "tags": ["papillon", "adducteurs", "souplesse", "maternelle"]
+    "materiel": [
+      "Tapis de gym"
+    ],
+    "tags": [
+      "papillon",
+      "adducteurs",
+      "souplesse",
+      "maternelle"
+    ],
+    "progression": {
+      "niveau1": {
+        "titre": "Débutant",
+        "description": "L'élève découvre l'activité et se familiarise avec les mouvements fondamentaux. Pour « Le papillon magique », voici les attentes à ce niveau.",
+        "consignes": [
+          "Utiliser du matériel adapté (plus léger, plus gros, plus lent)",
+          "Exécuter les mouvements de base lentement et avec contrôle",
+          "Se concentrer sur la technique plutôt que la performance"
+        ],
+        "criteres_reussite": [
+          "Le geste technique de base est reconnaissable",
+          "L'élève participe activement et fait des efforts"
+        ]
+      },
+      "niveau2": {
+        "titre": "Intermédiaire",
+        "description": "L'élève maîtrise les bases et cherche à améliorer sa constance et sa fluidité. Pour « Le papillon magique », voici les attentes à ce niveau.",
+        "consignes": [
+          "Ajouter des contraintes de temps ou d'espace",
+          "Combiner deux habiletés dans un même exercice",
+          "Introduire des variantes avec partenaire ou en mouvement"
+        ],
+        "criteres_reussite": [
+          "L'élève exécute le geste avec régularité",
+          "L'élève s'ajuste aux consignes supplémentaires"
+        ]
+      },
+      "niveau3": {
+        "titre": "Avancé",
+        "description": "L'expert peut exécuter l'activité dans des contextes variés et exigeants. Pour « Le papillon magique », voici les attentes à ce niveau.",
+        "consignes": [
+          "Exécuter en situation de jeu réelle ou compétitive",
+          "Créer et proposer ses propres variantes avancées",
+          "S'auto-évaluer et identifier ses points d'amélioration"
+        ],
+        "criteres_reussite": [
+          "L'exécution est fluide, précise et constante",
+          "L'élève transfère ses apprentissages à de nouvelles situations"
+        ]
+      }
+    }
   },
   {
     "titre": "Le soleil du matin – routine d'éveil",
@@ -56,8 +249,56 @@
     "variantes": "Ajouter des mouvements, changer l'histoire, faire en musique douce.",
     "adaptation": "Moins de mouvements, amplitude réduite, rester debout seulement.",
     "duree": 8,
-    "materiel": ["Espace dégagé"],
-    "tags": ["routine", "éveil", "souplesse", "matin"]
+    "materiel": [
+      "Espace dégagé"
+    ],
+    "tags": [
+      "routine",
+      "éveil",
+      "souplesse",
+      "matin"
+    ],
+    "progression": {
+      "niveau1": {
+        "titre": "Débutant",
+        "description": "À ce stade, l'objectif est d'apprivoiser l'exercice sans pression de performance. Pour « Le soleil du matin – routine d'éveil », voici les attentes à ce niveau.",
+        "consignes": [
+          "Exécuter les mouvements de base lentement et avec contrôle",
+          "Utiliser du matériel adapté (plus léger, plus gros, plus lent)",
+          "Pratiquer en situation simplifiée sans pression"
+        ],
+        "criteres_reussite": [
+          "L'élève participe activement et fait des efforts",
+          "Le geste technique de base est reconnaissable"
+        ]
+      },
+      "niveau2": {
+        "titre": "Intermédiaire",
+        "description": "L'élève est capable d'exécuter l'activité de façon autonome avec quelques ajustements. Pour « Le soleil du matin – routine d'éveil », voici les attentes à ce niveau.",
+        "consignes": [
+          "Combiner deux habiletés dans un même exercice",
+          "Ajouter des contraintes de temps ou d'espace",
+          "Réduire le temps de réflexion entre les actions"
+        ],
+        "criteres_reussite": [
+          "L'élève exécute le geste avec régularité",
+          "L'élève s'ajuste aux consignes supplémentaires"
+        ]
+      },
+      "niveau3": {
+        "titre": "Avancé",
+        "description": "L'expert peut exécuter l'activité dans des contextes variés et exigeants. Pour « Le soleil du matin – routine d'éveil », voici les attentes à ce niveau.",
+        "consignes": [
+          "Combiner plusieurs habiletés en séquence complexe",
+          "Créer et proposer ses propres variantes avancées",
+          "Aider un pair moins expérimenté comme tuteur"
+        ],
+        "criteres_reussite": [
+          "L'élève maîtrise le geste dans des situations complexes",
+          "L'exécution est fluide, précise et constante"
+        ]
+      }
+    }
   },
   {
     "titre": "Touche tes orteils – défi progressif",
@@ -68,8 +309,56 @@
     "variantes": "Assis jambes tendues, une jambe à la fois, avec rotation du tronc.",
     "adaptation": "Genoux légèrement fléchis, descendre seulement jusqu'au confort, pas de compétition.",
     "duree": 10,
-    "materiel": ["Espace dégagé"],
-    "tags": ["ischio-jambiers", "souplesse", "flexion", "progression"]
+    "materiel": [
+      "Espace dégagé"
+    ],
+    "tags": [
+      "ischio-jambiers",
+      "souplesse",
+      "flexion",
+      "progression"
+    ],
+    "progression": {
+      "niveau1": {
+        "titre": "Débutant",
+        "description": "L'élève découvre l'activité et se familiarise avec les mouvements fondamentaux. Pour « Touche tes orteils – défi progressif », voici les attentes à ce niveau.",
+        "consignes": [
+          "Exécuter les mouvements de base lentement et avec contrôle",
+          "Utiliser du matériel adapté (plus léger, plus gros, plus lent)",
+          "Se concentrer sur la technique plutôt que la performance"
+        ],
+        "criteres_reussite": [
+          "L'élève comprend et respecte les consignes de base",
+          "Le geste technique de base est reconnaissable"
+        ]
+      },
+      "niveau2": {
+        "titre": "Intermédiaire",
+        "description": "L'élève est capable d'exécuter l'activité de façon autonome avec quelques ajustements. Pour « Touche tes orteils – défi progressif », voici les attentes à ce niveau.",
+        "consignes": [
+          "Ajouter des contraintes de temps ou d'espace",
+          "Augmenter progressivement la complexité de l'exercice",
+          "Réduire le temps de réflexion entre les actions"
+        ],
+        "criteres_reussite": [
+          "La technique est maîtrisée dans des situations variées",
+          "L'élève exécute le geste avec régularité"
+        ]
+      },
+      "niveau3": {
+        "titre": "Avancé",
+        "description": "L'expert peut exécuter l'activité dans des contextes variés et exigeants. Pour « Touche tes orteils – défi progressif », voici les attentes à ce niveau.",
+        "consignes": [
+          "Combiner plusieurs habiletés en séquence complexe",
+          "S'auto-évaluer et identifier ses points d'amélioration",
+          "Aider un pair moins expérimenté comme tuteur"
+        ],
+        "criteres_reussite": [
+          "L'élève transfère ses apprentissages à de nouvelles situations",
+          "L'exécution est fluide, précise et constante"
+        ]
+      }
+    }
   },
   {
     "titre": "La chenille qui marche",
@@ -80,8 +369,56 @@
     "variantes": "Chenille avec pause en planche (5 s), chenille latérale, chenille avec push-up.",
     "adaptation": "Genoux légèrement fléchis, distance réduite, pauses entre chaque répétition.",
     "duree": 10,
-    "materiel": ["Espace dégagé"],
-    "tags": ["chenille", "dynamique", "ischio-jambiers", "épaules"]
+    "materiel": [
+      "Espace dégagé"
+    ],
+    "tags": [
+      "chenille",
+      "dynamique",
+      "ischio-jambiers",
+      "épaules"
+    ],
+    "progression": {
+      "niveau1": {
+        "titre": "Débutant",
+        "description": "Le débutant explore les bases de l'activité avec un accompagnement soutenu. Pour « La chenille qui marche », voici les attentes à ce niveau.",
+        "consignes": [
+          "Exécuter les mouvements de base lentement et avec contrôle",
+          "Se concentrer sur la technique plutôt que la performance",
+          "Observer une démonstration avant chaque essai"
+        ],
+        "criteres_reussite": [
+          "L'élève comprend et respecte les consignes de base",
+          "L'élève participe activement et fait des efforts"
+        ]
+      },
+      "niveau2": {
+        "titre": "Intermédiaire",
+        "description": "L'élève maîtrise les bases et cherche à améliorer sa constance et sa fluidité. Pour « La chenille qui marche », voici les attentes à ce niveau.",
+        "consignes": [
+          "Augmenter progressivement la complexité de l'exercice",
+          "Ajouter des contraintes de temps ou d'espace",
+          "Introduire des variantes avec partenaire ou en mouvement"
+        ],
+        "criteres_reussite": [
+          "La technique est maîtrisée dans des situations variées",
+          "L'élève exécute le geste avec régularité"
+        ]
+      },
+      "niveau3": {
+        "titre": "Avancé",
+        "description": "L'élève démontre une maîtrise complète et peut enseigner aux autres. Pour « La chenille qui marche », voici les attentes à ce niveau.",
+        "consignes": [
+          "Créer et proposer ses propres variantes avancées",
+          "S'auto-évaluer et identifier ses points d'amélioration",
+          "Aider un pair moins expérimenté comme tuteur"
+        ],
+        "criteres_reussite": [
+          "L'élève maîtrise le geste dans des situations complexes",
+          "L'exécution est fluide, précise et constante"
+        ]
+      }
+    }
   },
   {
     "titre": "Étirements en cercle",
@@ -92,8 +429,56 @@
     "variantes": "Étirements en musique, dé qui détermine l'étirement, cartes d'étirements.",
     "adaptation": "L'enseignant propose tous les étirements, amplitude libre, durée ajustée.",
     "duree": 12,
-    "materiel": ["Espace dégagé"],
-    "tags": ["cercle", "groupe", "souplesse", "vocabulaire"]
+    "materiel": [
+      "Espace dégagé"
+    ],
+    "tags": [
+      "cercle",
+      "groupe",
+      "souplesse",
+      "vocabulaire"
+    ],
+    "progression": {
+      "niveau1": {
+        "titre": "Débutant",
+        "description": "L'élève découvre l'activité et se familiarise avec les mouvements fondamentaux. Pour « Étirements en cercle », voici les attentes à ce niveau.",
+        "consignes": [
+          "Se concentrer sur la technique plutôt que la performance",
+          "Observer une démonstration avant chaque essai",
+          "Pratiquer en situation simplifiée sans pression"
+        ],
+        "criteres_reussite": [
+          "L'élève participe activement et fait des efforts",
+          "L'élève comprend et respecte les consignes de base"
+        ]
+      },
+      "niveau2": {
+        "titre": "Intermédiaire",
+        "description": "À ce niveau, on ajoute de la complexité tout en consolidant les acquis. Pour « Étirements en cercle », voici les attentes à ce niveau.",
+        "consignes": [
+          "Combiner deux habiletés dans un même exercice",
+          "Réduire le temps de réflexion entre les actions",
+          "Augmenter progressivement la complexité de l'exercice"
+        ],
+        "criteres_reussite": [
+          "L'élève exécute le geste avec régularité",
+          "L'élève s'ajuste aux consignes supplémentaires"
+        ]
+      },
+      "niveau3": {
+        "titre": "Avancé",
+        "description": "L'élève démontre une maîtrise complète et peut enseigner aux autres. Pour « Étirements en cercle », voici les attentes à ce niveau.",
+        "consignes": [
+          "Aider un pair moins expérimenté comme tuteur",
+          "Créer et proposer ses propres variantes avancées",
+          "S'auto-évaluer et identifier ses points d'amélioration"
+        ],
+        "criteres_reussite": [
+          "L'élève maîtrise le geste dans des situations complexes",
+          "L'exécution est fluide, précise et constante"
+        ]
+      }
+    }
   },
   {
     "titre": "Le robot et la poupée de chiffon",
@@ -104,8 +489,56 @@
     "variantes": "Robot qui se transforme progressivement en chiffon, ajout de musique, mime en groupe.",
     "adaptation": "Alterner seulement 2 positions, démonstration fréquente, pauses.",
     "duree": 10,
-    "materiel": ["Espace dégagé"],
-    "tags": ["tension", "relâchement", "duo", "conscience corporelle"]
+    "materiel": [
+      "Espace dégagé"
+    ],
+    "tags": [
+      "tension",
+      "relâchement",
+      "duo",
+      "conscience corporelle"
+    ],
+    "progression": {
+      "niveau1": {
+        "titre": "Débutant",
+        "description": "À ce stade, l'objectif est d'apprivoiser l'exercice sans pression de performance. Pour « Le robot et la poupée de chiffon », voici les attentes à ce niveau.",
+        "consignes": [
+          "Utiliser du matériel adapté (plus léger, plus gros, plus lent)",
+          "Se concentrer sur la technique plutôt que la performance",
+          "Exécuter les mouvements de base lentement et avec contrôle"
+        ],
+        "criteres_reussite": [
+          "L'élève comprend et respecte les consignes de base",
+          "Le geste technique de base est reconnaissable"
+        ]
+      },
+      "niveau2": {
+        "titre": "Intermédiaire",
+        "description": "L'intermédiaire travaille la régularité et commence à combiner les habiletés. Pour « Le robot et la poupée de chiffon », voici les attentes à ce niveau.",
+        "consignes": [
+          "Réduire le temps de réflexion entre les actions",
+          "Combiner deux habiletés dans un même exercice",
+          "Augmenter progressivement la complexité de l'exercice"
+        ],
+        "criteres_reussite": [
+          "L'élève exécute le geste avec régularité",
+          "La technique est maîtrisée dans des situations variées"
+        ]
+      },
+      "niveau3": {
+        "titre": "Avancé",
+        "description": "L'élève démontre une maîtrise complète et peut enseigner aux autres. Pour « Le robot et la poupée de chiffon », voici les attentes à ce niveau.",
+        "consignes": [
+          "Exécuter en situation de jeu réelle ou compétitive",
+          "Aider un pair moins expérimenté comme tuteur",
+          "S'auto-évaluer et identifier ses points d'amélioration"
+        ],
+        "criteres_reussite": [
+          "L'exécution est fluide, précise et constante",
+          "L'élève transfère ses apprentissages à de nouvelles situations"
+        ]
+      }
+    }
   },
   {
     "titre": "Parcours de souplesse – 6 stations",
@@ -116,8 +549,58 @@
     "variantes": "Ajouter des stations, augmenter les durées, musique relaxante.",
     "adaptation": "Amplitude libre, affiches avec positions adaptées, 4 stations seulement.",
     "duree": 15,
-    "materiel": ["Tapis de gym", "Affiches illustrées", "Chronomètre"],
-    "tags": ["stations", "parcours", "souplesse", "affiches"]
+    "materiel": [
+      "Tapis de gym",
+      "Affiches illustrées",
+      "Chronomètre"
+    ],
+    "tags": [
+      "stations",
+      "parcours",
+      "souplesse",
+      "affiches"
+    ],
+    "progression": {
+      "niveau1": {
+        "titre": "Débutant",
+        "description": "À ce stade, l'objectif est d'apprivoiser l'exercice sans pression de performance. Pour « Parcours de souplesse – 6 stations », voici les attentes à ce niveau.",
+        "consignes": [
+          "Se concentrer sur la technique plutôt que la performance",
+          "Utiliser du matériel adapté (plus léger, plus gros, plus lent)",
+          "Observer une démonstration avant chaque essai"
+        ],
+        "criteres_reussite": [
+          "Le geste technique de base est reconnaissable",
+          "L'élève comprend et respecte les consignes de base"
+        ]
+      },
+      "niveau2": {
+        "titre": "Intermédiaire",
+        "description": "L'intermédiaire travaille la régularité et commence à combiner les habiletés. Pour « Parcours de souplesse – 6 stations », voici les attentes à ce niveau.",
+        "consignes": [
+          "Combiner deux habiletés dans un même exercice",
+          "Introduire des variantes avec partenaire ou en mouvement",
+          "Réduire le temps de réflexion entre les actions"
+        ],
+        "criteres_reussite": [
+          "L'élève s'ajuste aux consignes supplémentaires",
+          "La technique est maîtrisée dans des situations variées"
+        ]
+      },
+      "niveau3": {
+        "titre": "Avancé",
+        "description": "L'élève perfectionne sa technique et s'adapte à des situations complexes. Pour « Parcours de souplesse – 6 stations », voici les attentes à ce niveau.",
+        "consignes": [
+          "S'auto-évaluer et identifier ses points d'amélioration",
+          "Combiner plusieurs habiletés en séquence complexe",
+          "Aider un pair moins expérimenté comme tuteur"
+        ],
+        "criteres_reussite": [
+          "L'élève maîtrise le geste dans des situations complexes",
+          "L'élève transfère ses apprentissages à de nouvelles situations"
+        ]
+      }
+    }
   },
   {
     "titre": "Étirements dynamiques – échauffement",
@@ -128,8 +611,56 @@
     "variantes": "Ajouter des mouvements, augmenter l'amplitude, en musique rythmée.",
     "adaptation": "Amplitude réduite, moins de répétitions, appui mural si nécessaire.",
     "duree": 10,
-    "materiel": ["Espace dégagé"],
-    "tags": ["dynamique", "échauffement", "balancements", "routine"]
+    "materiel": [
+      "Espace dégagé"
+    ],
+    "tags": [
+      "dynamique",
+      "échauffement",
+      "balancements",
+      "routine"
+    ],
+    "progression": {
+      "niveau1": {
+        "titre": "Débutant",
+        "description": "Le débutant explore les bases de l'activité avec un accompagnement soutenu. Pour « Étirements dynamiques – échauffement », voici les attentes à ce niveau.",
+        "consignes": [
+          "Pratiquer en situation simplifiée sans pression",
+          "Observer une démonstration avant chaque essai",
+          "Se concentrer sur la technique plutôt que la performance"
+        ],
+        "criteres_reussite": [
+          "Le geste technique de base est reconnaissable",
+          "L'élève participe activement et fait des efforts"
+        ]
+      },
+      "niveau2": {
+        "titre": "Intermédiaire",
+        "description": "L'intermédiaire travaille la régularité et commence à combiner les habiletés. Pour « Étirements dynamiques – échauffement », voici les attentes à ce niveau.",
+        "consignes": [
+          "Ajouter des contraintes de temps ou d'espace",
+          "Augmenter progressivement la complexité de l'exercice",
+          "Combiner deux habiletés dans un même exercice"
+        ],
+        "criteres_reussite": [
+          "L'élève s'ajuste aux consignes supplémentaires",
+          "L'élève exécute le geste avec régularité"
+        ]
+      },
+      "niveau3": {
+        "titre": "Avancé",
+        "description": "L'élève démontre une maîtrise complète et peut enseigner aux autres. Pour « Étirements dynamiques – échauffement », voici les attentes à ce niveau.",
+        "consignes": [
+          "Combiner plusieurs habiletés en séquence complexe",
+          "S'auto-évaluer et identifier ses points d'amélioration",
+          "Aider un pair moins expérimenté comme tuteur"
+        ],
+        "criteres_reussite": [
+          "L'exécution est fluide, précise et constante",
+          "L'élève maîtrise le geste dans des situations complexes"
+        ]
+      }
+    }
   },
   {
     "titre": "Souplesse en duo – étirements assistés",
@@ -140,8 +671,56 @@
     "variantes": "Étirements dos à dos, étirements avec résistance légère, PNF en duo.",
     "adaptation": "Amplitude réduite, traction très légère, chaque élève gère son confort.",
     "duree": 15,
-    "materiel": ["Tapis de gym"],
-    "tags": ["duo", "assisté", "souplesse", "communication"]
+    "materiel": [
+      "Tapis de gym"
+    ],
+    "tags": [
+      "duo",
+      "assisté",
+      "souplesse",
+      "communication"
+    ],
+    "progression": {
+      "niveau1": {
+        "titre": "Débutant",
+        "description": "L'élève découvre l'activité et se familiarise avec les mouvements fondamentaux. Pour « Souplesse en duo – étirements assistés », voici les attentes à ce niveau.",
+        "consignes": [
+          "Observer une démonstration avant chaque essai",
+          "Exécuter les mouvements de base lentement et avec contrôle",
+          "Utiliser du matériel adapté (plus léger, plus gros, plus lent)"
+        ],
+        "criteres_reussite": [
+          "L'élève participe activement et fait des efforts",
+          "Le geste technique de base est reconnaissable"
+        ]
+      },
+      "niveau2": {
+        "titre": "Intermédiaire",
+        "description": "À ce niveau, on ajoute de la complexité tout en consolidant les acquis. Pour « Souplesse en duo – étirements assistés », voici les attentes à ce niveau.",
+        "consignes": [
+          "Réduire le temps de réflexion entre les actions",
+          "Augmenter progressivement la complexité de l'exercice",
+          "Introduire des variantes avec partenaire ou en mouvement"
+        ],
+        "criteres_reussite": [
+          "L'élève exécute le geste avec régularité",
+          "L'élève s'ajuste aux consignes supplémentaires"
+        ]
+      },
+      "niveau3": {
+        "titre": "Avancé",
+        "description": "L'expert peut exécuter l'activité dans des contextes variés et exigeants. Pour « Souplesse en duo – étirements assistés », voici les attentes à ce niveau.",
+        "consignes": [
+          "Combiner plusieurs habiletés en séquence complexe",
+          "Créer et proposer ses propres variantes avancées",
+          "Exécuter en situation de jeu réelle ou compétitive"
+        ],
+        "criteres_reussite": [
+          "L'élève transfère ses apprentissages à de nouvelles situations",
+          "L'exécution est fluide, précise et constante"
+        ]
+      }
+    }
   },
   {
     "titre": "Salutation au soleil – yoga",
@@ -152,8 +731,56 @@
     "variantes": "Salutation version B (avec chaise et guerrier I), rythme accéléré, en groupe synchronisé.",
     "adaptation": "Demi-salutation (4 postures), genoux au sol pour la planche, pauses entre les séquences.",
     "duree": 15,
-    "materiel": ["Tapis de yoga"],
-    "tags": ["yoga", "salutation", "souplesse", "respiration"]
+    "materiel": [
+      "Tapis de yoga"
+    ],
+    "tags": [
+      "yoga",
+      "salutation",
+      "souplesse",
+      "respiration"
+    ],
+    "progression": {
+      "niveau1": {
+        "titre": "Débutant",
+        "description": "L'élève découvre l'activité et se familiarise avec les mouvements fondamentaux. Pour « Salutation au soleil – yoga », voici les attentes à ce niveau.",
+        "consignes": [
+          "Exécuter les mouvements de base lentement et avec contrôle",
+          "Pratiquer en situation simplifiée sans pression",
+          "Utiliser du matériel adapté (plus léger, plus gros, plus lent)"
+        ],
+        "criteres_reussite": [
+          "L'élève comprend et respecte les consignes de base",
+          "L'élève participe activement et fait des efforts"
+        ]
+      },
+      "niveau2": {
+        "titre": "Intermédiaire",
+        "description": "L'élève est capable d'exécuter l'activité de façon autonome avec quelques ajustements. Pour « Salutation au soleil – yoga », voici les attentes à ce niveau.",
+        "consignes": [
+          "Augmenter progressivement la complexité de l'exercice",
+          "Ajouter des contraintes de temps ou d'espace",
+          "Réduire le temps de réflexion entre les actions"
+        ],
+        "criteres_reussite": [
+          "L'élève s'ajuste aux consignes supplémentaires",
+          "La technique est maîtrisée dans des situations variées"
+        ]
+      },
+      "niveau3": {
+        "titre": "Avancé",
+        "description": "L'élève perfectionne sa technique et s'adapte à des situations complexes. Pour « Salutation au soleil – yoga », voici les attentes à ce niveau.",
+        "consignes": [
+          "Exécuter en situation de jeu réelle ou compétitive",
+          "S'auto-évaluer et identifier ses points d'amélioration",
+          "Créer et proposer ses propres variantes avancées"
+        ],
+        "criteres_reussite": [
+          "L'élève maîtrise le geste dans des situations complexes",
+          "L'élève transfère ses apprentissages à de nouvelles situations"
+        ]
+      }
+    }
   },
   {
     "titre": "Étirements avec élastique",
@@ -164,8 +791,57 @@
     "variantes": "PNF avec élastique (contracter-relâcher-étirer), différentes résistances d'élastique.",
     "adaptation": "Élastique souple, amplitude réduite, positions assises seulement.",
     "duree": 15,
-    "materiel": ["Élastiques (theraband)", "Tapis de gym"],
-    "tags": ["élastique", "souplesse", "ischio-jambiers", "contrôle"]
+    "materiel": [
+      "Élastiques (theraband)",
+      "Tapis de gym"
+    ],
+    "tags": [
+      "élastique",
+      "souplesse",
+      "ischio-jambiers",
+      "contrôle"
+    ],
+    "progression": {
+      "niveau1": {
+        "titre": "Débutant",
+        "description": "Le débutant explore les bases de l'activité avec un accompagnement soutenu. Pour « Étirements avec élastique », voici les attentes à ce niveau.",
+        "consignes": [
+          "Se concentrer sur la technique plutôt que la performance",
+          "Pratiquer en situation simplifiée sans pression",
+          "Exécuter les mouvements de base lentement et avec contrôle"
+        ],
+        "criteres_reussite": [
+          "L'élève comprend et respecte les consignes de base",
+          "Le geste technique de base est reconnaissable"
+        ]
+      },
+      "niveau2": {
+        "titre": "Intermédiaire",
+        "description": "L'élève maîtrise les bases et cherche à améliorer sa constance et sa fluidité. Pour « Étirements avec élastique », voici les attentes à ce niveau.",
+        "consignes": [
+          "Introduire des variantes avec partenaire ou en mouvement",
+          "Augmenter progressivement la complexité de l'exercice",
+          "Ajouter des contraintes de temps ou d'espace"
+        ],
+        "criteres_reussite": [
+          "L'élève exécute le geste avec régularité",
+          "L'élève s'ajuste aux consignes supplémentaires"
+        ]
+      },
+      "niveau3": {
+        "titre": "Avancé",
+        "description": "L'élève démontre une maîtrise complète et peut enseigner aux autres. Pour « Étirements avec élastique », voici les attentes à ce niveau.",
+        "consignes": [
+          "S'auto-évaluer et identifier ses points d'amélioration",
+          "Aider un pair moins expérimenté comme tuteur",
+          "Combiner plusieurs habiletés en séquence complexe"
+        ],
+        "criteres_reussite": [
+          "L'exécution est fluide, précise et constante",
+          "L'élève maîtrise le geste dans des situations complexes"
+        ]
+      }
+    }
   },
   {
     "titre": "Jeu de la statue souple",
@@ -176,8 +852,57 @@
     "variantes": "Les élèves créent les cartes, postures en duo, enchaînement de 3 postures.",
     "adaptation": "Postures simples, durée réduite, montrer la version adaptée sur la carte.",
     "duree": 15,
-    "materiel": ["Cartes de postures", "Tapis de gym"],
-    "tags": ["jeu", "cartes", "souplesse", "reproduction"]
+    "materiel": [
+      "Cartes de postures",
+      "Tapis de gym"
+    ],
+    "tags": [
+      "jeu",
+      "cartes",
+      "souplesse",
+      "reproduction"
+    ],
+    "progression": {
+      "niveau1": {
+        "titre": "Débutant",
+        "description": "L'élève découvre l'activité et se familiarise avec les mouvements fondamentaux. Pour « Jeu de la statue souple », voici les attentes à ce niveau.",
+        "consignes": [
+          "Observer une démonstration avant chaque essai",
+          "Pratiquer en situation simplifiée sans pression",
+          "Utiliser du matériel adapté (plus léger, plus gros, plus lent)"
+        ],
+        "criteres_reussite": [
+          "L'élève participe activement et fait des efforts",
+          "L'élève comprend et respecte les consignes de base"
+        ]
+      },
+      "niveau2": {
+        "titre": "Intermédiaire",
+        "description": "L'intermédiaire travaille la régularité et commence à combiner les habiletés. Pour « Jeu de la statue souple », voici les attentes à ce niveau.",
+        "consignes": [
+          "Introduire des variantes avec partenaire ou en mouvement",
+          "Ajouter des contraintes de temps ou d'espace",
+          "Augmenter progressivement la complexité de l'exercice"
+        ],
+        "criteres_reussite": [
+          "L'élève exécute le geste avec régularité",
+          "L'élève s'ajuste aux consignes supplémentaires"
+        ]
+      },
+      "niveau3": {
+        "titre": "Avancé",
+        "description": "À ce stade avancé, l'élève crée, innove et aide ses pairs. Pour « Jeu de la statue souple », voici les attentes à ce niveau.",
+        "consignes": [
+          "Aider un pair moins expérimenté comme tuteur",
+          "Exécuter en situation de jeu réelle ou compétitive",
+          "Créer et proposer ses propres variantes avancées"
+        ],
+        "criteres_reussite": [
+          "L'élève maîtrise le geste dans des situations complexes",
+          "L'élève transfère ses apprentissages à de nouvelles situations"
+        ]
+      }
+    }
   },
   {
     "titre": "Routine d'étirement des épaules",
@@ -188,8 +913,57 @@
     "variantes": "Avec bâton (désaccoutumance), étirements contre le mur, PNF épaules.",
     "adaptation": "Amplitude réduite, étirements debout seulement, éviter les positions douloureuses.",
     "duree": 10,
-    "materiel": ["Espace dégagé", "Cadre de porte (optionnel)"],
-    "tags": ["épaules", "souplesse", "routine", "haut du corps"]
+    "materiel": [
+      "Espace dégagé",
+      "Cadre de porte (optionnel)"
+    ],
+    "tags": [
+      "épaules",
+      "souplesse",
+      "routine",
+      "haut du corps"
+    ],
+    "progression": {
+      "niveau1": {
+        "titre": "Débutant",
+        "description": "Le débutant explore les bases de l'activité avec un accompagnement soutenu. Pour « Routine d'étirement des épaules », voici les attentes à ce niveau.",
+        "consignes": [
+          "Pratiquer en situation simplifiée sans pression",
+          "Utiliser du matériel adapté (plus léger, plus gros, plus lent)",
+          "Se concentrer sur la technique plutôt que la performance"
+        ],
+        "criteres_reussite": [
+          "L'élève participe activement et fait des efforts",
+          "Le geste technique de base est reconnaissable"
+        ]
+      },
+      "niveau2": {
+        "titre": "Intermédiaire",
+        "description": "À ce niveau, on ajoute de la complexité tout en consolidant les acquis. Pour « Routine d'étirement des épaules », voici les attentes à ce niveau.",
+        "consignes": [
+          "Réduire le temps de réflexion entre les actions",
+          "Augmenter progressivement la complexité de l'exercice",
+          "Ajouter des contraintes de temps ou d'espace"
+        ],
+        "criteres_reussite": [
+          "La technique est maîtrisée dans des situations variées",
+          "L'élève exécute le geste avec régularité"
+        ]
+      },
+      "niveau3": {
+        "titre": "Avancé",
+        "description": "L'élève perfectionne sa technique et s'adapte à des situations complexes. Pour « Routine d'étirement des épaules », voici les attentes à ce niveau.",
+        "consignes": [
+          "Aider un pair moins expérimenté comme tuteur",
+          "Créer et proposer ses propres variantes avancées",
+          "S'auto-évaluer et identifier ses points d'amélioration"
+        ],
+        "criteres_reussite": [
+          "L'exécution est fluide, précise et constante",
+          "L'élève maîtrise le geste dans des situations complexes"
+        ]
+      }
+    }
   },
   {
     "titre": "Souplesse des hanches – ouverture complète",
@@ -200,8 +974,57 @@
     "variantes": "Ajouter des transitions fluides entre chaque posture, respiration guidée, yeux fermés.",
     "adaptation": "Amplitude réduite, coussins sous les genoux, durée réduite à 15 secondes.",
     "duree": 15,
-    "materiel": ["Tapis de gym", "Coussins (optionnel)"],
-    "tags": ["hanches", "mobilité", "pigeon", "ouverture"]
+    "materiel": [
+      "Tapis de gym",
+      "Coussins (optionnel)"
+    ],
+    "tags": [
+      "hanches",
+      "mobilité",
+      "pigeon",
+      "ouverture"
+    ],
+    "progression": {
+      "niveau1": {
+        "titre": "Débutant",
+        "description": "Le débutant explore les bases de l'activité avec un accompagnement soutenu. Pour « Souplesse des hanches – ouverture complète », voici les attentes à ce niveau.",
+        "consignes": [
+          "Exécuter les mouvements de base lentement et avec contrôle",
+          "Utiliser du matériel adapté (plus léger, plus gros, plus lent)",
+          "Pratiquer en situation simplifiée sans pression"
+        ],
+        "criteres_reussite": [
+          "L'élève comprend et respecte les consignes de base",
+          "L'élève participe activement et fait des efforts"
+        ]
+      },
+      "niveau2": {
+        "titre": "Intermédiaire",
+        "description": "L'élève est capable d'exécuter l'activité de façon autonome avec quelques ajustements. Pour « Souplesse des hanches – ouverture complète », voici les attentes à ce niveau.",
+        "consignes": [
+          "Augmenter progressivement la complexité de l'exercice",
+          "Réduire le temps de réflexion entre les actions",
+          "Ajouter des contraintes de temps ou d'espace"
+        ],
+        "criteres_reussite": [
+          "L'élève exécute le geste avec régularité",
+          "La technique est maîtrisée dans des situations variées"
+        ]
+      },
+      "niveau3": {
+        "titre": "Avancé",
+        "description": "À ce stade avancé, l'élève crée, innove et aide ses pairs. Pour « Souplesse des hanches – ouverture complète », voici les attentes à ce niveau.",
+        "consignes": [
+          "Créer et proposer ses propres variantes avancées",
+          "Exécuter en situation de jeu réelle ou compétitive",
+          "S'auto-évaluer et identifier ses points d'amélioration"
+        ],
+        "criteres_reussite": [
+          "L'élève maîtrise le geste dans des situations complexes",
+          "L'exécution est fluide, précise et constante"
+        ]
+      }
+    }
   },
   {
     "titre": "Routine de souplesse du dos",
@@ -212,8 +1035,56 @@
     "variantes": "Ajouter le pont, rouleau de mousse, étirements avec ballon suisse.",
     "adaptation": "Amplitude réduite, éviter les extensions si douleur, positions assises seulement.",
     "duree": 15,
-    "materiel": ["Tapis de gym"],
-    "tags": ["dos", "colonne", "souplesse", "posture"]
+    "materiel": [
+      "Tapis de gym"
+    ],
+    "tags": [
+      "dos",
+      "colonne",
+      "souplesse",
+      "posture"
+    ],
+    "progression": {
+      "niveau1": {
+        "titre": "Débutant",
+        "description": "L'élève découvre l'activité et se familiarise avec les mouvements fondamentaux. Pour « Routine de souplesse du dos », voici les attentes à ce niveau.",
+        "consignes": [
+          "Se concentrer sur la technique plutôt que la performance",
+          "Observer une démonstration avant chaque essai",
+          "Exécuter les mouvements de base lentement et avec contrôle"
+        ],
+        "criteres_reussite": [
+          "L'élève participe activement et fait des efforts",
+          "L'élève comprend et respecte les consignes de base"
+        ]
+      },
+      "niveau2": {
+        "titre": "Intermédiaire",
+        "description": "L'élève est capable d'exécuter l'activité de façon autonome avec quelques ajustements. Pour « Routine de souplesse du dos », voici les attentes à ce niveau.",
+        "consignes": [
+          "Introduire des variantes avec partenaire ou en mouvement",
+          "Combiner deux habiletés dans un même exercice",
+          "Ajouter des contraintes de temps ou d'espace"
+        ],
+        "criteres_reussite": [
+          "La technique est maîtrisée dans des situations variées",
+          "L'élève s'ajuste aux consignes supplémentaires"
+        ]
+      },
+      "niveau3": {
+        "titre": "Avancé",
+        "description": "À ce stade avancé, l'élève crée, innove et aide ses pairs. Pour « Routine de souplesse du dos », voici les attentes à ce niveau.",
+        "consignes": [
+          "Exécuter en situation de jeu réelle ou compétitive",
+          "S'auto-évaluer et identifier ses points d'amélioration",
+          "Combiner plusieurs habiletés en séquence complexe"
+        ],
+        "criteres_reussite": [
+          "L'élève maîtrise le geste dans des situations complexes",
+          "L'exécution est fluide, précise et constante"
+        ]
+      }
+    }
   },
   {
     "titre": "Souplesse par le jeu – Twister adapté",
@@ -224,8 +1095,57 @@
     "variantes": "Ajouter des positions spécifiques, jouer en équipe, créer ses propres règles.",
     "adaptation": "Cercles plus rapprochés, autoriser le déplacement entre les poses, retirer les positions au sol.",
     "duree": 20,
-    "materiel": ["Tapis Twister ou cercles de couleur au sol", "Roulette ou dé"],
-    "tags": ["jeu", "twister", "souplesse", "plaisir"]
+    "materiel": [
+      "Tapis Twister ou cercles de couleur au sol",
+      "Roulette ou dé"
+    ],
+    "tags": [
+      "jeu",
+      "twister",
+      "souplesse",
+      "plaisir"
+    ],
+    "progression": {
+      "niveau1": {
+        "titre": "Débutant",
+        "description": "L'élève découvre l'activité et se familiarise avec les mouvements fondamentaux. Pour « Souplesse par le jeu – Twister adapté », voici les attentes à ce niveau.",
+        "consignes": [
+          "Observer une démonstration avant chaque essai",
+          "Pratiquer en situation simplifiée sans pression",
+          "Utiliser du matériel adapté (plus léger, plus gros, plus lent)"
+        ],
+        "criteres_reussite": [
+          "L'élève comprend et respecte les consignes de base",
+          "Le geste technique de base est reconnaissable"
+        ]
+      },
+      "niveau2": {
+        "titre": "Intermédiaire",
+        "description": "L'élève est capable d'exécuter l'activité de façon autonome avec quelques ajustements. Pour « Souplesse par le jeu – Twister adapté », voici les attentes à ce niveau.",
+        "consignes": [
+          "Réduire le temps de réflexion entre les actions",
+          "Introduire des variantes avec partenaire ou en mouvement",
+          "Combiner deux habiletés dans un même exercice"
+        ],
+        "criteres_reussite": [
+          "La technique est maîtrisée dans des situations variées",
+          "L'élève s'ajuste aux consignes supplémentaires"
+        ]
+      },
+      "niveau3": {
+        "titre": "Avancé",
+        "description": "L'élève démontre une maîtrise complète et peut enseigner aux autres. Pour « Souplesse par le jeu – Twister adapté », voici les attentes à ce niveau.",
+        "consignes": [
+          "Exécuter en situation de jeu réelle ou compétitive",
+          "S'auto-évaluer et identifier ses points d'amélioration",
+          "Aider un pair moins expérimenté comme tuteur"
+        ],
+        "criteres_reussite": [
+          "L'élève transfère ses apprentissages à de nouvelles situations",
+          "L'élève maîtrise le geste dans des situations complexes"
+        ]
+      }
+    }
   },
   {
     "titre": "Flexibilité des mollets et chevilles",
@@ -236,8 +1156,57 @@
     "variantes": "Étirement sur marche d'escalier, avec élastique, massage du pied avec balle.",
     "adaptation": "Étirements assis, cercles de cheville seulement, amplitude réduite.",
     "duree": 10,
-    "materiel": ["Mur", "Espace dégagé"],
-    "tags": ["mollets", "chevilles", "prévention", "souplesse"]
+    "materiel": [
+      "Mur",
+      "Espace dégagé"
+    ],
+    "tags": [
+      "mollets",
+      "chevilles",
+      "prévention",
+      "souplesse"
+    ],
+    "progression": {
+      "niveau1": {
+        "titre": "Débutant",
+        "description": "Le débutant explore les bases de l'activité avec un accompagnement soutenu. Pour « Flexibilité des mollets et chevilles », voici les attentes à ce niveau.",
+        "consignes": [
+          "Exécuter les mouvements de base lentement et avec contrôle",
+          "Observer une démonstration avant chaque essai",
+          "Pratiquer en situation simplifiée sans pression"
+        ],
+        "criteres_reussite": [
+          "L'élève comprend et respecte les consignes de base",
+          "L'élève participe activement et fait des efforts"
+        ]
+      },
+      "niveau2": {
+        "titre": "Intermédiaire",
+        "description": "L'élève est capable d'exécuter l'activité de façon autonome avec quelques ajustements. Pour « Flexibilité des mollets et chevilles », voici les attentes à ce niveau.",
+        "consignes": [
+          "Combiner deux habiletés dans un même exercice",
+          "Ajouter des contraintes de temps ou d'espace",
+          "Réduire le temps de réflexion entre les actions"
+        ],
+        "criteres_reussite": [
+          "L'élève exécute le geste avec régularité",
+          "L'élève s'ajuste aux consignes supplémentaires"
+        ]
+      },
+      "niveau3": {
+        "titre": "Avancé",
+        "description": "L'élève perfectionne sa technique et s'adapte à des situations complexes. Pour « Flexibilité des mollets et chevilles », voici les attentes à ce niveau.",
+        "consignes": [
+          "Combiner plusieurs habiletés en séquence complexe",
+          "Aider un pair moins expérimenté comme tuteur",
+          "Exécuter en situation de jeu réelle ou compétitive"
+        ],
+        "criteres_reussite": [
+          "L'exécution est fluide, précise et constante",
+          "L'élève maîtrise le geste dans des situations complexes"
+        ]
+      }
+    }
   },
   {
     "titre": "Stretching dynamique – jambes",
@@ -248,8 +1217,56 @@
     "variantes": "En déplacement sur la longueur du gymnase, avec tempo musical, en miroir avec partenaire.",
     "adaptation": "Amplitude réduite, moins de répétitions, appui mural pour les balancements.",
     "duree": 12,
-    "materiel": ["Espace dégagé"],
-    "tags": ["dynamique", "jambes", "balancements", "échauffement"]
+    "materiel": [
+      "Espace dégagé"
+    ],
+    "tags": [
+      "dynamique",
+      "jambes",
+      "balancements",
+      "échauffement"
+    ],
+    "progression": {
+      "niveau1": {
+        "titre": "Débutant",
+        "description": "L'élève découvre l'activité et se familiarise avec les mouvements fondamentaux. Pour « Stretching dynamique – jambes », voici les attentes à ce niveau.",
+        "consignes": [
+          "Se concentrer sur la technique plutôt que la performance",
+          "Observer une démonstration avant chaque essai",
+          "Pratiquer en situation simplifiée sans pression"
+        ],
+        "criteres_reussite": [
+          "Le geste technique de base est reconnaissable",
+          "L'élève participe activement et fait des efforts"
+        ]
+      },
+      "niveau2": {
+        "titre": "Intermédiaire",
+        "description": "L'élève est capable d'exécuter l'activité de façon autonome avec quelques ajustements. Pour « Stretching dynamique – jambes », voici les attentes à ce niveau.",
+        "consignes": [
+          "Combiner deux habiletés dans un même exercice",
+          "Introduire des variantes avec partenaire ou en mouvement",
+          "Ajouter des contraintes de temps ou d'espace"
+        ],
+        "criteres_reussite": [
+          "L'élève s'ajuste aux consignes supplémentaires",
+          "L'élève exécute le geste avec régularité"
+        ]
+      },
+      "niveau3": {
+        "titre": "Avancé",
+        "description": "À ce stade avancé, l'élève crée, innove et aide ses pairs. Pour « Stretching dynamique – jambes », voici les attentes à ce niveau.",
+        "consignes": [
+          "Aider un pair moins expérimenté comme tuteur",
+          "S'auto-évaluer et identifier ses points d'amélioration",
+          "Créer et proposer ses propres variantes avancées"
+        ],
+        "criteres_reussite": [
+          "L'élève transfère ses apprentissages à de nouvelles situations",
+          "L'élève maîtrise le geste dans des situations complexes"
+        ]
+      }
+    }
   },
   {
     "titre": "PNF – contracter-relâcher-étirer",
@@ -260,8 +1277,56 @@
     "variantes": "PNF pour quadriceps, adducteurs, épaules, pectoraux.",
     "adaptation": "Contraction très légère, amplitude réduite, 2 cycles seulement.",
     "duree": 15,
-    "materiel": ["Tapis de gym"],
-    "tags": ["PNF", "ischio-jambiers", "technique", "duo"]
+    "materiel": [
+      "Tapis de gym"
+    ],
+    "tags": [
+      "PNF",
+      "ischio-jambiers",
+      "technique",
+      "duo"
+    ],
+    "progression": {
+      "niveau1": {
+        "titre": "Débutant",
+        "description": "L'élève découvre l'activité et se familiarise avec les mouvements fondamentaux. Pour « PNF – contracter-relâcher-étirer », voici les attentes à ce niveau.",
+        "consignes": [
+          "Observer une démonstration avant chaque essai",
+          "Utiliser du matériel adapté (plus léger, plus gros, plus lent)",
+          "Se concentrer sur la technique plutôt que la performance"
+        ],
+        "criteres_reussite": [
+          "L'élève participe activement et fait des efforts",
+          "L'élève comprend et respecte les consignes de base"
+        ]
+      },
+      "niveau2": {
+        "titre": "Intermédiaire",
+        "description": "À ce niveau, on ajoute de la complexité tout en consolidant les acquis. Pour « PNF – contracter-relâcher-étirer », voici les attentes à ce niveau.",
+        "consignes": [
+          "Introduire des variantes avec partenaire ou en mouvement",
+          "Réduire le temps de réflexion entre les actions",
+          "Combiner deux habiletés dans un même exercice"
+        ],
+        "criteres_reussite": [
+          "L'élève exécute le geste avec régularité",
+          "La technique est maîtrisée dans des situations variées"
+        ]
+      },
+      "niveau3": {
+        "titre": "Avancé",
+        "description": "L'élève démontre une maîtrise complète et peut enseigner aux autres. Pour « PNF – contracter-relâcher-étirer », voici les attentes à ce niveau.",
+        "consignes": [
+          "Créer et proposer ses propres variantes avancées",
+          "S'auto-évaluer et identifier ses points d'amélioration",
+          "Exécuter en situation de jeu réelle ou compétitive"
+        ],
+        "criteres_reussite": [
+          "L'exécution est fluide, précise et constante",
+          "L'élève maîtrise le geste dans des situations complexes"
+        ]
+      }
+    }
   },
   {
     "titre": "Foam roller – auto-massage et souplesse",
@@ -272,8 +1337,57 @@
     "variantes": "Balle de tennis pour les pieds, balle de lacrosse pour les fessiers, rouleau vibrant.",
     "adaptation": "Pression réduite (bras en appui), zones moins sensibles seulement, rouleau souple.",
     "duree": 15,
-    "materiel": ["Rouleaux de mousse (foam roller)", "Tapis de gym"],
-    "tags": ["foam roller", "auto-massage", "souplesse", "récupération"]
+    "materiel": [
+      "Rouleaux de mousse (foam roller)",
+      "Tapis de gym"
+    ],
+    "tags": [
+      "foam roller",
+      "auto-massage",
+      "souplesse",
+      "récupération"
+    ],
+    "progression": {
+      "niveau1": {
+        "titre": "Débutant",
+        "description": "L'élève découvre l'activité et se familiarise avec les mouvements fondamentaux. Pour « Foam roller – auto-massage et souplesse », voici les attentes à ce niveau.",
+        "consignes": [
+          "Exécuter les mouvements de base lentement et avec contrôle",
+          "Se concentrer sur la technique plutôt que la performance",
+          "Observer une démonstration avant chaque essai"
+        ],
+        "criteres_reussite": [
+          "L'élève participe activement et fait des efforts",
+          "Le geste technique de base est reconnaissable"
+        ]
+      },
+      "niveau2": {
+        "titre": "Intermédiaire",
+        "description": "L'élève maîtrise les bases et cherche à améliorer sa constance et sa fluidité. Pour « Foam roller – auto-massage et souplesse », voici les attentes à ce niveau.",
+        "consignes": [
+          "Augmenter progressivement la complexité de l'exercice",
+          "Ajouter des contraintes de temps ou d'espace",
+          "Réduire le temps de réflexion entre les actions"
+        ],
+        "criteres_reussite": [
+          "La technique est maîtrisée dans des situations variées",
+          "L'élève s'ajuste aux consignes supplémentaires"
+        ]
+      },
+      "niveau3": {
+        "titre": "Avancé",
+        "description": "L'expert peut exécuter l'activité dans des contextes variés et exigeants. Pour « Foam roller – auto-massage et souplesse », voici les attentes à ce niveau.",
+        "consignes": [
+          "S'auto-évaluer et identifier ses points d'amélioration",
+          "Exécuter en situation de jeu réelle ou compétitive",
+          "Créer et proposer ses propres variantes avancées"
+        ],
+        "criteres_reussite": [
+          "L'exécution est fluide, précise et constante",
+          "L'élève maîtrise le geste dans des situations complexes"
+        ]
+      }
+    }
   },
   {
     "titre": "Mobilité thoracique – rotations et extensions",
@@ -284,8 +1398,57 @@
     "variantes": "Avec bâton, avec élastique, debout contre le mur.",
     "adaptation": "Amplitude réduite, positions assises, éviter les positions couchées si inconfort.",
     "duree": 15,
-    "materiel": ["Rouleau de mousse", "Tapis de gym"],
-    "tags": ["thoracique", "rotation", "mobilité", "dos"]
+    "materiel": [
+      "Rouleau de mousse",
+      "Tapis de gym"
+    ],
+    "tags": [
+      "thoracique",
+      "rotation",
+      "mobilité",
+      "dos"
+    ],
+    "progression": {
+      "niveau1": {
+        "titre": "Débutant",
+        "description": "Le débutant explore les bases de l'activité avec un accompagnement soutenu. Pour « Mobilité thoracique – rotations et extensions », voici les attentes à ce niveau.",
+        "consignes": [
+          "Utiliser du matériel adapté (plus léger, plus gros, plus lent)",
+          "Se concentrer sur la technique plutôt que la performance",
+          "Exécuter les mouvements de base lentement et avec contrôle"
+        ],
+        "criteres_reussite": [
+          "L'élève participe activement et fait des efforts",
+          "Le geste technique de base est reconnaissable"
+        ]
+      },
+      "niveau2": {
+        "titre": "Intermédiaire",
+        "description": "L'élève est capable d'exécuter l'activité de façon autonome avec quelques ajustements. Pour « Mobilité thoracique – rotations et extensions », voici les attentes à ce niveau.",
+        "consignes": [
+          "Ajouter des contraintes de temps ou d'espace",
+          "Introduire des variantes avec partenaire ou en mouvement",
+          "Combiner deux habiletés dans un même exercice"
+        ],
+        "criteres_reussite": [
+          "L'élève s'ajuste aux consignes supplémentaires",
+          "La technique est maîtrisée dans des situations variées"
+        ]
+      },
+      "niveau3": {
+        "titre": "Avancé",
+        "description": "À ce stade avancé, l'élève crée, innove et aide ses pairs. Pour « Mobilité thoracique – rotations et extensions », voici les attentes à ce niveau.",
+        "consignes": [
+          "Créer et proposer ses propres variantes avancées",
+          "Aider un pair moins expérimenté comme tuteur",
+          "Exécuter en situation de jeu réelle ou compétitive"
+        ],
+        "criteres_reussite": [
+          "L'élève transfère ses apprentissages à de nouvelles situations",
+          "L'exécution est fluide, précise et constante"
+        ]
+      }
+    }
   },
   {
     "titre": "Stretching en musique – flow",
@@ -296,8 +1459,58 @@
     "variantes": "Élèves créent leur propre flow, flow en duo, musique de différentes cultures.",
     "adaptation": "Positions debout seulement, durée réduite, suivre au rythme individuel.",
     "duree": 20,
-    "materiel": ["Tapis de gym", "Système de son", "Musique douce"],
-    "tags": ["musique", "flow", "souplesse", "relaxation"]
+    "materiel": [
+      "Tapis de gym",
+      "Système de son",
+      "Musique douce"
+    ],
+    "tags": [
+      "musique",
+      "flow",
+      "souplesse",
+      "relaxation"
+    ],
+    "progression": {
+      "niveau1": {
+        "titre": "Débutant",
+        "description": "À ce stade, l'objectif est d'apprivoiser l'exercice sans pression de performance. Pour « Stretching en musique – flow », voici les attentes à ce niveau.",
+        "consignes": [
+          "Observer une démonstration avant chaque essai",
+          "Utiliser du matériel adapté (plus léger, plus gros, plus lent)",
+          "Pratiquer en situation simplifiée sans pression"
+        ],
+        "criteres_reussite": [
+          "Le geste technique de base est reconnaissable",
+          "L'élève comprend et respecte les consignes de base"
+        ]
+      },
+      "niveau2": {
+        "titre": "Intermédiaire",
+        "description": "À ce niveau, on ajoute de la complexité tout en consolidant les acquis. Pour « Stretching en musique – flow », voici les attentes à ce niveau.",
+        "consignes": [
+          "Réduire le temps de réflexion entre les actions",
+          "Augmenter progressivement la complexité de l'exercice",
+          "Introduire des variantes avec partenaire ou en mouvement"
+        ],
+        "criteres_reussite": [
+          "L'élève exécute le geste avec régularité",
+          "La technique est maîtrisée dans des situations variées"
+        ]
+      },
+      "niveau3": {
+        "titre": "Avancé",
+        "description": "L'expert peut exécuter l'activité dans des contextes variés et exigeants. Pour « Stretching en musique – flow », voici les attentes à ce niveau.",
+        "consignes": [
+          "Combiner plusieurs habiletés en séquence complexe",
+          "S'auto-évaluer et identifier ses points d'amélioration",
+          "Exécuter en situation de jeu réelle ou compétitive"
+        ],
+        "criteres_reussite": [
+          "L'élève maîtrise le geste dans des situations complexes",
+          "L'élève transfère ses apprentissages à de nouvelles situations"
+        ]
+      }
+    }
   },
   {
     "titre": "Souplesse sportive – spécifique au soccer",
@@ -308,8 +1521,56 @@
     "variantes": "Adapter pour basketball, volleyball, hockey, danse.",
     "adaptation": "Amplitude libre, positions debout seulement, durée réduite.",
     "duree": 12,
-    "materiel": ["Espace dégagé"],
-    "tags": ["soccer", "sport-spécifique", "souplesse", "prévention"]
+    "materiel": [
+      "Espace dégagé"
+    ],
+    "tags": [
+      "soccer",
+      "sport-spécifique",
+      "souplesse",
+      "prévention"
+    ],
+    "progression": {
+      "niveau1": {
+        "titre": "Débutant",
+        "description": "L'accent est mis sur la compréhension des consignes et la sécurité. Pour « Souplesse sportive – spécifique au soccer », voici les attentes à ce niveau.",
+        "consignes": [
+          "Se concentrer sur la technique plutôt que la performance",
+          "Pratiquer en situation simplifiée sans pression",
+          "Observer une démonstration avant chaque essai"
+        ],
+        "criteres_reussite": [
+          "L'élève participe activement et fait des efforts",
+          "L'élève comprend et respecte les consignes de base"
+        ]
+      },
+      "niveau2": {
+        "titre": "Intermédiaire",
+        "description": "L'élève est capable d'exécuter l'activité de façon autonome avec quelques ajustements. Pour « Souplesse sportive – spécifique au soccer », voici les attentes à ce niveau.",
+        "consignes": [
+          "Ajouter des contraintes de temps ou d'espace",
+          "Augmenter progressivement la complexité de l'exercice",
+          "Réduire le temps de réflexion entre les actions"
+        ],
+        "criteres_reussite": [
+          "La technique est maîtrisée dans des situations variées",
+          "L'élève exécute le geste avec régularité"
+        ]
+      },
+      "niveau3": {
+        "titre": "Avancé",
+        "description": "À ce stade avancé, l'élève crée, innove et aide ses pairs. Pour « Souplesse sportive – spécifique au soccer », voici les attentes à ce niveau.",
+        "consignes": [
+          "Exécuter en situation de jeu réelle ou compétitive",
+          "Aider un pair moins expérimenté comme tuteur",
+          "Combiner plusieurs habiletés en séquence complexe"
+        ],
+        "criteres_reussite": [
+          "L'élève maîtrise le geste dans des situations complexes",
+          "L'exécution est fluide, précise et constante"
+        ]
+      }
+    }
   },
   {
     "titre": "Stretching matinal – routine 10 minutes",
@@ -320,8 +1581,56 @@
     "variantes": "Routine du soir (focus bas du corps), routine du sportif (focus jambes), routine bureau.",
     "adaptation": "Réduire à 5 étirements, durée réduite, positions assises sur chaise.",
     "duree": 10,
-    "materiel": ["Espace dégagé"],
-    "tags": ["routine", "matinal", "souplesse", "complet"]
+    "materiel": [
+      "Espace dégagé"
+    ],
+    "tags": [
+      "routine",
+      "matinal",
+      "souplesse",
+      "complet"
+    ],
+    "progression": {
+      "niveau1": {
+        "titre": "Débutant",
+        "description": "À ce stade, l'objectif est d'apprivoiser l'exercice sans pression de performance. Pour « Stretching matinal – routine 10 minutes », voici les attentes à ce niveau.",
+        "consignes": [
+          "Se concentrer sur la technique plutôt que la performance",
+          "Utiliser du matériel adapté (plus léger, plus gros, plus lent)",
+          "Pratiquer en situation simplifiée sans pression"
+        ],
+        "criteres_reussite": [
+          "L'élève participe activement et fait des efforts",
+          "L'élève comprend et respecte les consignes de base"
+        ]
+      },
+      "niveau2": {
+        "titre": "Intermédiaire",
+        "description": "L'élève maîtrise les bases et cherche à améliorer sa constance et sa fluidité. Pour « Stretching matinal – routine 10 minutes », voici les attentes à ce niveau.",
+        "consignes": [
+          "Réduire le temps de réflexion entre les actions",
+          "Ajouter des contraintes de temps ou d'espace",
+          "Combiner deux habiletés dans un même exercice"
+        ],
+        "criteres_reussite": [
+          "L'élève exécute le geste avec régularité",
+          "L'élève s'ajuste aux consignes supplémentaires"
+        ]
+      },
+      "niveau3": {
+        "titre": "Avancé",
+        "description": "À ce stade avancé, l'élève crée, innove et aide ses pairs. Pour « Stretching matinal – routine 10 minutes », voici les attentes à ce niveau.",
+        "consignes": [
+          "Créer et proposer ses propres variantes avancées",
+          "Exécuter en situation de jeu réelle ou compétitive",
+          "Combiner plusieurs habiletés en séquence complexe"
+        ],
+        "criteres_reussite": [
+          "L'exécution est fluide, précise et constante",
+          "L'élève maîtrise le geste dans des situations complexes"
+        ]
+      }
+    }
   },
   {
     "titre": "Souplesse et danse – chorégraphie étirée",
@@ -332,8 +1641,57 @@
     "variantes": "Chorégraphie en duo, ajouter des sauts, style ballet, contemporain ou hip-hop.",
     "adaptation": "Mouvements simplifiés, amplitude libre, apprentissage par imitation.",
     "duree": 20,
-    "materiel": ["Système de son", "Tapis de danse ou gymnase"],
-    "tags": ["danse", "chorégraphie", "souplesse", "expression"]
+    "materiel": [
+      "Système de son",
+      "Tapis de danse ou gymnase"
+    ],
+    "tags": [
+      "danse",
+      "chorégraphie",
+      "souplesse",
+      "expression"
+    ],
+    "progression": {
+      "niveau1": {
+        "titre": "Débutant",
+        "description": "L'accent est mis sur la compréhension des consignes et la sécurité. Pour « Souplesse et danse – chorégraphie étirée », voici les attentes à ce niveau.",
+        "consignes": [
+          "Observer une démonstration avant chaque essai",
+          "Pratiquer en situation simplifiée sans pression",
+          "Se concentrer sur la technique plutôt que la performance"
+        ],
+        "criteres_reussite": [
+          "L'élève comprend et respecte les consignes de base",
+          "L'élève participe activement et fait des efforts"
+        ]
+      },
+      "niveau2": {
+        "titre": "Intermédiaire",
+        "description": "L'élève est capable d'exécuter l'activité de façon autonome avec quelques ajustements. Pour « Souplesse et danse – chorégraphie étirée », voici les attentes à ce niveau.",
+        "consignes": [
+          "Ajouter des contraintes de temps ou d'espace",
+          "Réduire le temps de réflexion entre les actions",
+          "Combiner deux habiletés dans un même exercice"
+        ],
+        "criteres_reussite": [
+          "L'élève s'ajuste aux consignes supplémentaires",
+          "L'élève exécute le geste avec régularité"
+        ]
+      },
+      "niveau3": {
+        "titre": "Avancé",
+        "description": "L'expert peut exécuter l'activité dans des contextes variés et exigeants. Pour « Souplesse et danse – chorégraphie étirée », voici les attentes à ce niveau.",
+        "consignes": [
+          "Créer et proposer ses propres variantes avancées",
+          "Exécuter en situation de jeu réelle ou compétitive",
+          "S'auto-évaluer et identifier ses points d'amélioration"
+        ],
+        "criteres_reussite": [
+          "L'exécution est fluide, précise et constante",
+          "L'élève transfère ses apprentissages à de nouvelles situations"
+        ]
+      }
+    }
   },
   {
     "titre": "Yoga – postures assises approfondies",
@@ -344,8 +1702,58 @@
     "variantes": "Avec sangle, postures debout en complément, méditation après la séquence.",
     "adaptation": "S'asseoir sur un coussin, genoux fléchis, sangle pour atteindre les pieds.",
     "duree": 20,
-    "materiel": ["Tapis de yoga", "Sangles (optionnel)", "Coussins"],
-    "tags": ["yoga", "assis", "souplesse", "respiration"]
+    "materiel": [
+      "Tapis de yoga",
+      "Sangles (optionnel)",
+      "Coussins"
+    ],
+    "tags": [
+      "yoga",
+      "assis",
+      "souplesse",
+      "respiration"
+    ],
+    "progression": {
+      "niveau1": {
+        "titre": "Débutant",
+        "description": "L'accent est mis sur la compréhension des consignes et la sécurité. Pour « Yoga – postures assises approfondies », voici les attentes à ce niveau.",
+        "consignes": [
+          "Pratiquer en situation simplifiée sans pression",
+          "Exécuter les mouvements de base lentement et avec contrôle",
+          "Observer une démonstration avant chaque essai"
+        ],
+        "criteres_reussite": [
+          "L'élève comprend et respecte les consignes de base",
+          "Le geste technique de base est reconnaissable"
+        ]
+      },
+      "niveau2": {
+        "titre": "Intermédiaire",
+        "description": "L'intermédiaire travaille la régularité et commence à combiner les habiletés. Pour « Yoga – postures assises approfondies », voici les attentes à ce niveau.",
+        "consignes": [
+          "Augmenter progressivement la complexité de l'exercice",
+          "Introduire des variantes avec partenaire ou en mouvement",
+          "Ajouter des contraintes de temps ou d'espace"
+        ],
+        "criteres_reussite": [
+          "L'élève s'ajuste aux consignes supplémentaires",
+          "La technique est maîtrisée dans des situations variées"
+        ]
+      },
+      "niveau3": {
+        "titre": "Avancé",
+        "description": "À ce stade avancé, l'élève crée, innove et aide ses pairs. Pour « Yoga – postures assises approfondies », voici les attentes à ce niveau.",
+        "consignes": [
+          "Exécuter en situation de jeu réelle ou compétitive",
+          "Créer et proposer ses propres variantes avancées",
+          "S'auto-évaluer et identifier ses points d'amélioration"
+        ],
+        "criteres_reussite": [
+          "L'exécution est fluide, précise et constante",
+          "L'élève transfère ses apprentissages à de nouvelles situations"
+        ]
+      }
+    }
   },
   {
     "titre": "Étirements avec bâton",
@@ -356,8 +1764,56 @@
     "variantes": "Avec élastique à la place du bâton, exercices dynamiques, en duo.",
     "adaptation": "Prise plus large sur le bâton, amplitude réduite, positions debout seulement.",
     "duree": 12,
-    "materiel": ["Bâton ou manche à balai (1 par élève)"],
-    "tags": ["bâton", "épaules", "souplesse", "outil"]
+    "materiel": [
+      "Bâton ou manche à balai (1 par élève)"
+    ],
+    "tags": [
+      "bâton",
+      "épaules",
+      "souplesse",
+      "outil"
+    ],
+    "progression": {
+      "niveau1": {
+        "titre": "Débutant",
+        "description": "L'élève découvre l'activité et se familiarise avec les mouvements fondamentaux. Pour « Étirements avec bâton », voici les attentes à ce niveau.",
+        "consignes": [
+          "Se concentrer sur la technique plutôt que la performance",
+          "Utiliser du matériel adapté (plus léger, plus gros, plus lent)",
+          "Pratiquer en situation simplifiée sans pression"
+        ],
+        "criteres_reussite": [
+          "Le geste technique de base est reconnaissable",
+          "L'élève comprend et respecte les consignes de base"
+        ]
+      },
+      "niveau2": {
+        "titre": "Intermédiaire",
+        "description": "L'élève est capable d'exécuter l'activité de façon autonome avec quelques ajustements. Pour « Étirements avec bâton », voici les attentes à ce niveau.",
+        "consignes": [
+          "Introduire des variantes avec partenaire ou en mouvement",
+          "Combiner deux habiletés dans un même exercice",
+          "Augmenter progressivement la complexité de l'exercice"
+        ],
+        "criteres_reussite": [
+          "L'élève exécute le geste avec régularité",
+          "L'élève s'ajuste aux consignes supplémentaires"
+        ]
+      },
+      "niveau3": {
+        "titre": "Avancé",
+        "description": "L'élève perfectionne sa technique et s'adapte à des situations complexes. Pour « Étirements avec bâton », voici les attentes à ce niveau.",
+        "consignes": [
+          "S'auto-évaluer et identifier ses points d'amélioration",
+          "Aider un pair moins expérimenté comme tuteur",
+          "Combiner plusieurs habiletés en séquence complexe"
+        ],
+        "criteres_reussite": [
+          "L'élève maîtrise le geste dans des situations complexes",
+          "L'élève transfère ses apprentissages à de nouvelles situations"
+        ]
+      }
+    }
   },
   {
     "titre": "Mobilité de la cheville – programme complet",
@@ -368,8 +1824,58 @@
     "variantes": "Avec bande élastique pour la distraction articulaire, sur plan incliné.",
     "adaptation": "Exercices assis, cercles seulement, amplitude très progressive.",
     "duree": 12,
-    "materiel": ["Mur", "Règle ou ruban à mesurer", "Élastique (optionnel)"],
-    "tags": ["cheville", "mobilité", "squat", "prévention"]
+    "materiel": [
+      "Mur",
+      "Règle ou ruban à mesurer",
+      "Élastique (optionnel)"
+    ],
+    "tags": [
+      "cheville",
+      "mobilité",
+      "squat",
+      "prévention"
+    ],
+    "progression": {
+      "niveau1": {
+        "titre": "Débutant",
+        "description": "Le débutant explore les bases de l'activité avec un accompagnement soutenu. Pour « Mobilité de la cheville – programme complet », voici les attentes à ce niveau.",
+        "consignes": [
+          "Pratiquer en situation simplifiée sans pression",
+          "Se concentrer sur la technique plutôt que la performance",
+          "Exécuter les mouvements de base lentement et avec contrôle"
+        ],
+        "criteres_reussite": [
+          "L'élève comprend et respecte les consignes de base",
+          "L'élève participe activement et fait des efforts"
+        ]
+      },
+      "niveau2": {
+        "titre": "Intermédiaire",
+        "description": "L'intermédiaire travaille la régularité et commence à combiner les habiletés. Pour « Mobilité de la cheville – programme complet », voici les attentes à ce niveau.",
+        "consignes": [
+          "Augmenter progressivement la complexité de l'exercice",
+          "Ajouter des contraintes de temps ou d'espace",
+          "Combiner deux habiletés dans un même exercice"
+        ],
+        "criteres_reussite": [
+          "La technique est maîtrisée dans des situations variées",
+          "L'élève exécute le geste avec régularité"
+        ]
+      },
+      "niveau3": {
+        "titre": "Avancé",
+        "description": "L'expert peut exécuter l'activité dans des contextes variés et exigeants. Pour « Mobilité de la cheville – programme complet », voici les attentes à ce niveau.",
+        "consignes": [
+          "Exécuter en situation de jeu réelle ou compétitive",
+          "Créer et proposer ses propres variantes avancées",
+          "Aider un pair moins expérimenté comme tuteur"
+        ],
+        "criteres_reussite": [
+          "L'élève transfère ses apprentissages à de nouvelles situations",
+          "L'élève maîtrise le geste dans des situations complexes"
+        ]
+      }
+    }
   },
   {
     "titre": "Yoga Yin – tenue prolongée",
@@ -380,8 +1886,59 @@
     "variantes": "Tenues de 4-5 minutes, ajout de postures, méditation guidée.",
     "adaptation": "Tenues réduites à 1 minute, coussins et couvertures, postures simplifiées.",
     "duree": 20,
-    "materiel": ["Tapis de yoga", "Coussins", "Couvertures", "Musique douce"],
-    "tags": ["yin yoga", "tenue longue", "souplesse", "relaxation"]
+    "materiel": [
+      "Tapis de yoga",
+      "Coussins",
+      "Couvertures",
+      "Musique douce"
+    ],
+    "tags": [
+      "yin yoga",
+      "tenue longue",
+      "souplesse",
+      "relaxation"
+    ],
+    "progression": {
+      "niveau1": {
+        "titre": "Débutant",
+        "description": "L'accent est mis sur la compréhension des consignes et la sécurité. Pour « Yoga Yin – tenue prolongée », voici les attentes à ce niveau.",
+        "consignes": [
+          "Exécuter les mouvements de base lentement et avec contrôle",
+          "Pratiquer en situation simplifiée sans pression",
+          "Se concentrer sur la technique plutôt que la performance"
+        ],
+        "criteres_reussite": [
+          "L'élève comprend et respecte les consignes de base",
+          "L'élève participe activement et fait des efforts"
+        ]
+      },
+      "niveau2": {
+        "titre": "Intermédiaire",
+        "description": "À ce niveau, on ajoute de la complexité tout en consolidant les acquis. Pour « Yoga Yin – tenue prolongée », voici les attentes à ce niveau.",
+        "consignes": [
+          "Combiner deux habiletés dans un même exercice",
+          "Introduire des variantes avec partenaire ou en mouvement",
+          "Augmenter progressivement la complexité de l'exercice"
+        ],
+        "criteres_reussite": [
+          "L'élève s'ajuste aux consignes supplémentaires",
+          "La technique est maîtrisée dans des situations variées"
+        ]
+      },
+      "niveau3": {
+        "titre": "Avancé",
+        "description": "L'élève démontre une maîtrise complète et peut enseigner aux autres. Pour « Yoga Yin – tenue prolongée », voici les attentes à ce niveau.",
+        "consignes": [
+          "Créer et proposer ses propres variantes avancées",
+          "S'auto-évaluer et identifier ses points d'amélioration",
+          "Exécuter en situation de jeu réelle ou compétitive"
+        ],
+        "criteres_reussite": [
+          "L'exécution est fluide, précise et constante",
+          "L'élève transfère ses apprentissages à de nouvelles situations"
+        ]
+      }
+    }
   },
   {
     "titre": "Souplesse fonctionnelle – mouvements du quotidien",
@@ -392,8 +1949,57 @@
     "variantes": "Simuler des tâches réelles, ajouter des charges légères, progression hebdomadaire.",
     "adaptation": "Squat partiel, amplitude libre, chaise disponible.",
     "duree": 15,
-    "materiel": ["Espace dégagé", "Objets variés (optionnel)"],
-    "tags": ["fonctionnel", "quotidien", "mobilité", "santé"]
+    "materiel": [
+      "Espace dégagé",
+      "Objets variés (optionnel)"
+    ],
+    "tags": [
+      "fonctionnel",
+      "quotidien",
+      "mobilité",
+      "santé"
+    ],
+    "progression": {
+      "niveau1": {
+        "titre": "Débutant",
+        "description": "L'accent est mis sur la compréhension des consignes et la sécurité. Pour « Souplesse fonctionnelle – mouvements du quotidien », voici les attentes à ce niveau.",
+        "consignes": [
+          "Observer une démonstration avant chaque essai",
+          "Utiliser du matériel adapté (plus léger, plus gros, plus lent)",
+          "Se concentrer sur la technique plutôt que la performance"
+        ],
+        "criteres_reussite": [
+          "L'élève comprend et respecte les consignes de base",
+          "L'élève participe activement et fait des efforts"
+        ]
+      },
+      "niveau2": {
+        "titre": "Intermédiaire",
+        "description": "À ce niveau, on ajoute de la complexité tout en consolidant les acquis. Pour « Souplesse fonctionnelle – mouvements du quotidien », voici les attentes à ce niveau.",
+        "consignes": [
+          "Introduire des variantes avec partenaire ou en mouvement",
+          "Combiner deux habiletés dans un même exercice",
+          "Ajouter des contraintes de temps ou d'espace"
+        ],
+        "criteres_reussite": [
+          "L'élève s'ajuste aux consignes supplémentaires",
+          "L'élève exécute le geste avec régularité"
+        ]
+      },
+      "niveau3": {
+        "titre": "Avancé",
+        "description": "L'élève démontre une maîtrise complète et peut enseigner aux autres. Pour « Souplesse fonctionnelle – mouvements du quotidien », voici les attentes à ce niveau.",
+        "consignes": [
+          "Créer et proposer ses propres variantes avancées",
+          "Exécuter en situation de jeu réelle ou compétitive",
+          "S'auto-évaluer et identifier ses points d'amélioration"
+        ],
+        "criteres_reussite": [
+          "L'élève maîtrise le geste dans des situations complexes",
+          "L'exécution est fluide, précise et constante"
+        ]
+      }
+    }
   },
   {
     "titre": "Programme de souplesse – évaluation et suivi",
@@ -404,8 +2010,58 @@
     "variantes": "Journal de bord, objectifs personnalisés, comparaison avant/après.",
     "adaptation": "Tests simplifiés, programme avec aide, objectifs réalistes et individualisés.",
     "duree": 25,
-    "materiel": ["Boîte sit and reach", "Ruban à mesurer", "Feuilles de suivi"],
-    "tags": ["évaluation", "suivi", "programme", "souplesse"]
+    "materiel": [
+      "Boîte sit and reach",
+      "Ruban à mesurer",
+      "Feuilles de suivi"
+    ],
+    "tags": [
+      "évaluation",
+      "suivi",
+      "programme",
+      "souplesse"
+    ],
+    "progression": {
+      "niveau1": {
+        "titre": "Débutant",
+        "description": "Le débutant explore les bases de l'activité avec un accompagnement soutenu. Pour « Programme de souplesse – évaluation et suivi », voici les attentes à ce niveau.",
+        "consignes": [
+          "Pratiquer en situation simplifiée sans pression",
+          "Exécuter les mouvements de base lentement et avec contrôle",
+          "Observer une démonstration avant chaque essai"
+        ],
+        "criteres_reussite": [
+          "L'élève participe activement et fait des efforts",
+          "L'élève comprend et respecte les consignes de base"
+        ]
+      },
+      "niveau2": {
+        "titre": "Intermédiaire",
+        "description": "L'élève maîtrise les bases et cherche à améliorer sa constance et sa fluidité. Pour « Programme de souplesse – évaluation et suivi », voici les attentes à ce niveau.",
+        "consignes": [
+          "Augmenter progressivement la complexité de l'exercice",
+          "Combiner deux habiletés dans un même exercice",
+          "Réduire le temps de réflexion entre les actions"
+        ],
+        "criteres_reussite": [
+          "L'élève s'ajuste aux consignes supplémentaires",
+          "La technique est maîtrisée dans des situations variées"
+        ]
+      },
+      "niveau3": {
+        "titre": "Avancé",
+        "description": "L'élève perfectionne sa technique et s'adapte à des situations complexes. Pour « Programme de souplesse – évaluation et suivi », voici les attentes à ce niveau.",
+        "consignes": [
+          "Combiner plusieurs habiletés en séquence complexe",
+          "S'auto-évaluer et identifier ses points d'amélioration",
+          "Exécuter en situation de jeu réelle ou compétitive"
+        ],
+        "criteres_reussite": [
+          "L'exécution est fluide, précise et constante",
+          "L'élève maîtrise le geste dans des situations complexes"
+        ]
+      }
+    }
   },
   {
     "titre": "Mobilité complète – routine de 20 minutes",
@@ -416,8 +2072,56 @@
     "variantes": "Version courte 10 min, version sport-spécifique, version matinale vs soirée.",
     "adaptation": "Retirer les zones problématiques, amplitude libre, faire assis si nécessaire.",
     "duree": 20,
-    "materiel": ["Tapis de gym"],
-    "tags": ["routine complète", "mobilité", "tête aux pieds", "autonomie"]
+    "materiel": [
+      "Tapis de gym"
+    ],
+    "tags": [
+      "routine complète",
+      "mobilité",
+      "tête aux pieds",
+      "autonomie"
+    ],
+    "progression": {
+      "niveau1": {
+        "titre": "Débutant",
+        "description": "À ce stade, l'objectif est d'apprivoiser l'exercice sans pression de performance. Pour « Mobilité complète – routine de 20 minutes », voici les attentes à ce niveau.",
+        "consignes": [
+          "Se concentrer sur la technique plutôt que la performance",
+          "Utiliser du matériel adapté (plus léger, plus gros, plus lent)",
+          "Observer une démonstration avant chaque essai"
+        ],
+        "criteres_reussite": [
+          "L'élève participe activement et fait des efforts",
+          "L'élève comprend et respecte les consignes de base"
+        ]
+      },
+      "niveau2": {
+        "titre": "Intermédiaire",
+        "description": "L'élève est capable d'exécuter l'activité de façon autonome avec quelques ajustements. Pour « Mobilité complète – routine de 20 minutes », voici les attentes à ce niveau.",
+        "consignes": [
+          "Réduire le temps de réflexion entre les actions",
+          "Combiner deux habiletés dans un même exercice",
+          "Augmenter progressivement la complexité de l'exercice"
+        ],
+        "criteres_reussite": [
+          "La technique est maîtrisée dans des situations variées",
+          "L'élève exécute le geste avec régularité"
+        ]
+      },
+      "niveau3": {
+        "titre": "Avancé",
+        "description": "L'élève perfectionne sa technique et s'adapte à des situations complexes. Pour « Mobilité complète – routine de 20 minutes », voici les attentes à ce niveau.",
+        "consignes": [
+          "Exécuter en situation de jeu réelle ou compétitive",
+          "Combiner plusieurs habiletés en séquence complexe",
+          "S'auto-évaluer et identifier ses points d'amélioration"
+        ],
+        "criteres_reussite": [
+          "L'élève transfère ses apprentissages à de nouvelles situations",
+          "L'élève maîtrise le geste dans des situations complexes"
+        ]
+      }
+    }
   },
   {
     "titre": "Stretching avancé – contorsion douce",
@@ -428,8 +2132,58 @@
     "variantes": "Enchaînements de postures avancées, avec pareur, photographie des progrès.",
     "adaptation": "Versions préparatoires de chaque posture, coussins et supports, progression très lente.",
     "duree": 25,
-    "materiel": ["Tapis de gym épais", "Coussins", "Blocs de yoga"],
-    "tags": ["avancé", "contorsion", "souplesse", "pont"]
+    "materiel": [
+      "Tapis de gym épais",
+      "Coussins",
+      "Blocs de yoga"
+    ],
+    "tags": [
+      "avancé",
+      "contorsion",
+      "souplesse",
+      "pont"
+    ],
+    "progression": {
+      "niveau1": {
+        "titre": "Débutant",
+        "description": "À ce stade, l'objectif est d'apprivoiser l'exercice sans pression de performance. Pour « Stretching avancé – contorsion douce », voici les attentes à ce niveau.",
+        "consignes": [
+          "Observer une démonstration avant chaque essai",
+          "Se concentrer sur la technique plutôt que la performance",
+          "Exécuter les mouvements de base lentement et avec contrôle"
+        ],
+        "criteres_reussite": [
+          "Le geste technique de base est reconnaissable",
+          "L'élève comprend et respecte les consignes de base"
+        ]
+      },
+      "niveau2": {
+        "titre": "Intermédiaire",
+        "description": "À ce niveau, on ajoute de la complexité tout en consolidant les acquis. Pour « Stretching avancé – contorsion douce », voici les attentes à ce niveau.",
+        "consignes": [
+          "Combiner deux habiletés dans un même exercice",
+          "Introduire des variantes avec partenaire ou en mouvement",
+          "Réduire le temps de réflexion entre les actions"
+        ],
+        "criteres_reussite": [
+          "L'élève s'ajuste aux consignes supplémentaires",
+          "La technique est maîtrisée dans des situations variées"
+        ]
+      },
+      "niveau3": {
+        "titre": "Avancé",
+        "description": "L'élève démontre une maîtrise complète et peut enseigner aux autres. Pour « Stretching avancé – contorsion douce », voici les attentes à ce niveau.",
+        "consignes": [
+          "Aider un pair moins expérimenté comme tuteur",
+          "S'auto-évaluer et identifier ses points d'amélioration",
+          "Créer et proposer ses propres variantes avancées"
+        ],
+        "criteres_reussite": [
+          "L'élève transfère ses apprentissages à de nouvelles situations",
+          "L'exécution est fluide, précise et constante"
+        ]
+      }
+    }
   },
   {
     "titre": "Mobilité des poignets et avant-bras",
@@ -440,8 +2194,56 @@
     "variantes": "Avec balles anti-stress, exercices de préhension, avec élastique.",
     "adaptation": "Amplitude réduite, éviter la mise en charge, exercices debout seulement.",
     "duree": 8,
-    "materiel": ["Espace dégagé"],
-    "tags": ["poignets", "avant-bras", "mobilité", "prévention"]
+    "materiel": [
+      "Espace dégagé"
+    ],
+    "tags": [
+      "poignets",
+      "avant-bras",
+      "mobilité",
+      "prévention"
+    ],
+    "progression": {
+      "niveau1": {
+        "titre": "Débutant",
+        "description": "Le débutant explore les bases de l'activité avec un accompagnement soutenu. Pour « Mobilité des poignets et avant-bras », voici les attentes à ce niveau.",
+        "consignes": [
+          "Exécuter les mouvements de base lentement et avec contrôle",
+          "Se concentrer sur la technique plutôt que la performance",
+          "Observer une démonstration avant chaque essai"
+        ],
+        "criteres_reussite": [
+          "Le geste technique de base est reconnaissable",
+          "L'élève comprend et respecte les consignes de base"
+        ]
+      },
+      "niveau2": {
+        "titre": "Intermédiaire",
+        "description": "L'intermédiaire travaille la régularité et commence à combiner les habiletés. Pour « Mobilité des poignets et avant-bras », voici les attentes à ce niveau.",
+        "consignes": [
+          "Réduire le temps de réflexion entre les actions",
+          "Ajouter des contraintes de temps ou d'espace",
+          "Combiner deux habiletés dans un même exercice"
+        ],
+        "criteres_reussite": [
+          "L'élève exécute le geste avec régularité",
+          "L'élève s'ajuste aux consignes supplémentaires"
+        ]
+      },
+      "niveau3": {
+        "titre": "Avancé",
+        "description": "L'élève perfectionne sa technique et s'adapte à des situations complexes. Pour « Mobilité des poignets et avant-bras », voici les attentes à ce niveau.",
+        "consignes": [
+          "Exécuter en situation de jeu réelle ou compétitive",
+          "Combiner plusieurs habiletés en séquence complexe",
+          "Aider un pair moins expérimenté comme tuteur"
+        ],
+        "criteres_reussite": [
+          "L'exécution est fluide, précise et constante",
+          "L'élève maîtrise le geste dans des situations complexes"
+        ]
+      }
+    }
   },
   {
     "titre": "Étirements actifs – force et souplesse",
@@ -452,8 +2254,57 @@
     "variantes": "Avec lest aux chevilles, enchaîner les 3 directions sans pause, en duo.",
     "adaptation": "Hauteur de jambe réduite, appui mural, 2 séries seulement.",
     "duree": 15,
-    "materiel": ["Espace dégagé", "Espalier (optionnel)"],
-    "tags": ["actif", "force", "souplesse", "jambes"]
+    "materiel": [
+      "Espace dégagé",
+      "Espalier (optionnel)"
+    ],
+    "tags": [
+      "actif",
+      "force",
+      "souplesse",
+      "jambes"
+    ],
+    "progression": {
+      "niveau1": {
+        "titre": "Débutant",
+        "description": "L'accent est mis sur la compréhension des consignes et la sécurité. Pour « Étirements actifs – force et souplesse », voici les attentes à ce niveau.",
+        "consignes": [
+          "Pratiquer en situation simplifiée sans pression",
+          "Utiliser du matériel adapté (plus léger, plus gros, plus lent)",
+          "Se concentrer sur la technique plutôt que la performance"
+        ],
+        "criteres_reussite": [
+          "L'élève comprend et respecte les consignes de base",
+          "L'élève participe activement et fait des efforts"
+        ]
+      },
+      "niveau2": {
+        "titre": "Intermédiaire",
+        "description": "L'élève maîtrise les bases et cherche à améliorer sa constance et sa fluidité. Pour « Étirements actifs – force et souplesse », voici les attentes à ce niveau.",
+        "consignes": [
+          "Introduire des variantes avec partenaire ou en mouvement",
+          "Réduire le temps de réflexion entre les actions",
+          "Augmenter progressivement la complexité de l'exercice"
+        ],
+        "criteres_reussite": [
+          "La technique est maîtrisée dans des situations variées",
+          "L'élève s'ajuste aux consignes supplémentaires"
+        ]
+      },
+      "niveau3": {
+        "titre": "Avancé",
+        "description": "À ce stade avancé, l'élève crée, innove et aide ses pairs. Pour « Étirements actifs – force et souplesse », voici les attentes à ce niveau.",
+        "consignes": [
+          "Combiner plusieurs habiletés en séquence complexe",
+          "Aider un pair moins expérimenté comme tuteur",
+          "Créer et proposer ses propres variantes avancées"
+        ],
+        "criteres_reussite": [
+          "L'exécution est fluide, précise et constante",
+          "L'élève maîtrise le geste dans des situations complexes"
+        ]
+      }
+    }
   },
   {
     "titre": "Souplesse du psoas – fléchisseur de hanche",
@@ -464,8 +2315,57 @@
     "variantes": "Avec rouleau de mousse, technique PNF, programme quotidien de 5 min.",
     "adaptation": "Coussin sous le genou, amplitude réduite, positions debout seulement.",
     "duree": 15,
-    "materiel": ["Tapis de gym", "Coussin"],
-    "tags": ["psoas", "hanche", "sédentarité", "souplesse"]
+    "materiel": [
+      "Tapis de gym",
+      "Coussin"
+    ],
+    "tags": [
+      "psoas",
+      "hanche",
+      "sédentarité",
+      "souplesse"
+    ],
+    "progression": {
+      "niveau1": {
+        "titre": "Débutant",
+        "description": "L'accent est mis sur la compréhension des consignes et la sécurité. Pour « Souplesse du psoas – fléchisseur de hanche », voici les attentes à ce niveau.",
+        "consignes": [
+          "Exécuter les mouvements de base lentement et avec contrôle",
+          "Observer une démonstration avant chaque essai",
+          "Pratiquer en situation simplifiée sans pression"
+        ],
+        "criteres_reussite": [
+          "L'élève participe activement et fait des efforts",
+          "L'élève comprend et respecte les consignes de base"
+        ]
+      },
+      "niveau2": {
+        "titre": "Intermédiaire",
+        "description": "L'intermédiaire travaille la régularité et commence à combiner les habiletés. Pour « Souplesse du psoas – fléchisseur de hanche », voici les attentes à ce niveau.",
+        "consignes": [
+          "Ajouter des contraintes de temps ou d'espace",
+          "Introduire des variantes avec partenaire ou en mouvement",
+          "Augmenter progressivement la complexité de l'exercice"
+        ],
+        "criteres_reussite": [
+          "L'élève s'ajuste aux consignes supplémentaires",
+          "L'élève exécute le geste avec régularité"
+        ]
+      },
+      "niveau3": {
+        "titre": "Avancé",
+        "description": "L'élève démontre une maîtrise complète et peut enseigner aux autres. Pour « Souplesse du psoas – fléchisseur de hanche », voici les attentes à ce niveau.",
+        "consignes": [
+          "S'auto-évaluer et identifier ses points d'amélioration",
+          "Aider un pair moins expérimenté comme tuteur",
+          "Exécuter en situation de jeu réelle ou compétitive"
+        ],
+        "criteres_reussite": [
+          "L'élève transfère ses apprentissages à de nouvelles situations",
+          "L'exécution est fluide, précise et constante"
+        ]
+      }
+    }
   },
   {
     "titre": "Stretching express – 5 minutes chrono",
@@ -476,8 +2376,56 @@
     "variantes": "Version assise, version en marchant, version en duo.",
     "adaptation": "3 étirements seulement, durée réduite, appui au mur.",
     "duree": 5,
-    "materiel": ["Espace dégagé"],
-    "tags": ["express", "retour au calme", "souplesse", "routine"]
+    "materiel": [
+      "Espace dégagé"
+    ],
+    "tags": [
+      "express",
+      "retour au calme",
+      "souplesse",
+      "routine"
+    ],
+    "progression": {
+      "niveau1": {
+        "titre": "Débutant",
+        "description": "À ce stade, l'objectif est d'apprivoiser l'exercice sans pression de performance. Pour « Stretching express – 5 minutes chrono », voici les attentes à ce niveau.",
+        "consignes": [
+          "Observer une démonstration avant chaque essai",
+          "Pratiquer en situation simplifiée sans pression",
+          "Exécuter les mouvements de base lentement et avec contrôle"
+        ],
+        "criteres_reussite": [
+          "Le geste technique de base est reconnaissable",
+          "L'élève comprend et respecte les consignes de base"
+        ]
+      },
+      "niveau2": {
+        "titre": "Intermédiaire",
+        "description": "L'élève est capable d'exécuter l'activité de façon autonome avec quelques ajustements. Pour « Stretching express – 5 minutes chrono », voici les attentes à ce niveau.",
+        "consignes": [
+          "Augmenter progressivement la complexité de l'exercice",
+          "Introduire des variantes avec partenaire ou en mouvement",
+          "Réduire le temps de réflexion entre les actions"
+        ],
+        "criteres_reussite": [
+          "L'élève s'ajuste aux consignes supplémentaires",
+          "La technique est maîtrisée dans des situations variées"
+        ]
+      },
+      "niveau3": {
+        "titre": "Avancé",
+        "description": "L'élève perfectionne sa technique et s'adapte à des situations complexes. Pour « Stretching express – 5 minutes chrono », voici les attentes à ce niveau.",
+        "consignes": [
+          "Exécuter en situation de jeu réelle ou compétitive",
+          "Créer et proposer ses propres variantes avancées",
+          "S'auto-évaluer et identifier ses points d'amélioration"
+        ],
+        "criteres_reussite": [
+          "L'élève transfère ses apprentissages à de nouvelles situations",
+          "L'exécution est fluide, précise et constante"
+        ]
+      }
+    }
   },
   {
     "titre": "Étirements avec ballon suisse",
@@ -488,8 +2436,57 @@
     "variantes": "Enchaîner avec du renforcement, exercices dynamiques sur le ballon.",
     "adaptation": "Ballon bien gonflé et stable, appui au mur, amplitude réduite.",
     "duree": 15,
-    "materiel": ["Ballons suisses (1 par élève)", "Tapis de gym"],
-    "tags": ["ballon suisse", "souplesse", "dos", "extension"]
+    "materiel": [
+      "Ballons suisses (1 par élève)",
+      "Tapis de gym"
+    ],
+    "tags": [
+      "ballon suisse",
+      "souplesse",
+      "dos",
+      "extension"
+    ],
+    "progression": {
+      "niveau1": {
+        "titre": "Débutant",
+        "description": "L'accent est mis sur la compréhension des consignes et la sécurité. Pour « Étirements avec ballon suisse », voici les attentes à ce niveau.",
+        "consignes": [
+          "Pratiquer en situation simplifiée sans pression",
+          "Observer une démonstration avant chaque essai",
+          "Se concentrer sur la technique plutôt que la performance"
+        ],
+        "criteres_reussite": [
+          "L'élève participe activement et fait des efforts",
+          "L'élève comprend et respecte les consignes de base"
+        ]
+      },
+      "niveau2": {
+        "titre": "Intermédiaire",
+        "description": "L'élève est capable d'exécuter l'activité de façon autonome avec quelques ajustements. Pour « Étirements avec ballon suisse », voici les attentes à ce niveau.",
+        "consignes": [
+          "Combiner deux habiletés dans un même exercice",
+          "Augmenter progressivement la complexité de l'exercice",
+          "Introduire des variantes avec partenaire ou en mouvement"
+        ],
+        "criteres_reussite": [
+          "La technique est maîtrisée dans des situations variées",
+          "L'élève exécute le geste avec régularité"
+        ]
+      },
+      "niveau3": {
+        "titre": "Avancé",
+        "description": "L'élève démontre une maîtrise complète et peut enseigner aux autres. Pour « Étirements avec ballon suisse », voici les attentes à ce niveau.",
+        "consignes": [
+          "S'auto-évaluer et identifier ses points d'amélioration",
+          "Combiner plusieurs habiletés en séquence complexe",
+          "Exécuter en situation de jeu réelle ou compétitive"
+        ],
+        "criteres_reussite": [
+          "L'exécution est fluide, précise et constante",
+          "L'élève maîtrise le geste dans des situations complexes"
+        ]
+      }
+    }
   },
   {
     "titre": "Défi souplesse – test hebdomadaire",
@@ -500,8 +2497,59 @@
     "variantes": "Défi en duo, carnet de suivi, récompenses pour les progrès.",
     "adaptation": "Tests simplifiés, objectifs individualisés, pas de comparaison entre élèves.",
     "duree": 15,
-    "materiel": ["Boîte sit and reach", "Bâton", "Ruban à mesurer", "Carnet"],
-    "tags": ["test", "défi", "suivi", "souplesse"]
+    "materiel": [
+      "Boîte sit and reach",
+      "Bâton",
+      "Ruban à mesurer",
+      "Carnet"
+    ],
+    "tags": [
+      "test",
+      "défi",
+      "suivi",
+      "souplesse"
+    ],
+    "progression": {
+      "niveau1": {
+        "titre": "Débutant",
+        "description": "À ce stade, l'objectif est d'apprivoiser l'exercice sans pression de performance. Pour « Défi souplesse – test hebdomadaire », voici les attentes à ce niveau.",
+        "consignes": [
+          "Observer une démonstration avant chaque essai",
+          "Se concentrer sur la technique plutôt que la performance",
+          "Exécuter les mouvements de base lentement et avec contrôle"
+        ],
+        "criteres_reussite": [
+          "L'élève participe activement et fait des efforts",
+          "L'élève comprend et respecte les consignes de base"
+        ]
+      },
+      "niveau2": {
+        "titre": "Intermédiaire",
+        "description": "L'élève maîtrise les bases et cherche à améliorer sa constance et sa fluidité. Pour « Défi souplesse – test hebdomadaire », voici les attentes à ce niveau.",
+        "consignes": [
+          "Introduire des variantes avec partenaire ou en mouvement",
+          "Réduire le temps de réflexion entre les actions",
+          "Ajouter des contraintes de temps ou d'espace"
+        ],
+        "criteres_reussite": [
+          "L'élève s'ajuste aux consignes supplémentaires",
+          "L'élève exécute le geste avec régularité"
+        ]
+      },
+      "niveau3": {
+        "titre": "Avancé",
+        "description": "L'élève perfectionne sa technique et s'adapte à des situations complexes. Pour « Défi souplesse – test hebdomadaire », voici les attentes à ce niveau.",
+        "consignes": [
+          "Aider un pair moins expérimenté comme tuteur",
+          "Créer et proposer ses propres variantes avancées",
+          "Exécuter en situation de jeu réelle ou compétitive"
+        ],
+        "criteres_reussite": [
+          "L'exécution est fluide, précise et constante",
+          "L'élève transfère ses apprentissages à de nouvelles situations"
+        ]
+      }
+    }
   },
   {
     "titre": "Pilates – souplesse et contrôle",
@@ -512,8 +2560,56 @@
     "variantes": "Avec cercle magique, avec élastique, sur réformeur si disponible.",
     "adaptation": "Exercices de base seulement, amplitude réduite, pauses entre les exercices.",
     "duree": 25,
-    "materiel": ["Tapis de gym"],
-    "tags": ["pilates", "contrôle", "souplesse", "centre"]
+    "materiel": [
+      "Tapis de gym"
+    ],
+    "tags": [
+      "pilates",
+      "contrôle",
+      "souplesse",
+      "centre"
+    ],
+    "progression": {
+      "niveau1": {
+        "titre": "Débutant",
+        "description": "À ce stade, l'objectif est d'apprivoiser l'exercice sans pression de performance. Pour « Pilates – souplesse et contrôle », voici les attentes à ce niveau.",
+        "consignes": [
+          "Utiliser du matériel adapté (plus léger, plus gros, plus lent)",
+          "Pratiquer en situation simplifiée sans pression",
+          "Observer une démonstration avant chaque essai"
+        ],
+        "criteres_reussite": [
+          "L'élève comprend et respecte les consignes de base",
+          "L'élève participe activement et fait des efforts"
+        ]
+      },
+      "niveau2": {
+        "titre": "Intermédiaire",
+        "description": "L'élève est capable d'exécuter l'activité de façon autonome avec quelques ajustements. Pour « Pilates – souplesse et contrôle », voici les attentes à ce niveau.",
+        "consignes": [
+          "Augmenter progressivement la complexité de l'exercice",
+          "Introduire des variantes avec partenaire ou en mouvement",
+          "Combiner deux habiletés dans un même exercice"
+        ],
+        "criteres_reussite": [
+          "L'élève s'ajuste aux consignes supplémentaires",
+          "La technique est maîtrisée dans des situations variées"
+        ]
+      },
+      "niveau3": {
+        "titre": "Avancé",
+        "description": "À ce stade avancé, l'élève crée, innove et aide ses pairs. Pour « Pilates – souplesse et contrôle », voici les attentes à ce niveau.",
+        "consignes": [
+          "S'auto-évaluer et identifier ses points d'amélioration",
+          "Exécuter en situation de jeu réelle ou compétitive",
+          "Créer et proposer ses propres variantes avancées"
+        ],
+        "criteres_reussite": [
+          "L'élève transfère ses apprentissages à de nouvelles situations",
+          "L'exécution est fluide, précise et constante"
+        ]
+      }
+    }
   },
   {
     "titre": "Souplesse en jeu – le limbo",
@@ -524,8 +2620,57 @@
     "variantes": "Limbo en avant (sous une corde), limbo en rampant, limbo avec obstacles.",
     "adaptation": "Bâton haut, autoriser les mains au sol, passer en rampant si nécessaire.",
     "duree": 15,
-    "materiel": ["Bâton ou corde", "Système de son (optionnel)"],
-    "tags": ["limbo", "jeu", "souplesse", "dos"]
+    "materiel": [
+      "Bâton ou corde",
+      "Système de son (optionnel)"
+    ],
+    "tags": [
+      "limbo",
+      "jeu",
+      "souplesse",
+      "dos"
+    ],
+    "progression": {
+      "niveau1": {
+        "titre": "Débutant",
+        "description": "À ce stade, l'objectif est d'apprivoiser l'exercice sans pression de performance. Pour « Souplesse en jeu – le limbo », voici les attentes à ce niveau.",
+        "consignes": [
+          "Pratiquer en situation simplifiée sans pression",
+          "Utiliser du matériel adapté (plus léger, plus gros, plus lent)",
+          "Observer une démonstration avant chaque essai"
+        ],
+        "criteres_reussite": [
+          "L'élève comprend et respecte les consignes de base",
+          "L'élève participe activement et fait des efforts"
+        ]
+      },
+      "niveau2": {
+        "titre": "Intermédiaire",
+        "description": "L'élève est capable d'exécuter l'activité de façon autonome avec quelques ajustements. Pour « Souplesse en jeu – le limbo », voici les attentes à ce niveau.",
+        "consignes": [
+          "Augmenter progressivement la complexité de l'exercice",
+          "Réduire le temps de réflexion entre les actions",
+          "Ajouter des contraintes de temps ou d'espace"
+        ],
+        "criteres_reussite": [
+          "L'élève s'ajuste aux consignes supplémentaires",
+          "L'élève exécute le geste avec régularité"
+        ]
+      },
+      "niveau3": {
+        "titre": "Avancé",
+        "description": "L'expert peut exécuter l'activité dans des contextes variés et exigeants. Pour « Souplesse en jeu – le limbo », voici les attentes à ce niveau.",
+        "consignes": [
+          "S'auto-évaluer et identifier ses points d'amélioration",
+          "Créer et proposer ses propres variantes avancées",
+          "Aider un pair moins expérimenté comme tuteur"
+        ],
+        "criteres_reussite": [
+          "L'exécution est fluide, précise et constante",
+          "L'élève maîtrise le geste dans des situations complexes"
+        ]
+      }
+    }
   },
   {
     "titre": "Mobilité des épaules – programme préventif",
@@ -536,7 +2681,57 @@
     "variantes": "Avec poids légers, programme quotidien de 5 min, lien avec l'échauffement sportif.",
     "adaptation": "Sans charge, amplitude réduite, exercices debout seulement, éviter la douleur.",
     "duree": 15,
-    "materiel": ["Élastiques", "Bâton", "Tapis de gym"],
-    "tags": ["épaules", "prévention", "programme", "rotation"]
+    "materiel": [
+      "Élastiques",
+      "Bâton",
+      "Tapis de gym"
+    ],
+    "tags": [
+      "épaules",
+      "prévention",
+      "programme",
+      "rotation"
+    ],
+    "progression": {
+      "niveau1": {
+        "titre": "Débutant",
+        "description": "L'élève découvre l'activité et se familiarise avec les mouvements fondamentaux. Pour « Mobilité des épaules – programme préventif », voici les attentes à ce niveau.",
+        "consignes": [
+          "Observer une démonstration avant chaque essai",
+          "Utiliser du matériel adapté (plus léger, plus gros, plus lent)",
+          "Pratiquer en situation simplifiée sans pression"
+        ],
+        "criteres_reussite": [
+          "L'élève participe activement et fait des efforts",
+          "L'élève comprend et respecte les consignes de base"
+        ]
+      },
+      "niveau2": {
+        "titre": "Intermédiaire",
+        "description": "L'élève maîtrise les bases et cherche à améliorer sa constance et sa fluidité. Pour « Mobilité des épaules – programme préventif », voici les attentes à ce niveau.",
+        "consignes": [
+          "Réduire le temps de réflexion entre les actions",
+          "Ajouter des contraintes de temps ou d'espace",
+          "Introduire des variantes avec partenaire ou en mouvement"
+        ],
+        "criteres_reussite": [
+          "L'élève s'ajuste aux consignes supplémentaires",
+          "La technique est maîtrisée dans des situations variées"
+        ]
+      },
+      "niveau3": {
+        "titre": "Avancé",
+        "description": "L'élève démontre une maîtrise complète et peut enseigner aux autres. Pour « Mobilité des épaules – programme préventif », voici les attentes à ce niveau.",
+        "consignes": [
+          "Aider un pair moins expérimenté comme tuteur",
+          "Exécuter en situation de jeu réelle ou compétitive",
+          "Combiner plusieurs habiletés en séquence complexe"
+        ],
+        "criteres_reussite": [
+          "L'élève maîtrise le geste dans des situations complexes",
+          "L'élève transfère ses apprentissages à de nouvelles situations"
+        ]
+      }
+    }
   }
 ]

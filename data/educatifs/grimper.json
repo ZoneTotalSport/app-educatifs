@@ -8,8 +8,58 @@
     "variantes": "Traversée avec couleurs imposées, montée sur temps, escalade en duo (un guide l'autre).",
     "adaptation": "Traversée uniquement sans gagner de hauteur. Prises plus grandes et nombreuses.",
     "duree": 15,
-    "materiel": ["Mur d'escalade", "Chaussons d'escalade", "Tapis de réception"],
-    "tags": ["escalade", "prises", "grimper", "3 points"]
+    "materiel": [
+      "Mur d'escalade",
+      "Chaussons d'escalade",
+      "Tapis de réception"
+    ],
+    "tags": [
+      "escalade",
+      "prises",
+      "grimper",
+      "3 points"
+    ],
+    "progression": {
+      "niveau1": {
+        "titre": "Débutant",
+        "description": "L'accent est mis sur la compréhension des consignes et la sécurité. Pour « Escalade mur initiation », voici les attentes à ce niveau.",
+        "consignes": [
+          "Suivre des lignes au sol ou des repères visuels",
+          "Pratiquer un seul type de déplacement à la fois",
+          "Garder le contrôle de son corps en mouvement"
+        ],
+        "criteres_reussite": [
+          "L'élève se déplace de façon contrôlée",
+          "L'élève freine et s'arrête sur commande"
+        ]
+      },
+      "niveau2": {
+        "titre": "Intermédiaire",
+        "description": "À ce niveau, on ajoute de la complexité tout en consolidant les acquis. Pour « Escalade mur initiation », voici les attentes à ce niveau.",
+        "consignes": [
+          "Se déplacer en changeant de direction sur signal",
+          "S'adapter au rythme d'un partenaire",
+          "Combiner déplacement et manipulation d'objet"
+        ],
+        "criteres_reussite": [
+          "L'élève maintient sa vitesse dans les changements",
+          "La transition entre les déplacements est fluide"
+        ]
+      },
+      "niveau3": {
+        "titre": "Avancé",
+        "description": "À ce stade avancé, l'élève crée, innove et aide ses pairs. Pour « Escalade mur initiation », voici les attentes à ce niveau.",
+        "consignes": [
+          "Se déplacer en situation de jeu avec adversaire",
+          "Combiner plusieurs types de déplacement en enchaînement",
+          "Optimiser ses trajectoires pour l'efficacité"
+        ],
+        "criteres_reussite": [
+          "L'élève se déplace avec agilité et efficacité",
+          "L'élève adapte ses déplacements à la situation de jeu"
+        ]
+      }
+    }
   },
   {
     "titre": "Grimper à la corde lisse",
@@ -20,8 +70,57 @@
     "variantes": "Grimper avec nœuds, grimper à 2 cordes simultanées, descente en rappel contrôlé.",
     "adaptation": "Corde avec nœuds pour débutants. Ne monter qu'à 1 m. Grimper incliné (corde à 45°).",
     "duree": 15,
-    "materiel": ["Corde lisse suspendue", "Tapis de réception"],
-    "tags": ["corde", "grimper", "force", "technique"]
+    "materiel": [
+      "Corde lisse suspendue",
+      "Tapis de réception"
+    ],
+    "tags": [
+      "corde",
+      "grimper",
+      "force",
+      "technique"
+    ],
+    "progression": {
+      "niveau1": {
+        "titre": "Débutant",
+        "description": "L'élève découvre l'activité et se familiarise avec les mouvements fondamentaux. Pour « Grimper à la corde lisse », voici les attentes à ce niveau.",
+        "consignes": [
+          "Suivre des lignes au sol ou des repères visuels",
+          "Respecter les limites de son espace",
+          "Garder le contrôle de son corps en mouvement"
+        ],
+        "criteres_reussite": [
+          "L'élève se déplace de façon contrôlée",
+          "Le patron moteur de base est reconnaissable"
+        ]
+      },
+      "niveau2": {
+        "titre": "Intermédiaire",
+        "description": "L'élève est capable d'exécuter l'activité de façon autonome avec quelques ajustements. Pour « Grimper à la corde lisse », voici les attentes à ce niveau.",
+        "consignes": [
+          "Alterner entre deux types de déplacement",
+          "Augmenter la vitesse tout en gardant le contrôle",
+          "Se déplacer en changeant de direction sur signal"
+        ],
+        "criteres_reussite": [
+          "La transition entre les déplacements est fluide",
+          "L'élève maintient sa vitesse dans les changements"
+        ]
+      },
+      "niveau3": {
+        "titre": "Avancé",
+        "description": "L'élève démontre une maîtrise complète et peut enseigner aux autres. Pour « Grimper à la corde lisse », voici les attentes à ce niveau.",
+        "consignes": [
+          "Réagir rapidement aux changements d'environnement",
+          "Créer des feintes et des changements de rythme",
+          "Optimiser ses trajectoires pour l'efficacité"
+        ],
+        "criteres_reussite": [
+          "L'élève se déplace avec agilité et efficacité",
+          "L'élève adapte ses déplacements à la situation de jeu"
+        ]
+      }
+    }
   },
   {
     "titre": "Grimper l'espalier (barreaux muraux)",
@@ -32,8 +131,57 @@
     "variantes": "Monter plus haut, traverser latéralement en haut, descendre par l'autre côté.",
     "adaptation": "Monter seulement 2-3 barreaux, aide de l'enseignant, marche-pied au premier barreau.",
     "duree": 12,
-    "materiel": ["Espalier mural", "Tapis de réception au sol"],
-    "tags": ["espalier", "barreaux", "grimper", "sécurité"]
+    "materiel": [
+      "Espalier mural",
+      "Tapis de réception au sol"
+    ],
+    "tags": [
+      "espalier",
+      "barreaux",
+      "grimper",
+      "sécurité"
+    ],
+    "progression": {
+      "niveau1": {
+        "titre": "Débutant",
+        "description": "Le débutant explore les bases de l'activité avec un accompagnement soutenu. Pour « Grimper l'espalier (barreaux muraux) », voici les attentes à ce niveau.",
+        "consignes": [
+          "Garder le contrôle de son corps en mouvement",
+          "Respecter les limites de son espace",
+          "Pratiquer un seul type de déplacement à la fois"
+        ],
+        "criteres_reussite": [
+          "Le patron moteur de base est reconnaissable",
+          "L'élève freine et s'arrête sur commande"
+        ]
+      },
+      "niveau2": {
+        "titre": "Intermédiaire",
+        "description": "À ce niveau, on ajoute de la complexité tout en consolidant les acquis. Pour « Grimper l'espalier (barreaux muraux) », voici les attentes à ce niveau.",
+        "consignes": [
+          "S'adapter au rythme d'un partenaire",
+          "Se déplacer en changeant de direction sur signal",
+          "Combiner déplacement et manipulation d'objet"
+        ],
+        "criteres_reussite": [
+          "L'élève change de direction sans perte d'équilibre",
+          "L'élève maintient sa vitesse dans les changements"
+        ]
+      },
+      "niveau3": {
+        "titre": "Avancé",
+        "description": "L'élève démontre une maîtrise complète et peut enseigner aux autres. Pour « Grimper l'espalier (barreaux muraux) », voici les attentes à ce niveau.",
+        "consignes": [
+          "Réagir rapidement aux changements d'environnement",
+          "Se déplacer en situation de jeu avec adversaire",
+          "Optimiser ses trajectoires pour l'efficacité"
+        ],
+        "criteres_reussite": [
+          "L'élève adapte ses déplacements à la situation de jeu",
+          "Les enchaînements sont fluides et rapides"
+        ]
+      }
+    }
   },
   {
     "titre": "Traversée latérale sur espalier",
@@ -44,8 +192,57 @@
     "variantes": "Traversée en sautant un barreau, traversée en montant et descendant pendant le déplacement, traversée chronométrée.",
     "adaptation": "Plus bas sur l'espalier, moins de distance, aide d'un partenaire au sol.",
     "duree": 12,
-    "materiel": ["Espalier mural", "Tapis de réception"],
-    "tags": ["traversée", "espalier", "latéral", "préhension"]
+    "materiel": [
+      "Espalier mural",
+      "Tapis de réception"
+    ],
+    "tags": [
+      "traversée",
+      "espalier",
+      "latéral",
+      "préhension"
+    ],
+    "progression": {
+      "niveau1": {
+        "titre": "Débutant",
+        "description": "À ce stade, l'objectif est d'apprivoiser l'exercice sans pression de performance. Pour « Traversée latérale sur espalier », voici les attentes à ce niveau.",
+        "consignes": [
+          "Pratiquer un seul type de déplacement à la fois",
+          "Se déplacer à vitesse lente dans un espace délimité",
+          "Respecter les limites de son espace"
+        ],
+        "criteres_reussite": [
+          "Le patron moteur de base est reconnaissable",
+          "L'élève freine et s'arrête sur commande"
+        ]
+      },
+      "niveau2": {
+        "titre": "Intermédiaire",
+        "description": "L'élève est capable d'exécuter l'activité de façon autonome avec quelques ajustements. Pour « Traversée latérale sur espalier », voici les attentes à ce niveau.",
+        "consignes": [
+          "Alterner entre deux types de déplacement",
+          "Se déplacer en changeant de direction sur signal",
+          "Augmenter la vitesse tout en gardant le contrôle"
+        ],
+        "criteres_reussite": [
+          "L'élève maintient sa vitesse dans les changements",
+          "La transition entre les déplacements est fluide"
+        ]
+      },
+      "niveau3": {
+        "titre": "Avancé",
+        "description": "L'élève perfectionne sa technique et s'adapte à des situations complexes. Pour « Traversée latérale sur espalier », voici les attentes à ce niveau.",
+        "consignes": [
+          "Se déplacer en situation de jeu avec adversaire",
+          "Créer des feintes et des changements de rythme",
+          "Optimiser ses trajectoires pour l'efficacité"
+        ],
+        "criteres_reussite": [
+          "Les enchaînements sont fluides et rapides",
+          "L'élève se déplace avec agilité et efficacité"
+        ]
+      }
+    }
   },
   {
     "titre": "Grimper à l'échelle de corde",
@@ -56,8 +253,57 @@
     "variantes": "Monter plus haut, monter sans utiliser un bras, monter les yeux fermés (guidé).",
     "adaptation": "Échelle stabilisée par un partenaire, monter seulement 1 m, aide de l'enseignant.",
     "duree": 15,
-    "materiel": ["Échelle de corde suspendue", "Tapis de réception épais"],
-    "tags": ["échelle", "corde", "stabilité", "grimper"]
+    "materiel": [
+      "Échelle de corde suspendue",
+      "Tapis de réception épais"
+    ],
+    "tags": [
+      "échelle",
+      "corde",
+      "stabilité",
+      "grimper"
+    ],
+    "progression": {
+      "niveau1": {
+        "titre": "Débutant",
+        "description": "L'élève découvre l'activité et se familiarise avec les mouvements fondamentaux. Pour « Grimper à l'échelle de corde », voici les attentes à ce niveau.",
+        "consignes": [
+          "Suivre des lignes au sol ou des repères visuels",
+          "Garder le contrôle de son corps en mouvement",
+          "Respecter les limites de son espace"
+        ],
+        "criteres_reussite": [
+          "L'élève freine et s'arrête sur commande",
+          "L'élève se déplace de façon contrôlée"
+        ]
+      },
+      "niveau2": {
+        "titre": "Intermédiaire",
+        "description": "L'intermédiaire travaille la régularité et commence à combiner les habiletés. Pour « Grimper à l'échelle de corde », voici les attentes à ce niveau.",
+        "consignes": [
+          "S'adapter au rythme d'un partenaire",
+          "Se déplacer en changeant de direction sur signal",
+          "Augmenter la vitesse tout en gardant le contrôle"
+        ],
+        "criteres_reussite": [
+          "L'élève change de direction sans perte d'équilibre",
+          "La transition entre les déplacements est fluide"
+        ]
+      },
+      "niveau3": {
+        "titre": "Avancé",
+        "description": "L'expert peut exécuter l'activité dans des contextes variés et exigeants. Pour « Grimper à l'échelle de corde », voici les attentes à ce niveau.",
+        "consignes": [
+          "Créer des feintes et des changements de rythme",
+          "Combiner plusieurs types de déplacement en enchaînement",
+          "Réagir rapidement aux changements d'environnement"
+        ],
+        "criteres_reussite": [
+          "Les enchaînements sont fluides et rapides",
+          "L'élève se déplace avec agilité et efficacité"
+        ]
+      }
+    }
   },
   {
     "titre": "Grimper sur banc incliné",
@@ -68,8 +314,58 @@
     "variantes": "Monter à reculons, monter en crabe, monter avec un objet dans une main.",
     "adaptation": "Pente très faible, banc au sol d'abord, aide de l'enseignant à chaque passage.",
     "duree": 10,
-    "materiel": ["Banc suédois", "Espalier pour accrocher le banc", "Tapis de sécurité"],
-    "tags": ["banc incliné", "pente", "maternelle", "initiation"]
+    "materiel": [
+      "Banc suédois",
+      "Espalier pour accrocher le banc",
+      "Tapis de sécurité"
+    ],
+    "tags": [
+      "banc incliné",
+      "pente",
+      "maternelle",
+      "initiation"
+    ],
+    "progression": {
+      "niveau1": {
+        "titre": "Débutant",
+        "description": "Le débutant explore les bases de l'activité avec un accompagnement soutenu. Pour « Grimper sur banc incliné », voici les attentes à ce niveau.",
+        "consignes": [
+          "Garder le contrôle de son corps en mouvement",
+          "Respecter les limites de son espace",
+          "Se déplacer à vitesse lente dans un espace délimité"
+        ],
+        "criteres_reussite": [
+          "L'élève freine et s'arrête sur commande",
+          "Le patron moteur de base est reconnaissable"
+        ]
+      },
+      "niveau2": {
+        "titre": "Intermédiaire",
+        "description": "L'élève est capable d'exécuter l'activité de façon autonome avec quelques ajustements. Pour « Grimper sur banc incliné », voici les attentes à ce niveau.",
+        "consignes": [
+          "Alterner entre deux types de déplacement",
+          "S'adapter au rythme d'un partenaire",
+          "Se déplacer en changeant de direction sur signal"
+        ],
+        "criteres_reussite": [
+          "La transition entre les déplacements est fluide",
+          "L'élève maintient sa vitesse dans les changements"
+        ]
+      },
+      "niveau3": {
+        "titre": "Avancé",
+        "description": "L'élève perfectionne sa technique et s'adapte à des situations complexes. Pour « Grimper sur banc incliné », voici les attentes à ce niveau.",
+        "consignes": [
+          "Se déplacer en situation de jeu avec adversaire",
+          "Optimiser ses trajectoires pour l'efficacité",
+          "Réagir rapidement aux changements d'environnement"
+        ],
+        "criteres_reussite": [
+          "L'élève adapte ses déplacements à la situation de jeu",
+          "L'élève se déplace avec agilité et efficacité"
+        ]
+      }
+    }
   },
   {
     "titre": "Parcours vertical en espalier",
@@ -80,8 +376,57 @@
     "variantes": "Parcours plus long, parcours avec stations (tenir 5 sec à certains endroits), parcours en duo.",
     "adaptation": "Parcours plus court, touches au sol permises, aide d'un partenaire.",
     "duree": 15,
-    "materiel": ["Espalier mural (section longue)", "Tapis de réception"],
-    "tags": ["parcours", "espalier", "circuit", "endurance"]
+    "materiel": [
+      "Espalier mural (section longue)",
+      "Tapis de réception"
+    ],
+    "tags": [
+      "parcours",
+      "espalier",
+      "circuit",
+      "endurance"
+    ],
+    "progression": {
+      "niveau1": {
+        "titre": "Débutant",
+        "description": "À ce stade, l'objectif est d'apprivoiser l'exercice sans pression de performance. Pour « Parcours vertical en espalier », voici les attentes à ce niveau.",
+        "consignes": [
+          "Pratiquer un seul type de déplacement à la fois",
+          "Se déplacer à vitesse lente dans un espace délimité",
+          "Respecter les limites de son espace"
+        ],
+        "criteres_reussite": [
+          "L'élève freine et s'arrête sur commande",
+          "L'élève se déplace de façon contrôlée"
+        ]
+      },
+      "niveau2": {
+        "titre": "Intermédiaire",
+        "description": "L'élève est capable d'exécuter l'activité de façon autonome avec quelques ajustements. Pour « Parcours vertical en espalier », voici les attentes à ce niveau.",
+        "consignes": [
+          "Augmenter la vitesse tout en gardant le contrôle",
+          "Alterner entre deux types de déplacement",
+          "S'adapter au rythme d'un partenaire"
+        ],
+        "criteres_reussite": [
+          "L'élève change de direction sans perte d'équilibre",
+          "L'élève maintient sa vitesse dans les changements"
+        ]
+      },
+      "niveau3": {
+        "titre": "Avancé",
+        "description": "À ce stade avancé, l'élève crée, innove et aide ses pairs. Pour « Parcours vertical en espalier », voici les attentes à ce niveau.",
+        "consignes": [
+          "Combiner plusieurs types de déplacement en enchaînement",
+          "Réagir rapidement aux changements d'environnement",
+          "Créer des feintes et des changements de rythme"
+        ],
+        "criteres_reussite": [
+          "L'élève adapte ses déplacements à la situation de jeu",
+          "Les enchaînements sont fluides et rapides"
+        ]
+      }
+    }
   },
   {
     "titre": "Grimper à la perche verticale",
@@ -92,8 +437,57 @@
     "variantes": "Grimper 2 perches côte à côte, monter plus haut, descente les jambes d'abord.",
     "adaptation": "Monter 1 m seulement, perche plus épaisse (plus facile à serrer), aide de l'enseignant.",
     "duree": 15,
-    "materiel": ["Perche verticale fixe", "Tapis de réception épais"],
-    "tags": ["perche", "verticale", "enroulement", "force"]
+    "materiel": [
+      "Perche verticale fixe",
+      "Tapis de réception épais"
+    ],
+    "tags": [
+      "perche",
+      "verticale",
+      "enroulement",
+      "force"
+    ],
+    "progression": {
+      "niveau1": {
+        "titre": "Débutant",
+        "description": "À ce stade, l'objectif est d'apprivoiser l'exercice sans pression de performance. Pour « Grimper à la perche verticale », voici les attentes à ce niveau.",
+        "consignes": [
+          "Respecter les limites de son espace",
+          "Se déplacer à vitesse lente dans un espace délimité",
+          "Suivre des lignes au sol ou des repères visuels"
+        ],
+        "criteres_reussite": [
+          "L'élève freine et s'arrête sur commande",
+          "Le patron moteur de base est reconnaissable"
+        ]
+      },
+      "niveau2": {
+        "titre": "Intermédiaire",
+        "description": "L'élève est capable d'exécuter l'activité de façon autonome avec quelques ajustements. Pour « Grimper à la perche verticale », voici les attentes à ce niveau.",
+        "consignes": [
+          "S'adapter au rythme d'un partenaire",
+          "Se déplacer en changeant de direction sur signal",
+          "Combiner déplacement et manipulation d'objet"
+        ],
+        "criteres_reussite": [
+          "L'élève change de direction sans perte d'équilibre",
+          "La transition entre les déplacements est fluide"
+        ]
+      },
+      "niveau3": {
+        "titre": "Avancé",
+        "description": "L'expert peut exécuter l'activité dans des contextes variés et exigeants. Pour « Grimper à la perche verticale », voici les attentes à ce niveau.",
+        "consignes": [
+          "Combiner plusieurs types de déplacement en enchaînement",
+          "Créer des feintes et des changements de rythme",
+          "Optimiser ses trajectoires pour l'efficacité"
+        ],
+        "criteres_reussite": [
+          "L'élève adapte ses déplacements à la situation de jeu",
+          "L'élève se déplace avec agilité et efficacité"
+        ]
+      }
+    }
   },
   {
     "titre": "Traversée en brachiation (barres de singe)",
@@ -104,8 +498,57 @@
     "variantes": "Sauter un barreau, traverser en reculant, traverser avec demi-tour, traverser en se balançant.",
     "adaptation": "Pieds sur un banc sous les barres (supporter une partie du poids), 2 barreaux seulement, aide.",
     "duree": 15,
-    "materiel": ["Structure de barres de singe (monkey bars)", "Tapis de réception"],
-    "tags": ["brachiation", "barres", "suspension", "préhension"]
+    "materiel": [
+      "Structure de barres de singe (monkey bars)",
+      "Tapis de réception"
+    ],
+    "tags": [
+      "brachiation",
+      "barres",
+      "suspension",
+      "préhension"
+    ],
+    "progression": {
+      "niveau1": {
+        "titre": "Débutant",
+        "description": "À ce stade, l'objectif est d'apprivoiser l'exercice sans pression de performance. Pour « Traversée en brachiation (barres de singe) », voici les attentes à ce niveau.",
+        "consignes": [
+          "Se déplacer à vitesse lente dans un espace délimité",
+          "Suivre des lignes au sol ou des repères visuels",
+          "Garder le contrôle de son corps en mouvement"
+        ],
+        "criteres_reussite": [
+          "L'élève se déplace de façon contrôlée",
+          "Le patron moteur de base est reconnaissable"
+        ]
+      },
+      "niveau2": {
+        "titre": "Intermédiaire",
+        "description": "L'intermédiaire travaille la régularité et commence à combiner les habiletés. Pour « Traversée en brachiation (barres de singe) », voici les attentes à ce niveau.",
+        "consignes": [
+          "S'adapter au rythme d'un partenaire",
+          "Combiner déplacement et manipulation d'objet",
+          "Alterner entre deux types de déplacement"
+        ],
+        "criteres_reussite": [
+          "L'élève maintient sa vitesse dans les changements",
+          "L'élève change de direction sans perte d'équilibre"
+        ]
+      },
+      "niveau3": {
+        "titre": "Avancé",
+        "description": "L'élève perfectionne sa technique et s'adapte à des situations complexes. Pour « Traversée en brachiation (barres de singe) », voici les attentes à ce niveau.",
+        "consignes": [
+          "Réagir rapidement aux changements d'environnement",
+          "Créer des feintes et des changements de rythme",
+          "Combiner plusieurs types de déplacement en enchaînement"
+        ],
+        "criteres_reussite": [
+          "Les enchaînements sont fluides et rapides",
+          "L'élève adapte ses déplacements à la situation de jeu"
+        ]
+      }
+    }
   },
   {
     "titre": "Grimper le mur de grimpe avec parcours couleur",
@@ -116,8 +559,57 @@
     "variantes": "Voies chronométrées, voies avec prises interdites, créer sa propre voie.",
     "adaptation": "Toutes les couleurs permises, voies faciles (prises rapprochées), traversée basse seulement.",
     "duree": 20,
-    "materiel": ["Mur d'escalade avec prises colorées", "Tapis de réception"],
-    "tags": ["escalade", "couleur", "voie", "planification"]
+    "materiel": [
+      "Mur d'escalade avec prises colorées",
+      "Tapis de réception"
+    ],
+    "tags": [
+      "escalade",
+      "couleur",
+      "voie",
+      "planification"
+    ],
+    "progression": {
+      "niveau1": {
+        "titre": "Débutant",
+        "description": "À ce stade, l'objectif est d'apprivoiser l'exercice sans pression de performance. Pour « Grimper le mur de grimpe avec parcours couleur », voici les attentes à ce niveau.",
+        "consignes": [
+          "Respecter les limites de son espace",
+          "Garder le contrôle de son corps en mouvement",
+          "Se déplacer à vitesse lente dans un espace délimité"
+        ],
+        "criteres_reussite": [
+          "L'élève se déplace de façon contrôlée",
+          "L'élève freine et s'arrête sur commande"
+        ]
+      },
+      "niveau2": {
+        "titre": "Intermédiaire",
+        "description": "À ce niveau, on ajoute de la complexité tout en consolidant les acquis. Pour « Grimper le mur de grimpe avec parcours couleur », voici les attentes à ce niveau.",
+        "consignes": [
+          "Alterner entre deux types de déplacement",
+          "Augmenter la vitesse tout en gardant le contrôle",
+          "Combiner déplacement et manipulation d'objet"
+        ],
+        "criteres_reussite": [
+          "L'élève maintient sa vitesse dans les changements",
+          "L'élève change de direction sans perte d'équilibre"
+        ]
+      },
+      "niveau3": {
+        "titre": "Avancé",
+        "description": "L'élève perfectionne sa technique et s'adapte à des situations complexes. Pour « Grimper le mur de grimpe avec parcours couleur », voici les attentes à ce niveau.",
+        "consignes": [
+          "Combiner plusieurs types de déplacement en enchaînement",
+          "Se déplacer en situation de jeu avec adversaire",
+          "Réagir rapidement aux changements d'environnement"
+        ],
+        "criteres_reussite": [
+          "Les enchaînements sont fluides et rapides",
+          "L'élève adapte ses déplacements à la situation de jeu"
+        ]
+      }
+    }
   },
   {
     "titre": "Suspension chronométrée à la barre",
@@ -128,8 +620,58 @@
     "variantes": "Suspension avec balancement, suspension avec genoux montés, suspension à un bras (avancé).",
     "adaptation": "Pieds sur un step (supporter une partie du poids), chrono court, aide pour monter à la barre.",
     "duree": 10,
-    "materiel": ["Barre fixe ou barre de singe basse", "Tapis", "Chronomètre"],
-    "tags": ["suspension", "barre", "préhension", "chrono"]
+    "materiel": [
+      "Barre fixe ou barre de singe basse",
+      "Tapis",
+      "Chronomètre"
+    ],
+    "tags": [
+      "suspension",
+      "barre",
+      "préhension",
+      "chrono"
+    ],
+    "progression": {
+      "niveau1": {
+        "titre": "Débutant",
+        "description": "À ce stade, l'objectif est d'apprivoiser l'exercice sans pression de performance. Pour « Suspension chronométrée à la barre », voici les attentes à ce niveau.",
+        "consignes": [
+          "Suivre des lignes au sol ou des repères visuels",
+          "Pratiquer un seul type de déplacement à la fois",
+          "Garder le contrôle de son corps en mouvement"
+        ],
+        "criteres_reussite": [
+          "L'élève freine et s'arrête sur commande",
+          "L'élève se déplace de façon contrôlée"
+        ]
+      },
+      "niveau2": {
+        "titre": "Intermédiaire",
+        "description": "À ce niveau, on ajoute de la complexité tout en consolidant les acquis. Pour « Suspension chronométrée à la barre », voici les attentes à ce niveau.",
+        "consignes": [
+          "Se déplacer en changeant de direction sur signal",
+          "Alterner entre deux types de déplacement",
+          "Augmenter la vitesse tout en gardant le contrôle"
+        ],
+        "criteres_reussite": [
+          "L'élève maintient sa vitesse dans les changements",
+          "La transition entre les déplacements est fluide"
+        ]
+      },
+      "niveau3": {
+        "titre": "Avancé",
+        "description": "À ce stade avancé, l'élève crée, innove et aide ses pairs. Pour « Suspension chronométrée à la barre », voici les attentes à ce niveau.",
+        "consignes": [
+          "Réagir rapidement aux changements d'environnement",
+          "Se déplacer en situation de jeu avec adversaire",
+          "Créer des feintes et des changements de rythme"
+        ],
+        "criteres_reussite": [
+          "Les enchaînements sont fluides et rapides",
+          "L'élève adapte ses déplacements à la situation de jeu"
+        ]
+      }
+    }
   },
   {
     "titre": "Escalade en traversée avec missions",
@@ -140,8 +682,58 @@
     "variantes": "Missions plus complexes, traversée en duo (un guide), traversée en reculons.",
     "adaptation": "Missions simples, prises rapprochées, pause permise.",
     "duree": 20,
-    "materiel": ["Mur d'escalade", "Épinglettes ou autocollants sur les prises", "Tapis"],
-    "tags": ["traversée", "missions", "escalade", "résolution"]
+    "materiel": [
+      "Mur d'escalade",
+      "Épinglettes ou autocollants sur les prises",
+      "Tapis"
+    ],
+    "tags": [
+      "traversée",
+      "missions",
+      "escalade",
+      "résolution"
+    ],
+    "progression": {
+      "niveau1": {
+        "titre": "Débutant",
+        "description": "Le débutant explore les bases de l'activité avec un accompagnement soutenu. Pour « Escalade en traversée avec missions », voici les attentes à ce niveau.",
+        "consignes": [
+          "Suivre des lignes au sol ou des repères visuels",
+          "Pratiquer un seul type de déplacement à la fois",
+          "Se déplacer à vitesse lente dans un espace délimité"
+        ],
+        "criteres_reussite": [
+          "L'élève se déplace de façon contrôlée",
+          "Le patron moteur de base est reconnaissable"
+        ]
+      },
+      "niveau2": {
+        "titre": "Intermédiaire",
+        "description": "L'intermédiaire travaille la régularité et commence à combiner les habiletés. Pour « Escalade en traversée avec missions », voici les attentes à ce niveau.",
+        "consignes": [
+          "Combiner déplacement et manipulation d'objet",
+          "Se déplacer en changeant de direction sur signal",
+          "Alterner entre deux types de déplacement"
+        ],
+        "criteres_reussite": [
+          "La transition entre les déplacements est fluide",
+          "L'élève maintient sa vitesse dans les changements"
+        ]
+      },
+      "niveau3": {
+        "titre": "Avancé",
+        "description": "L'élève perfectionne sa technique et s'adapte à des situations complexes. Pour « Escalade en traversée avec missions », voici les attentes à ce niveau.",
+        "consignes": [
+          "Réagir rapidement aux changements d'environnement",
+          "Optimiser ses trajectoires pour l'efficacité",
+          "Créer des feintes et des changements de rythme"
+        ],
+        "criteres_reussite": [
+          "L'élève adapte ses déplacements à la situation de jeu",
+          "L'élève se déplace avec agilité et efficacité"
+        ]
+      }
+    }
   },
   {
     "titre": "Grimper le filet vertical",
@@ -152,8 +744,57 @@
     "variantes": "Traversée latérale sur filet, filet en pente, grimper le filet à reculons.",
     "adaptation": "Filet incliné (plus facile), monter 1 m seulement, aide d'un partenaire qui stabilise le filet.",
     "duree": 12,
-    "materiel": ["Filet d'escalade vertical", "Tapis de réception épais"],
-    "tags": ["filet", "grimper", "mailles", "équilibre"]
+    "materiel": [
+      "Filet d'escalade vertical",
+      "Tapis de réception épais"
+    ],
+    "tags": [
+      "filet",
+      "grimper",
+      "mailles",
+      "équilibre"
+    ],
+    "progression": {
+      "niveau1": {
+        "titre": "Débutant",
+        "description": "L'accent est mis sur la compréhension des consignes et la sécurité. Pour « Grimper le filet vertical », voici les attentes à ce niveau.",
+        "consignes": [
+          "Respecter les limites de son espace",
+          "Garder le contrôle de son corps en mouvement",
+          "Se déplacer à vitesse lente dans un espace délimité"
+        ],
+        "criteres_reussite": [
+          "L'élève freine et s'arrête sur commande",
+          "L'élève se déplace de façon contrôlée"
+        ]
+      },
+      "niveau2": {
+        "titre": "Intermédiaire",
+        "description": "L'élève maîtrise les bases et cherche à améliorer sa constance et sa fluidité. Pour « Grimper le filet vertical », voici les attentes à ce niveau.",
+        "consignes": [
+          "Se déplacer en changeant de direction sur signal",
+          "S'adapter au rythme d'un partenaire",
+          "Alterner entre deux types de déplacement"
+        ],
+        "criteres_reussite": [
+          "La transition entre les déplacements est fluide",
+          "L'élève maintient sa vitesse dans les changements"
+        ]
+      },
+      "niveau3": {
+        "titre": "Avancé",
+        "description": "L'expert peut exécuter l'activité dans des contextes variés et exigeants. Pour « Grimper le filet vertical », voici les attentes à ce niveau.",
+        "consignes": [
+          "Créer des feintes et des changements de rythme",
+          "Se déplacer en situation de jeu avec adversaire",
+          "Optimiser ses trajectoires pour l'efficacité"
+        ],
+        "criteres_reussite": [
+          "L'élève se déplace avec agilité et efficacité",
+          "Les enchaînements sont fluides et rapides"
+        ]
+      }
+    }
   },
   {
     "titre": "Défi suspension: genoux à la poitrine",
@@ -164,8 +805,57 @@
     "variantes": "Jambes tendues (L-sit), genoux montés alternés, rotation des genoux de côté.",
     "adaptation": "Genoux montés sans tenir (juste les monter et descendre), aide d'un partenaire, barre plus basse.",
     "duree": 10,
-    "materiel": ["Barre fixe", "Tapis"],
-    "tags": ["suspension", "abdominaux", "genoux", "gainage"]
+    "materiel": [
+      "Barre fixe",
+      "Tapis"
+    ],
+    "tags": [
+      "suspension",
+      "abdominaux",
+      "genoux",
+      "gainage"
+    ],
+    "progression": {
+      "niveau1": {
+        "titre": "Débutant",
+        "description": "L'accent est mis sur la compréhension des consignes et la sécurité. Pour « Défi suspension: genoux à la poitrine », voici les attentes à ce niveau.",
+        "consignes": [
+          "Se déplacer à vitesse lente dans un espace délimité",
+          "Respecter les limites de son espace",
+          "Pratiquer un seul type de déplacement à la fois"
+        ],
+        "criteres_reussite": [
+          "L'élève freine et s'arrête sur commande",
+          "L'élève se déplace de façon contrôlée"
+        ]
+      },
+      "niveau2": {
+        "titre": "Intermédiaire",
+        "description": "L'élève est capable d'exécuter l'activité de façon autonome avec quelques ajustements. Pour « Défi suspension: genoux à la poitrine », voici les attentes à ce niveau.",
+        "consignes": [
+          "Augmenter la vitesse tout en gardant le contrôle",
+          "Combiner déplacement et manipulation d'objet",
+          "Se déplacer en changeant de direction sur signal"
+        ],
+        "criteres_reussite": [
+          "La transition entre les déplacements est fluide",
+          "L'élève maintient sa vitesse dans les changements"
+        ]
+      },
+      "niveau3": {
+        "titre": "Avancé",
+        "description": "L'expert peut exécuter l'activité dans des contextes variés et exigeants. Pour « Défi suspension: genoux à la poitrine », voici les attentes à ce niveau.",
+        "consignes": [
+          "Créer des feintes et des changements de rythme",
+          "Combiner plusieurs types de déplacement en enchaînement",
+          "Se déplacer en situation de jeu avec adversaire"
+        ],
+        "criteres_reussite": [
+          "L'élève adapte ses déplacements à la situation de jeu",
+          "L'élève se déplace avec agilité et efficacité"
+        ]
+      }
+    }
   },
   {
     "titre": "Grimper le plinth en escalier",
@@ -176,8 +866,58 @@
     "variantes": "Plinth plus haut, monter d'un côté et descendre de l'autre, monter en reculons.",
     "adaptation": "Seulement 2 niveaux, aide de l'enseignant, escalier plus large.",
     "duree": 12,
-    "materiel": ["Plinth (caissons empilables)", "Tapis de réception", "Objet suspendu"],
-    "tags": ["plinth", "escalier", "grimper", "initiation"]
+    "materiel": [
+      "Plinth (caissons empilables)",
+      "Tapis de réception",
+      "Objet suspendu"
+    ],
+    "tags": [
+      "plinth",
+      "escalier",
+      "grimper",
+      "initiation"
+    ],
+    "progression": {
+      "niveau1": {
+        "titre": "Débutant",
+        "description": "Le débutant explore les bases de l'activité avec un accompagnement soutenu. Pour « Grimper le plinth en escalier », voici les attentes à ce niveau.",
+        "consignes": [
+          "Se déplacer à vitesse lente dans un espace délimité",
+          "Suivre des lignes au sol ou des repères visuels",
+          "Garder le contrôle de son corps en mouvement"
+        ],
+        "criteres_reussite": [
+          "Le patron moteur de base est reconnaissable",
+          "L'élève freine et s'arrête sur commande"
+        ]
+      },
+      "niveau2": {
+        "titre": "Intermédiaire",
+        "description": "L'élève est capable d'exécuter l'activité de façon autonome avec quelques ajustements. Pour « Grimper le plinth en escalier », voici les attentes à ce niveau.",
+        "consignes": [
+          "Alterner entre deux types de déplacement",
+          "Augmenter la vitesse tout en gardant le contrôle",
+          "Combiner déplacement et manipulation d'objet"
+        ],
+        "criteres_reussite": [
+          "La transition entre les déplacements est fluide",
+          "L'élève change de direction sans perte d'équilibre"
+        ]
+      },
+      "niveau3": {
+        "titre": "Avancé",
+        "description": "L'élève démontre une maîtrise complète et peut enseigner aux autres. Pour « Grimper le plinth en escalier », voici les attentes à ce niveau.",
+        "consignes": [
+          "Créer des feintes et des changements de rythme",
+          "Se déplacer en situation de jeu avec adversaire",
+          "Combiner plusieurs types de déplacement en enchaînement"
+        ],
+        "criteres_reussite": [
+          "Les enchaînements sont fluides et rapides",
+          "L'élève adapte ses déplacements à la situation de jeu"
+        ]
+      }
+    }
   },
   {
     "titre": "Corde à nœuds avec arrêts",
@@ -188,8 +928,57 @@
     "variantes": "Monter 2 nœuds à la fois, monter sans les pieds (avancé), monter les yeux fermés.",
     "adaptation": "Monter 2 nœuds seulement, aide de l'enseignant, corde inclinée.",
     "duree": 12,
-    "materiel": ["Corde à nœuds suspendue", "Tapis de réception"],
-    "tags": ["corde", "nœuds", "arrêts", "progression"]
+    "materiel": [
+      "Corde à nœuds suspendue",
+      "Tapis de réception"
+    ],
+    "tags": [
+      "corde",
+      "nœuds",
+      "arrêts",
+      "progression"
+    ],
+    "progression": {
+      "niveau1": {
+        "titre": "Débutant",
+        "description": "Le débutant explore les bases de l'activité avec un accompagnement soutenu. Pour « Corde à nœuds avec arrêts », voici les attentes à ce niveau.",
+        "consignes": [
+          "Garder le contrôle de son corps en mouvement",
+          "Respecter les limites de son espace",
+          "Se déplacer à vitesse lente dans un espace délimité"
+        ],
+        "criteres_reussite": [
+          "Le patron moteur de base est reconnaissable",
+          "L'élève freine et s'arrête sur commande"
+        ]
+      },
+      "niveau2": {
+        "titre": "Intermédiaire",
+        "description": "L'élève maîtrise les bases et cherche à améliorer sa constance et sa fluidité. Pour « Corde à nœuds avec arrêts », voici les attentes à ce niveau.",
+        "consignes": [
+          "Combiner déplacement et manipulation d'objet",
+          "S'adapter au rythme d'un partenaire",
+          "Augmenter la vitesse tout en gardant le contrôle"
+        ],
+        "criteres_reussite": [
+          "L'élève change de direction sans perte d'équilibre",
+          "L'élève maintient sa vitesse dans les changements"
+        ]
+      },
+      "niveau3": {
+        "titre": "Avancé",
+        "description": "L'élève perfectionne sa technique et s'adapte à des situations complexes. Pour « Corde à nœuds avec arrêts », voici les attentes à ce niveau.",
+        "consignes": [
+          "Optimiser ses trajectoires pour l'efficacité",
+          "Créer des feintes et des changements de rythme",
+          "Se déplacer en situation de jeu avec adversaire"
+        ],
+        "criteres_reussite": [
+          "L'élève adapte ses déplacements à la situation de jeu",
+          "Les enchaînements sont fluides et rapides"
+        ]
+      }
+    }
   },
   {
     "titre": "Grimper en araignée sur espalier",
@@ -200,8 +989,57 @@
     "variantes": "Araignée qui s'arrête à chaque barreau (statue), araignée qui traverse latéralement.",
     "adaptation": "Monter 1-2 barreaux seulement, aide constante, tapis épais.",
     "duree": 10,
-    "materiel": ["Espalier mural", "Tapis de réception"],
-    "tags": ["araignée", "espalier", "maternelle", "confiance"]
+    "materiel": [
+      "Espalier mural",
+      "Tapis de réception"
+    ],
+    "tags": [
+      "araignée",
+      "espalier",
+      "maternelle",
+      "confiance"
+    ],
+    "progression": {
+      "niveau1": {
+        "titre": "Débutant",
+        "description": "À ce stade, l'objectif est d'apprivoiser l'exercice sans pression de performance. Pour « Grimper en araignée sur espalier », voici les attentes à ce niveau.",
+        "consignes": [
+          "Suivre des lignes au sol ou des repères visuels",
+          "Respecter les limites de son espace",
+          "Garder le contrôle de son corps en mouvement"
+        ],
+        "criteres_reussite": [
+          "L'élève freine et s'arrête sur commande",
+          "L'élève se déplace de façon contrôlée"
+        ]
+      },
+      "niveau2": {
+        "titre": "Intermédiaire",
+        "description": "À ce niveau, on ajoute de la complexité tout en consolidant les acquis. Pour « Grimper en araignée sur espalier », voici les attentes à ce niveau.",
+        "consignes": [
+          "Augmenter la vitesse tout en gardant le contrôle",
+          "Se déplacer en changeant de direction sur signal",
+          "Alterner entre deux types de déplacement"
+        ],
+        "criteres_reussite": [
+          "L'élève change de direction sans perte d'équilibre",
+          "La transition entre les déplacements est fluide"
+        ]
+      },
+      "niveau3": {
+        "titre": "Avancé",
+        "description": "L'élève perfectionne sa technique et s'adapte à des situations complexes. Pour « Grimper en araignée sur espalier », voici les attentes à ce niveau.",
+        "consignes": [
+          "Réagir rapidement aux changements d'environnement",
+          "Optimiser ses trajectoires pour l'efficacité",
+          "Se déplacer en situation de jeu avec adversaire"
+        ],
+        "criteres_reussite": [
+          "L'élève se déplace avec agilité et efficacité",
+          "Les enchaînements sont fluides et rapides"
+        ]
+      }
+    }
   },
   {
     "titre": "Circuit grimpe en 4 stations",
@@ -212,8 +1050,60 @@
     "variantes": "5 stations avec filet ajouté, stations chronométrées, circuit en duo.",
     "adaptation": "3 stations, temps réduit, exercices simplifiés, aide aux stations difficiles.",
     "duree": 20,
-    "materiel": ["Espalier", "Corde", "Barres de singe", "Mur d'escalade", "Tapis"],
-    "tags": ["circuit", "grimpe", "stations", "variété"]
+    "materiel": [
+      "Espalier",
+      "Corde",
+      "Barres de singe",
+      "Mur d'escalade",
+      "Tapis"
+    ],
+    "tags": [
+      "circuit",
+      "grimpe",
+      "stations",
+      "variété"
+    ],
+    "progression": {
+      "niveau1": {
+        "titre": "Débutant",
+        "description": "L'élève découvre l'activité et se familiarise avec les mouvements fondamentaux. Pour « Circuit grimpe en 4 stations », voici les attentes à ce niveau.",
+        "consignes": [
+          "Suivre des lignes au sol ou des repères visuels",
+          "Respecter les limites de son espace",
+          "Se déplacer à vitesse lente dans un espace délimité"
+        ],
+        "criteres_reussite": [
+          "Le patron moteur de base est reconnaissable",
+          "L'élève freine et s'arrête sur commande"
+        ]
+      },
+      "niveau2": {
+        "titre": "Intermédiaire",
+        "description": "À ce niveau, on ajoute de la complexité tout en consolidant les acquis. Pour « Circuit grimpe en 4 stations », voici les attentes à ce niveau.",
+        "consignes": [
+          "Augmenter la vitesse tout en gardant le contrôle",
+          "S'adapter au rythme d'un partenaire",
+          "Alterner entre deux types de déplacement"
+        ],
+        "criteres_reussite": [
+          "La transition entre les déplacements est fluide",
+          "L'élève change de direction sans perte d'équilibre"
+        ]
+      },
+      "niveau3": {
+        "titre": "Avancé",
+        "description": "L'expert peut exécuter l'activité dans des contextes variés et exigeants. Pour « Circuit grimpe en 4 stations », voici les attentes à ce niveau.",
+        "consignes": [
+          "Se déplacer en situation de jeu avec adversaire",
+          "Réagir rapidement aux changements d'environnement",
+          "Combiner plusieurs types de déplacement en enchaînement"
+        ],
+        "criteres_reussite": [
+          "Les enchaînements sont fluides et rapides",
+          "L'élève se déplace avec agilité et efficacité"
+        ]
+      }
+    }
   },
   {
     "titre": "Grimper un banc retourné (poutre)",
@@ -224,8 +1114,58 @@
     "variantes": "Monter les yeux à demi-fermés, monter avec un objet dans une main, monter à reculons.",
     "adaptation": "Côté large du banc (plus facile), pente faible, aide de l'enseignant.",
     "duree": 10,
-    "materiel": ["Banc suédois", "Espalier", "Tapis de sécurité"],
-    "tags": ["banc", "poutre", "pente", "équilibre"]
+    "materiel": [
+      "Banc suédois",
+      "Espalier",
+      "Tapis de sécurité"
+    ],
+    "tags": [
+      "banc",
+      "poutre",
+      "pente",
+      "équilibre"
+    ],
+    "progression": {
+      "niveau1": {
+        "titre": "Débutant",
+        "description": "À ce stade, l'objectif est d'apprivoiser l'exercice sans pression de performance. Pour « Grimper un banc retourné (poutre) », voici les attentes à ce niveau.",
+        "consignes": [
+          "Se déplacer à vitesse lente dans un espace délimité",
+          "Garder le contrôle de son corps en mouvement",
+          "Pratiquer un seul type de déplacement à la fois"
+        ],
+        "criteres_reussite": [
+          "L'élève freine et s'arrête sur commande",
+          "Le patron moteur de base est reconnaissable"
+        ]
+      },
+      "niveau2": {
+        "titre": "Intermédiaire",
+        "description": "L'élève maîtrise les bases et cherche à améliorer sa constance et sa fluidité. Pour « Grimper un banc retourné (poutre) », voici les attentes à ce niveau.",
+        "consignes": [
+          "Combiner déplacement et manipulation d'objet",
+          "S'adapter au rythme d'un partenaire",
+          "Augmenter la vitesse tout en gardant le contrôle"
+        ],
+        "criteres_reussite": [
+          "L'élève maintient sa vitesse dans les changements",
+          "L'élève change de direction sans perte d'équilibre"
+        ]
+      },
+      "niveau3": {
+        "titre": "Avancé",
+        "description": "L'expert peut exécuter l'activité dans des contextes variés et exigeants. Pour « Grimper un banc retourné (poutre) », voici les attentes à ce niveau.",
+        "consignes": [
+          "Optimiser ses trajectoires pour l'efficacité",
+          "Se déplacer en situation de jeu avec adversaire",
+          "Créer des feintes et des changements de rythme"
+        ],
+        "criteres_reussite": [
+          "L'élève se déplace avec agilité et efficacité",
+          "Les enchaînements sont fluides et rapides"
+        ]
+      }
+    }
   },
   {
     "titre": "Escalade bloc (boulder) avec défi",
@@ -236,8 +1176,57 @@
     "variantes": "Créer ses propres problèmes, compétition amicale, grimper avec une main de moins.",
     "adaptation": "Problèmes très faciles (V0), prises rapprochées, traversée basse seulement.",
     "duree": 25,
-    "materiel": ["Mur de bloc", "Tapis de réception très épais (chute)"],
-    "tags": ["bloc", "boulder", "problème", "résolution"]
+    "materiel": [
+      "Mur de bloc",
+      "Tapis de réception très épais (chute)"
+    ],
+    "tags": [
+      "bloc",
+      "boulder",
+      "problème",
+      "résolution"
+    ],
+    "progression": {
+      "niveau1": {
+        "titre": "Débutant",
+        "description": "Le débutant explore les bases de l'activité avec un accompagnement soutenu. Pour « Escalade bloc (boulder) avec défi », voici les attentes à ce niveau.",
+        "consignes": [
+          "Pratiquer un seul type de déplacement à la fois",
+          "Garder le contrôle de son corps en mouvement",
+          "Respecter les limites de son espace"
+        ],
+        "criteres_reussite": [
+          "Le patron moteur de base est reconnaissable",
+          "L'élève se déplace de façon contrôlée"
+        ]
+      },
+      "niveau2": {
+        "titre": "Intermédiaire",
+        "description": "À ce niveau, on ajoute de la complexité tout en consolidant les acquis. Pour « Escalade bloc (boulder) avec défi », voici les attentes à ce niveau.",
+        "consignes": [
+          "Combiner déplacement et manipulation d'objet",
+          "Alterner entre deux types de déplacement",
+          "S'adapter au rythme d'un partenaire"
+        ],
+        "criteres_reussite": [
+          "L'élève maintient sa vitesse dans les changements",
+          "L'élève change de direction sans perte d'équilibre"
+        ]
+      },
+      "niveau3": {
+        "titre": "Avancé",
+        "description": "L'élève démontre une maîtrise complète et peut enseigner aux autres. Pour « Escalade bloc (boulder) avec défi », voici les attentes à ce niveau.",
+        "consignes": [
+          "Réagir rapidement aux changements d'environnement",
+          "Créer des feintes et des changements de rythme",
+          "Se déplacer en situation de jeu avec adversaire"
+        ],
+        "criteres_reussite": [
+          "L'élève adapte ses déplacements à la situation de jeu",
+          "L'élève se déplace avec agilité et efficacité"
+        ]
+      }
+    }
   },
   {
     "titre": "Suspension avec déplacement latéral sur barre",
@@ -248,8 +1237,57 @@
     "variantes": "Déplacement avec mains croisées, déplacement rapide, aller-retour sans pause.",
     "adaptation": "Pieds sur un banc, déplacement sur 50 cm seulement, aide d'un partenaire.",
     "duree": 10,
-    "materiel": ["Barre fixe longue", "Tapis"],
-    "tags": ["suspension", "latéral", "barre", "préhension"]
+    "materiel": [
+      "Barre fixe longue",
+      "Tapis"
+    ],
+    "tags": [
+      "suspension",
+      "latéral",
+      "barre",
+      "préhension"
+    ],
+    "progression": {
+      "niveau1": {
+        "titre": "Débutant",
+        "description": "L'élève découvre l'activité et se familiarise avec les mouvements fondamentaux. Pour « Suspension avec déplacement latéral sur barre », voici les attentes à ce niveau.",
+        "consignes": [
+          "Se déplacer à vitesse lente dans un espace délimité",
+          "Suivre des lignes au sol ou des repères visuels",
+          "Respecter les limites de son espace"
+        ],
+        "criteres_reussite": [
+          "Le patron moteur de base est reconnaissable",
+          "L'élève se déplace de façon contrôlée"
+        ]
+      },
+      "niveau2": {
+        "titre": "Intermédiaire",
+        "description": "L'élève est capable d'exécuter l'activité de façon autonome avec quelques ajustements. Pour « Suspension avec déplacement latéral sur barre », voici les attentes à ce niveau.",
+        "consignes": [
+          "Augmenter la vitesse tout en gardant le contrôle",
+          "Se déplacer en changeant de direction sur signal",
+          "S'adapter au rythme d'un partenaire"
+        ],
+        "criteres_reussite": [
+          "L'élève change de direction sans perte d'équilibre",
+          "La transition entre les déplacements est fluide"
+        ]
+      },
+      "niveau3": {
+        "titre": "Avancé",
+        "description": "L'élève démontre une maîtrise complète et peut enseigner aux autres. Pour « Suspension avec déplacement latéral sur barre », voici les attentes à ce niveau.",
+        "consignes": [
+          "Se déplacer en situation de jeu avec adversaire",
+          "Optimiser ses trajectoires pour l'efficacité",
+          "Combiner plusieurs types de déplacement en enchaînement"
+        ],
+        "criteres_reussite": [
+          "Les enchaînements sont fluides et rapides",
+          "L'élève adapte ses déplacements à la situation de jeu"
+        ]
+      }
+    }
   },
   {
     "titre": "Grimper le mât de pompier",
@@ -260,8 +1298,57 @@
     "variantes": "Montée chronométrée, descente rapide contrôlée, monter et faire une pose en hauteur.",
     "adaptation": "Mât plus épais (plus facile), monter 1 m seulement, corde à côté pour se retenir.",
     "duree": 12,
-    "materiel": ["Mât vertical fixe", "Tapis de réception épais"],
-    "tags": ["mât", "pompier", "vertical", "technique"]
+    "materiel": [
+      "Mât vertical fixe",
+      "Tapis de réception épais"
+    ],
+    "tags": [
+      "mât",
+      "pompier",
+      "vertical",
+      "technique"
+    ],
+    "progression": {
+      "niveau1": {
+        "titre": "Débutant",
+        "description": "À ce stade, l'objectif est d'apprivoiser l'exercice sans pression de performance. Pour « Grimper le mât de pompier », voici les attentes à ce niveau.",
+        "consignes": [
+          "Garder le contrôle de son corps en mouvement",
+          "Se déplacer à vitesse lente dans un espace délimité",
+          "Suivre des lignes au sol ou des repères visuels"
+        ],
+        "criteres_reussite": [
+          "Le patron moteur de base est reconnaissable",
+          "L'élève se déplace de façon contrôlée"
+        ]
+      },
+      "niveau2": {
+        "titre": "Intermédiaire",
+        "description": "L'élève maîtrise les bases et cherche à améliorer sa constance et sa fluidité. Pour « Grimper le mât de pompier », voici les attentes à ce niveau.",
+        "consignes": [
+          "Combiner déplacement et manipulation d'objet",
+          "Alterner entre deux types de déplacement",
+          "Augmenter la vitesse tout en gardant le contrôle"
+        ],
+        "criteres_reussite": [
+          "L'élève change de direction sans perte d'équilibre",
+          "La transition entre les déplacements est fluide"
+        ]
+      },
+      "niveau3": {
+        "titre": "Avancé",
+        "description": "L'élève démontre une maîtrise complète et peut enseigner aux autres. Pour « Grimper le mât de pompier », voici les attentes à ce niveau.",
+        "consignes": [
+          "Optimiser ses trajectoires pour l'efficacité",
+          "Combiner plusieurs types de déplacement en enchaînement",
+          "Créer des feintes et des changements de rythme"
+        ],
+        "criteres_reussite": [
+          "Les enchaînements sont fluides et rapides",
+          "L'élève se déplace avec agilité et efficacité"
+        ]
+      }
+    }
   },
   {
     "titre": "Parcours combiné sol-grimpe-sol",
@@ -272,8 +1359,59 @@
     "variantes": "Ajouter corde à grimper, ajouter obstacles au sol, parcours en relais.",
     "adaptation": "Moins de barreaux, pas de chrono, traversée optionnelle.",
     "duree": 15,
-    "materiel": ["Espalier", "Tapis", "Cônes", "Chronomètre"],
-    "tags": ["combiné", "parcours", "transition", "mixte"]
+    "materiel": [
+      "Espalier",
+      "Tapis",
+      "Cônes",
+      "Chronomètre"
+    ],
+    "tags": [
+      "combiné",
+      "parcours",
+      "transition",
+      "mixte"
+    ],
+    "progression": {
+      "niveau1": {
+        "titre": "Débutant",
+        "description": "L'accent est mis sur la compréhension des consignes et la sécurité. Pour « Parcours combiné sol-grimpe-sol », voici les attentes à ce niveau.",
+        "consignes": [
+          "Garder le contrôle de son corps en mouvement",
+          "Se déplacer à vitesse lente dans un espace délimité",
+          "Suivre des lignes au sol ou des repères visuels"
+        ],
+        "criteres_reussite": [
+          "L'élève freine et s'arrête sur commande",
+          "Le patron moteur de base est reconnaissable"
+        ]
+      },
+      "niveau2": {
+        "titre": "Intermédiaire",
+        "description": "L'élève est capable d'exécuter l'activité de façon autonome avec quelques ajustements. Pour « Parcours combiné sol-grimpe-sol », voici les attentes à ce niveau.",
+        "consignes": [
+          "Alterner entre deux types de déplacement",
+          "Se déplacer en changeant de direction sur signal",
+          "Augmenter la vitesse tout en gardant le contrôle"
+        ],
+        "criteres_reussite": [
+          "La transition entre les déplacements est fluide",
+          "L'élève change de direction sans perte d'équilibre"
+        ]
+      },
+      "niveau3": {
+        "titre": "Avancé",
+        "description": "L'expert peut exécuter l'activité dans des contextes variés et exigeants. Pour « Parcours combiné sol-grimpe-sol », voici les attentes à ce niveau.",
+        "consignes": [
+          "Créer des feintes et des changements de rythme",
+          "Réagir rapidement aux changements d'environnement",
+          "Se déplacer en situation de jeu avec adversaire"
+        ],
+        "criteres_reussite": [
+          "L'élève adapte ses déplacements à la situation de jeu",
+          "Les enchaînements sont fluides et rapides"
+        ]
+      }
+    }
   },
   {
     "titre": "Grimper l'arbre à prises (structure extérieure)",
@@ -284,8 +1422,57 @@
     "variantes": "Traversée de la structure complète, grimpe chronométrée, grimpe en duo synchronisé.",
     "adaptation": "Rester très bas, aide constante, structure plus simple.",
     "duree": 15,
-    "materiel": ["Structure de jeu extérieure sécuritaire", "Surface souple au sol"],
-    "tags": ["extérieur", "structure", "grimper", "jeu"]
+    "materiel": [
+      "Structure de jeu extérieure sécuritaire",
+      "Surface souple au sol"
+    ],
+    "tags": [
+      "extérieur",
+      "structure",
+      "grimper",
+      "jeu"
+    ],
+    "progression": {
+      "niveau1": {
+        "titre": "Débutant",
+        "description": "L'élève découvre l'activité et se familiarise avec les mouvements fondamentaux. Pour « Grimper l'arbre à prises (structure extérieure) », voici les attentes à ce niveau.",
+        "consignes": [
+          "Se déplacer à vitesse lente dans un espace délimité",
+          "Suivre des lignes au sol ou des repères visuels",
+          "Garder le contrôle de son corps en mouvement"
+        ],
+        "criteres_reussite": [
+          "L'élève freine et s'arrête sur commande",
+          "Le patron moteur de base est reconnaissable"
+        ]
+      },
+      "niveau2": {
+        "titre": "Intermédiaire",
+        "description": "À ce niveau, on ajoute de la complexité tout en consolidant les acquis. Pour « Grimper l'arbre à prises (structure extérieure) », voici les attentes à ce niveau.",
+        "consignes": [
+          "Augmenter la vitesse tout en gardant le contrôle",
+          "Alterner entre deux types de déplacement",
+          "S'adapter au rythme d'un partenaire"
+        ],
+        "criteres_reussite": [
+          "L'élève maintient sa vitesse dans les changements",
+          "La transition entre les déplacements est fluide"
+        ]
+      },
+      "niveau3": {
+        "titre": "Avancé",
+        "description": "L'expert peut exécuter l'activité dans des contextes variés et exigeants. Pour « Grimper l'arbre à prises (structure extérieure) », voici les attentes à ce niveau.",
+        "consignes": [
+          "Créer des feintes et des changements de rythme",
+          "Optimiser ses trajectoires pour l'efficacité",
+          "Se déplacer en situation de jeu avec adversaire"
+        ],
+        "criteres_reussite": [
+          "L'élève se déplace avec agilité et efficacité",
+          "Les enchaînements sont fluides et rapides"
+        ]
+      }
+    }
   },
   {
     "titre": "Appui facial tendu sur espalier (planche surélevée)",
@@ -296,8 +1483,57 @@
     "variantes": "Planche avec lever d'un pied, planche avec marche des mains, push-up surélevé.",
     "adaptation": "Pieds sur le premier barreau (plus facile), tenir 10 secondes, genoux au sol entre les séries.",
     "duree": 10,
-    "materiel": ["Espalier mural", "Tapis au sol"],
-    "tags": ["planche", "espalier", "gainage", "renforcement"]
+    "materiel": [
+      "Espalier mural",
+      "Tapis au sol"
+    ],
+    "tags": [
+      "planche",
+      "espalier",
+      "gainage",
+      "renforcement"
+    ],
+    "progression": {
+      "niveau1": {
+        "titre": "Débutant",
+        "description": "L'élève découvre l'activité et se familiarise avec les mouvements fondamentaux. Pour « Appui facial tendu sur espalier (planche surélevée) », voici les attentes à ce niveau.",
+        "consignes": [
+          "Se déplacer à vitesse lente dans un espace délimité",
+          "Respecter les limites de son espace",
+          "Suivre des lignes au sol ou des repères visuels"
+        ],
+        "criteres_reussite": [
+          "Le patron moteur de base est reconnaissable",
+          "L'élève freine et s'arrête sur commande"
+        ]
+      },
+      "niveau2": {
+        "titre": "Intermédiaire",
+        "description": "L'intermédiaire travaille la régularité et commence à combiner les habiletés. Pour « Appui facial tendu sur espalier (planche surélevée) », voici les attentes à ce niveau.",
+        "consignes": [
+          "S'adapter au rythme d'un partenaire",
+          "Se déplacer en changeant de direction sur signal",
+          "Augmenter la vitesse tout en gardant le contrôle"
+        ],
+        "criteres_reussite": [
+          "La transition entre les déplacements est fluide",
+          "L'élève maintient sa vitesse dans les changements"
+        ]
+      },
+      "niveau3": {
+        "titre": "Avancé",
+        "description": "L'élève démontre une maîtrise complète et peut enseigner aux autres. Pour « Appui facial tendu sur espalier (planche surélevée) », voici les attentes à ce niveau.",
+        "consignes": [
+          "Combiner plusieurs types de déplacement en enchaînement",
+          "Réagir rapidement aux changements d'environnement",
+          "Créer des feintes et des changements de rythme"
+        ],
+        "criteres_reussite": [
+          "Les enchaînements sont fluides et rapides",
+          "L'élève adapte ses déplacements à la situation de jeu"
+        ]
+      }
+    }
   },
   {
     "titre": "Course d'escalade relais",
@@ -308,8 +1544,58 @@
     "variantes": "Monter la corde au lieu de l'espalier, ajouter roulade en bas, monter par 2 côtés différents.",
     "adaptation": "Moins de barreaux, distance de course réduite, pas de compétition.",
     "duree": 15,
-    "materiel": ["Espalier", "Cônes", "Tapis"],
-    "tags": ["relais", "escalade", "course", "équipe"]
+    "materiel": [
+      "Espalier",
+      "Cônes",
+      "Tapis"
+    ],
+    "tags": [
+      "relais",
+      "escalade",
+      "course",
+      "équipe"
+    ],
+    "progression": {
+      "niveau1": {
+        "titre": "Débutant",
+        "description": "L'élève découvre l'activité et se familiarise avec les mouvements fondamentaux. Pour « Course d'escalade relais », voici les attentes à ce niveau.",
+        "consignes": [
+          "Se déplacer à vitesse lente dans un espace délimité",
+          "Garder le contrôle de son corps en mouvement",
+          "Suivre des lignes au sol ou des repères visuels"
+        ],
+        "criteres_reussite": [
+          "Le patron moteur de base est reconnaissable",
+          "L'élève se déplace de façon contrôlée"
+        ]
+      },
+      "niveau2": {
+        "titre": "Intermédiaire",
+        "description": "À ce niveau, on ajoute de la complexité tout en consolidant les acquis. Pour « Course d'escalade relais », voici les attentes à ce niveau.",
+        "consignes": [
+          "Se déplacer en changeant de direction sur signal",
+          "Alterner entre deux types de déplacement",
+          "S'adapter au rythme d'un partenaire"
+        ],
+        "criteres_reussite": [
+          "L'élève maintient sa vitesse dans les changements",
+          "La transition entre les déplacements est fluide"
+        ]
+      },
+      "niveau3": {
+        "titre": "Avancé",
+        "description": "À ce stade avancé, l'élève crée, innove et aide ses pairs. Pour « Course d'escalade relais », voici les attentes à ce niveau.",
+        "consignes": [
+          "Se déplacer en situation de jeu avec adversaire",
+          "Combiner plusieurs types de déplacement en enchaînement",
+          "Réagir rapidement aux changements d'environnement"
+        ],
+        "criteres_reussite": [
+          "L'élève se déplace avec agilité et efficacité",
+          "L'élève adapte ses déplacements à la situation de jeu"
+        ]
+      }
+    }
   },
   {
     "titre": "Grimper en duo coopératif",
@@ -320,8 +1606,57 @@
     "variantes": "Grimper en se tenant une main, grimper en trio, grimper en synchronisant chaque mouvement.",
     "adaptation": "Monter 3 barreaux, pauses entre les barreaux, duo de niveaux similaires.",
     "duree": 12,
-    "materiel": ["Espalier mural large", "Tapis"],
-    "tags": ["duo", "coopératif", "grimper", "synchronisation"]
+    "materiel": [
+      "Espalier mural large",
+      "Tapis"
+    ],
+    "tags": [
+      "duo",
+      "coopératif",
+      "grimper",
+      "synchronisation"
+    ],
+    "progression": {
+      "niveau1": {
+        "titre": "Débutant",
+        "description": "À ce stade, l'objectif est d'apprivoiser l'exercice sans pression de performance. Pour « Grimper en duo coopératif », voici les attentes à ce niveau.",
+        "consignes": [
+          "Garder le contrôle de son corps en mouvement",
+          "Respecter les limites de son espace",
+          "Suivre des lignes au sol ou des repères visuels"
+        ],
+        "criteres_reussite": [
+          "Le patron moteur de base est reconnaissable",
+          "L'élève freine et s'arrête sur commande"
+        ]
+      },
+      "niveau2": {
+        "titre": "Intermédiaire",
+        "description": "L'intermédiaire travaille la régularité et commence à combiner les habiletés. Pour « Grimper en duo coopératif », voici les attentes à ce niveau.",
+        "consignes": [
+          "S'adapter au rythme d'un partenaire",
+          "Combiner déplacement et manipulation d'objet",
+          "Alterner entre deux types de déplacement"
+        ],
+        "criteres_reussite": [
+          "L'élève change de direction sans perte d'équilibre",
+          "La transition entre les déplacements est fluide"
+        ]
+      },
+      "niveau3": {
+        "titre": "Avancé",
+        "description": "L'élève démontre une maîtrise complète et peut enseigner aux autres. Pour « Grimper en duo coopératif », voici les attentes à ce niveau.",
+        "consignes": [
+          "Combiner plusieurs types de déplacement en enchaînement",
+          "Se déplacer en situation de jeu avec adversaire",
+          "Réagir rapidement aux changements d'environnement"
+        ],
+        "criteres_reussite": [
+          "L'élève adapte ses déplacements à la situation de jeu",
+          "L'élève se déplace avec agilité et efficacité"
+        ]
+      }
+    }
   },
   {
     "titre": "Grimper sur structure de jeu intérieure",
@@ -332,8 +1667,57 @@
     "variantes": "Parcours dirigé sur la structure, la traverser sans toucher le sol, la traverser à reculons.",
     "adaptation": "Aide constante, module plus bas, parcours simplifié.",
     "duree": 15,
-    "materiel": ["Module de motricité intérieur", "Tapis de sécurité"],
-    "tags": ["module", "maternelle", "exploration", "confiance"]
+    "materiel": [
+      "Module de motricité intérieur",
+      "Tapis de sécurité"
+    ],
+    "tags": [
+      "module",
+      "maternelle",
+      "exploration",
+      "confiance"
+    ],
+    "progression": {
+      "niveau1": {
+        "titre": "Débutant",
+        "description": "L'accent est mis sur la compréhension des consignes et la sécurité. Pour « Grimper sur structure de jeu intérieure », voici les attentes à ce niveau.",
+        "consignes": [
+          "Respecter les limites de son espace",
+          "Se déplacer à vitesse lente dans un espace délimité",
+          "Suivre des lignes au sol ou des repères visuels"
+        ],
+        "criteres_reussite": [
+          "L'élève freine et s'arrête sur commande",
+          "Le patron moteur de base est reconnaissable"
+        ]
+      },
+      "niveau2": {
+        "titre": "Intermédiaire",
+        "description": "L'élève maîtrise les bases et cherche à améliorer sa constance et sa fluidité. Pour « Grimper sur structure de jeu intérieure », voici les attentes à ce niveau.",
+        "consignes": [
+          "Combiner déplacement et manipulation d'objet",
+          "Alterner entre deux types de déplacement",
+          "S'adapter au rythme d'un partenaire"
+        ],
+        "criteres_reussite": [
+          "L'élève maintient sa vitesse dans les changements",
+          "La transition entre les déplacements est fluide"
+        ]
+      },
+      "niveau3": {
+        "titre": "Avancé",
+        "description": "L'expert peut exécuter l'activité dans des contextes variés et exigeants. Pour « Grimper sur structure de jeu intérieure », voici les attentes à ce niveau.",
+        "consignes": [
+          "Optimiser ses trajectoires pour l'efficacité",
+          "Combiner plusieurs types de déplacement en enchaînement",
+          "Créer des feintes et des changements de rythme"
+        ],
+        "criteres_reussite": [
+          "L'élève adapte ses déplacements à la situation de jeu",
+          "Les enchaînements sont fluides et rapides"
+        ]
+      }
+    }
   },
   {
     "titre": "Suspension à la barre avec balancement",
@@ -344,8 +1728,57 @@
     "variantes": "Balancement plus ample, balancement latéral, se balancer et lâcher pour atterrir sur tapis.",
     "adaptation": "Pas de balancement (juste tenir), pieds sur un support, durée réduite.",
     "duree": 8,
-    "materiel": ["Barre fixe", "Tapis de réception"],
-    "tags": ["balancement", "suspension", "gainage", "barre"]
+    "materiel": [
+      "Barre fixe",
+      "Tapis de réception"
+    ],
+    "tags": [
+      "balancement",
+      "suspension",
+      "gainage",
+      "barre"
+    ],
+    "progression": {
+      "niveau1": {
+        "titre": "Débutant",
+        "description": "L'accent est mis sur la compréhension des consignes et la sécurité. Pour « Suspension à la barre avec balancement », voici les attentes à ce niveau.",
+        "consignes": [
+          "Respecter les limites de son espace",
+          "Suivre des lignes au sol ou des repères visuels",
+          "Pratiquer un seul type de déplacement à la fois"
+        ],
+        "criteres_reussite": [
+          "L'élève se déplace de façon contrôlée",
+          "Le patron moteur de base est reconnaissable"
+        ]
+      },
+      "niveau2": {
+        "titre": "Intermédiaire",
+        "description": "L'intermédiaire travaille la régularité et commence à combiner les habiletés. Pour « Suspension à la barre avec balancement », voici les attentes à ce niveau.",
+        "consignes": [
+          "Augmenter la vitesse tout en gardant le contrôle",
+          "Combiner déplacement et manipulation d'objet",
+          "S'adapter au rythme d'un partenaire"
+        ],
+        "criteres_reussite": [
+          "L'élève maintient sa vitesse dans les changements",
+          "L'élève change de direction sans perte d'équilibre"
+        ]
+      },
+      "niveau3": {
+        "titre": "Avancé",
+        "description": "L'expert peut exécuter l'activité dans des contextes variés et exigeants. Pour « Suspension à la barre avec balancement », voici les attentes à ce niveau.",
+        "consignes": [
+          "Créer des feintes et des changements de rythme",
+          "Combiner plusieurs types de déplacement en enchaînement",
+          "Réagir rapidement aux changements d'environnement"
+        ],
+        "criteres_reussite": [
+          "Les enchaînements sont fluides et rapides",
+          "L'élève se déplace avec agilité et efficacité"
+        ]
+      }
+    }
   },
   {
     "titre": "Escalade de plinth empilé",
@@ -356,8 +1789,57 @@
     "variantes": "Plinth plus haut, monter d'un côté descendre de l'autre, monter avec un objet.",
     "adaptation": "2 niveaux seulement, aide pour monter et descendre, descendre en glissant au lieu de sauter.",
     "duree": 12,
-    "materiel": ["Plinth empilable", "Tapis de réception épais"],
-    "tags": ["plinth", "grimper", "hauteur", "réception"]
+    "materiel": [
+      "Plinth empilable",
+      "Tapis de réception épais"
+    ],
+    "tags": [
+      "plinth",
+      "grimper",
+      "hauteur",
+      "réception"
+    ],
+    "progression": {
+      "niveau1": {
+        "titre": "Débutant",
+        "description": "L'accent est mis sur la compréhension des consignes et la sécurité. Pour « Escalade de plinth empilé », voici les attentes à ce niveau.",
+        "consignes": [
+          "Pratiquer un seul type de déplacement à la fois",
+          "Se déplacer à vitesse lente dans un espace délimité",
+          "Suivre des lignes au sol ou des repères visuels"
+        ],
+        "criteres_reussite": [
+          "L'élève se déplace de façon contrôlée",
+          "L'élève freine et s'arrête sur commande"
+        ]
+      },
+      "niveau2": {
+        "titre": "Intermédiaire",
+        "description": "L'élève maîtrise les bases et cherche à améliorer sa constance et sa fluidité. Pour « Escalade de plinth empilé », voici les attentes à ce niveau.",
+        "consignes": [
+          "Augmenter la vitesse tout en gardant le contrôle",
+          "Se déplacer en changeant de direction sur signal",
+          "S'adapter au rythme d'un partenaire"
+        ],
+        "criteres_reussite": [
+          "La transition entre les déplacements est fluide",
+          "L'élève maintient sa vitesse dans les changements"
+        ]
+      },
+      "niveau3": {
+        "titre": "Avancé",
+        "description": "À ce stade avancé, l'élève crée, innove et aide ses pairs. Pour « Escalade de plinth empilé », voici les attentes à ce niveau.",
+        "consignes": [
+          "Se déplacer en situation de jeu avec adversaire",
+          "Créer des feintes et des changements de rythme",
+          "Combiner plusieurs types de déplacement en enchaînement"
+        ],
+        "criteres_reussite": [
+          "L'élève adapte ses déplacements à la situation de jeu",
+          "Les enchaînements sont fluides et rapides"
+        ]
+      }
+    }
   },
   {
     "titre": "Grimper la corde inclinée (45°)",
@@ -368,8 +1850,57 @@
     "variantes": "Corde à 60° (plus vertical), grimper sans les pieds (avancé), grimper les yeux fermés.",
     "adaptation": "Corde presque horizontale (20°), aide de l'enseignant, faire seulement 1 m.",
     "duree": 10,
-    "materiel": ["Corde fixée en diagonale", "Tapis au sol"],
-    "tags": ["corde inclinée", "traction", "progressif", "initiation"]
+    "materiel": [
+      "Corde fixée en diagonale",
+      "Tapis au sol"
+    ],
+    "tags": [
+      "corde inclinée",
+      "traction",
+      "progressif",
+      "initiation"
+    ],
+    "progression": {
+      "niveau1": {
+        "titre": "Débutant",
+        "description": "L'accent est mis sur la compréhension des consignes et la sécurité. Pour « Grimper la corde inclinée (45°) », voici les attentes à ce niveau.",
+        "consignes": [
+          "Se déplacer à vitesse lente dans un espace délimité",
+          "Pratiquer un seul type de déplacement à la fois",
+          "Garder le contrôle de son corps en mouvement"
+        ],
+        "criteres_reussite": [
+          "L'élève freine et s'arrête sur commande",
+          "Le patron moteur de base est reconnaissable"
+        ]
+      },
+      "niveau2": {
+        "titre": "Intermédiaire",
+        "description": "L'élève maîtrise les bases et cherche à améliorer sa constance et sa fluidité. Pour « Grimper la corde inclinée (45°) », voici les attentes à ce niveau.",
+        "consignes": [
+          "S'adapter au rythme d'un partenaire",
+          "Se déplacer en changeant de direction sur signal",
+          "Combiner déplacement et manipulation d'objet"
+        ],
+        "criteres_reussite": [
+          "La transition entre les déplacements est fluide",
+          "L'élève maintient sa vitesse dans les changements"
+        ]
+      },
+      "niveau3": {
+        "titre": "Avancé",
+        "description": "À ce stade avancé, l'élève crée, innove et aide ses pairs. Pour « Grimper la corde inclinée (45°) », voici les attentes à ce niveau.",
+        "consignes": [
+          "Réagir rapidement aux changements d'environnement",
+          "Créer des feintes et des changements de rythme",
+          "Se déplacer en situation de jeu avec adversaire"
+        ],
+        "criteres_reussite": [
+          "Les enchaînements sont fluides et rapides",
+          "L'élève adapte ses déplacements à la situation de jeu"
+        ]
+      }
+    }
   },
   {
     "titre": "Défi escalade: toucher les 4 murs",
@@ -380,8 +1911,59 @@
     "variantes": "5-6 prises cibles, prises cibles dans le désordre (libre choix), défi en duo.",
     "adaptation": "2 prises cibles seulement, prises rapprochées, descente permise entre les cibles.",
     "duree": 20,
-    "materiel": ["Mur d'escalade", "Autocollants ou craie", "Tapis", "Chronomètre"],
-    "tags": ["défi", "escalade", "cibles", "traversée"]
+    "materiel": [
+      "Mur d'escalade",
+      "Autocollants ou craie",
+      "Tapis",
+      "Chronomètre"
+    ],
+    "tags": [
+      "défi",
+      "escalade",
+      "cibles",
+      "traversée"
+    ],
+    "progression": {
+      "niveau1": {
+        "titre": "Débutant",
+        "description": "L'accent est mis sur la compréhension des consignes et la sécurité. Pour « Défi escalade: toucher les 4 murs », voici les attentes à ce niveau.",
+        "consignes": [
+          "Garder le contrôle de son corps en mouvement",
+          "Respecter les limites de son espace",
+          "Se déplacer à vitesse lente dans un espace délimité"
+        ],
+        "criteres_reussite": [
+          "L'élève freine et s'arrête sur commande",
+          "L'élève se déplace de façon contrôlée"
+        ]
+      },
+      "niveau2": {
+        "titre": "Intermédiaire",
+        "description": "L'élève est capable d'exécuter l'activité de façon autonome avec quelques ajustements. Pour « Défi escalade: toucher les 4 murs », voici les attentes à ce niveau.",
+        "consignes": [
+          "Se déplacer en changeant de direction sur signal",
+          "Combiner déplacement et manipulation d'objet",
+          "Alterner entre deux types de déplacement"
+        ],
+        "criteres_reussite": [
+          "L'élève maintient sa vitesse dans les changements",
+          "L'élève change de direction sans perte d'équilibre"
+        ]
+      },
+      "niveau3": {
+        "titre": "Avancé",
+        "description": "L'expert peut exécuter l'activité dans des contextes variés et exigeants. Pour « Défi escalade: toucher les 4 murs », voici les attentes à ce niveau.",
+        "consignes": [
+          "Créer des feintes et des changements de rythme",
+          "Réagir rapidement aux changements d'environnement",
+          "Combiner plusieurs types de déplacement en enchaînement"
+        ],
+        "criteres_reussite": [
+          "L'élève se déplace avec agilité et efficacité",
+          "Les enchaînements sont fluides et rapides"
+        ]
+      }
+    }
   },
   {
     "titre": "Grimper en aveugle (guidé par partenaire)",
@@ -392,8 +1974,58 @@
     "variantes": "Traversée en aveugle, guidage par sons (pas de mots), guidage en anglais.",
     "adaptation": "Yeux ouverts mais sans regarder les mains, 2 barreaux seulement, aide de l'enseignant en plus.",
     "duree": 15,
-    "materiel": ["Espalier mural", "Bandeau pour les yeux", "Tapis"],
-    "tags": ["aveugle", "guidé", "confiance", "communication"]
+    "materiel": [
+      "Espalier mural",
+      "Bandeau pour les yeux",
+      "Tapis"
+    ],
+    "tags": [
+      "aveugle",
+      "guidé",
+      "confiance",
+      "communication"
+    ],
+    "progression": {
+      "niveau1": {
+        "titre": "Débutant",
+        "description": "L'élève découvre l'activité et se familiarise avec les mouvements fondamentaux. Pour « Grimper en aveugle (guidé par partenaire) », voici les attentes à ce niveau.",
+        "consignes": [
+          "Pratiquer un seul type de déplacement à la fois",
+          "Respecter les limites de son espace",
+          "Suivre des lignes au sol ou des repères visuels"
+        ],
+        "criteres_reussite": [
+          "L'élève freine et s'arrête sur commande",
+          "Le patron moteur de base est reconnaissable"
+        ]
+      },
+      "niveau2": {
+        "titre": "Intermédiaire",
+        "description": "L'élève est capable d'exécuter l'activité de façon autonome avec quelques ajustements. Pour « Grimper en aveugle (guidé par partenaire) », voici les attentes à ce niveau.",
+        "consignes": [
+          "Augmenter la vitesse tout en gardant le contrôle",
+          "S'adapter au rythme d'un partenaire",
+          "Se déplacer en changeant de direction sur signal"
+        ],
+        "criteres_reussite": [
+          "La transition entre les déplacements est fluide",
+          "L'élève maintient sa vitesse dans les changements"
+        ]
+      },
+      "niveau3": {
+        "titre": "Avancé",
+        "description": "À ce stade avancé, l'élève crée, innove et aide ses pairs. Pour « Grimper en aveugle (guidé par partenaire) », voici les attentes à ce niveau.",
+        "consignes": [
+          "Combiner plusieurs types de déplacement en enchaînement",
+          "Réagir rapidement aux changements d'environnement",
+          "Optimiser ses trajectoires pour l'efficacité"
+        ],
+        "criteres_reussite": [
+          "L'élève adapte ses déplacements à la situation de jeu",
+          "Les enchaînements sont fluides et rapides"
+        ]
+      }
+    }
   },
   {
     "titre": "Parcours d'obstacles en hauteur",
@@ -404,8 +2036,60 @@
     "variantes": "Parcours chronométré, ajout de stations, parcours en relais.",
     "adaptation": "Toucher le sol permis entre les stations, moins d'agrès, aide aux passages difficiles.",
     "duree": 25,
-    "materiel": ["Espalier", "Barre", "Anneaux", "Corde", "Tapis partout"],
-    "tags": ["parcours", "hauteur", "agrès", "polyvalence"]
+    "materiel": [
+      "Espalier",
+      "Barre",
+      "Anneaux",
+      "Corde",
+      "Tapis partout"
+    ],
+    "tags": [
+      "parcours",
+      "hauteur",
+      "agrès",
+      "polyvalence"
+    ],
+    "progression": {
+      "niveau1": {
+        "titre": "Débutant",
+        "description": "L'élève découvre l'activité et se familiarise avec les mouvements fondamentaux. Pour « Parcours d'obstacles en hauteur », voici les attentes à ce niveau.",
+        "consignes": [
+          "Garder le contrôle de son corps en mouvement",
+          "Suivre des lignes au sol ou des repères visuels",
+          "Respecter les limites de son espace"
+        ],
+        "criteres_reussite": [
+          "L'élève freine et s'arrête sur commande",
+          "L'élève se déplace de façon contrôlée"
+        ]
+      },
+      "niveau2": {
+        "titre": "Intermédiaire",
+        "description": "À ce niveau, on ajoute de la complexité tout en consolidant les acquis. Pour « Parcours d'obstacles en hauteur », voici les attentes à ce niveau.",
+        "consignes": [
+          "Combiner déplacement et manipulation d'objet",
+          "Augmenter la vitesse tout en gardant le contrôle",
+          "Alterner entre deux types de déplacement"
+        ],
+        "criteres_reussite": [
+          "L'élève change de direction sans perte d'équilibre",
+          "La transition entre les déplacements est fluide"
+        ]
+      },
+      "niveau3": {
+        "titre": "Avancé",
+        "description": "À ce stade avancé, l'élève crée, innove et aide ses pairs. Pour « Parcours d'obstacles en hauteur », voici les attentes à ce niveau.",
+        "consignes": [
+          "Se déplacer en situation de jeu avec adversaire",
+          "Optimiser ses trajectoires pour l'efficacité",
+          "Réagir rapidement aux changements d'environnement"
+        ],
+        "criteres_reussite": [
+          "Les enchaînements sont fluides et rapides",
+          "L'élève adapte ses déplacements à la situation de jeu"
+        ]
+      }
+    }
   },
   {
     "titre": "Grimper et descendre l'espalier en contrôle",
@@ -416,8 +2100,58 @@
     "variantes": "Monter et toucher un jouet accroché en haut, monter et regarder par-dessus pour voir les amis.",
     "adaptation": "2 barreaux seulement, aide constante, monter avec un ami à côté.",
     "duree": 10,
-    "materiel": ["Espalier mural", "Tapis", "Jouet à accrocher"],
-    "tags": ["espalier", "contrôle", "maternelle", "patience"]
+    "materiel": [
+      "Espalier mural",
+      "Tapis",
+      "Jouet à accrocher"
+    ],
+    "tags": [
+      "espalier",
+      "contrôle",
+      "maternelle",
+      "patience"
+    ],
+    "progression": {
+      "niveau1": {
+        "titre": "Débutant",
+        "description": "Le débutant explore les bases de l'activité avec un accompagnement soutenu. Pour « Grimper et descendre l'espalier en contrôle », voici les attentes à ce niveau.",
+        "consignes": [
+          "Garder le contrôle de son corps en mouvement",
+          "Pratiquer un seul type de déplacement à la fois",
+          "Suivre des lignes au sol ou des repères visuels"
+        ],
+        "criteres_reussite": [
+          "Le patron moteur de base est reconnaissable",
+          "L'élève se déplace de façon contrôlée"
+        ]
+      },
+      "niveau2": {
+        "titre": "Intermédiaire",
+        "description": "L'élève est capable d'exécuter l'activité de façon autonome avec quelques ajustements. Pour « Grimper et descendre l'espalier en contrôle », voici les attentes à ce niveau.",
+        "consignes": [
+          "S'adapter au rythme d'un partenaire",
+          "Combiner déplacement et manipulation d'objet",
+          "Alterner entre deux types de déplacement"
+        ],
+        "criteres_reussite": [
+          "La transition entre les déplacements est fluide",
+          "L'élève maintient sa vitesse dans les changements"
+        ]
+      },
+      "niveau3": {
+        "titre": "Avancé",
+        "description": "L'expert peut exécuter l'activité dans des contextes variés et exigeants. Pour « Grimper et descendre l'espalier en contrôle », voici les attentes à ce niveau.",
+        "consignes": [
+          "Réagir rapidement aux changements d'environnement",
+          "Optimiser ses trajectoires pour l'efficacité",
+          "Combiner plusieurs types de déplacement en enchaînement"
+        ],
+        "criteres_reussite": [
+          "L'élève se déplace avec agilité et efficacité",
+          "Les enchaînements sont fluides et rapides"
+        ]
+      }
+    }
   },
   {
     "titre": "Grimper à la corde avec les pieds (technique S)",
@@ -428,8 +2162,57 @@
     "variantes": "Grimper avec une seule main, grimper le plus haut possible (compétition), grimper et toucher le plafond.",
     "adaptation": "Pratiquer la technique des pieds au sol d'abord, corde à nœuds, monter 1-2 m seulement.",
     "duree": 15,
-    "materiel": ["Corde lisse suspendue", "Tapis de réception épais"],
-    "tags": ["corde", "technique S", "pieds", "avancé"]
+    "materiel": [
+      "Corde lisse suspendue",
+      "Tapis de réception épais"
+    ],
+    "tags": [
+      "corde",
+      "technique S",
+      "pieds",
+      "avancé"
+    ],
+    "progression": {
+      "niveau1": {
+        "titre": "Débutant",
+        "description": "L'élève découvre l'activité et se familiarise avec les mouvements fondamentaux. Pour « Grimper à la corde avec les pieds (technique S) », voici les attentes à ce niveau.",
+        "consignes": [
+          "Se déplacer à vitesse lente dans un espace délimité",
+          "Pratiquer un seul type de déplacement à la fois",
+          "Suivre des lignes au sol ou des repères visuels"
+        ],
+        "criteres_reussite": [
+          "L'élève freine et s'arrête sur commande",
+          "L'élève se déplace de façon contrôlée"
+        ]
+      },
+      "niveau2": {
+        "titre": "Intermédiaire",
+        "description": "L'élève maîtrise les bases et cherche à améliorer sa constance et sa fluidité. Pour « Grimper à la corde avec les pieds (technique S) », voici les attentes à ce niveau.",
+        "consignes": [
+          "Combiner déplacement et manipulation d'objet",
+          "S'adapter au rythme d'un partenaire",
+          "Augmenter la vitesse tout en gardant le contrôle"
+        ],
+        "criteres_reussite": [
+          "La transition entre les déplacements est fluide",
+          "L'élève change de direction sans perte d'équilibre"
+        ]
+      },
+      "niveau3": {
+        "titre": "Avancé",
+        "description": "L'élève démontre une maîtrise complète et peut enseigner aux autres. Pour « Grimper à la corde avec les pieds (technique S) », voici les attentes à ce niveau.",
+        "consignes": [
+          "Créer des feintes et des changements de rythme",
+          "Se déplacer en situation de jeu avec adversaire",
+          "Combiner plusieurs types de déplacement en enchaînement"
+        ],
+        "criteres_reussite": [
+          "L'élève adapte ses déplacements à la situation de jeu",
+          "L'élève se déplace avec agilité et efficacité"
+        ]
+      }
+    }
   },
   {
     "titre": "Jeu du roi de la montagne (espalier)",
@@ -440,8 +2223,57 @@
     "variantes": "Roi de la montagne en traversée (le plus loin), roi en duo, roi avec une main dans le dos.",
     "adaptation": "Tout le monde est roi (pas de compétition), monter seulement 3 barreaux, aide.",
     "duree": 10,
-    "materiel": ["Espalier mural (section large)", "Tapis"],
-    "tags": ["roi", "montagne", "compétition", "motivation"]
+    "materiel": [
+      "Espalier mural (section large)",
+      "Tapis"
+    ],
+    "tags": [
+      "roi",
+      "montagne",
+      "compétition",
+      "motivation"
+    ],
+    "progression": {
+      "niveau1": {
+        "titre": "Débutant",
+        "description": "L'accent est mis sur la compréhension des consignes et la sécurité. Pour « Jeu du roi de la montagne (espalier) », voici les attentes à ce niveau.",
+        "consignes": [
+          "Se déplacer à vitesse lente dans un espace délimité",
+          "Pratiquer un seul type de déplacement à la fois",
+          "Garder le contrôle de son corps en mouvement"
+        ],
+        "criteres_reussite": [
+          "L'élève se déplace de façon contrôlée",
+          "L'élève freine et s'arrête sur commande"
+        ]
+      },
+      "niveau2": {
+        "titre": "Intermédiaire",
+        "description": "À ce niveau, on ajoute de la complexité tout en consolidant les acquis. Pour « Jeu du roi de la montagne (espalier) », voici les attentes à ce niveau.",
+        "consignes": [
+          "Alterner entre deux types de déplacement",
+          "Se déplacer en changeant de direction sur signal",
+          "S'adapter au rythme d'un partenaire"
+        ],
+        "criteres_reussite": [
+          "L'élève maintient sa vitesse dans les changements",
+          "La transition entre les déplacements est fluide"
+        ]
+      },
+      "niveau3": {
+        "titre": "Avancé",
+        "description": "À ce stade avancé, l'élève crée, innove et aide ses pairs. Pour « Jeu du roi de la montagne (espalier) », voici les attentes à ce niveau.",
+        "consignes": [
+          "Se déplacer en situation de jeu avec adversaire",
+          "Optimiser ses trajectoires pour l'efficacité",
+          "Créer des feintes et des changements de rythme"
+        ],
+        "criteres_reussite": [
+          "L'élève adapte ses déplacements à la situation de jeu",
+          "L'élève se déplace avec agilité et efficacité"
+        ]
+      }
+    }
   },
   {
     "titre": "Grimper sur caisses empilées (parcours ninja warrior)",
@@ -452,8 +2284,57 @@
     "variantes": "Parcours avec sauts entre les caisses, parcours chronométré, parcours en reculons.",
     "adaptation": "Caisses plus basses, aide de l'enseignant, descendre en escalier au lieu de sauter.",
     "duree": 20,
-    "materiel": ["Caisses de plinth empilables", "Tapis de réception partout"],
-    "tags": ["ninja", "caisses", "parcours", "hauteur"]
+    "materiel": [
+      "Caisses de plinth empilables",
+      "Tapis de réception partout"
+    ],
+    "tags": [
+      "ninja",
+      "caisses",
+      "parcours",
+      "hauteur"
+    ],
+    "progression": {
+      "niveau1": {
+        "titre": "Débutant",
+        "description": "L'élève découvre l'activité et se familiarise avec les mouvements fondamentaux. Pour « Grimper sur caisses empilées (parcours ninja warrior) », voici les attentes à ce niveau.",
+        "consignes": [
+          "Garder le contrôle de son corps en mouvement",
+          "Suivre des lignes au sol ou des repères visuels",
+          "Respecter les limites de son espace"
+        ],
+        "criteres_reussite": [
+          "L'élève se déplace de façon contrôlée",
+          "Le patron moteur de base est reconnaissable"
+        ]
+      },
+      "niveau2": {
+        "titre": "Intermédiaire",
+        "description": "À ce niveau, on ajoute de la complexité tout en consolidant les acquis. Pour « Grimper sur caisses empilées (parcours ninja warrior) », voici les attentes à ce niveau.",
+        "consignes": [
+          "Alterner entre deux types de déplacement",
+          "Augmenter la vitesse tout en gardant le contrôle",
+          "Se déplacer en changeant de direction sur signal"
+        ],
+        "criteres_reussite": [
+          "La transition entre les déplacements est fluide",
+          "L'élève maintient sa vitesse dans les changements"
+        ]
+      },
+      "niveau3": {
+        "titre": "Avancé",
+        "description": "L'élève perfectionne sa technique et s'adapte à des situations complexes. Pour « Grimper sur caisses empilées (parcours ninja warrior) », voici les attentes à ce niveau.",
+        "consignes": [
+          "Créer des feintes et des changements de rythme",
+          "Optimiser ses trajectoires pour l'efficacité",
+          "Combiner plusieurs types de déplacement en enchaînement"
+        ],
+        "criteres_reussite": [
+          "L'élève se déplace avec agilité et efficacité",
+          "Les enchaînements sont fluides et rapides"
+        ]
+      }
+    }
   },
   {
     "titre": "Traversée de barres asymétriques (simplifiée)",
@@ -464,8 +2345,57 @@
     "variantes": "Enchaîner avec une rotation, ajouter une 3e barre, traversée avec tour complet.",
     "adaptation": "Barres rapprochées, pieds touchant presque le sol, aide de l'enseignant.",
     "duree": 15,
-    "materiel": ["2 barres fixes à hauteurs différentes", "Tapis de réception très épais"],
-    "tags": ["barres", "asymétriques", "lâcher-attraper", "avancé"]
+    "materiel": [
+      "2 barres fixes à hauteurs différentes",
+      "Tapis de réception très épais"
+    ],
+    "tags": [
+      "barres",
+      "asymétriques",
+      "lâcher-attraper",
+      "avancé"
+    ],
+    "progression": {
+      "niveau1": {
+        "titre": "Débutant",
+        "description": "L'élève découvre l'activité et se familiarise avec les mouvements fondamentaux. Pour « Traversée de barres asymétriques (simplifiée) », voici les attentes à ce niveau.",
+        "consignes": [
+          "Respecter les limites de son espace",
+          "Pratiquer un seul type de déplacement à la fois",
+          "Se déplacer à vitesse lente dans un espace délimité"
+        ],
+        "criteres_reussite": [
+          "L'élève se déplace de façon contrôlée",
+          "Le patron moteur de base est reconnaissable"
+        ]
+      },
+      "niveau2": {
+        "titre": "Intermédiaire",
+        "description": "L'élève est capable d'exécuter l'activité de façon autonome avec quelques ajustements. Pour « Traversée de barres asymétriques (simplifiée) », voici les attentes à ce niveau.",
+        "consignes": [
+          "Alterner entre deux types de déplacement",
+          "S'adapter au rythme d'un partenaire",
+          "Se déplacer en changeant de direction sur signal"
+        ],
+        "criteres_reussite": [
+          "L'élève maintient sa vitesse dans les changements",
+          "La transition entre les déplacements est fluide"
+        ]
+      },
+      "niveau3": {
+        "titre": "Avancé",
+        "description": "L'élève perfectionne sa technique et s'adapte à des situations complexes. Pour « Traversée de barres asymétriques (simplifiée) », voici les attentes à ce niveau.",
+        "consignes": [
+          "Optimiser ses trajectoires pour l'efficacité",
+          "Combiner plusieurs types de déplacement en enchaînement",
+          "Se déplacer en situation de jeu avec adversaire"
+        ],
+        "criteres_reussite": [
+          "Les enchaînements sont fluides et rapides",
+          "L'élève se déplace avec agilité et efficacité"
+        ]
+      }
+    }
   },
   {
     "titre": "Suspension aux anneaux avec balancement",
@@ -476,8 +2406,57 @@
     "variantes": "Balancement avec genoux montés, balancement avec rotation, se balancer et lâcher pour atterrir.",
     "adaptation": "Anneaux plus bas (pieds touchent presque le sol), durée réduite, aide d'un partenaire.",
     "duree": 10,
-    "materiel": ["Anneaux de gymnastique", "Tapis de réception"],
-    "tags": ["anneaux", "suspension", "balancement", "gainage"]
+    "materiel": [
+      "Anneaux de gymnastique",
+      "Tapis de réception"
+    ],
+    "tags": [
+      "anneaux",
+      "suspension",
+      "balancement",
+      "gainage"
+    ],
+    "progression": {
+      "niveau1": {
+        "titre": "Débutant",
+        "description": "L'accent est mis sur la compréhension des consignes et la sécurité. Pour « Suspension aux anneaux avec balancement », voici les attentes à ce niveau.",
+        "consignes": [
+          "Garder le contrôle de son corps en mouvement",
+          "Respecter les limites de son espace",
+          "Pratiquer un seul type de déplacement à la fois"
+        ],
+        "criteres_reussite": [
+          "L'élève se déplace de façon contrôlée",
+          "Le patron moteur de base est reconnaissable"
+        ]
+      },
+      "niveau2": {
+        "titre": "Intermédiaire",
+        "description": "L'élève est capable d'exécuter l'activité de façon autonome avec quelques ajustements. Pour « Suspension aux anneaux avec balancement », voici les attentes à ce niveau.",
+        "consignes": [
+          "Alterner entre deux types de déplacement",
+          "Se déplacer en changeant de direction sur signal",
+          "Augmenter la vitesse tout en gardant le contrôle"
+        ],
+        "criteres_reussite": [
+          "L'élève maintient sa vitesse dans les changements",
+          "La transition entre les déplacements est fluide"
+        ]
+      },
+      "niveau3": {
+        "titre": "Avancé",
+        "description": "À ce stade avancé, l'élève crée, innove et aide ses pairs. Pour « Suspension aux anneaux avec balancement », voici les attentes à ce niveau.",
+        "consignes": [
+          "Combiner plusieurs types de déplacement en enchaînement",
+          "Créer des feintes et des changements de rythme",
+          "Optimiser ses trajectoires pour l'efficacité"
+        ],
+        "criteres_reussite": [
+          "Les enchaînements sont fluides et rapides",
+          "L'élève se déplace avec agilité et efficacité"
+        ]
+      }
+    }
   },
   {
     "titre": "Grimper échelle horizontale (traversée plafond)",
@@ -488,8 +2467,57 @@
     "variantes": "Traversée en sautant un barreau, traversée avec demi-tour, traversée aller-retour sans pause.",
     "adaptation": "Pieds sur un banc roulant, 3 barreaux seulement, repos permis.",
     "duree": 12,
-    "materiel": ["Échelle horizontale ou barres de singe", "Tapis"],
-    "tags": ["échelle", "horizontale", "traversée", "endurance"]
+    "materiel": [
+      "Échelle horizontale ou barres de singe",
+      "Tapis"
+    ],
+    "tags": [
+      "échelle",
+      "horizontale",
+      "traversée",
+      "endurance"
+    ],
+    "progression": {
+      "niveau1": {
+        "titre": "Débutant",
+        "description": "À ce stade, l'objectif est d'apprivoiser l'exercice sans pression de performance. Pour « Grimper échelle horizontale (traversée plafond) », voici les attentes à ce niveau.",
+        "consignes": [
+          "Pratiquer un seul type de déplacement à la fois",
+          "Garder le contrôle de son corps en mouvement",
+          "Respecter les limites de son espace"
+        ],
+        "criteres_reussite": [
+          "Le patron moteur de base est reconnaissable",
+          "L'élève se déplace de façon contrôlée"
+        ]
+      },
+      "niveau2": {
+        "titre": "Intermédiaire",
+        "description": "L'élève maîtrise les bases et cherche à améliorer sa constance et sa fluidité. Pour « Grimper échelle horizontale (traversée plafond) », voici les attentes à ce niveau.",
+        "consignes": [
+          "Combiner déplacement et manipulation d'objet",
+          "Augmenter la vitesse tout en gardant le contrôle",
+          "S'adapter au rythme d'un partenaire"
+        ],
+        "criteres_reussite": [
+          "L'élève change de direction sans perte d'équilibre",
+          "La transition entre les déplacements est fluide"
+        ]
+      },
+      "niveau3": {
+        "titre": "Avancé",
+        "description": "L'expert peut exécuter l'activité dans des contextes variés et exigeants. Pour « Grimper échelle horizontale (traversée plafond) », voici les attentes à ce niveau.",
+        "consignes": [
+          "Optimiser ses trajectoires pour l'efficacité",
+          "Créer des feintes et des changements de rythme",
+          "Combiner plusieurs types de déplacement en enchaînement"
+        ],
+        "criteres_reussite": [
+          "Les enchaînements sont fluides et rapides",
+          "L'élève adapte ses déplacements à la situation de jeu"
+        ]
+      }
+    }
   },
   {
     "titre": "Grimper le mur d'escalade en duo guidé",
@@ -500,8 +2528,57 @@
     "variantes": "Guide qui donne seulement les couleurs, guide qui donne seulement droite-gauche, guide qui trompe parfois.",
     "adaptation": "Prises évidentes, guide qui montre les prises en plus de les dire, traversée courte.",
     "duree": 15,
-    "materiel": ["Mur d'escalade", "Tapis de réception"],
-    "tags": ["duo", "guidé", "escalade", "communication"]
+    "materiel": [
+      "Mur d'escalade",
+      "Tapis de réception"
+    ],
+    "tags": [
+      "duo",
+      "guidé",
+      "escalade",
+      "communication"
+    ],
+    "progression": {
+      "niveau1": {
+        "titre": "Débutant",
+        "description": "Le débutant explore les bases de l'activité avec un accompagnement soutenu. Pour « Grimper le mur d'escalade en duo guidé », voici les attentes à ce niveau.",
+        "consignes": [
+          "Garder le contrôle de son corps en mouvement",
+          "Pratiquer un seul type de déplacement à la fois",
+          "Suivre des lignes au sol ou des repères visuels"
+        ],
+        "criteres_reussite": [
+          "L'élève freine et s'arrête sur commande",
+          "Le patron moteur de base est reconnaissable"
+        ]
+      },
+      "niveau2": {
+        "titre": "Intermédiaire",
+        "description": "L'élève maîtrise les bases et cherche à améliorer sa constance et sa fluidité. Pour « Grimper le mur d'escalade en duo guidé », voici les attentes à ce niveau.",
+        "consignes": [
+          "S'adapter au rythme d'un partenaire",
+          "Alterner entre deux types de déplacement",
+          "Combiner déplacement et manipulation d'objet"
+        ],
+        "criteres_reussite": [
+          "L'élève change de direction sans perte d'équilibre",
+          "La transition entre les déplacements est fluide"
+        ]
+      },
+      "niveau3": {
+        "titre": "Avancé",
+        "description": "L'expert peut exécuter l'activité dans des contextes variés et exigeants. Pour « Grimper le mur d'escalade en duo guidé », voici les attentes à ce niveau.",
+        "consignes": [
+          "Se déplacer en situation de jeu avec adversaire",
+          "Réagir rapidement aux changements d'environnement",
+          "Optimiser ses trajectoires pour l'efficacité"
+        ],
+        "criteres_reussite": [
+          "Les enchaînements sont fluides et rapides",
+          "L'élève adapte ses déplacements à la situation de jeu"
+        ]
+      }
+    }
   },
   {
     "titre": "Montée en appui facial sur espalier",
@@ -512,8 +2589,57 @@
     "variantes": "Monter jusqu'à la verticale (ATR sur espalier), tenir la position horizontale 10 sec, monter en crabe.",
     "adaptation": "Monter seulement 2-3 barreaux, aide d'un partenaire, pauses entre les montées.",
     "duree": 10,
-    "materiel": ["Espalier mural", "Tapis"],
-    "tags": ["appui facial", "espalier", "force", "progressif"]
+    "materiel": [
+      "Espalier mural",
+      "Tapis"
+    ],
+    "tags": [
+      "appui facial",
+      "espalier",
+      "force",
+      "progressif"
+    ],
+    "progression": {
+      "niveau1": {
+        "titre": "Débutant",
+        "description": "Le débutant explore les bases de l'activité avec un accompagnement soutenu. Pour « Montée en appui facial sur espalier », voici les attentes à ce niveau.",
+        "consignes": [
+          "Suivre des lignes au sol ou des repères visuels",
+          "Pratiquer un seul type de déplacement à la fois",
+          "Respecter les limites de son espace"
+        ],
+        "criteres_reussite": [
+          "L'élève freine et s'arrête sur commande",
+          "Le patron moteur de base est reconnaissable"
+        ]
+      },
+      "niveau2": {
+        "titre": "Intermédiaire",
+        "description": "L'élève est capable d'exécuter l'activité de façon autonome avec quelques ajustements. Pour « Montée en appui facial sur espalier », voici les attentes à ce niveau.",
+        "consignes": [
+          "Augmenter la vitesse tout en gardant le contrôle",
+          "S'adapter au rythme d'un partenaire",
+          "Alterner entre deux types de déplacement"
+        ],
+        "criteres_reussite": [
+          "L'élève maintient sa vitesse dans les changements",
+          "La transition entre les déplacements est fluide"
+        ]
+      },
+      "niveau3": {
+        "titre": "Avancé",
+        "description": "À ce stade avancé, l'élève crée, innove et aide ses pairs. Pour « Montée en appui facial sur espalier », voici les attentes à ce niveau.",
+        "consignes": [
+          "Réagir rapidement aux changements d'environnement",
+          "Se déplacer en situation de jeu avec adversaire",
+          "Combiner plusieurs types de déplacement en enchaînement"
+        ],
+        "criteres_reussite": [
+          "L'élève se déplace avec agilité et efficacité",
+          "Les enchaînements sont fluides et rapides"
+        ]
+      }
+    }
   },
   {
     "titre": "Traversée de corde horizontale",
@@ -524,8 +2650,57 @@
     "variantes": "Traversée en ajoutant des nœuds comme repères, traversée avec arrêt au milieu, traversée chronométrée.",
     "adaptation": "Pieds sur un banc dessous, traversée plus courte, corde tendue très fort (moins de mouvement).",
     "duree": 12,
-    "materiel": ["Corde horizontale fixée solidement", "Tapis épais dessous"],
-    "tags": ["corde horizontale", "brachiation", "instabilité", "force"]
+    "materiel": [
+      "Corde horizontale fixée solidement",
+      "Tapis épais dessous"
+    ],
+    "tags": [
+      "corde horizontale",
+      "brachiation",
+      "instabilité",
+      "force"
+    ],
+    "progression": {
+      "niveau1": {
+        "titre": "Débutant",
+        "description": "L'accent est mis sur la compréhension des consignes et la sécurité. Pour « Traversée de corde horizontale », voici les attentes à ce niveau.",
+        "consignes": [
+          "Respecter les limites de son espace",
+          "Se déplacer à vitesse lente dans un espace délimité",
+          "Suivre des lignes au sol ou des repères visuels"
+        ],
+        "criteres_reussite": [
+          "Le patron moteur de base est reconnaissable",
+          "L'élève freine et s'arrête sur commande"
+        ]
+      },
+      "niveau2": {
+        "titre": "Intermédiaire",
+        "description": "L'intermédiaire travaille la régularité et commence à combiner les habiletés. Pour « Traversée de corde horizontale », voici les attentes à ce niveau.",
+        "consignes": [
+          "S'adapter au rythme d'un partenaire",
+          "Augmenter la vitesse tout en gardant le contrôle",
+          "Combiner déplacement et manipulation d'objet"
+        ],
+        "criteres_reussite": [
+          "L'élève maintient sa vitesse dans les changements",
+          "L'élève change de direction sans perte d'équilibre"
+        ]
+      },
+      "niveau3": {
+        "titre": "Avancé",
+        "description": "L'élève démontre une maîtrise complète et peut enseigner aux autres. Pour « Traversée de corde horizontale », voici les attentes à ce niveau.",
+        "consignes": [
+          "Créer des feintes et des changements de rythme",
+          "Réagir rapidement aux changements d'environnement",
+          "Se déplacer en situation de jeu avec adversaire"
+        ],
+        "criteres_reussite": [
+          "Les enchaînements sont fluides et rapides",
+          "L'élève se déplace avec agilité et efficacité"
+        ]
+      }
+    }
   },
   {
     "titre": "Grimper en chenille sur banc incliné",
@@ -536,8 +2711,58 @@
     "variantes": "Monter en crabe, monter en marche de l'ours, descendre en chenille.",
     "adaptation": "Pente très faible, aide de l'enseignant, banc plat au sol d'abord.",
     "duree": 10,
-    "materiel": ["Banc suédois", "Espalier", "Tapis"],
-    "tags": ["chenille", "banc", "pente", "coordination"]
+    "materiel": [
+      "Banc suédois",
+      "Espalier",
+      "Tapis"
+    ],
+    "tags": [
+      "chenille",
+      "banc",
+      "pente",
+      "coordination"
+    ],
+    "progression": {
+      "niveau1": {
+        "titre": "Débutant",
+        "description": "Le débutant explore les bases de l'activité avec un accompagnement soutenu. Pour « Grimper en chenille sur banc incliné », voici les attentes à ce niveau.",
+        "consignes": [
+          "Suivre des lignes au sol ou des repères visuels",
+          "Garder le contrôle de son corps en mouvement",
+          "Respecter les limites de son espace"
+        ],
+        "criteres_reussite": [
+          "L'élève se déplace de façon contrôlée",
+          "L'élève freine et s'arrête sur commande"
+        ]
+      },
+      "niveau2": {
+        "titre": "Intermédiaire",
+        "description": "L'intermédiaire travaille la régularité et commence à combiner les habiletés. Pour « Grimper en chenille sur banc incliné », voici les attentes à ce niveau.",
+        "consignes": [
+          "Augmenter la vitesse tout en gardant le contrôle",
+          "Se déplacer en changeant de direction sur signal",
+          "Alterner entre deux types de déplacement"
+        ],
+        "criteres_reussite": [
+          "L'élève change de direction sans perte d'équilibre",
+          "L'élève maintient sa vitesse dans les changements"
+        ]
+      },
+      "niveau3": {
+        "titre": "Avancé",
+        "description": "L'élève démontre une maîtrise complète et peut enseigner aux autres. Pour « Grimper en chenille sur banc incliné », voici les attentes à ce niveau.",
+        "consignes": [
+          "Créer des feintes et des changements de rythme",
+          "Combiner plusieurs types de déplacement en enchaînement",
+          "Réagir rapidement aux changements d'environnement"
+        ],
+        "criteres_reussite": [
+          "L'élève se déplace avec agilité et efficacité",
+          "Les enchaînements sont fluides et rapides"
+        ]
+      }
+    }
   },
   {
     "titre": "Suspension aux anneaux avec figures",
@@ -548,8 +2773,57 @@
     "variantes": "Enchaîner 3 figures, balancement entre les figures, figures en duo (un tient, l'autre fait).",
     "adaptation": "Juste suspension sans figure, anneaux bas, aide d'un partenaire.",
     "duree": 15,
-    "materiel": ["Anneaux de gymnastique", "Tapis de réception épais"],
-    "tags": ["anneaux", "figures", "L-sit", "force"]
+    "materiel": [
+      "Anneaux de gymnastique",
+      "Tapis de réception épais"
+    ],
+    "tags": [
+      "anneaux",
+      "figures",
+      "L-sit",
+      "force"
+    ],
+    "progression": {
+      "niveau1": {
+        "titre": "Débutant",
+        "description": "À ce stade, l'objectif est d'apprivoiser l'exercice sans pression de performance. Pour « Suspension aux anneaux avec figures », voici les attentes à ce niveau.",
+        "consignes": [
+          "Garder le contrôle de son corps en mouvement",
+          "Se déplacer à vitesse lente dans un espace délimité",
+          "Pratiquer un seul type de déplacement à la fois"
+        ],
+        "criteres_reussite": [
+          "L'élève freine et s'arrête sur commande",
+          "L'élève se déplace de façon contrôlée"
+        ]
+      },
+      "niveau2": {
+        "titre": "Intermédiaire",
+        "description": "L'intermédiaire travaille la régularité et commence à combiner les habiletés. Pour « Suspension aux anneaux avec figures », voici les attentes à ce niveau.",
+        "consignes": [
+          "Se déplacer en changeant de direction sur signal",
+          "Alterner entre deux types de déplacement",
+          "Augmenter la vitesse tout en gardant le contrôle"
+        ],
+        "criteres_reussite": [
+          "L'élève maintient sa vitesse dans les changements",
+          "L'élève change de direction sans perte d'équilibre"
+        ]
+      },
+      "niveau3": {
+        "titre": "Avancé",
+        "description": "L'élève perfectionne sa technique et s'adapte à des situations complexes. Pour « Suspension aux anneaux avec figures », voici les attentes à ce niveau.",
+        "consignes": [
+          "Créer des feintes et des changements de rythme",
+          "Combiner plusieurs types de déplacement en enchaînement",
+          "Se déplacer en situation de jeu avec adversaire"
+        ],
+        "criteres_reussite": [
+          "L'élève adapte ses déplacements à la situation de jeu",
+          "L'élève se déplace avec agilité et efficacité"
+        ]
+      }
+    }
   },
   {
     "titre": "Grimper le plinth en escalade latérale",
@@ -560,8 +2834,57 @@
     "variantes": "Grimper par l'arrière, grimper les yeux fermés, grimper avec un objet dans une main.",
     "adaptation": "Plinth moins haut, prises ajoutées (ruban adhésif), aide de l'enseignant.",
     "duree": 12,
-    "materiel": ["Plinth empilable", "Tapis de sécurité"],
-    "tags": ["plinth", "latéral", "prises", "résolution"]
+    "materiel": [
+      "Plinth empilable",
+      "Tapis de sécurité"
+    ],
+    "tags": [
+      "plinth",
+      "latéral",
+      "prises",
+      "résolution"
+    ],
+    "progression": {
+      "niveau1": {
+        "titre": "Débutant",
+        "description": "À ce stade, l'objectif est d'apprivoiser l'exercice sans pression de performance. Pour « Grimper le plinth en escalade latérale », voici les attentes à ce niveau.",
+        "consignes": [
+          "Garder le contrôle de son corps en mouvement",
+          "Suivre des lignes au sol ou des repères visuels",
+          "Se déplacer à vitesse lente dans un espace délimité"
+        ],
+        "criteres_reussite": [
+          "Le patron moteur de base est reconnaissable",
+          "L'élève se déplace de façon contrôlée"
+        ]
+      },
+      "niveau2": {
+        "titre": "Intermédiaire",
+        "description": "L'intermédiaire travaille la régularité et commence à combiner les habiletés. Pour « Grimper le plinth en escalade latérale », voici les attentes à ce niveau.",
+        "consignes": [
+          "Augmenter la vitesse tout en gardant le contrôle",
+          "Combiner déplacement et manipulation d'objet",
+          "Alterner entre deux types de déplacement"
+        ],
+        "criteres_reussite": [
+          "L'élève change de direction sans perte d'équilibre",
+          "La transition entre les déplacements est fluide"
+        ]
+      },
+      "niveau3": {
+        "titre": "Avancé",
+        "description": "L'expert peut exécuter l'activité dans des contextes variés et exigeants. Pour « Grimper le plinth en escalade latérale », voici les attentes à ce niveau.",
+        "consignes": [
+          "Combiner plusieurs types de déplacement en enchaînement",
+          "Se déplacer en situation de jeu avec adversaire",
+          "Réagir rapidement aux changements d'environnement"
+        ],
+        "criteres_reussite": [
+          "L'élève se déplace avec agilité et efficacité",
+          "L'élève adapte ses déplacements à la situation de jeu"
+        ]
+      }
+    }
   },
   {
     "titre": "Parcours vertical progressif (niveaux 1-2-3)",
@@ -572,8 +2895,59 @@
     "variantes": "4 niveaux avec corde ajoutée, passer les 3 niveaux dans l'ordre, créer son propre parcours.",
     "adaptation": "Niveaux simplifiés, aide à chaque station, pas de pression pour monter de niveau.",
     "duree": 15,
-    "materiel": ["Espalier", "Banc incliné", "Barres de singe", "Tapis"],
-    "tags": ["progressif", "niveaux", "autonomie", "confiance"]
+    "materiel": [
+      "Espalier",
+      "Banc incliné",
+      "Barres de singe",
+      "Tapis"
+    ],
+    "tags": [
+      "progressif",
+      "niveaux",
+      "autonomie",
+      "confiance"
+    ],
+    "progression": {
+      "niveau1": {
+        "titre": "Débutant",
+        "description": "L'accent est mis sur la compréhension des consignes et la sécurité. Pour « Parcours vertical progressif (niveaux 1-2-3) », voici les attentes à ce niveau.",
+        "consignes": [
+          "Se déplacer à vitesse lente dans un espace délimité",
+          "Suivre des lignes au sol ou des repères visuels",
+          "Respecter les limites de son espace"
+        ],
+        "criteres_reussite": [
+          "L'élève se déplace de façon contrôlée",
+          "Le patron moteur de base est reconnaissable"
+        ]
+      },
+      "niveau2": {
+        "titre": "Intermédiaire",
+        "description": "À ce niveau, on ajoute de la complexité tout en consolidant les acquis. Pour « Parcours vertical progressif (niveaux 1-2-3) », voici les attentes à ce niveau.",
+        "consignes": [
+          "Alterner entre deux types de déplacement",
+          "S'adapter au rythme d'un partenaire",
+          "Augmenter la vitesse tout en gardant le contrôle"
+        ],
+        "criteres_reussite": [
+          "L'élève maintient sa vitesse dans les changements",
+          "L'élève change de direction sans perte d'équilibre"
+        ]
+      },
+      "niveau3": {
+        "titre": "Avancé",
+        "description": "À ce stade avancé, l'élève crée, innove et aide ses pairs. Pour « Parcours vertical progressif (niveaux 1-2-3) », voici les attentes à ce niveau.",
+        "consignes": [
+          "Optimiser ses trajectoires pour l'efficacité",
+          "Combiner plusieurs types de déplacement en enchaînement",
+          "Se déplacer en situation de jeu avec adversaire"
+        ],
+        "criteres_reussite": [
+          "L'élève se déplace avec agilité et efficacité",
+          "Les enchaînements sont fluides et rapides"
+        ]
+      }
+    }
   },
   {
     "titre": "Défi d'endurance en suspension (barre fixe)",
@@ -584,8 +2958,58 @@
     "variantes": "Ajouter des tractions, enchaînement plus long (90 sec), compétition de durée.",
     "adaptation": "Pieds sur un support entre les exercices, temps réduit, moins d'exercices.",
     "duree": 12,
-    "materiel": ["Barre fixe longue", "Tapis", "Chronomètre"],
-    "tags": ["endurance", "suspension", "enchaînement", "préhension"]
+    "materiel": [
+      "Barre fixe longue",
+      "Tapis",
+      "Chronomètre"
+    ],
+    "tags": [
+      "endurance",
+      "suspension",
+      "enchaînement",
+      "préhension"
+    ],
+    "progression": {
+      "niveau1": {
+        "titre": "Débutant",
+        "description": "L'élève découvre l'activité et se familiarise avec les mouvements fondamentaux. Pour « Défi d'endurance en suspension (barre fixe) », voici les attentes à ce niveau.",
+        "consignes": [
+          "Se déplacer à vitesse lente dans un espace délimité",
+          "Suivre des lignes au sol ou des repères visuels",
+          "Pratiquer un seul type de déplacement à la fois"
+        ],
+        "criteres_reussite": [
+          "Le patron moteur de base est reconnaissable",
+          "L'élève freine et s'arrête sur commande"
+        ]
+      },
+      "niveau2": {
+        "titre": "Intermédiaire",
+        "description": "À ce niveau, on ajoute de la complexité tout en consolidant les acquis. Pour « Défi d'endurance en suspension (barre fixe) », voici les attentes à ce niveau.",
+        "consignes": [
+          "S'adapter au rythme d'un partenaire",
+          "Combiner déplacement et manipulation d'objet",
+          "Alterner entre deux types de déplacement"
+        ],
+        "criteres_reussite": [
+          "L'élève maintient sa vitesse dans les changements",
+          "La transition entre les déplacements est fluide"
+        ]
+      },
+      "niveau3": {
+        "titre": "Avancé",
+        "description": "L'expert peut exécuter l'activité dans des contextes variés et exigeants. Pour « Défi d'endurance en suspension (barre fixe) », voici les attentes à ce niveau.",
+        "consignes": [
+          "Créer des feintes et des changements de rythme",
+          "Optimiser ses trajectoires pour l'efficacité",
+          "Combiner plusieurs types de déplacement en enchaînement"
+        ],
+        "criteres_reussite": [
+          "Les enchaînements sont fluides et rapides",
+          "L'élève adapte ses déplacements à la situation de jeu"
+        ]
+      }
+    }
   },
   {
     "titre": "Grimper par-dessus le cheval de gym",
@@ -596,7 +3020,56 @@
     "variantes": "Passer par-dessus sans poser le ventre (saut de chat), passer par-dessus en roulant, enchaîner 2 chevaux.",
     "adaptation": "Plinth plus bas, aide de l'enseignant, step intermédiaire pour monter.",
     "duree": 12,
-    "materiel": ["Cheval de gym ou plinth", "Tapis de réception"],
-    "tags": ["cheval", "grimper", "force", "haut du corps"]
+    "materiel": [
+      "Cheval de gym ou plinth",
+      "Tapis de réception"
+    ],
+    "tags": [
+      "cheval",
+      "grimper",
+      "force",
+      "haut du corps"
+    ],
+    "progression": {
+      "niveau1": {
+        "titre": "Débutant",
+        "description": "Le débutant explore les bases de l'activité avec un accompagnement soutenu. Pour « Grimper par-dessus le cheval de gym », voici les attentes à ce niveau.",
+        "consignes": [
+          "Garder le contrôle de son corps en mouvement",
+          "Suivre des lignes au sol ou des repères visuels",
+          "Respecter les limites de son espace"
+        ],
+        "criteres_reussite": [
+          "L'élève freine et s'arrête sur commande",
+          "Le patron moteur de base est reconnaissable"
+        ]
+      },
+      "niveau2": {
+        "titre": "Intermédiaire",
+        "description": "L'intermédiaire travaille la régularité et commence à combiner les habiletés. Pour « Grimper par-dessus le cheval de gym », voici les attentes à ce niveau.",
+        "consignes": [
+          "Se déplacer en changeant de direction sur signal",
+          "S'adapter au rythme d'un partenaire",
+          "Combiner déplacement et manipulation d'objet"
+        ],
+        "criteres_reussite": [
+          "L'élève change de direction sans perte d'équilibre",
+          "La transition entre les déplacements est fluide"
+        ]
+      },
+      "niveau3": {
+        "titre": "Avancé",
+        "description": "À ce stade avancé, l'élève crée, innove et aide ses pairs. Pour « Grimper par-dessus le cheval de gym », voici les attentes à ce niveau.",
+        "consignes": [
+          "Créer des feintes et des changements de rythme",
+          "Réagir rapidement aux changements d'environnement",
+          "Optimiser ses trajectoires pour l'efficacité"
+        ],
+        "criteres_reussite": [
+          "Les enchaînements sont fluides et rapides",
+          "L'élève se déplace avec agilité et efficacité"
+        ]
+      }
+    }
   }
 ]

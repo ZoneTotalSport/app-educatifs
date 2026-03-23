@@ -8,8 +8,56 @@
     "variantes": "Séquences à 4 temps, 8 temps, créer sa propre séquence, jouer en musique.",
     "adaptation": "Séquences plus courtes, rythme plus lent, simplifier le patron.",
     "duree": 10,
-    "materiel": ["Aucun"],
-    "tags": ["rythme", "coordination", "duo", "tapes"]
+    "materiel": [
+      "Aucun"
+    ],
+    "tags": [
+      "rythme",
+      "coordination",
+      "duo",
+      "tapes"
+    ],
+    "progression": {
+      "niveau1": {
+        "titre": "Débutant",
+        "description": "L'accent est mis sur la compréhension des consignes et la sécurité. Pour « Tape-mains rythmique », voici les attentes à ce niveau.",
+        "consignes": [
+          "Exécuter les mouvements lentement, un à la fois",
+          "Utiliser des repères visuels au sol",
+          "Faire des pauses entre chaque répétition"
+        ],
+        "criteres_reussite": [
+          "Le geste est réalisé lentement mais correctement",
+          "L'élève exécute le mouvement de base avec aide"
+        ]
+      },
+      "niveau2": {
+        "titre": "Intermédiaire",
+        "description": "L'intermédiaire travaille la régularité et commence à combiner les habiletés. Pour « Tape-mains rythmique », voici les attentes à ce niveau.",
+        "consignes": [
+          "Introduire un partenaire pour la coordination",
+          "Ajouter un déplacement pendant l'exercice",
+          "Varier les hauteurs et les directions"
+        ],
+        "criteres_reussite": [
+          "L'élève s'adapte aux changements de rythme",
+          "L'élève enchaîne les mouvements sans interruption"
+        ]
+      },
+      "niveau3": {
+        "titre": "Avancé",
+        "description": "L'expert peut exécuter l'activité dans des contextes variés et exigeants. Pour « Tape-mains rythmique », voici les attentes à ce niveau.",
+        "consignes": [
+          "Réagir à des signaux variés tout en maintenant la coordination",
+          "Exécuter en situation de jeu ou avec opposition",
+          "Créer ses propres enchaînements complexes"
+        ],
+        "criteres_reussite": [
+          "Les mouvements sont fluides et automatisés",
+          "L'élève s'adapte en temps réel aux contraintes"
+        ]
+      }
+    }
   },
   {
     "titre": "Sac de sable multipoints",
@@ -20,8 +68,56 @@
     "variantes": "2 sacs de sable simultanés, sac sur différentes parties du corps, défis en duo.",
     "adaptation": "Sac plus gros, mouvements plus simples, rythme réduit.",
     "duree": 15,
-    "materiel": ["1 sac de sable (ou balle mousse) par élève"],
-    "tags": ["sac de sable", "coordination", "bilatéral", "segmentaire"]
+    "materiel": [
+      "1 sac de sable (ou balle mousse) par élève"
+    ],
+    "tags": [
+      "sac de sable",
+      "coordination",
+      "bilatéral",
+      "segmentaire"
+    ],
+    "progression": {
+      "niveau1": {
+        "titre": "Débutant",
+        "description": "L'accent est mis sur la compréhension des consignes et la sécurité. Pour « Sac de sable multipoints », voici les attentes à ce niveau.",
+        "consignes": [
+          "Faire des pauses entre chaque répétition",
+          "Pratiquer sur place avant de se déplacer",
+          "Utiliser des repères visuels au sol"
+        ],
+        "criteres_reussite": [
+          "L'élève exécute le mouvement de base avec aide",
+          "L'élève maintient son équilibre pendant l'exercice"
+        ]
+      },
+      "niveau2": {
+        "titre": "Intermédiaire",
+        "description": "À ce niveau, on ajoute de la complexité tout en consolidant les acquis. Pour « Sac de sable multipoints », voici les attentes à ce niveau.",
+        "consignes": [
+          "Augmenter progressivement la vitesse d'exécution",
+          "Varier les hauteurs et les directions",
+          "Enchaîner deux mouvements de façon fluide"
+        ],
+        "criteres_reussite": [
+          "L'élève s'adapte aux changements de rythme",
+          "La vitesse d'exécution est régulière"
+        ]
+      },
+      "niveau3": {
+        "titre": "Avancé",
+        "description": "À ce stade avancé, l'élève crée, innove et aide ses pairs. Pour « Sac de sable multipoints », voici les attentes à ce niveau.",
+        "consignes": [
+          "Exécuter en situation de jeu ou avec opposition",
+          "Performer devant le groupe avec fluidité",
+          "Combiner trois mouvements ou plus en séquence rapide"
+        ],
+        "criteres_reussite": [
+          "Les mouvements sont fluides et automatisés",
+          "L'élève crée et exécute des séquences complexes"
+        ]
+      }
+    }
   },
   {
     "titre": "Parcours moteur – maternelle",
@@ -32,8 +128,60 @@
     "variantes": "Changer l'ordre des stations, ajouter de la musique, parcours à reculons.",
     "adaptation": "Retirer les stations difficiles, aide d'un adulte à chaque station, parcours simplifié.",
     "duree": 15,
-    "materiel": ["Cerceaux", "Tapis", "Balles", "Panier", "Table ou tunnel"],
-    "tags": ["parcours moteur", "maternelle", "coordination", "stations"]
+    "materiel": [
+      "Cerceaux",
+      "Tapis",
+      "Balles",
+      "Panier",
+      "Table ou tunnel"
+    ],
+    "tags": [
+      "parcours moteur",
+      "maternelle",
+      "coordination",
+      "stations"
+    ],
+    "progression": {
+      "niveau1": {
+        "titre": "Débutant",
+        "description": "L'accent est mis sur la compréhension des consignes et la sécurité. Pour « Parcours moteur – maternelle », voici les attentes à ce niveau.",
+        "consignes": [
+          "Faire des pauses entre chaque répétition",
+          "Utiliser des repères visuels au sol",
+          "Pratiquer sur place avant de se déplacer"
+        ],
+        "criteres_reussite": [
+          "L'élève exécute le mouvement de base avec aide",
+          "Le geste est réalisé lentement mais correctement"
+        ]
+      },
+      "niveau2": {
+        "titre": "Intermédiaire",
+        "description": "L'élève maîtrise les bases et cherche à améliorer sa constance et sa fluidité. Pour « Parcours moteur – maternelle », voici les attentes à ce niveau.",
+        "consignes": [
+          "Introduire un partenaire pour la coordination",
+          "Augmenter progressivement la vitesse d'exécution",
+          "Ajouter un déplacement pendant l'exercice"
+        ],
+        "criteres_reussite": [
+          "L'élève enchaîne les mouvements sans interruption",
+          "La vitesse d'exécution est régulière"
+        ]
+      },
+      "niveau3": {
+        "titre": "Avancé",
+        "description": "À ce stade avancé, l'élève crée, innove et aide ses pairs. Pour « Parcours moteur – maternelle », voici les attentes à ce niveau.",
+        "consignes": [
+          "Exécuter en situation de jeu ou avec opposition",
+          "Combiner trois mouvements ou plus en séquence rapide",
+          "Réagir à des signaux variés tout en maintenant la coordination"
+        ],
+        "criteres_reussite": [
+          "L'élève s'adapte en temps réel aux contraintes",
+          "L'élève crée et exécute des séquences complexes"
+        ]
+      }
+    }
   },
   {
     "titre": "Le jeu du foulard",
@@ -44,8 +192,56 @@
     "variantes": "Deux foulards, foulard avec partenaire, foulard en marchant, course de foulards.",
     "adaptation": "Consignes simples (lancer-rattraper seulement), foulard plus grand, rythme lent.",
     "duree": 10,
-    "materiel": ["1 foulard par élève"],
-    "tags": ["foulard", "coordination", "oeil-main", "maternelle"]
+    "materiel": [
+      "1 foulard par élève"
+    ],
+    "tags": [
+      "foulard",
+      "coordination",
+      "oeil-main",
+      "maternelle"
+    ],
+    "progression": {
+      "niveau1": {
+        "titre": "Débutant",
+        "description": "À ce stade, l'objectif est d'apprivoiser l'exercice sans pression de performance. Pour « Le jeu du foulard », voici les attentes à ce niveau.",
+        "consignes": [
+          "Pratiquer sur place avant de se déplacer",
+          "Exécuter les mouvements lentement, un à la fois",
+          "Utiliser des repères visuels au sol"
+        ],
+        "criteres_reussite": [
+          "L'élève exécute le mouvement de base avec aide",
+          "L'élève maintient son équilibre pendant l'exercice"
+        ]
+      },
+      "niveau2": {
+        "titre": "Intermédiaire",
+        "description": "L'intermédiaire travaille la régularité et commence à combiner les habiletés. Pour « Le jeu du foulard », voici les attentes à ce niveau.",
+        "consignes": [
+          "Ajouter un déplacement pendant l'exercice",
+          "Augmenter progressivement la vitesse d'exécution",
+          "Varier les hauteurs et les directions"
+        ],
+        "criteres_reussite": [
+          "La vitesse d'exécution est régulière",
+          "L'élève enchaîne les mouvements sans interruption"
+        ]
+      },
+      "niveau3": {
+        "titre": "Avancé",
+        "description": "L'élève démontre une maîtrise complète et peut enseigner aux autres. Pour « Le jeu du foulard », voici les attentes à ce niveau.",
+        "consignes": [
+          "Combiner trois mouvements ou plus en séquence rapide",
+          "Exécuter en situation de jeu ou avec opposition",
+          "Réagir à des signaux variés tout en maintenant la coordination"
+        ],
+        "criteres_reussite": [
+          "L'élève s'adapte en temps réel aux contraintes",
+          "Les mouvements sont fluides et automatisés"
+        ]
+      }
+    }
   },
   {
     "titre": "Le miroir en mouvement",
@@ -56,8 +252,56 @@
     "variantes": "Miroir en marchant, miroir avec objet, miroir de groupe (1 leader, 5 miroirs).",
     "adaptation": "Mouvements très lents, un seul mouvement à la fois, leader est l'enseignant.",
     "duree": 10,
-    "materiel": ["Espace dégagé"],
-    "tags": ["miroir", "imitation", "duo", "observation"]
+    "materiel": [
+      "Espace dégagé"
+    ],
+    "tags": [
+      "miroir",
+      "imitation",
+      "duo",
+      "observation"
+    ],
+    "progression": {
+      "niveau1": {
+        "titre": "Débutant",
+        "description": "À ce stade, l'objectif est d'apprivoiser l'exercice sans pression de performance. Pour « Le miroir en mouvement », voici les attentes à ce niveau.",
+        "consignes": [
+          "Se concentrer sur un seul geste à la fois",
+          "Pratiquer sur place avant de se déplacer",
+          "Faire des pauses entre chaque répétition"
+        ],
+        "criteres_reussite": [
+          "L'élève maintient son équilibre pendant l'exercice",
+          "L'élève exécute le mouvement de base avec aide"
+        ]
+      },
+      "niveau2": {
+        "titre": "Intermédiaire",
+        "description": "L'élève est capable d'exécuter l'activité de façon autonome avec quelques ajustements. Pour « Le miroir en mouvement », voici les attentes à ce niveau.",
+        "consignes": [
+          "Varier les hauteurs et les directions",
+          "Ajouter un déplacement pendant l'exercice",
+          "Enchaîner deux mouvements de façon fluide"
+        ],
+        "criteres_reussite": [
+          "L'élève s'adapte aux changements de rythme",
+          "La vitesse d'exécution est régulière"
+        ]
+      },
+      "niveau3": {
+        "titre": "Avancé",
+        "description": "À ce stade avancé, l'élève crée, innove et aide ses pairs. Pour « Le miroir en mouvement », voici les attentes à ce niveau.",
+        "consignes": [
+          "Performer devant le groupe avec fluidité",
+          "Combiner trois mouvements ou plus en séquence rapide",
+          "Réagir à des signaux variés tout en maintenant la coordination"
+        ],
+        "criteres_reussite": [
+          "Les mouvements sont fluides et automatisés",
+          "L'élève s'adapte en temps réel aux contraintes"
+        ]
+      }
+    }
   },
   {
     "titre": "Chasse aux ballons de baudruche",
@@ -68,8 +312,56 @@
     "variantes": "Deux ballons, garder le ballon du partenaire aussi, déplacement en frappant.",
     "adaptation": "Mains seulement, ballon plus gros, rythme très libre.",
     "duree": 10,
-    "materiel": ["1 ballon de baudruche par élève (+ réserve)"],
-    "tags": ["ballon baudruche", "coordination", "parties du corps", "maternelle"]
+    "materiel": [
+      "1 ballon de baudruche par élève (+ réserve)"
+    ],
+    "tags": [
+      "ballon baudruche",
+      "coordination",
+      "parties du corps",
+      "maternelle"
+    ],
+    "progression": {
+      "niveau1": {
+        "titre": "Débutant",
+        "description": "À ce stade, l'objectif est d'apprivoiser l'exercice sans pression de performance. Pour « Chasse aux ballons de baudruche », voici les attentes à ce niveau.",
+        "consignes": [
+          "Exécuter les mouvements lentement, un à la fois",
+          "Pratiquer sur place avant de se déplacer",
+          "Faire des pauses entre chaque répétition"
+        ],
+        "criteres_reussite": [
+          "L'élève maintient son équilibre pendant l'exercice",
+          "Le geste est réalisé lentement mais correctement"
+        ]
+      },
+      "niveau2": {
+        "titre": "Intermédiaire",
+        "description": "L'élève maîtrise les bases et cherche à améliorer sa constance et sa fluidité. Pour « Chasse aux ballons de baudruche », voici les attentes à ce niveau.",
+        "consignes": [
+          "Varier les hauteurs et les directions",
+          "Enchaîner deux mouvements de façon fluide",
+          "Introduire un partenaire pour la coordination"
+        ],
+        "criteres_reussite": [
+          "La vitesse d'exécution est régulière",
+          "L'élève enchaîne les mouvements sans interruption"
+        ]
+      },
+      "niveau3": {
+        "titre": "Avancé",
+        "description": "L'élève démontre une maîtrise complète et peut enseigner aux autres. Pour « Chasse aux ballons de baudruche », voici les attentes à ce niveau.",
+        "consignes": [
+          "Combiner trois mouvements ou plus en séquence rapide",
+          "Réagir à des signaux variés tout en maintenant la coordination",
+          "Créer ses propres enchaînements complexes"
+        ],
+        "criteres_reussite": [
+          "L'élève crée et exécute des séquences complexes",
+          "L'élève s'adapte en temps réel aux contraintes"
+        ]
+      }
+    }
   },
   {
     "titre": "Course à obstacles simple",
@@ -80,8 +372,59 @@
     "variantes": "Parcours à reculons, parcours en duo (synchronisé), ajout d'obstacles.",
     "adaptation": "Retirer les obstacles difficiles, parcours plus court, pas de chronomètre.",
     "duree": 15,
-    "materiel": ["Cônes (6)", "Haie basse", "Cerceaux (3)", "Chronomètre"],
-    "tags": ["obstacles", "course", "coordination", "parcours"]
+    "materiel": [
+      "Cônes (6)",
+      "Haie basse",
+      "Cerceaux (3)",
+      "Chronomètre"
+    ],
+    "tags": [
+      "obstacles",
+      "course",
+      "coordination",
+      "parcours"
+    ],
+    "progression": {
+      "niveau1": {
+        "titre": "Débutant",
+        "description": "À ce stade, l'objectif est d'apprivoiser l'exercice sans pression de performance. Pour « Course à obstacles simple », voici les attentes à ce niveau.",
+        "consignes": [
+          "Pratiquer sur place avant de se déplacer",
+          "Faire des pauses entre chaque répétition",
+          "Se concentrer sur un seul geste à la fois"
+        ],
+        "criteres_reussite": [
+          "L'élève exécute le mouvement de base avec aide",
+          "Le geste est réalisé lentement mais correctement"
+        ]
+      },
+      "niveau2": {
+        "titre": "Intermédiaire",
+        "description": "L'élève est capable d'exécuter l'activité de façon autonome avec quelques ajustements. Pour « Course à obstacles simple », voici les attentes à ce niveau.",
+        "consignes": [
+          "Introduire un partenaire pour la coordination",
+          "Varier les hauteurs et les directions",
+          "Augmenter progressivement la vitesse d'exécution"
+        ],
+        "criteres_reussite": [
+          "L'élève s'adapte aux changements de rythme",
+          "L'élève enchaîne les mouvements sans interruption"
+        ]
+      },
+      "niveau3": {
+        "titre": "Avancé",
+        "description": "L'expert peut exécuter l'activité dans des contextes variés et exigeants. Pour « Course à obstacles simple », voici les attentes à ce niveau.",
+        "consignes": [
+          "Exécuter en situation de jeu ou avec opposition",
+          "Créer ses propres enchaînements complexes",
+          "Performer devant le groupe avec fluidité"
+        ],
+        "criteres_reussite": [
+          "L'élève crée et exécute des séquences complexes",
+          "L'élève s'adapte en temps réel aux contraintes"
+        ]
+      }
+    }
   },
   {
     "titre": "Lancer et attraper – progression",
@@ -92,8 +435,57 @@
     "variantes": "Main non dominante, différentes tailles de balles, lancer par-dessous.",
     "adaptation": "Balle plus grosse, distance réduite, lancer roulé au sol.",
     "duree": 15,
-    "materiel": ["Balles mousse variées", "Mur"],
-    "tags": ["lancer", "attraper", "progression", "oeil-main"]
+    "materiel": [
+      "Balles mousse variées",
+      "Mur"
+    ],
+    "tags": [
+      "lancer",
+      "attraper",
+      "progression",
+      "oeil-main"
+    ],
+    "progression": {
+      "niveau1": {
+        "titre": "Débutant",
+        "description": "L'élève découvre l'activité et se familiarise avec les mouvements fondamentaux. Pour « Lancer et attraper – progression », voici les attentes à ce niveau.",
+        "consignes": [
+          "Pratiquer sur place avant de se déplacer",
+          "Faire des pauses entre chaque répétition",
+          "Se concentrer sur un seul geste à la fois"
+        ],
+        "criteres_reussite": [
+          "L'élève exécute le mouvement de base avec aide",
+          "L'élève maintient son équilibre pendant l'exercice"
+        ]
+      },
+      "niveau2": {
+        "titre": "Intermédiaire",
+        "description": "À ce niveau, on ajoute de la complexité tout en consolidant les acquis. Pour « Lancer et attraper – progression », voici les attentes à ce niveau.",
+        "consignes": [
+          "Varier les hauteurs et les directions",
+          "Enchaîner deux mouvements de façon fluide",
+          "Ajouter un déplacement pendant l'exercice"
+        ],
+        "criteres_reussite": [
+          "L'élève enchaîne les mouvements sans interruption",
+          "La vitesse d'exécution est régulière"
+        ]
+      },
+      "niveau3": {
+        "titre": "Avancé",
+        "description": "L'élève démontre une maîtrise complète et peut enseigner aux autres. Pour « Lancer et attraper – progression », voici les attentes à ce niveau.",
+        "consignes": [
+          "Créer ses propres enchaînements complexes",
+          "Réagir à des signaux variés tout en maintenant la coordination",
+          "Exécuter en situation de jeu ou avec opposition"
+        ],
+        "criteres_reussite": [
+          "L'élève crée et exécute des séquences complexes",
+          "L'élève s'adapte en temps réel aux contraintes"
+        ]
+      }
+    }
   },
   {
     "titre": "La danse des cerceaux",
@@ -104,8 +496,57 @@
     "variantes": "Consignes visuelles (cartons), élève-leader, ajout de mouvements de danse.",
     "adaptation": "Moins de couleurs, consignes simples, rythme lent.",
     "duree": 12,
-    "materiel": ["Cerceaux de couleurs (20+)", "Système de son"],
-    "tags": ["cerceaux", "couleurs", "danse", "coordination"]
+    "materiel": [
+      "Cerceaux de couleurs (20+)",
+      "Système de son"
+    ],
+    "tags": [
+      "cerceaux",
+      "couleurs",
+      "danse",
+      "coordination"
+    ],
+    "progression": {
+      "niveau1": {
+        "titre": "Débutant",
+        "description": "Le débutant explore les bases de l'activité avec un accompagnement soutenu. Pour « La danse des cerceaux », voici les attentes à ce niveau.",
+        "consignes": [
+          "Pratiquer sur place avant de se déplacer",
+          "Utiliser des repères visuels au sol",
+          "Se concentrer sur un seul geste à la fois"
+        ],
+        "criteres_reussite": [
+          "L'élève maintient son équilibre pendant l'exercice",
+          "Le geste est réalisé lentement mais correctement"
+        ]
+      },
+      "niveau2": {
+        "titre": "Intermédiaire",
+        "description": "L'élève est capable d'exécuter l'activité de façon autonome avec quelques ajustements. Pour « La danse des cerceaux », voici les attentes à ce niveau.",
+        "consignes": [
+          "Varier les hauteurs et les directions",
+          "Ajouter un déplacement pendant l'exercice",
+          "Introduire un partenaire pour la coordination"
+        ],
+        "criteres_reussite": [
+          "La vitesse d'exécution est régulière",
+          "L'élève enchaîne les mouvements sans interruption"
+        ]
+      },
+      "niveau3": {
+        "titre": "Avancé",
+        "description": "L'expert peut exécuter l'activité dans des contextes variés et exigeants. Pour « La danse des cerceaux », voici les attentes à ce niveau.",
+        "consignes": [
+          "Performer devant le groupe avec fluidité",
+          "Réagir à des signaux variés tout en maintenant la coordination",
+          "Combiner trois mouvements ou plus en séquence rapide"
+        ],
+        "criteres_reussite": [
+          "Les mouvements sont fluides et automatisés",
+          "L'élève s'adapte en temps réel aux contraintes"
+        ]
+      }
+    }
   },
   {
     "titre": "Coordination croisée – cross crawl",
@@ -116,8 +557,56 @@
     "variantes": "En marchant, en courant, avec saut, en musique.",
     "adaptation": "Main-genou du même côté d'abord (ipsilatéral), très lentement, avec modèle visuel.",
     "duree": 10,
-    "materiel": ["Espace dégagé"],
-    "tags": ["croisé", "latéralité", "coordination", "bilatéral"]
+    "materiel": [
+      "Espace dégagé"
+    ],
+    "tags": [
+      "croisé",
+      "latéralité",
+      "coordination",
+      "bilatéral"
+    ],
+    "progression": {
+      "niveau1": {
+        "titre": "Débutant",
+        "description": "L'élève découvre l'activité et se familiarise avec les mouvements fondamentaux. Pour « Coordination croisée – cross crawl », voici les attentes à ce niveau.",
+        "consignes": [
+          "Utiliser des repères visuels au sol",
+          "Pratiquer sur place avant de se déplacer",
+          "Faire des pauses entre chaque répétition"
+        ],
+        "criteres_reussite": [
+          "Le geste est réalisé lentement mais correctement",
+          "L'élève exécute le mouvement de base avec aide"
+        ]
+      },
+      "niveau2": {
+        "titre": "Intermédiaire",
+        "description": "À ce niveau, on ajoute de la complexité tout en consolidant les acquis. Pour « Coordination croisée – cross crawl », voici les attentes à ce niveau.",
+        "consignes": [
+          "Augmenter progressivement la vitesse d'exécution",
+          "Introduire un partenaire pour la coordination",
+          "Ajouter un déplacement pendant l'exercice"
+        ],
+        "criteres_reussite": [
+          "L'élève enchaîne les mouvements sans interruption",
+          "L'élève s'adapte aux changements de rythme"
+        ]
+      },
+      "niveau3": {
+        "titre": "Avancé",
+        "description": "À ce stade avancé, l'élève crée, innove et aide ses pairs. Pour « Coordination croisée – cross crawl », voici les attentes à ce niveau.",
+        "consignes": [
+          "Performer devant le groupe avec fluidité",
+          "Réagir à des signaux variés tout en maintenant la coordination",
+          "Exécuter en situation de jeu ou avec opposition"
+        ],
+        "criteres_reussite": [
+          "L'élève s'adapte en temps réel aux contraintes",
+          "L'élève crée et exécute des séquences complexes"
+        ]
+      }
+    }
   },
   {
     "titre": "Corde à sauter – initiation",
@@ -128,8 +617,56 @@
     "variantes": "Un pied, alternance, double saut, croisé, en duo dans la même corde.",
     "adaptation": "Corde plus longue, sauter sans corde d'abord (le geste), rythme très lent.",
     "duree": 15,
-    "materiel": ["1 corde à sauter par élève"],
-    "tags": ["corde à sauter", "saut", "rythme", "coordination"]
+    "materiel": [
+      "1 corde à sauter par élève"
+    ],
+    "tags": [
+      "corde à sauter",
+      "saut",
+      "rythme",
+      "coordination"
+    ],
+    "progression": {
+      "niveau1": {
+        "titre": "Débutant",
+        "description": "L'accent est mis sur la compréhension des consignes et la sécurité. Pour « Corde à sauter – initiation », voici les attentes à ce niveau.",
+        "consignes": [
+          "Faire des pauses entre chaque répétition",
+          "Exécuter les mouvements lentement, un à la fois",
+          "Pratiquer sur place avant de se déplacer"
+        ],
+        "criteres_reussite": [
+          "L'élève exécute le mouvement de base avec aide",
+          "Le geste est réalisé lentement mais correctement"
+        ]
+      },
+      "niveau2": {
+        "titre": "Intermédiaire",
+        "description": "L'élève maîtrise les bases et cherche à améliorer sa constance et sa fluidité. Pour « Corde à sauter – initiation », voici les attentes à ce niveau.",
+        "consignes": [
+          "Enchaîner deux mouvements de façon fluide",
+          "Varier les hauteurs et les directions",
+          "Augmenter progressivement la vitesse d'exécution"
+        ],
+        "criteres_reussite": [
+          "L'élève enchaîne les mouvements sans interruption",
+          "La vitesse d'exécution est régulière"
+        ]
+      },
+      "niveau3": {
+        "titre": "Avancé",
+        "description": "L'expert peut exécuter l'activité dans des contextes variés et exigeants. Pour « Corde à sauter – initiation », voici les attentes à ce niveau.",
+        "consignes": [
+          "Performer devant le groupe avec fluidité",
+          "Combiner trois mouvements ou plus en séquence rapide",
+          "Créer ses propres enchaînements complexes"
+        ],
+        "criteres_reussite": [
+          "Les mouvements sont fluides et automatisés",
+          "L'élève s'adapte en temps réel aux contraintes"
+        ]
+      }
+    }
   },
   {
     "titre": "Jeu du chef d'orchestre",
@@ -140,8 +677,56 @@
     "variantes": "Deux chefs d'orchestre, mouvements plus complexes, en musique.",
     "adaptation": "Changements de mouvements plus lents, groupe plus petit, indices supplémentaires.",
     "duree": 15,
-    "materiel": ["Espace dégagé"],
-    "tags": ["jeu", "observation", "imitation", "coordination"]
+    "materiel": [
+      "Espace dégagé"
+    ],
+    "tags": [
+      "jeu",
+      "observation",
+      "imitation",
+      "coordination"
+    ],
+    "progression": {
+      "niveau1": {
+        "titre": "Débutant",
+        "description": "L'accent est mis sur la compréhension des consignes et la sécurité. Pour « Jeu du chef d'orchestre », voici les attentes à ce niveau.",
+        "consignes": [
+          "Pratiquer sur place avant de se déplacer",
+          "Exécuter les mouvements lentement, un à la fois",
+          "Faire des pauses entre chaque répétition"
+        ],
+        "criteres_reussite": [
+          "L'élève maintient son équilibre pendant l'exercice",
+          "Le geste est réalisé lentement mais correctement"
+        ]
+      },
+      "niveau2": {
+        "titre": "Intermédiaire",
+        "description": "À ce niveau, on ajoute de la complexité tout en consolidant les acquis. Pour « Jeu du chef d'orchestre », voici les attentes à ce niveau.",
+        "consignes": [
+          "Enchaîner deux mouvements de façon fluide",
+          "Augmenter progressivement la vitesse d'exécution",
+          "Ajouter un déplacement pendant l'exercice"
+        ],
+        "criteres_reussite": [
+          "L'élève s'adapte aux changements de rythme",
+          "La vitesse d'exécution est régulière"
+        ]
+      },
+      "niveau3": {
+        "titre": "Avancé",
+        "description": "L'expert peut exécuter l'activité dans des contextes variés et exigeants. Pour « Jeu du chef d'orchestre », voici les attentes à ce niveau.",
+        "consignes": [
+          "Combiner trois mouvements ou plus en séquence rapide",
+          "Exécuter en situation de jeu ou avec opposition",
+          "Créer ses propres enchaînements complexes"
+        ],
+        "criteres_reussite": [
+          "L'élève crée et exécute des séquences complexes",
+          "L'élève s'adapte en temps réel aux contraintes"
+        ]
+      }
+    }
   },
   {
     "titre": "Circuit de manipulation",
@@ -152,8 +737,61 @@
     "variantes": "Augmenter la difficulté de chaque station, ajouter un défi chronométré.",
     "adaptation": "Objets plus gros, distance réduite, 4 stations seulement.",
     "duree": 20,
-    "materiel": ["Balles", "Foulards", "Cerceaux", "Bâtons", "Cônes", "Ballons de soccer"],
-    "tags": ["manipulation", "stations", "circuit", "coordination"]
+    "materiel": [
+      "Balles",
+      "Foulards",
+      "Cerceaux",
+      "Bâtons",
+      "Cônes",
+      "Ballons de soccer"
+    ],
+    "tags": [
+      "manipulation",
+      "stations",
+      "circuit",
+      "coordination"
+    ],
+    "progression": {
+      "niveau1": {
+        "titre": "Débutant",
+        "description": "L'accent est mis sur la compréhension des consignes et la sécurité. Pour « Circuit de manipulation », voici les attentes à ce niveau.",
+        "consignes": [
+          "Se concentrer sur un seul geste à la fois",
+          "Exécuter les mouvements lentement, un à la fois",
+          "Faire des pauses entre chaque répétition"
+        ],
+        "criteres_reussite": [
+          "L'élève exécute le mouvement de base avec aide",
+          "Le geste est réalisé lentement mais correctement"
+        ]
+      },
+      "niveau2": {
+        "titre": "Intermédiaire",
+        "description": "L'élève maîtrise les bases et cherche à améliorer sa constance et sa fluidité. Pour « Circuit de manipulation », voici les attentes à ce niveau.",
+        "consignes": [
+          "Ajouter un déplacement pendant l'exercice",
+          "Introduire un partenaire pour la coordination",
+          "Augmenter progressivement la vitesse d'exécution"
+        ],
+        "criteres_reussite": [
+          "L'élève s'adapte aux changements de rythme",
+          "L'élève enchaîne les mouvements sans interruption"
+        ]
+      },
+      "niveau3": {
+        "titre": "Avancé",
+        "description": "L'expert peut exécuter l'activité dans des contextes variés et exigeants. Pour « Circuit de manipulation », voici les attentes à ce niveau.",
+        "consignes": [
+          "Combiner trois mouvements ou plus en séquence rapide",
+          "Performer devant le groupe avec fluidité",
+          "Créer ses propres enchaînements complexes"
+        ],
+        "criteres_reussite": [
+          "Les mouvements sont fluides et automatisés",
+          "L'élève s'adapte en temps réel aux contraintes"
+        ]
+      }
+    }
   },
   {
     "titre": "Dribble en parcours",
@@ -164,8 +802,57 @@
     "variantes": "Dribble entre les jambes, dribble dans le dos, deux ballons simultanés.",
     "adaptation": "Ballon plus gros, cônes plus espacés, marche au lieu de course.",
     "duree": 15,
-    "materiel": ["Ballons de basketball", "Cônes (8-10)"],
-    "tags": ["dribble", "basketball", "slalom", "coordination"]
+    "materiel": [
+      "Ballons de basketball",
+      "Cônes (8-10)"
+    ],
+    "tags": [
+      "dribble",
+      "basketball",
+      "slalom",
+      "coordination"
+    ],
+    "progression": {
+      "niveau1": {
+        "titre": "Débutant",
+        "description": "L'accent est mis sur la compréhension des consignes et la sécurité. Pour « Dribble en parcours », voici les attentes à ce niveau.",
+        "consignes": [
+          "Utiliser des repères visuels au sol",
+          "Se concentrer sur un seul geste à la fois",
+          "Pratiquer sur place avant de se déplacer"
+        ],
+        "criteres_reussite": [
+          "L'élève exécute le mouvement de base avec aide",
+          "Le geste est réalisé lentement mais correctement"
+        ]
+      },
+      "niveau2": {
+        "titre": "Intermédiaire",
+        "description": "L'élève maîtrise les bases et cherche à améliorer sa constance et sa fluidité. Pour « Dribble en parcours », voici les attentes à ce niveau.",
+        "consignes": [
+          "Varier les hauteurs et les directions",
+          "Enchaîner deux mouvements de façon fluide",
+          "Augmenter progressivement la vitesse d'exécution"
+        ],
+        "criteres_reussite": [
+          "L'élève enchaîne les mouvements sans interruption",
+          "La vitesse d'exécution est régulière"
+        ]
+      },
+      "niveau3": {
+        "titre": "Avancé",
+        "description": "L'élève perfectionne sa technique et s'adapte à des situations complexes. Pour « Dribble en parcours », voici les attentes à ce niveau.",
+        "consignes": [
+          "Performer devant le groupe avec fluidité",
+          "Combiner trois mouvements ou plus en séquence rapide",
+          "Créer ses propres enchaînements complexes"
+        ],
+        "criteres_reussite": [
+          "Les mouvements sont fluides et automatisés",
+          "L'élève s'adapte en temps réel aux contraintes"
+        ]
+      }
+    }
   },
   {
     "titre": "Jonglerie – initiation 3 balles",
@@ -176,8 +863,57 @@
     "variantes": "Foulards (plus lents), balles de différentes tailles, jonglerie en marchant.",
     "adaptation": "Rester à 1 ou 2 balles, foulards à la place, pauses fréquentes.",
     "duree": 20,
-    "materiel": ["3 balles de jonglerie par élève", "Foulards (optionnel)"],
-    "tags": ["jonglerie", "cascade", "coordination", "progression"]
+    "materiel": [
+      "3 balles de jonglerie par élève",
+      "Foulards (optionnel)"
+    ],
+    "tags": [
+      "jonglerie",
+      "cascade",
+      "coordination",
+      "progression"
+    ],
+    "progression": {
+      "niveau1": {
+        "titre": "Débutant",
+        "description": "L'accent est mis sur la compréhension des consignes et la sécurité. Pour « Jonglerie – initiation 3 balles », voici les attentes à ce niveau.",
+        "consignes": [
+          "Pratiquer sur place avant de se déplacer",
+          "Utiliser des repères visuels au sol",
+          "Faire des pauses entre chaque répétition"
+        ],
+        "criteres_reussite": [
+          "L'élève maintient son équilibre pendant l'exercice",
+          "Le geste est réalisé lentement mais correctement"
+        ]
+      },
+      "niveau2": {
+        "titre": "Intermédiaire",
+        "description": "L'élève est capable d'exécuter l'activité de façon autonome avec quelques ajustements. Pour « Jonglerie – initiation 3 balles », voici les attentes à ce niveau.",
+        "consignes": [
+          "Introduire un partenaire pour la coordination",
+          "Varier les hauteurs et les directions",
+          "Enchaîner deux mouvements de façon fluide"
+        ],
+        "criteres_reussite": [
+          "La vitesse d'exécution est régulière",
+          "L'élève s'adapte aux changements de rythme"
+        ]
+      },
+      "niveau3": {
+        "titre": "Avancé",
+        "description": "L'élève perfectionne sa technique et s'adapte à des situations complexes. Pour « Jonglerie – initiation 3 balles », voici les attentes à ce niveau.",
+        "consignes": [
+          "Performer devant le groupe avec fluidité",
+          "Combiner trois mouvements ou plus en séquence rapide",
+          "Exécuter en situation de jeu ou avec opposition"
+        ],
+        "criteres_reussite": [
+          "L'élève crée et exécute des séquences complexes",
+          "Les mouvements sont fluides et automatisés"
+        ]
+      }
+    }
   },
   {
     "titre": "Échelle d'agilité – 8 patrons",
@@ -188,8 +924,56 @@
     "variantes": "Combinaison de patrons, compétition de vitesse, créer son propre patron.",
     "adaptation": "4 patrons simples, rythme lent, démonstration continue.",
     "duree": 20,
-    "materiel": ["Échelles d'agilité (1 pour 4 élèves)"],
-    "tags": ["échelle", "agilité", "pieds", "coordination"]
+    "materiel": [
+      "Échelles d'agilité (1 pour 4 élèves)"
+    ],
+    "tags": [
+      "échelle",
+      "agilité",
+      "pieds",
+      "coordination"
+    ],
+    "progression": {
+      "niveau1": {
+        "titre": "Débutant",
+        "description": "Le débutant explore les bases de l'activité avec un accompagnement soutenu. Pour « Échelle d'agilité – 8 patrons », voici les attentes à ce niveau.",
+        "consignes": [
+          "Faire des pauses entre chaque répétition",
+          "Se concentrer sur un seul geste à la fois",
+          "Utiliser des repères visuels au sol"
+        ],
+        "criteres_reussite": [
+          "L'élève maintient son équilibre pendant l'exercice",
+          "L'élève exécute le mouvement de base avec aide"
+        ]
+      },
+      "niveau2": {
+        "titre": "Intermédiaire",
+        "description": "L'intermédiaire travaille la régularité et commence à combiner les habiletés. Pour « Échelle d'agilité – 8 patrons », voici les attentes à ce niveau.",
+        "consignes": [
+          "Introduire un partenaire pour la coordination",
+          "Ajouter un déplacement pendant l'exercice",
+          "Varier les hauteurs et les directions"
+        ],
+        "criteres_reussite": [
+          "L'élève s'adapte aux changements de rythme",
+          "L'élève enchaîne les mouvements sans interruption"
+        ]
+      },
+      "niveau3": {
+        "titre": "Avancé",
+        "description": "L'élève perfectionne sa technique et s'adapte à des situations complexes. Pour « Échelle d'agilité – 8 patrons », voici les attentes à ce niveau.",
+        "consignes": [
+          "Exécuter en situation de jeu ou avec opposition",
+          "Créer ses propres enchaînements complexes",
+          "Combiner trois mouvements ou plus en séquence rapide"
+        ],
+        "criteres_reussite": [
+          "Les mouvements sont fluides et automatisés",
+          "L'élève s'adapte en temps réel aux contraintes"
+        ]
+      }
+    }
   },
   {
     "titre": "Jeu des passes – triangle",
@@ -200,8 +984,56 @@
     "variantes": "En carré (4 joueurs), avec différents types de passes, en se déplaçant.",
     "adaptation": "1 seule balle, distance réduite, balles mousse.",
     "duree": 15,
-    "materiel": ["Balles de tennis (3 par trio)"],
-    "tags": ["passes", "trio", "timing", "coordination"]
+    "materiel": [
+      "Balles de tennis (3 par trio)"
+    ],
+    "tags": [
+      "passes",
+      "trio",
+      "timing",
+      "coordination"
+    ],
+    "progression": {
+      "niveau1": {
+        "titre": "Débutant",
+        "description": "À ce stade, l'objectif est d'apprivoiser l'exercice sans pression de performance. Pour « Jeu des passes – triangle », voici les attentes à ce niveau.",
+        "consignes": [
+          "Pratiquer sur place avant de se déplacer",
+          "Se concentrer sur un seul geste à la fois",
+          "Faire des pauses entre chaque répétition"
+        ],
+        "criteres_reussite": [
+          "Le geste est réalisé lentement mais correctement",
+          "L'élève maintient son équilibre pendant l'exercice"
+        ]
+      },
+      "niveau2": {
+        "titre": "Intermédiaire",
+        "description": "L'élève est capable d'exécuter l'activité de façon autonome avec quelques ajustements. Pour « Jeu des passes – triangle », voici les attentes à ce niveau.",
+        "consignes": [
+          "Varier les hauteurs et les directions",
+          "Ajouter un déplacement pendant l'exercice",
+          "Enchaîner deux mouvements de façon fluide"
+        ],
+        "criteres_reussite": [
+          "L'élève s'adapte aux changements de rythme",
+          "L'élève enchaîne les mouvements sans interruption"
+        ]
+      },
+      "niveau3": {
+        "titre": "Avancé",
+        "description": "À ce stade avancé, l'élève crée, innove et aide ses pairs. Pour « Jeu des passes – triangle », voici les attentes à ce niveau.",
+        "consignes": [
+          "Exécuter en situation de jeu ou avec opposition",
+          "Performer devant le groupe avec fluidité",
+          "Créer ses propres enchaînements complexes"
+        ],
+        "criteres_reussite": [
+          "L'élève crée et exécute des séquences complexes",
+          "Les mouvements sont fluides et automatisés"
+        ]
+      }
+    }
   },
   {
     "titre": "Simon dit – version active",
@@ -212,8 +1044,56 @@
     "variantes": "Simon dit en anglais, Simon dit avec musique, 2 simons en même temps.",
     "adaptation": "Mouvements simples, rythme lent, pas d'élimination (tout le monde continue).",
     "duree": 10,
-    "materiel": ["Espace dégagé"],
-    "tags": ["Simon dit", "jeu", "écoute", "coordination"]
+    "materiel": [
+      "Espace dégagé"
+    ],
+    "tags": [
+      "Simon dit",
+      "jeu",
+      "écoute",
+      "coordination"
+    ],
+    "progression": {
+      "niveau1": {
+        "titre": "Débutant",
+        "description": "À ce stade, l'objectif est d'apprivoiser l'exercice sans pression de performance. Pour « Simon dit – version active », voici les attentes à ce niveau.",
+        "consignes": [
+          "Se concentrer sur un seul geste à la fois",
+          "Pratiquer sur place avant de se déplacer",
+          "Exécuter les mouvements lentement, un à la fois"
+        ],
+        "criteres_reussite": [
+          "L'élève maintient son équilibre pendant l'exercice",
+          "Le geste est réalisé lentement mais correctement"
+        ]
+      },
+      "niveau2": {
+        "titre": "Intermédiaire",
+        "description": "L'élève maîtrise les bases et cherche à améliorer sa constance et sa fluidité. Pour « Simon dit – version active », voici les attentes à ce niveau.",
+        "consignes": [
+          "Enchaîner deux mouvements de façon fluide",
+          "Varier les hauteurs et les directions",
+          "Introduire un partenaire pour la coordination"
+        ],
+        "criteres_reussite": [
+          "L'élève s'adapte aux changements de rythme",
+          "La vitesse d'exécution est régulière"
+        ]
+      },
+      "niveau3": {
+        "titre": "Avancé",
+        "description": "L'élève démontre une maîtrise complète et peut enseigner aux autres. Pour « Simon dit – version active », voici les attentes à ce niveau.",
+        "consignes": [
+          "Performer devant le groupe avec fluidité",
+          "Combiner trois mouvements ou plus en séquence rapide",
+          "Exécuter en situation de jeu ou avec opposition"
+        ],
+        "criteres_reussite": [
+          "Les mouvements sont fluides et automatisés",
+          "L'élève s'adapte en temps réel aux contraintes"
+        ]
+      }
+    }
   },
   {
     "titre": "Parcours de manipulation pieds-mains",
@@ -224,8 +1104,58 @@
     "variantes": "Ajouter un défi cognitif (compter par 3), parcours en duo, objets différents.",
     "adaptation": "Un seul objet à la fois, marche lente, parcours plus court.",
     "duree": 15,
-    "materiel": ["Ballons de basketball", "Ballons de soccer", "Cônes"],
-    "tags": ["dissociation", "pieds-mains", "parcours", "coordination"]
+    "materiel": [
+      "Ballons de basketball",
+      "Ballons de soccer",
+      "Cônes"
+    ],
+    "tags": [
+      "dissociation",
+      "pieds-mains",
+      "parcours",
+      "coordination"
+    ],
+    "progression": {
+      "niveau1": {
+        "titre": "Débutant",
+        "description": "L'accent est mis sur la compréhension des consignes et la sécurité. Pour « Parcours de manipulation pieds-mains », voici les attentes à ce niveau.",
+        "consignes": [
+          "Pratiquer sur place avant de se déplacer",
+          "Utiliser des repères visuels au sol",
+          "Se concentrer sur un seul geste à la fois"
+        ],
+        "criteres_reussite": [
+          "L'élève exécute le mouvement de base avec aide",
+          "Le geste est réalisé lentement mais correctement"
+        ]
+      },
+      "niveau2": {
+        "titre": "Intermédiaire",
+        "description": "L'élève est capable d'exécuter l'activité de façon autonome avec quelques ajustements. Pour « Parcours de manipulation pieds-mains », voici les attentes à ce niveau.",
+        "consignes": [
+          "Augmenter progressivement la vitesse d'exécution",
+          "Varier les hauteurs et les directions",
+          "Enchaîner deux mouvements de façon fluide"
+        ],
+        "criteres_reussite": [
+          "L'élève s'adapte aux changements de rythme",
+          "La vitesse d'exécution est régulière"
+        ]
+      },
+      "niveau3": {
+        "titre": "Avancé",
+        "description": "À ce stade avancé, l'élève crée, innove et aide ses pairs. Pour « Parcours de manipulation pieds-mains », voici les attentes à ce niveau.",
+        "consignes": [
+          "Performer devant le groupe avec fluidité",
+          "Combiner trois mouvements ou plus en séquence rapide",
+          "Créer ses propres enchaînements complexes"
+        ],
+        "criteres_reussite": [
+          "Les mouvements sont fluides et automatisés",
+          "L'élève s'adapte en temps réel aux contraintes"
+        ]
+      }
+    }
   },
   {
     "titre": "Danse en ligne – apprentissage",
@@ -236,8 +1166,57 @@
     "variantes": "Danses plus complexes (Macarena, Cha Cha Slide), créer sa propre chorégraphie.",
     "adaptation": "Séquence plus courte, mouvements simplifiés, rythme lent, sans musique d'abord.",
     "duree": 20,
-    "materiel": ["Système de son", "Musique adaptée"],
-    "tags": ["danse en ligne", "chorégraphie", "rythme", "coordination"]
+    "materiel": [
+      "Système de son",
+      "Musique adaptée"
+    ],
+    "tags": [
+      "danse en ligne",
+      "chorégraphie",
+      "rythme",
+      "coordination"
+    ],
+    "progression": {
+      "niveau1": {
+        "titre": "Débutant",
+        "description": "Le débutant explore les bases de l'activité avec un accompagnement soutenu. Pour « Danse en ligne – apprentissage », voici les attentes à ce niveau.",
+        "consignes": [
+          "Faire des pauses entre chaque répétition",
+          "Exécuter les mouvements lentement, un à la fois",
+          "Utiliser des repères visuels au sol"
+        ],
+        "criteres_reussite": [
+          "L'élève maintient son équilibre pendant l'exercice",
+          "Le geste est réalisé lentement mais correctement"
+        ]
+      },
+      "niveau2": {
+        "titre": "Intermédiaire",
+        "description": "L'élève maîtrise les bases et cherche à améliorer sa constance et sa fluidité. Pour « Danse en ligne – apprentissage », voici les attentes à ce niveau.",
+        "consignes": [
+          "Enchaîner deux mouvements de façon fluide",
+          "Varier les hauteurs et les directions",
+          "Ajouter un déplacement pendant l'exercice"
+        ],
+        "criteres_reussite": [
+          "L'élève enchaîne les mouvements sans interruption",
+          "La vitesse d'exécution est régulière"
+        ]
+      },
+      "niveau3": {
+        "titre": "Avancé",
+        "description": "L'expert peut exécuter l'activité dans des contextes variés et exigeants. Pour « Danse en ligne – apprentissage », voici les attentes à ce niveau.",
+        "consignes": [
+          "Créer ses propres enchaînements complexes",
+          "Performer devant le groupe avec fluidité",
+          "Réagir à des signaux variés tout en maintenant la coordination"
+        ],
+        "criteres_reussite": [
+          "Les mouvements sont fluides et automatisés",
+          "L'élève crée et exécute des séquences complexes"
+        ]
+      }
+    }
   },
   {
     "titre": "Double Dutch – initiation",
@@ -248,8 +1227,56 @@
     "variantes": "Deux sauteurs, figures en sautant, rhymes et comptines, compétition.",
     "adaptation": "Une seule corde (grande corde), corde plus lente, entrer avec aide.",
     "duree": 20,
-    "materiel": ["2 longues cordes (4-5 m)"],
-    "tags": ["Double Dutch", "corde", "saut", "coordination"]
+    "materiel": [
+      "2 longues cordes (4-5 m)"
+    ],
+    "tags": [
+      "Double Dutch",
+      "corde",
+      "saut",
+      "coordination"
+    ],
+    "progression": {
+      "niveau1": {
+        "titre": "Débutant",
+        "description": "Le débutant explore les bases de l'activité avec un accompagnement soutenu. Pour « Double Dutch – initiation », voici les attentes à ce niveau.",
+        "consignes": [
+          "Se concentrer sur un seul geste à la fois",
+          "Utiliser des repères visuels au sol",
+          "Pratiquer sur place avant de se déplacer"
+        ],
+        "criteres_reussite": [
+          "L'élève maintient son équilibre pendant l'exercice",
+          "Le geste est réalisé lentement mais correctement"
+        ]
+      },
+      "niveau2": {
+        "titre": "Intermédiaire",
+        "description": "L'intermédiaire travaille la régularité et commence à combiner les habiletés. Pour « Double Dutch – initiation », voici les attentes à ce niveau.",
+        "consignes": [
+          "Augmenter progressivement la vitesse d'exécution",
+          "Introduire un partenaire pour la coordination",
+          "Varier les hauteurs et les directions"
+        ],
+        "criteres_reussite": [
+          "L'élève enchaîne les mouvements sans interruption",
+          "La vitesse d'exécution est régulière"
+        ]
+      },
+      "niveau3": {
+        "titre": "Avancé",
+        "description": "À ce stade avancé, l'élève crée, innove et aide ses pairs. Pour « Double Dutch – initiation », voici les attentes à ce niveau.",
+        "consignes": [
+          "Créer ses propres enchaînements complexes",
+          "Réagir à des signaux variés tout en maintenant la coordination",
+          "Exécuter en situation de jeu ou avec opposition"
+        ],
+        "criteres_reussite": [
+          "Les mouvements sont fluides et automatisés",
+          "L'élève crée et exécute des séquences complexes"
+        ]
+      }
+    }
   },
   {
     "titre": "Coordination avec bâtons – rhythm sticks",
@@ -260,8 +1287,56 @@
     "variantes": "Rythmes plus complexes, en musique, créer des séquences, debout en marchant.",
     "adaptation": "Séquence simplifiée (2 temps), petits groupes de 4, rythme très lent.",
     "duree": 15,
-    "materiel": ["2 bâtons courts (30 cm) par élève"],
-    "tags": ["bâtons", "rythme", "collectif", "coordination"]
+    "materiel": [
+      "2 bâtons courts (30 cm) par élève"
+    ],
+    "tags": [
+      "bâtons",
+      "rythme",
+      "collectif",
+      "coordination"
+    ],
+    "progression": {
+      "niveau1": {
+        "titre": "Débutant",
+        "description": "À ce stade, l'objectif est d'apprivoiser l'exercice sans pression de performance. Pour « Coordination avec bâtons – rhythm sticks », voici les attentes à ce niveau.",
+        "consignes": [
+          "Pratiquer sur place avant de se déplacer",
+          "Se concentrer sur un seul geste à la fois",
+          "Exécuter les mouvements lentement, un à la fois"
+        ],
+        "criteres_reussite": [
+          "L'élève maintient son équilibre pendant l'exercice",
+          "Le geste est réalisé lentement mais correctement"
+        ]
+      },
+      "niveau2": {
+        "titre": "Intermédiaire",
+        "description": "À ce niveau, on ajoute de la complexité tout en consolidant les acquis. Pour « Coordination avec bâtons – rhythm sticks », voici les attentes à ce niveau.",
+        "consignes": [
+          "Varier les hauteurs et les directions",
+          "Introduire un partenaire pour la coordination",
+          "Augmenter progressivement la vitesse d'exécution"
+        ],
+        "criteres_reussite": [
+          "L'élève enchaîne les mouvements sans interruption",
+          "L'élève s'adapte aux changements de rythme"
+        ]
+      },
+      "niveau3": {
+        "titre": "Avancé",
+        "description": "À ce stade avancé, l'élève crée, innove et aide ses pairs. Pour « Coordination avec bâtons – rhythm sticks », voici les attentes à ce niveau.",
+        "consignes": [
+          "Réagir à des signaux variés tout en maintenant la coordination",
+          "Combiner trois mouvements ou plus en séquence rapide",
+          "Performer devant le groupe avec fluidité"
+        ],
+        "criteres_reussite": [
+          "Les mouvements sont fluides et automatisés",
+          "L'élève s'adapte en temps réel aux contraintes"
+        ]
+      }
+    }
   },
   {
     "titre": "Parcours d'agilité chronométré",
@@ -272,8 +1347,58 @@
     "variantes": "Parcours en duo (relais), parcours avec ballon, parcours avec consignes cognitives.",
     "adaptation": "Parcours simplifié, sans chronomètre, marche rapide au lieu de sprint.",
     "duree": 20,
-    "materiel": ["Cônes", "Échelle d'agilité", "Chronomètre"],
-    "tags": ["agilité", "chrono", "parcours", "vitesse"]
+    "materiel": [
+      "Cônes",
+      "Échelle d'agilité",
+      "Chronomètre"
+    ],
+    "tags": [
+      "agilité",
+      "chrono",
+      "parcours",
+      "vitesse"
+    ],
+    "progression": {
+      "niveau1": {
+        "titre": "Débutant",
+        "description": "L'élève découvre l'activité et se familiarise avec les mouvements fondamentaux. Pour « Parcours d'agilité chronométré », voici les attentes à ce niveau.",
+        "consignes": [
+          "Pratiquer sur place avant de se déplacer",
+          "Utiliser des repères visuels au sol",
+          "Se concentrer sur un seul geste à la fois"
+        ],
+        "criteres_reussite": [
+          "Le geste est réalisé lentement mais correctement",
+          "L'élève maintient son équilibre pendant l'exercice"
+        ]
+      },
+      "niveau2": {
+        "titre": "Intermédiaire",
+        "description": "À ce niveau, on ajoute de la complexité tout en consolidant les acquis. Pour « Parcours d'agilité chronométré », voici les attentes à ce niveau.",
+        "consignes": [
+          "Introduire un partenaire pour la coordination",
+          "Enchaîner deux mouvements de façon fluide",
+          "Ajouter un déplacement pendant l'exercice"
+        ],
+        "criteres_reussite": [
+          "L'élève enchaîne les mouvements sans interruption",
+          "L'élève s'adapte aux changements de rythme"
+        ]
+      },
+      "niveau3": {
+        "titre": "Avancé",
+        "description": "L'expert peut exécuter l'activité dans des contextes variés et exigeants. Pour « Parcours d'agilité chronométré », voici les attentes à ce niveau.",
+        "consignes": [
+          "Créer ses propres enchaînements complexes",
+          "Réagir à des signaux variés tout en maintenant la coordination",
+          "Performer devant le groupe avec fluidité"
+        ],
+        "criteres_reussite": [
+          "L'élève crée et exécute des séquences complexes",
+          "Les mouvements sont fluides et automatisés"
+        ]
+      }
+    }
   },
   {
     "titre": "Coordination avec cerceaux – routine en musique",
@@ -284,8 +1409,57 @@
     "variantes": "Chorégraphie de groupe, avec 2 cerceaux, présentation devant la classe.",
     "adaptation": "4 mouvements, tempo lent, démonstration continue.",
     "duree": 20,
-    "materiel": ["1 cerceau par élève", "Système de son"],
-    "tags": ["cerceau", "routine", "musique", "coordination"]
+    "materiel": [
+      "1 cerceau par élève",
+      "Système de son"
+    ],
+    "tags": [
+      "cerceau",
+      "routine",
+      "musique",
+      "coordination"
+    ],
+    "progression": {
+      "niveau1": {
+        "titre": "Débutant",
+        "description": "Le débutant explore les bases de l'activité avec un accompagnement soutenu. Pour « Coordination avec cerceaux – routine en musique », voici les attentes à ce niveau.",
+        "consignes": [
+          "Utiliser des repères visuels au sol",
+          "Pratiquer sur place avant de se déplacer",
+          "Se concentrer sur un seul geste à la fois"
+        ],
+        "criteres_reussite": [
+          "L'élève maintient son équilibre pendant l'exercice",
+          "Le geste est réalisé lentement mais correctement"
+        ]
+      },
+      "niveau2": {
+        "titre": "Intermédiaire",
+        "description": "À ce niveau, on ajoute de la complexité tout en consolidant les acquis. Pour « Coordination avec cerceaux – routine en musique », voici les attentes à ce niveau.",
+        "consignes": [
+          "Enchaîner deux mouvements de façon fluide",
+          "Introduire un partenaire pour la coordination",
+          "Varier les hauteurs et les directions"
+        ],
+        "criteres_reussite": [
+          "La vitesse d'exécution est régulière",
+          "L'élève enchaîne les mouvements sans interruption"
+        ]
+      },
+      "niveau3": {
+        "titre": "Avancé",
+        "description": "L'élève démontre une maîtrise complète et peut enseigner aux autres. Pour « Coordination avec cerceaux – routine en musique », voici les attentes à ce niveau.",
+        "consignes": [
+          "Créer ses propres enchaînements complexes",
+          "Performer devant le groupe avec fluidité",
+          "Exécuter en situation de jeu ou avec opposition"
+        ],
+        "criteres_reussite": [
+          "L'élève s'adapte en temps réel aux contraintes",
+          "Les mouvements sont fluides et automatisés"
+        ]
+      }
+    }
   },
   {
     "titre": "Jeu de pied – footbag (hacky sack)",
@@ -296,8 +1470,56 @@
     "variantes": "En cercle (passes de footbag), défis de figures, compétition de contacts.",
     "adaptation": "Ballon de baudruche rempli de riz (tombe plus lentement), lancer à soi-même d'abord.",
     "duree": 15,
-    "materiel": ["1 footbag (hacky sack) par élève"],
-    "tags": ["footbag", "pieds", "jonglerie", "coordination"]
+    "materiel": [
+      "1 footbag (hacky sack) par élève"
+    ],
+    "tags": [
+      "footbag",
+      "pieds",
+      "jonglerie",
+      "coordination"
+    ],
+    "progression": {
+      "niveau1": {
+        "titre": "Débutant",
+        "description": "À ce stade, l'objectif est d'apprivoiser l'exercice sans pression de performance. Pour « Jeu de pied – footbag (hacky sack) », voici les attentes à ce niveau.",
+        "consignes": [
+          "Exécuter les mouvements lentement, un à la fois",
+          "Faire des pauses entre chaque répétition",
+          "Utiliser des repères visuels au sol"
+        ],
+        "criteres_reussite": [
+          "Le geste est réalisé lentement mais correctement",
+          "L'élève maintient son équilibre pendant l'exercice"
+        ]
+      },
+      "niveau2": {
+        "titre": "Intermédiaire",
+        "description": "L'élève maîtrise les bases et cherche à améliorer sa constance et sa fluidité. Pour « Jeu de pied – footbag (hacky sack) », voici les attentes à ce niveau.",
+        "consignes": [
+          "Augmenter progressivement la vitesse d'exécution",
+          "Ajouter un déplacement pendant l'exercice",
+          "Varier les hauteurs et les directions"
+        ],
+        "criteres_reussite": [
+          "L'élève s'adapte aux changements de rythme",
+          "La vitesse d'exécution est régulière"
+        ]
+      },
+      "niveau3": {
+        "titre": "Avancé",
+        "description": "L'expert peut exécuter l'activité dans des contextes variés et exigeants. Pour « Jeu de pied – footbag (hacky sack) », voici les attentes à ce niveau.",
+        "consignes": [
+          "Combiner trois mouvements ou plus en séquence rapide",
+          "Exécuter en situation de jeu ou avec opposition",
+          "Réagir à des signaux variés tout en maintenant la coordination"
+        ],
+        "criteres_reussite": [
+          "L'élève crée et exécute des séquences complexes",
+          "Les mouvements sont fluides et automatisés"
+        ]
+      }
+    }
   },
   {
     "titre": "Circuit de réaction – lumières et sons",
@@ -308,8 +1530,59 @@
     "variantes": "Augmenter la vitesse des stimuli, combiner visuel et auditif, compétition.",
     "adaptation": "Stimuli plus lents, une seule direction, temps de réaction plus long.",
     "duree": 20,
-    "materiel": ["Règle", "Cônes de couleur", "Balles rebondissantes", "Sifflet"],
-    "tags": ["réaction", "vitesse", "stimulus", "coordination"]
+    "materiel": [
+      "Règle",
+      "Cônes de couleur",
+      "Balles rebondissantes",
+      "Sifflet"
+    ],
+    "tags": [
+      "réaction",
+      "vitesse",
+      "stimulus",
+      "coordination"
+    ],
+    "progression": {
+      "niveau1": {
+        "titre": "Débutant",
+        "description": "Le débutant explore les bases de l'activité avec un accompagnement soutenu. Pour « Circuit de réaction – lumières et sons », voici les attentes à ce niveau.",
+        "consignes": [
+          "Utiliser des repères visuels au sol",
+          "Pratiquer sur place avant de se déplacer",
+          "Faire des pauses entre chaque répétition"
+        ],
+        "criteres_reussite": [
+          "L'élève maintient son équilibre pendant l'exercice",
+          "Le geste est réalisé lentement mais correctement"
+        ]
+      },
+      "niveau2": {
+        "titre": "Intermédiaire",
+        "description": "L'élève est capable d'exécuter l'activité de façon autonome avec quelques ajustements. Pour « Circuit de réaction – lumières et sons », voici les attentes à ce niveau.",
+        "consignes": [
+          "Introduire un partenaire pour la coordination",
+          "Ajouter un déplacement pendant l'exercice",
+          "Varier les hauteurs et les directions"
+        ],
+        "criteres_reussite": [
+          "L'élève s'adapte aux changements de rythme",
+          "La vitesse d'exécution est régulière"
+        ]
+      },
+      "niveau3": {
+        "titre": "Avancé",
+        "description": "L'expert peut exécuter l'activité dans des contextes variés et exigeants. Pour « Circuit de réaction – lumières et sons », voici les attentes à ce niveau.",
+        "consignes": [
+          "Exécuter en situation de jeu ou avec opposition",
+          "Performer devant le groupe avec fluidité",
+          "Combiner trois mouvements ou plus en séquence rapide"
+        ],
+        "criteres_reussite": [
+          "L'élève crée et exécute des séquences complexes",
+          "L'élève s'adapte en temps réel aux contraintes"
+        ]
+      }
+    }
   },
   {
     "titre": "Coordination avec ballon suisse",
@@ -320,8 +1593,57 @@
     "variantes": "Exercices debout sur le ballon (avancé, avec pareur), combiner 2 défis.",
     "adaptation": "Ballon bien gonflé et stable, contre un mur, exercices assis seulement.",
     "duree": 15,
-    "materiel": ["Ballons suisses", "Balles de tennis"],
-    "tags": ["ballon suisse", "stabilité", "coordination", "double tâche"]
+    "materiel": [
+      "Ballons suisses",
+      "Balles de tennis"
+    ],
+    "tags": [
+      "ballon suisse",
+      "stabilité",
+      "coordination",
+      "double tâche"
+    ],
+    "progression": {
+      "niveau1": {
+        "titre": "Débutant",
+        "description": "L'élève découvre l'activité et se familiarise avec les mouvements fondamentaux. Pour « Coordination avec ballon suisse », voici les attentes à ce niveau.",
+        "consignes": [
+          "Exécuter les mouvements lentement, un à la fois",
+          "Se concentrer sur un seul geste à la fois",
+          "Pratiquer sur place avant de se déplacer"
+        ],
+        "criteres_reussite": [
+          "Le geste est réalisé lentement mais correctement",
+          "L'élève exécute le mouvement de base avec aide"
+        ]
+      },
+      "niveau2": {
+        "titre": "Intermédiaire",
+        "description": "L'élève est capable d'exécuter l'activité de façon autonome avec quelques ajustements. Pour « Coordination avec ballon suisse », voici les attentes à ce niveau.",
+        "consignes": [
+          "Enchaîner deux mouvements de façon fluide",
+          "Introduire un partenaire pour la coordination",
+          "Ajouter un déplacement pendant l'exercice"
+        ],
+        "criteres_reussite": [
+          "L'élève enchaîne les mouvements sans interruption",
+          "L'élève s'adapte aux changements de rythme"
+        ]
+      },
+      "niveau3": {
+        "titre": "Avancé",
+        "description": "L'élève perfectionne sa technique et s'adapte à des situations complexes. Pour « Coordination avec ballon suisse », voici les attentes à ce niveau.",
+        "consignes": [
+          "Performer devant le groupe avec fluidité",
+          "Combiner trois mouvements ou plus en séquence rapide",
+          "Réagir à des signaux variés tout en maintenant la coordination"
+        ],
+        "criteres_reussite": [
+          "Les mouvements sont fluides et automatisés",
+          "L'élève crée et exécute des séquences complexes"
+        ]
+      }
+    }
   },
   {
     "titre": "Corde à sauter avancé – figures",
@@ -332,8 +1654,56 @@
     "variantes": "Enchaîner les figures en routine, en musique, compétition de figures.",
     "adaptation": "Figures de base seulement, corde plus longue, rythme personnel.",
     "duree": 20,
-    "materiel": ["1 corde à sauter par élève"],
-    "tags": ["corde à sauter", "figures", "avancé", "coordination"]
+    "materiel": [
+      "1 corde à sauter par élève"
+    ],
+    "tags": [
+      "corde à sauter",
+      "figures",
+      "avancé",
+      "coordination"
+    ],
+    "progression": {
+      "niveau1": {
+        "titre": "Débutant",
+        "description": "L'accent est mis sur la compréhension des consignes et la sécurité. Pour « Corde à sauter avancé – figures », voici les attentes à ce niveau.",
+        "consignes": [
+          "Faire des pauses entre chaque répétition",
+          "Utiliser des repères visuels au sol",
+          "Exécuter les mouvements lentement, un à la fois"
+        ],
+        "criteres_reussite": [
+          "L'élève exécute le mouvement de base avec aide",
+          "Le geste est réalisé lentement mais correctement"
+        ]
+      },
+      "niveau2": {
+        "titre": "Intermédiaire",
+        "description": "L'élève maîtrise les bases et cherche à améliorer sa constance et sa fluidité. Pour « Corde à sauter avancé – figures », voici les attentes à ce niveau.",
+        "consignes": [
+          "Augmenter progressivement la vitesse d'exécution",
+          "Varier les hauteurs et les directions",
+          "Ajouter un déplacement pendant l'exercice"
+        ],
+        "criteres_reussite": [
+          "L'élève enchaîne les mouvements sans interruption",
+          "L'élève s'adapte aux changements de rythme"
+        ]
+      },
+      "niveau3": {
+        "titre": "Avancé",
+        "description": "L'élève démontre une maîtrise complète et peut enseigner aux autres. Pour « Corde à sauter avancé – figures », voici les attentes à ce niveau.",
+        "consignes": [
+          "Créer ses propres enchaînements complexes",
+          "Performer devant le groupe avec fluidité",
+          "Exécuter en situation de jeu ou avec opposition"
+        ],
+        "criteres_reussite": [
+          "Les mouvements sont fluides et automatisés",
+          "L'élève s'adapte en temps réel aux contraintes"
+        ]
+      }
+    }
   },
   {
     "titre": "Sport de raquette – coordination oeil-main",
@@ -344,8 +1714,57 @@
     "variantes": "Avec balle de ping-pong, en mouvement, minitennis, cibles au mur.",
     "adaptation": "Raquette plus grande, volant ou balle mousse, partenaire patient, distance réduite.",
     "duree": 20,
-    "materiel": ["Raquettes de badminton", "Volants"],
-    "tags": ["raquette", "oeil-main", "badminton", "coordination"]
+    "materiel": [
+      "Raquettes de badminton",
+      "Volants"
+    ],
+    "tags": [
+      "raquette",
+      "oeil-main",
+      "badminton",
+      "coordination"
+    ],
+    "progression": {
+      "niveau1": {
+        "titre": "Débutant",
+        "description": "L'accent est mis sur la compréhension des consignes et la sécurité. Pour « Sport de raquette – coordination oeil-main », voici les attentes à ce niveau.",
+        "consignes": [
+          "Se concentrer sur un seul geste à la fois",
+          "Pratiquer sur place avant de se déplacer",
+          "Utiliser des repères visuels au sol"
+        ],
+        "criteres_reussite": [
+          "L'élève maintient son équilibre pendant l'exercice",
+          "Le geste est réalisé lentement mais correctement"
+        ]
+      },
+      "niveau2": {
+        "titre": "Intermédiaire",
+        "description": "L'élève maîtrise les bases et cherche à améliorer sa constance et sa fluidité. Pour « Sport de raquette – coordination oeil-main », voici les attentes à ce niveau.",
+        "consignes": [
+          "Varier les hauteurs et les directions",
+          "Ajouter un déplacement pendant l'exercice",
+          "Augmenter progressivement la vitesse d'exécution"
+        ],
+        "criteres_reussite": [
+          "La vitesse d'exécution est régulière",
+          "L'élève enchaîne les mouvements sans interruption"
+        ]
+      },
+      "niveau3": {
+        "titre": "Avancé",
+        "description": "À ce stade avancé, l'élève crée, innove et aide ses pairs. Pour « Sport de raquette – coordination oeil-main », voici les attentes à ce niveau.",
+        "consignes": [
+          "Réagir à des signaux variés tout en maintenant la coordination",
+          "Créer ses propres enchaînements complexes",
+          "Exécuter en situation de jeu ou avec opposition"
+        ],
+        "criteres_reussite": [
+          "Les mouvements sont fluides et automatisés",
+          "L'élève s'adapte en temps réel aux contraintes"
+        ]
+      }
+    }
   },
   {
     "titre": "Exercices de dissociation segmentaire",
@@ -356,8 +1775,56 @@
     "variantes": "3 segments simultanés, en musique poly-rythmique, défi en duo.",
     "adaptation": "2 segments seulement, tempo très lent, mouvements simples.",
     "duree": 15,
-    "materiel": ["Espace dégagé"],
-    "tags": ["dissociation", "segmentaire", "indépendance", "coordination"]
+    "materiel": [
+      "Espace dégagé"
+    ],
+    "tags": [
+      "dissociation",
+      "segmentaire",
+      "indépendance",
+      "coordination"
+    ],
+    "progression": {
+      "niveau1": {
+        "titre": "Débutant",
+        "description": "Le débutant explore les bases de l'activité avec un accompagnement soutenu. Pour « Exercices de dissociation segmentaire », voici les attentes à ce niveau.",
+        "consignes": [
+          "Utiliser des repères visuels au sol",
+          "Exécuter les mouvements lentement, un à la fois",
+          "Faire des pauses entre chaque répétition"
+        ],
+        "criteres_reussite": [
+          "L'élève maintient son équilibre pendant l'exercice",
+          "L'élève exécute le mouvement de base avec aide"
+        ]
+      },
+      "niveau2": {
+        "titre": "Intermédiaire",
+        "description": "L'élève est capable d'exécuter l'activité de façon autonome avec quelques ajustements. Pour « Exercices de dissociation segmentaire », voici les attentes à ce niveau.",
+        "consignes": [
+          "Ajouter un déplacement pendant l'exercice",
+          "Introduire un partenaire pour la coordination",
+          "Varier les hauteurs et les directions"
+        ],
+        "criteres_reussite": [
+          "L'élève enchaîne les mouvements sans interruption",
+          "La vitesse d'exécution est régulière"
+        ]
+      },
+      "niveau3": {
+        "titre": "Avancé",
+        "description": "L'élève perfectionne sa technique et s'adapte à des situations complexes. Pour « Exercices de dissociation segmentaire », voici les attentes à ce niveau.",
+        "consignes": [
+          "Créer ses propres enchaînements complexes",
+          "Combiner trois mouvements ou plus en séquence rapide",
+          "Exécuter en situation de jeu ou avec opposition"
+        ],
+        "criteres_reussite": [
+          "Les mouvements sont fluides et automatisés",
+          "L'élève crée et exécute des séquences complexes"
+        ]
+      }
+    }
   },
   {
     "titre": "Parcours multisport",
@@ -368,8 +1835,59 @@
     "variantes": "Ajouter des sports, chronométrer, en relais par équipe.",
     "adaptation": "Retirer des stations, distances réduites, pas de chronomètre.",
     "duree": 20,
-    "materiel": ["Ballons variés", "Cerceaux", "Cônes", "Filet ou mur"],
-    "tags": ["multisport", "polyvalence", "parcours", "coordination"]
+    "materiel": [
+      "Ballons variés",
+      "Cerceaux",
+      "Cônes",
+      "Filet ou mur"
+    ],
+    "tags": [
+      "multisport",
+      "polyvalence",
+      "parcours",
+      "coordination"
+    ],
+    "progression": {
+      "niveau1": {
+        "titre": "Débutant",
+        "description": "L'accent est mis sur la compréhension des consignes et la sécurité. Pour « Parcours multisport », voici les attentes à ce niveau.",
+        "consignes": [
+          "Pratiquer sur place avant de se déplacer",
+          "Utiliser des repères visuels au sol",
+          "Exécuter les mouvements lentement, un à la fois"
+        ],
+        "criteres_reussite": [
+          "Le geste est réalisé lentement mais correctement",
+          "L'élève maintient son équilibre pendant l'exercice"
+        ]
+      },
+      "niveau2": {
+        "titre": "Intermédiaire",
+        "description": "L'élève est capable d'exécuter l'activité de façon autonome avec quelques ajustements. Pour « Parcours multisport », voici les attentes à ce niveau.",
+        "consignes": [
+          "Augmenter progressivement la vitesse d'exécution",
+          "Varier les hauteurs et les directions",
+          "Ajouter un déplacement pendant l'exercice"
+        ],
+        "criteres_reussite": [
+          "L'élève s'adapte aux changements de rythme",
+          "La vitesse d'exécution est régulière"
+        ]
+      },
+      "niveau3": {
+        "titre": "Avancé",
+        "description": "L'expert peut exécuter l'activité dans des contextes variés et exigeants. Pour « Parcours multisport », voici les attentes à ce niveau.",
+        "consignes": [
+          "Exécuter en situation de jeu ou avec opposition",
+          "Créer ses propres enchaînements complexes",
+          "Combiner trois mouvements ou plus en séquence rapide"
+        ],
+        "criteres_reussite": [
+          "Les mouvements sont fluides et automatisés",
+          "L'élève crée et exécute des séquences complexes"
+        ]
+      }
+    }
   },
   {
     "titre": "Jeux de mains complexes – Cup song",
@@ -380,8 +1898,57 @@
     "variantes": "Séquences plus complexes, en duo (passer le verre), en cercle, en musique.",
     "adaptation": "Séquence raccourcie, tempo très lent, chaque geste séparément d'abord.",
     "duree": 20,
-    "materiel": ["1 verre en plastique rigide par élève", "Table ou surface dure"],
-    "tags": ["cup song", "rythme", "mains", "coordination"]
+    "materiel": [
+      "1 verre en plastique rigide par élève",
+      "Table ou surface dure"
+    ],
+    "tags": [
+      "cup song",
+      "rythme",
+      "mains",
+      "coordination"
+    ],
+    "progression": {
+      "niveau1": {
+        "titre": "Débutant",
+        "description": "À ce stade, l'objectif est d'apprivoiser l'exercice sans pression de performance. Pour « Jeux de mains complexes – Cup song », voici les attentes à ce niveau.",
+        "consignes": [
+          "Utiliser des repères visuels au sol",
+          "Pratiquer sur place avant de se déplacer",
+          "Se concentrer sur un seul geste à la fois"
+        ],
+        "criteres_reussite": [
+          "L'élève exécute le mouvement de base avec aide",
+          "L'élève maintient son équilibre pendant l'exercice"
+        ]
+      },
+      "niveau2": {
+        "titre": "Intermédiaire",
+        "description": "L'élève est capable d'exécuter l'activité de façon autonome avec quelques ajustements. Pour « Jeux de mains complexes – Cup song », voici les attentes à ce niveau.",
+        "consignes": [
+          "Augmenter progressivement la vitesse d'exécution",
+          "Ajouter un déplacement pendant l'exercice",
+          "Enchaîner deux mouvements de façon fluide"
+        ],
+        "criteres_reussite": [
+          "L'élève s'adapte aux changements de rythme",
+          "La vitesse d'exécution est régulière"
+        ]
+      },
+      "niveau3": {
+        "titre": "Avancé",
+        "description": "À ce stade avancé, l'élève crée, innove et aide ses pairs. Pour « Jeux de mains complexes – Cup song », voici les attentes à ce niveau.",
+        "consignes": [
+          "Créer ses propres enchaînements complexes",
+          "Réagir à des signaux variés tout en maintenant la coordination",
+          "Combiner trois mouvements ou plus en séquence rapide"
+        ],
+        "criteres_reussite": [
+          "Les mouvements sont fluides et automatisés",
+          "L'élève crée et exécute des séquences complexes"
+        ]
+      }
+    }
   },
   {
     "titre": "Coordination avec corde longue",
@@ -392,8 +1959,56 @@
     "variantes": "Comptines en sautant, entrer-sortir en chaîne, figures en sautant.",
     "adaptation": "Corde balancée (pas tournée en cercle complet), entrée facile, 1 saut suffit.",
     "duree": 15,
-    "materiel": ["1 grande corde (5-6 m)"],
-    "tags": ["grande corde", "saut", "groupe", "coordination"]
+    "materiel": [
+      "1 grande corde (5-6 m)"
+    ],
+    "tags": [
+      "grande corde",
+      "saut",
+      "groupe",
+      "coordination"
+    ],
+    "progression": {
+      "niveau1": {
+        "titre": "Débutant",
+        "description": "Le débutant explore les bases de l'activité avec un accompagnement soutenu. Pour « Coordination avec corde longue », voici les attentes à ce niveau.",
+        "consignes": [
+          "Exécuter les mouvements lentement, un à la fois",
+          "Pratiquer sur place avant de se déplacer",
+          "Faire des pauses entre chaque répétition"
+        ],
+        "criteres_reussite": [
+          "L'élève exécute le mouvement de base avec aide",
+          "Le geste est réalisé lentement mais correctement"
+        ]
+      },
+      "niveau2": {
+        "titre": "Intermédiaire",
+        "description": "L'élève maîtrise les bases et cherche à améliorer sa constance et sa fluidité. Pour « Coordination avec corde longue », voici les attentes à ce niveau.",
+        "consignes": [
+          "Augmenter progressivement la vitesse d'exécution",
+          "Introduire un partenaire pour la coordination",
+          "Ajouter un déplacement pendant l'exercice"
+        ],
+        "criteres_reussite": [
+          "L'élève enchaîne les mouvements sans interruption",
+          "L'élève s'adapte aux changements de rythme"
+        ]
+      },
+      "niveau3": {
+        "titre": "Avancé",
+        "description": "L'élève démontre une maîtrise complète et peut enseigner aux autres. Pour « Coordination avec corde longue », voici les attentes à ce niveau.",
+        "consignes": [
+          "Exécuter en situation de jeu ou avec opposition",
+          "Combiner trois mouvements ou plus en séquence rapide",
+          "Performer devant le groupe avec fluidité"
+        ],
+        "criteres_reussite": [
+          "L'élève crée et exécute des séquences complexes",
+          "Les mouvements sont fluides et automatisés"
+        ]
+      }
+    }
   },
   {
     "titre": "Défi de coordination – 30 secondes",
@@ -404,8 +2019,58 @@
     "variantes": "Course contre la montre, en duo (relais de défis), créer ses propres défis.",
     "adaptation": "5 défis simplifiés, 45 secondes par défi, sans chronomètre.",
     "duree": 20,
-    "materiel": ["Matériel varié", "Carte de défis", "Chronomètre"],
-    "tags": ["défis", "chrono", "polyvalence", "coordination"]
+    "materiel": [
+      "Matériel varié",
+      "Carte de défis",
+      "Chronomètre"
+    ],
+    "tags": [
+      "défis",
+      "chrono",
+      "polyvalence",
+      "coordination"
+    ],
+    "progression": {
+      "niveau1": {
+        "titre": "Débutant",
+        "description": "Le débutant explore les bases de l'activité avec un accompagnement soutenu. Pour « Défi de coordination – 30 secondes », voici les attentes à ce niveau.",
+        "consignes": [
+          "Utiliser des repères visuels au sol",
+          "Faire des pauses entre chaque répétition",
+          "Se concentrer sur un seul geste à la fois"
+        ],
+        "criteres_reussite": [
+          "Le geste est réalisé lentement mais correctement",
+          "L'élève exécute le mouvement de base avec aide"
+        ]
+      },
+      "niveau2": {
+        "titre": "Intermédiaire",
+        "description": "L'élève maîtrise les bases et cherche à améliorer sa constance et sa fluidité. Pour « Défi de coordination – 30 secondes », voici les attentes à ce niveau.",
+        "consignes": [
+          "Enchaîner deux mouvements de façon fluide",
+          "Augmenter progressivement la vitesse d'exécution",
+          "Varier les hauteurs et les directions"
+        ],
+        "criteres_reussite": [
+          "La vitesse d'exécution est régulière",
+          "L'élève s'adapte aux changements de rythme"
+        ]
+      },
+      "niveau3": {
+        "titre": "Avancé",
+        "description": "L'élève démontre une maîtrise complète et peut enseigner aux autres. Pour « Défi de coordination – 30 secondes », voici les attentes à ce niveau.",
+        "consignes": [
+          "Performer devant le groupe avec fluidité",
+          "Réagir à des signaux variés tout en maintenant la coordination",
+          "Combiner trois mouvements ou plus en séquence rapide"
+        ],
+        "criteres_reussite": [
+          "L'élève crée et exécute des séquences complexes",
+          "Les mouvements sont fluides et automatisés"
+        ]
+      }
+    }
   },
   {
     "titre": "Coordination oeil-pied – soccer skills",
@@ -416,8 +2081,58 @@
     "variantes": "Compétition de précision, pied non dominant, défis en duo.",
     "adaptation": "Ballon plus gros, stations simplifiées, pas de jonglerie, cibles plus grandes.",
     "duree": 20,
-    "materiel": ["Ballons de soccer", "Cônes", "Cibles"],
-    "tags": ["soccer", "oeil-pied", "dribble", "coordination"]
+    "materiel": [
+      "Ballons de soccer",
+      "Cônes",
+      "Cibles"
+    ],
+    "tags": [
+      "soccer",
+      "oeil-pied",
+      "dribble",
+      "coordination"
+    ],
+    "progression": {
+      "niveau1": {
+        "titre": "Débutant",
+        "description": "L'accent est mis sur la compréhension des consignes et la sécurité. Pour « Coordination oeil-pied – soccer skills », voici les attentes à ce niveau.",
+        "consignes": [
+          "Exécuter les mouvements lentement, un à la fois",
+          "Pratiquer sur place avant de se déplacer",
+          "Utiliser des repères visuels au sol"
+        ],
+        "criteres_reussite": [
+          "L'élève exécute le mouvement de base avec aide",
+          "Le geste est réalisé lentement mais correctement"
+        ]
+      },
+      "niveau2": {
+        "titre": "Intermédiaire",
+        "description": "À ce niveau, on ajoute de la complexité tout en consolidant les acquis. Pour « Coordination oeil-pied – soccer skills », voici les attentes à ce niveau.",
+        "consignes": [
+          "Augmenter progressivement la vitesse d'exécution",
+          "Enchaîner deux mouvements de façon fluide",
+          "Introduire un partenaire pour la coordination"
+        ],
+        "criteres_reussite": [
+          "La vitesse d'exécution est régulière",
+          "L'élève enchaîne les mouvements sans interruption"
+        ]
+      },
+      "niveau3": {
+        "titre": "Avancé",
+        "description": "À ce stade avancé, l'élève crée, innove et aide ses pairs. Pour « Coordination oeil-pied – soccer skills », voici les attentes à ce niveau.",
+        "consignes": [
+          "Réagir à des signaux variés tout en maintenant la coordination",
+          "Performer devant le groupe avec fluidité",
+          "Créer ses propres enchaînements complexes"
+        ],
+        "criteres_reussite": [
+          "Les mouvements sont fluides et automatisés",
+          "L'élève s'adapte en temps réel aux contraintes"
+        ]
+      }
+    }
   },
   {
     "titre": "Le jeu des numéros",
@@ -428,8 +2143,56 @@
     "variantes": "Couleurs au lieu de numéros, calculs plus complexes, ajout de mouvements.",
     "adaptation": "2 cônes seulement, consignes simples, marche rapide au lieu de course.",
     "duree": 12,
-    "materiel": ["4 cônes numérotés"],
-    "tags": ["réaction", "numéros", "course", "coordination"]
+    "materiel": [
+      "4 cônes numérotés"
+    ],
+    "tags": [
+      "réaction",
+      "numéros",
+      "course",
+      "coordination"
+    ],
+    "progression": {
+      "niveau1": {
+        "titre": "Débutant",
+        "description": "À ce stade, l'objectif est d'apprivoiser l'exercice sans pression de performance. Pour « Le jeu des numéros », voici les attentes à ce niveau.",
+        "consignes": [
+          "Exécuter les mouvements lentement, un à la fois",
+          "Pratiquer sur place avant de se déplacer",
+          "Se concentrer sur un seul geste à la fois"
+        ],
+        "criteres_reussite": [
+          "Le geste est réalisé lentement mais correctement",
+          "L'élève maintient son équilibre pendant l'exercice"
+        ]
+      },
+      "niveau2": {
+        "titre": "Intermédiaire",
+        "description": "À ce niveau, on ajoute de la complexité tout en consolidant les acquis. Pour « Le jeu des numéros », voici les attentes à ce niveau.",
+        "consignes": [
+          "Ajouter un déplacement pendant l'exercice",
+          "Enchaîner deux mouvements de façon fluide",
+          "Varier les hauteurs et les directions"
+        ],
+        "criteres_reussite": [
+          "L'élève enchaîne les mouvements sans interruption",
+          "L'élève s'adapte aux changements de rythme"
+        ]
+      },
+      "niveau3": {
+        "titre": "Avancé",
+        "description": "L'élève perfectionne sa technique et s'adapte à des situations complexes. Pour « Le jeu des numéros », voici les attentes à ce niveau.",
+        "consignes": [
+          "Réagir à des signaux variés tout en maintenant la coordination",
+          "Créer ses propres enchaînements complexes",
+          "Combiner trois mouvements ou plus en séquence rapide"
+        ],
+        "criteres_reussite": [
+          "L'élève crée et exécute des séquences complexes",
+          "Les mouvements sont fluides et automatisés"
+        ]
+      }
+    }
   },
   {
     "titre": "Coordination avec parachute",
@@ -440,8 +2203,57 @@
     "variantes": "Parachute avec musique, défis de vitesse, jeux compétitifs (enlever les balles).",
     "adaptation": "Consignes simples, mouvements lents, petit parachute avec moins d'élèves.",
     "duree": 15,
-    "materiel": ["Parachute collectif", "Balles variées"],
-    "tags": ["parachute", "collectif", "coopération", "coordination"]
+    "materiel": [
+      "Parachute collectif",
+      "Balles variées"
+    ],
+    "tags": [
+      "parachute",
+      "collectif",
+      "coopération",
+      "coordination"
+    ],
+    "progression": {
+      "niveau1": {
+        "titre": "Débutant",
+        "description": "À ce stade, l'objectif est d'apprivoiser l'exercice sans pression de performance. Pour « Coordination avec parachute », voici les attentes à ce niveau.",
+        "consignes": [
+          "Faire des pauses entre chaque répétition",
+          "Se concentrer sur un seul geste à la fois",
+          "Exécuter les mouvements lentement, un à la fois"
+        ],
+        "criteres_reussite": [
+          "L'élève exécute le mouvement de base avec aide",
+          "Le geste est réalisé lentement mais correctement"
+        ]
+      },
+      "niveau2": {
+        "titre": "Intermédiaire",
+        "description": "L'élève maîtrise les bases et cherche à améliorer sa constance et sa fluidité. Pour « Coordination avec parachute », voici les attentes à ce niveau.",
+        "consignes": [
+          "Ajouter un déplacement pendant l'exercice",
+          "Enchaîner deux mouvements de façon fluide",
+          "Introduire un partenaire pour la coordination"
+        ],
+        "criteres_reussite": [
+          "L'élève enchaîne les mouvements sans interruption",
+          "La vitesse d'exécution est régulière"
+        ]
+      },
+      "niveau3": {
+        "titre": "Avancé",
+        "description": "L'expert peut exécuter l'activité dans des contextes variés et exigeants. Pour « Coordination avec parachute », voici les attentes à ce niveau.",
+        "consignes": [
+          "Performer devant le groupe avec fluidité",
+          "Créer ses propres enchaînements complexes",
+          "Réagir à des signaux variés tout en maintenant la coordination"
+        ],
+        "criteres_reussite": [
+          "L'élève crée et exécute des séquences complexes",
+          "L'élève s'adapte en temps réel aux contraintes"
+        ]
+      }
+    }
   },
   {
     "titre": "Tâche cognitive et motrice – double tâche",
@@ -452,8 +2264,56 @@
     "variantes": "Questions de plus en plus difficiles, ajouter un défi d'équilibre, trio avec 2 balles.",
     "adaptation": "Questions simples, dribble statique, une tâche à la fois au début.",
     "duree": 15,
-    "materiel": ["Ballons de basketball"],
-    "tags": ["double tâche", "cognitif", "dribble", "coordination"]
+    "materiel": [
+      "Ballons de basketball"
+    ],
+    "tags": [
+      "double tâche",
+      "cognitif",
+      "dribble",
+      "coordination"
+    ],
+    "progression": {
+      "niveau1": {
+        "titre": "Débutant",
+        "description": "Le débutant explore les bases de l'activité avec un accompagnement soutenu. Pour « Tâche cognitive et motrice – double tâche », voici les attentes à ce niveau.",
+        "consignes": [
+          "Se concentrer sur un seul geste à la fois",
+          "Exécuter les mouvements lentement, un à la fois",
+          "Faire des pauses entre chaque répétition"
+        ],
+        "criteres_reussite": [
+          "Le geste est réalisé lentement mais correctement",
+          "L'élève exécute le mouvement de base avec aide"
+        ]
+      },
+      "niveau2": {
+        "titre": "Intermédiaire",
+        "description": "L'élève maîtrise les bases et cherche à améliorer sa constance et sa fluidité. Pour « Tâche cognitive et motrice – double tâche », voici les attentes à ce niveau.",
+        "consignes": [
+          "Varier les hauteurs et les directions",
+          "Ajouter un déplacement pendant l'exercice",
+          "Augmenter progressivement la vitesse d'exécution"
+        ],
+        "criteres_reussite": [
+          "L'élève s'adapte aux changements de rythme",
+          "L'élève enchaîne les mouvements sans interruption"
+        ]
+      },
+      "niveau3": {
+        "titre": "Avancé",
+        "description": "L'élève perfectionne sa technique et s'adapte à des situations complexes. Pour « Tâche cognitive et motrice – double tâche », voici les attentes à ce niveau.",
+        "consignes": [
+          "Réagir à des signaux variés tout en maintenant la coordination",
+          "Créer ses propres enchaînements complexes",
+          "Performer devant le groupe avec fluidité"
+        ],
+        "criteres_reussite": [
+          "L'élève crée et exécute des séquences complexes",
+          "Les mouvements sont fluides et automatisés"
+        ]
+      }
+    }
   },
   {
     "titre": "Création de routine avec ruban de gymnastique",
@@ -464,8 +2324,57 @@
     "variantes": "Routine en duo, ajout de déplacements, combinaison avec danse.",
     "adaptation": "3 mouvements, sans présentation, aide de l'enseignant pour la routine.",
     "duree": 25,
-    "materiel": ["Rubans de gymnastique", "Système de son"],
-    "tags": ["ruban", "gymnastique", "routine", "créativité"]
+    "materiel": [
+      "Rubans de gymnastique",
+      "Système de son"
+    ],
+    "tags": [
+      "ruban",
+      "gymnastique",
+      "routine",
+      "créativité"
+    ],
+    "progression": {
+      "niveau1": {
+        "titre": "Débutant",
+        "description": "À ce stade, l'objectif est d'apprivoiser l'exercice sans pression de performance. Pour « Création de routine avec ruban de gymnastique », voici les attentes à ce niveau.",
+        "consignes": [
+          "Faire des pauses entre chaque répétition",
+          "Pratiquer sur place avant de se déplacer",
+          "Utiliser des repères visuels au sol"
+        ],
+        "criteres_reussite": [
+          "Le geste est réalisé lentement mais correctement",
+          "L'élève maintient son équilibre pendant l'exercice"
+        ]
+      },
+      "niveau2": {
+        "titre": "Intermédiaire",
+        "description": "L'élève est capable d'exécuter l'activité de façon autonome avec quelques ajustements. Pour « Création de routine avec ruban de gymnastique », voici les attentes à ce niveau.",
+        "consignes": [
+          "Varier les hauteurs et les directions",
+          "Augmenter progressivement la vitesse d'exécution",
+          "Ajouter un déplacement pendant l'exercice"
+        ],
+        "criteres_reussite": [
+          "La vitesse d'exécution est régulière",
+          "L'élève s'adapte aux changements de rythme"
+        ]
+      },
+      "niveau3": {
+        "titre": "Avancé",
+        "description": "L'élève démontre une maîtrise complète et peut enseigner aux autres. Pour « Création de routine avec ruban de gymnastique », voici les attentes à ce niveau.",
+        "consignes": [
+          "Créer ses propres enchaînements complexes",
+          "Exécuter en situation de jeu ou avec opposition",
+          "Combiner trois mouvements ou plus en séquence rapide"
+        ],
+        "criteres_reussite": [
+          "L'élève s'adapte en temps réel aux contraintes",
+          "L'élève crée et exécute des séquences complexes"
+        ]
+      }
+    }
   },
   {
     "titre": "Slalom en patin à roulettes ou trottinette",
@@ -476,8 +2385,59 @@
     "variantes": "Parcours avec obstacles, course chronométrée, en reculant (trottinette).",
     "adaptation": "Cônes très espacés, vitesse lente, surface lisse et plane, aide d'un partenaire.",
     "duree": 25,
-    "materiel": ["Patins à roulettes ou trottinettes", "Casques", "Protections", "Cônes"],
-    "tags": ["patin", "trottinette", "slalom", "coordination"]
+    "materiel": [
+      "Patins à roulettes ou trottinettes",
+      "Casques",
+      "Protections",
+      "Cônes"
+    ],
+    "tags": [
+      "patin",
+      "trottinette",
+      "slalom",
+      "coordination"
+    ],
+    "progression": {
+      "niveau1": {
+        "titre": "Débutant",
+        "description": "L'élève découvre l'activité et se familiarise avec les mouvements fondamentaux. Pour « Slalom en patin à roulettes ou trottinette », voici les attentes à ce niveau.",
+        "consignes": [
+          "Utiliser des repères visuels au sol",
+          "Pratiquer sur place avant de se déplacer",
+          "Faire des pauses entre chaque répétition"
+        ],
+        "criteres_reussite": [
+          "Le geste est réalisé lentement mais correctement",
+          "L'élève maintient son équilibre pendant l'exercice"
+        ]
+      },
+      "niveau2": {
+        "titre": "Intermédiaire",
+        "description": "L'intermédiaire travaille la régularité et commence à combiner les habiletés. Pour « Slalom en patin à roulettes ou trottinette », voici les attentes à ce niveau.",
+        "consignes": [
+          "Varier les hauteurs et les directions",
+          "Introduire un partenaire pour la coordination",
+          "Ajouter un déplacement pendant l'exercice"
+        ],
+        "criteres_reussite": [
+          "L'élève enchaîne les mouvements sans interruption",
+          "L'élève s'adapte aux changements de rythme"
+        ]
+      },
+      "niveau3": {
+        "titre": "Avancé",
+        "description": "L'élève démontre une maîtrise complète et peut enseigner aux autres. Pour « Slalom en patin à roulettes ou trottinette », voici les attentes à ce niveau.",
+        "consignes": [
+          "Performer devant le groupe avec fluidité",
+          "Exécuter en situation de jeu ou avec opposition",
+          "Réagir à des signaux variés tout en maintenant la coordination"
+        ],
+        "criteres_reussite": [
+          "L'élève s'adapte en temps réel aux contraintes",
+          "L'élève crée et exécute des séquences complexes"
+        ]
+      }
+    }
   },
   {
     "titre": "Coordination en escalade",
@@ -488,8 +2448,57 @@
     "variantes": "Traversée les yeux fermés (guidé), parcours imposé, vitesse chronométrée.",
     "adaptation": "Toutes les prises autorisées, traversée basse (1 m du sol), aide du pareur.",
     "duree": 20,
-    "materiel": ["Mur d'escalade ou espalier", "Tapis de réception"],
-    "tags": ["escalade", "traversée", "4 membres", "coordination"]
+    "materiel": [
+      "Mur d'escalade ou espalier",
+      "Tapis de réception"
+    ],
+    "tags": [
+      "escalade",
+      "traversée",
+      "4 membres",
+      "coordination"
+    ],
+    "progression": {
+      "niveau1": {
+        "titre": "Débutant",
+        "description": "Le débutant explore les bases de l'activité avec un accompagnement soutenu. Pour « Coordination en escalade », voici les attentes à ce niveau.",
+        "consignes": [
+          "Se concentrer sur un seul geste à la fois",
+          "Faire des pauses entre chaque répétition",
+          "Utiliser des repères visuels au sol"
+        ],
+        "criteres_reussite": [
+          "L'élève exécute le mouvement de base avec aide",
+          "Le geste est réalisé lentement mais correctement"
+        ]
+      },
+      "niveau2": {
+        "titre": "Intermédiaire",
+        "description": "L'élève maîtrise les bases et cherche à améliorer sa constance et sa fluidité. Pour « Coordination en escalade », voici les attentes à ce niveau.",
+        "consignes": [
+          "Introduire un partenaire pour la coordination",
+          "Ajouter un déplacement pendant l'exercice",
+          "Enchaîner deux mouvements de façon fluide"
+        ],
+        "criteres_reussite": [
+          "L'élève enchaîne les mouvements sans interruption",
+          "L'élève s'adapte aux changements de rythme"
+        ]
+      },
+      "niveau3": {
+        "titre": "Avancé",
+        "description": "L'élève démontre une maîtrise complète et peut enseigner aux autres. Pour « Coordination en escalade », voici les attentes à ce niveau.",
+        "consignes": [
+          "Exécuter en situation de jeu ou avec opposition",
+          "Performer devant le groupe avec fluidité",
+          "Combiner trois mouvements ou plus en séquence rapide"
+        ],
+        "criteres_reussite": [
+          "L'élève crée et exécute des séquences complexes",
+          "L'élève s'adapte en temps réel aux contraintes"
+        ]
+      }
+    }
   },
   {
     "titre": "Rythme corporel – body percussion",
@@ -500,8 +2509,56 @@
     "variantes": "Poly-rythme, création libre en petits groupes, présentation devant la classe.",
     "adaptation": "Séquence de 8 temps, 2 sons seulement, pas de canon.",
     "duree": 15,
-    "materiel": ["Espace dégagé"],
-    "tags": ["body percussion", "rythme", "son", "coordination"]
+    "materiel": [
+      "Espace dégagé"
+    ],
+    "tags": [
+      "body percussion",
+      "rythme",
+      "son",
+      "coordination"
+    ],
+    "progression": {
+      "niveau1": {
+        "titre": "Débutant",
+        "description": "L'accent est mis sur la compréhension des consignes et la sécurité. Pour « Rythme corporel – body percussion », voici les attentes à ce niveau.",
+        "consignes": [
+          "Se concentrer sur un seul geste à la fois",
+          "Exécuter les mouvements lentement, un à la fois",
+          "Faire des pauses entre chaque répétition"
+        ],
+        "criteres_reussite": [
+          "L'élève maintient son équilibre pendant l'exercice",
+          "Le geste est réalisé lentement mais correctement"
+        ]
+      },
+      "niveau2": {
+        "titre": "Intermédiaire",
+        "description": "L'élève maîtrise les bases et cherche à améliorer sa constance et sa fluidité. Pour « Rythme corporel – body percussion », voici les attentes à ce niveau.",
+        "consignes": [
+          "Varier les hauteurs et les directions",
+          "Ajouter un déplacement pendant l'exercice",
+          "Enchaîner deux mouvements de façon fluide"
+        ],
+        "criteres_reussite": [
+          "La vitesse d'exécution est régulière",
+          "L'élève enchaîne les mouvements sans interruption"
+        ]
+      },
+      "niveau3": {
+        "titre": "Avancé",
+        "description": "L'élève démontre une maîtrise complète et peut enseigner aux autres. Pour « Rythme corporel – body percussion », voici les attentes à ce niveau.",
+        "consignes": [
+          "Combiner trois mouvements ou plus en séquence rapide",
+          "Exécuter en situation de jeu ou avec opposition",
+          "Créer ses propres enchaînements complexes"
+        ],
+        "criteres_reussite": [
+          "Les mouvements sont fluides et automatisés",
+          "L'élève crée et exécute des séquences complexes"
+        ]
+      }
+    }
   },
   {
     "titre": "Le jeu du filet – lancer précis",
@@ -512,8 +2569,58 @@
     "variantes": "Cibles plus petites, lancer de la main non dominante, distance augmentée.",
     "adaptation": "Cible plus grande, balle mousse, filet plus bas, distance réduite.",
     "duree": 15,
-    "materiel": ["Filet de badminton", "Balles de tennis", "Cônes (cibles)"],
-    "tags": ["lancer", "précision", "filet", "coordination"]
+    "materiel": [
+      "Filet de badminton",
+      "Balles de tennis",
+      "Cônes (cibles)"
+    ],
+    "tags": [
+      "lancer",
+      "précision",
+      "filet",
+      "coordination"
+    ],
+    "progression": {
+      "niveau1": {
+        "titre": "Débutant",
+        "description": "Le débutant explore les bases de l'activité avec un accompagnement soutenu. Pour « Le jeu du filet – lancer précis », voici les attentes à ce niveau.",
+        "consignes": [
+          "Exécuter les mouvements lentement, un à la fois",
+          "Utiliser des repères visuels au sol",
+          "Faire des pauses entre chaque répétition"
+        ],
+        "criteres_reussite": [
+          "L'élève maintient son équilibre pendant l'exercice",
+          "Le geste est réalisé lentement mais correctement"
+        ]
+      },
+      "niveau2": {
+        "titre": "Intermédiaire",
+        "description": "L'intermédiaire travaille la régularité et commence à combiner les habiletés. Pour « Le jeu du filet – lancer précis », voici les attentes à ce niveau.",
+        "consignes": [
+          "Enchaîner deux mouvements de façon fluide",
+          "Ajouter un déplacement pendant l'exercice",
+          "Introduire un partenaire pour la coordination"
+        ],
+        "criteres_reussite": [
+          "L'élève enchaîne les mouvements sans interruption",
+          "L'élève s'adapte aux changements de rythme"
+        ]
+      },
+      "niveau3": {
+        "titre": "Avancé",
+        "description": "À ce stade avancé, l'élève crée, innove et aide ses pairs. Pour « Le jeu du filet – lancer précis », voici les attentes à ce niveau.",
+        "consignes": [
+          "Combiner trois mouvements ou plus en séquence rapide",
+          "Exécuter en situation de jeu ou avec opposition",
+          "Créer ses propres enchaînements complexes"
+        ],
+        "criteres_reussite": [
+          "L'élève crée et exécute des séquences complexes",
+          "L'élève s'adapte en temps réel aux contraintes"
+        ]
+      }
+    }
   },
   {
     "titre": "Danse hip-hop – pas de base",
@@ -524,8 +2631,57 @@
     "variantes": "Freestyle sur 8 temps, battle en duo, chorégraphie de groupe.",
     "adaptation": "3 pas de base, tempo très lent, pas de présentation obligatoire.",
     "duree": 25,
-    "materiel": ["Système de son", "Musique hip-hop adaptée"],
-    "tags": ["hip-hop", "danse", "pas de base", "coordination"]
+    "materiel": [
+      "Système de son",
+      "Musique hip-hop adaptée"
+    ],
+    "tags": [
+      "hip-hop",
+      "danse",
+      "pas de base",
+      "coordination"
+    ],
+    "progression": {
+      "niveau1": {
+        "titre": "Débutant",
+        "description": "À ce stade, l'objectif est d'apprivoiser l'exercice sans pression de performance. Pour « Danse hip-hop – pas de base », voici les attentes à ce niveau.",
+        "consignes": [
+          "Pratiquer sur place avant de se déplacer",
+          "Faire des pauses entre chaque répétition",
+          "Exécuter les mouvements lentement, un à la fois"
+        ],
+        "criteres_reussite": [
+          "L'élève exécute le mouvement de base avec aide",
+          "L'élève maintient son équilibre pendant l'exercice"
+        ]
+      },
+      "niveau2": {
+        "titre": "Intermédiaire",
+        "description": "L'élève est capable d'exécuter l'activité de façon autonome avec quelques ajustements. Pour « Danse hip-hop – pas de base », voici les attentes à ce niveau.",
+        "consignes": [
+          "Varier les hauteurs et les directions",
+          "Introduire un partenaire pour la coordination",
+          "Ajouter un déplacement pendant l'exercice"
+        ],
+        "criteres_reussite": [
+          "L'élève enchaîne les mouvements sans interruption",
+          "La vitesse d'exécution est régulière"
+        ]
+      },
+      "niveau3": {
+        "titre": "Avancé",
+        "description": "L'expert peut exécuter l'activité dans des contextes variés et exigeants. Pour « Danse hip-hop – pas de base », voici les attentes à ce niveau.",
+        "consignes": [
+          "Réagir à des signaux variés tout en maintenant la coordination",
+          "Combiner trois mouvements ou plus en séquence rapide",
+          "Performer devant le groupe avec fluidité"
+        ],
+        "criteres_reussite": [
+          "L'élève crée et exécute des séquences complexes",
+          "Les mouvements sont fluides et automatisés"
+        ]
+      }
+    }
   },
   {
     "titre": "Épreuves combinées – décathlon adapté",
@@ -536,8 +2692,57 @@
     "variantes": "Pentathlon (5 épreuves), en équipe, décathlon sur 2 cours.",
     "adaptation": "5 épreuves simplifiées, notation sur participation, barème adapté.",
     "duree": 30,
-    "materiel": ["Matériel varié pour 10 stations", "Feuilles de pointage"],
-    "tags": ["décathlon", "épreuves", "polyvalence", "coordination"]
+    "materiel": [
+      "Matériel varié pour 10 stations",
+      "Feuilles de pointage"
+    ],
+    "tags": [
+      "décathlon",
+      "épreuves",
+      "polyvalence",
+      "coordination"
+    ],
+    "progression": {
+      "niveau1": {
+        "titre": "Débutant",
+        "description": "Le débutant explore les bases de l'activité avec un accompagnement soutenu. Pour « Épreuves combinées – décathlon adapté », voici les attentes à ce niveau.",
+        "consignes": [
+          "Se concentrer sur un seul geste à la fois",
+          "Faire des pauses entre chaque répétition",
+          "Pratiquer sur place avant de se déplacer"
+        ],
+        "criteres_reussite": [
+          "Le geste est réalisé lentement mais correctement",
+          "L'élève maintient son équilibre pendant l'exercice"
+        ]
+      },
+      "niveau2": {
+        "titre": "Intermédiaire",
+        "description": "À ce niveau, on ajoute de la complexité tout en consolidant les acquis. Pour « Épreuves combinées – décathlon adapté », voici les attentes à ce niveau.",
+        "consignes": [
+          "Introduire un partenaire pour la coordination",
+          "Varier les hauteurs et les directions",
+          "Ajouter un déplacement pendant l'exercice"
+        ],
+        "criteres_reussite": [
+          "La vitesse d'exécution est régulière",
+          "L'élève enchaîne les mouvements sans interruption"
+        ]
+      },
+      "niveau3": {
+        "titre": "Avancé",
+        "description": "L'élève démontre une maîtrise complète et peut enseigner aux autres. Pour « Épreuves combinées – décathlon adapté », voici les attentes à ce niveau.",
+        "consignes": [
+          "Réagir à des signaux variés tout en maintenant la coordination",
+          "Créer ses propres enchaînements complexes",
+          "Exécuter en situation de jeu ou avec opposition"
+        ],
+        "criteres_reussite": [
+          "Les mouvements sont fluides et automatisés",
+          "L'élève s'adapte en temps réel aux contraintes"
+        ]
+      }
+    }
   },
   {
     "titre": "Arts du cirque – initiation",
@@ -548,8 +2753,60 @@
     "variantes": "Ajouter le monocycle, pédalgo, rola bola, spectacle de fin.",
     "adaptation": "2 ateliers seulement, aide individuelle, matériel adapté (plus gros).",
     "duree": 25,
-    "materiel": ["Balles de jonglerie", "Foulards", "Assiettes chinoises", "Diabolos", "Bâtons du diable"],
-    "tags": ["cirque", "jonglerie", "diabolo", "coordination"]
+    "materiel": [
+      "Balles de jonglerie",
+      "Foulards",
+      "Assiettes chinoises",
+      "Diabolos",
+      "Bâtons du diable"
+    ],
+    "tags": [
+      "cirque",
+      "jonglerie",
+      "diabolo",
+      "coordination"
+    ],
+    "progression": {
+      "niveau1": {
+        "titre": "Débutant",
+        "description": "À ce stade, l'objectif est d'apprivoiser l'exercice sans pression de performance. Pour « Arts du cirque – initiation », voici les attentes à ce niveau.",
+        "consignes": [
+          "Exécuter les mouvements lentement, un à la fois",
+          "Pratiquer sur place avant de se déplacer",
+          "Se concentrer sur un seul geste à la fois"
+        ],
+        "criteres_reussite": [
+          "L'élève maintient son équilibre pendant l'exercice",
+          "L'élève exécute le mouvement de base avec aide"
+        ]
+      },
+      "niveau2": {
+        "titre": "Intermédiaire",
+        "description": "L'intermédiaire travaille la régularité et commence à combiner les habiletés. Pour « Arts du cirque – initiation », voici les attentes à ce niveau.",
+        "consignes": [
+          "Ajouter un déplacement pendant l'exercice",
+          "Enchaîner deux mouvements de façon fluide",
+          "Augmenter progressivement la vitesse d'exécution"
+        ],
+        "criteres_reussite": [
+          "L'élève enchaîne les mouvements sans interruption",
+          "L'élève s'adapte aux changements de rythme"
+        ]
+      },
+      "niveau3": {
+        "titre": "Avancé",
+        "description": "L'élève perfectionne sa technique et s'adapte à des situations complexes. Pour « Arts du cirque – initiation », voici les attentes à ce niveau.",
+        "consignes": [
+          "Combiner trois mouvements ou plus en séquence rapide",
+          "Créer ses propres enchaînements complexes",
+          "Réagir à des signaux variés tout en maintenant la coordination"
+        ],
+        "criteres_reussite": [
+          "L'élève s'adapte en temps réel aux contraintes",
+          "L'élève crée et exécute des séquences complexes"
+        ]
+      }
+    }
   },
   {
     "titre": "Coordination en natation sèche",
@@ -560,8 +2817,56 @@
     "variantes": "Sur ballon suisse (simulation de l'eau), avec élastique, debout.",
     "adaptation": "Un mouvement à la fois (bras OU jambes), tempo très lent, couché au sol.",
     "duree": 15,
-    "materiel": ["Tapis de gym"],
-    "tags": ["natation", "sèche", "respiration", "coordination"]
+    "materiel": [
+      "Tapis de gym"
+    ],
+    "tags": [
+      "natation",
+      "sèche",
+      "respiration",
+      "coordination"
+    ],
+    "progression": {
+      "niveau1": {
+        "titre": "Débutant",
+        "description": "Le débutant explore les bases de l'activité avec un accompagnement soutenu. Pour « Coordination en natation sèche », voici les attentes à ce niveau.",
+        "consignes": [
+          "Exécuter les mouvements lentement, un à la fois",
+          "Faire des pauses entre chaque répétition",
+          "Se concentrer sur un seul geste à la fois"
+        ],
+        "criteres_reussite": [
+          "L'élève exécute le mouvement de base avec aide",
+          "L'élève maintient son équilibre pendant l'exercice"
+        ]
+      },
+      "niveau2": {
+        "titre": "Intermédiaire",
+        "description": "L'élève maîtrise les bases et cherche à améliorer sa constance et sa fluidité. Pour « Coordination en natation sèche », voici les attentes à ce niveau.",
+        "consignes": [
+          "Ajouter un déplacement pendant l'exercice",
+          "Augmenter progressivement la vitesse d'exécution",
+          "Enchaîner deux mouvements de façon fluide"
+        ],
+        "criteres_reussite": [
+          "La vitesse d'exécution est régulière",
+          "L'élève s'adapte aux changements de rythme"
+        ]
+      },
+      "niveau3": {
+        "titre": "Avancé",
+        "description": "L'expert peut exécuter l'activité dans des contextes variés et exigeants. Pour « Coordination en natation sèche », voici les attentes à ce niveau.",
+        "consignes": [
+          "Performer devant le groupe avec fluidité",
+          "Réagir à des signaux variés tout en maintenant la coordination",
+          "Créer ses propres enchaînements complexes"
+        ],
+        "criteres_reussite": [
+          "L'élève crée et exécute des séquences complexes",
+          "L'élève s'adapte en temps réel aux contraintes"
+        ]
+      }
+    }
   },
   {
     "titre": "Speedcup stacking – empilage rapide",
@@ -572,7 +2877,56 @@
     "variantes": "Compétition individuelle, en duo (relais), séquences plus complexes.",
     "adaptation": "Séquence 3-3-3, verres plus gros, pas de chronomètre.",
     "duree": 15,
-    "materiel": ["12 verres en plastique par élève", "Chronomètre"],
-    "tags": ["speed stacking", "verres", "vitesse", "coordination"]
+    "materiel": [
+      "12 verres en plastique par élève",
+      "Chronomètre"
+    ],
+    "tags": [
+      "speed stacking",
+      "verres",
+      "vitesse",
+      "coordination"
+    ],
+    "progression": {
+      "niveau1": {
+        "titre": "Débutant",
+        "description": "Le débutant explore les bases de l'activité avec un accompagnement soutenu. Pour « Speedcup stacking – empilage rapide », voici les attentes à ce niveau.",
+        "consignes": [
+          "Faire des pauses entre chaque répétition",
+          "Se concentrer sur un seul geste à la fois",
+          "Pratiquer sur place avant de se déplacer"
+        ],
+        "criteres_reussite": [
+          "L'élève maintient son équilibre pendant l'exercice",
+          "L'élève exécute le mouvement de base avec aide"
+        ]
+      },
+      "niveau2": {
+        "titre": "Intermédiaire",
+        "description": "L'intermédiaire travaille la régularité et commence à combiner les habiletés. Pour « Speedcup stacking – empilage rapide », voici les attentes à ce niveau.",
+        "consignes": [
+          "Enchaîner deux mouvements de façon fluide",
+          "Introduire un partenaire pour la coordination",
+          "Varier les hauteurs et les directions"
+        ],
+        "criteres_reussite": [
+          "L'élève enchaîne les mouvements sans interruption",
+          "La vitesse d'exécution est régulière"
+        ]
+      },
+      "niveau3": {
+        "titre": "Avancé",
+        "description": "L'élève démontre une maîtrise complète et peut enseigner aux autres. Pour « Speedcup stacking – empilage rapide », voici les attentes à ce niveau.",
+        "consignes": [
+          "Réagir à des signaux variés tout en maintenant la coordination",
+          "Performer devant le groupe avec fluidité",
+          "Combiner trois mouvements ou plus en séquence rapide"
+        ],
+        "criteres_reussite": [
+          "L'élève crée et exécute des séquences complexes",
+          "L'élève s'adapte en temps réel aux contraintes"
+        ]
+      }
+    }
   }
 ]

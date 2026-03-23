@@ -8,8 +8,56 @@
     "variantes": "Cercle plus petit, 2 chasseurs, porter un ballon tout en esquivant.",
     "adaptation": "Cercle plus grand, ralentissement du chasseur, zone d'immunité.",
     "duree": 12,
-    "materiel": ["Cônes pour délimiter le cercle"],
-    "tags": ["esquive", "agilité", "réaction", "jeu"]
+    "materiel": [
+      "Cônes pour délimiter le cercle"
+    ],
+    "tags": [
+      "esquive",
+      "agilité",
+      "réaction",
+      "jeu"
+    ],
+    "progression": {
+      "niveau1": {
+        "titre": "Débutant",
+        "description": "À ce stade, l'objectif est d'apprivoiser l'exercice sans pression de performance. Pour « Cage d'écureuil », voici les attentes à ce niveau.",
+        "consignes": [
+          "Suivre des lignes au sol ou des repères visuels",
+          "Se déplacer à vitesse lente dans un espace délimité",
+          "Pratiquer un seul type de déplacement à la fois"
+        ],
+        "criteres_reussite": [
+          "L'élève se déplace de façon contrôlée",
+          "Le patron moteur de base est reconnaissable"
+        ]
+      },
+      "niveau2": {
+        "titre": "Intermédiaire",
+        "description": "À ce niveau, on ajoute de la complexité tout en consolidant les acquis. Pour « Cage d'écureuil », voici les attentes à ce niveau.",
+        "consignes": [
+          "Combiner déplacement et manipulation d'objet",
+          "Se déplacer en changeant de direction sur signal",
+          "Alterner entre deux types de déplacement"
+        ],
+        "criteres_reussite": [
+          "L'élève change de direction sans perte d'équilibre",
+          "L'élève maintient sa vitesse dans les changements"
+        ]
+      },
+      "niveau3": {
+        "titre": "Avancé",
+        "description": "L'élève démontre une maîtrise complète et peut enseigner aux autres. Pour « Cage d'écureuil », voici les attentes à ce niveau.",
+        "consignes": [
+          "Optimiser ses trajectoires pour l'efficacité",
+          "Combiner plusieurs types de déplacement en enchaînement",
+          "Réagir rapidement aux changements d'environnement"
+        ],
+        "criteres_reussite": [
+          "L'élève adapte ses déplacements à la situation de jeu",
+          "L'élève se déplace avec agilité et efficacité"
+        ]
+      }
+    }
   },
   {
     "titre": "Slalom agilité chronométré",
@@ -20,8 +68,57 @@
     "variantes": "Slalom latéral (déplacements chassés), slalom avec balle, course à obstacles intercalés.",
     "adaptation": "Espacement plus large entre cônes, moins de cônes, pas de chronomètre.",
     "duree": 18,
-    "materiel": ["8 cônes", "Chronomètre"],
-    "tags": ["slalom", "agilité", "chronométrage", "changement direction"]
+    "materiel": [
+      "8 cônes",
+      "Chronomètre"
+    ],
+    "tags": [
+      "slalom",
+      "agilité",
+      "chronométrage",
+      "changement direction"
+    ],
+    "progression": {
+      "niveau1": {
+        "titre": "Débutant",
+        "description": "L'élève découvre l'activité et se familiarise avec les mouvements fondamentaux. Pour « Slalom agilité chronométré », voici les attentes à ce niveau.",
+        "consignes": [
+          "Pratiquer un seul type de déplacement à la fois",
+          "Garder le contrôle de son corps en mouvement",
+          "Se déplacer à vitesse lente dans un espace délimité"
+        ],
+        "criteres_reussite": [
+          "L'élève freine et s'arrête sur commande",
+          "L'élève se déplace de façon contrôlée"
+        ]
+      },
+      "niveau2": {
+        "titre": "Intermédiaire",
+        "description": "À ce niveau, on ajoute de la complexité tout en consolidant les acquis. Pour « Slalom agilité chronométré », voici les attentes à ce niveau.",
+        "consignes": [
+          "Combiner déplacement et manipulation d'objet",
+          "Augmenter la vitesse tout en gardant le contrôle",
+          "Alterner entre deux types de déplacement"
+        ],
+        "criteres_reussite": [
+          "La transition entre les déplacements est fluide",
+          "L'élève change de direction sans perte d'équilibre"
+        ]
+      },
+      "niveau3": {
+        "titre": "Avancé",
+        "description": "L'expert peut exécuter l'activité dans des contextes variés et exigeants. Pour « Slalom agilité chronométré », voici les attentes à ce niveau.",
+        "consignes": [
+          "Combiner plusieurs types de déplacement en enchaînement",
+          "Créer des feintes et des changements de rythme",
+          "Se déplacer en situation de jeu avec adversaire"
+        ],
+        "criteres_reussite": [
+          "L'élève se déplace avec agilité et efficacité",
+          "L'élève adapte ses déplacements à la situation de jeu"
+        ]
+      }
+    }
   },
   {
     "titre": "Ballon chasseur esquive libre",
@@ -32,8 +129,57 @@
     "variantes": "Plus de lanceurs, terrain plus petit, 2 ballons en jeu, touché au-dessus de la taille seulement.",
     "adaptation": "Terrain plus grand, ballons très mous, lanceurs doivent avertir avant de lancer.",
     "duree": 12,
-    "materiel": ["Ballons de mousse (2-3)", "Cônes pour le terrain"],
-    "tags": ["ballon chasseur", "esquive", "lancer", "mousse"]
+    "materiel": [
+      "Ballons de mousse (2-3)",
+      "Cônes pour le terrain"
+    ],
+    "tags": [
+      "ballon chasseur",
+      "esquive",
+      "lancer",
+      "mousse"
+    ],
+    "progression": {
+      "niveau1": {
+        "titre": "Débutant",
+        "description": "À ce stade, l'objectif est d'apprivoiser l'exercice sans pression de performance. Pour « Ballon chasseur esquive libre », voici les attentes à ce niveau.",
+        "consignes": [
+          "Suivre des lignes au sol ou des repères visuels",
+          "Se déplacer à vitesse lente dans un espace délimité",
+          "Garder le contrôle de son corps en mouvement"
+        ],
+        "criteres_reussite": [
+          "L'élève se déplace de façon contrôlée",
+          "L'élève freine et s'arrête sur commande"
+        ]
+      },
+      "niveau2": {
+        "titre": "Intermédiaire",
+        "description": "L'intermédiaire travaille la régularité et commence à combiner les habiletés. Pour « Ballon chasseur esquive libre », voici les attentes à ce niveau.",
+        "consignes": [
+          "Alterner entre deux types de déplacement",
+          "Combiner déplacement et manipulation d'objet",
+          "Se déplacer en changeant de direction sur signal"
+        ],
+        "criteres_reussite": [
+          "L'élève change de direction sans perte d'équilibre",
+          "La transition entre les déplacements est fluide"
+        ]
+      },
+      "niveau3": {
+        "titre": "Avancé",
+        "description": "L'élève démontre une maîtrise complète et peut enseigner aux autres. Pour « Ballon chasseur esquive libre », voici les attentes à ce niveau.",
+        "consignes": [
+          "Créer des feintes et des changements de rythme",
+          "Se déplacer en situation de jeu avec adversaire",
+          "Réagir rapidement aux changements d'environnement"
+        ],
+        "criteres_reussite": [
+          "L'élève se déplace avec agilité et efficacité",
+          "Les enchaînements sont fluides et rapides"
+        ]
+      }
+    }
   },
   {
     "titre": "Miroir d'esquive en duo",
@@ -44,8 +190,56 @@
     "variantes": "Miroir avec délai (reproduire après 2 secondes), miroir inversé (faire le contraire), trio miroir.",
     "adaptation": "Mouvements lents, 3-4 mouvements simples seulement, pauses entre les séquences.",
     "duree": 10,
-    "materiel": ["Espace dégagé"],
-    "tags": ["miroir", "duo", "réactivité", "esquive"]
+    "materiel": [
+      "Espace dégagé"
+    ],
+    "tags": [
+      "miroir",
+      "duo",
+      "réactivité",
+      "esquive"
+    ],
+    "progression": {
+      "niveau1": {
+        "titre": "Débutant",
+        "description": "Le débutant explore les bases de l'activité avec un accompagnement soutenu. Pour « Miroir d'esquive en duo », voici les attentes à ce niveau.",
+        "consignes": [
+          "Se déplacer à vitesse lente dans un espace délimité",
+          "Suivre des lignes au sol ou des repères visuels",
+          "Respecter les limites de son espace"
+        ],
+        "criteres_reussite": [
+          "L'élève se déplace de façon contrôlée",
+          "Le patron moteur de base est reconnaissable"
+        ]
+      },
+      "niveau2": {
+        "titre": "Intermédiaire",
+        "description": "L'élève maîtrise les bases et cherche à améliorer sa constance et sa fluidité. Pour « Miroir d'esquive en duo », voici les attentes à ce niveau.",
+        "consignes": [
+          "Augmenter la vitesse tout en gardant le contrôle",
+          "Alterner entre deux types de déplacement",
+          "S'adapter au rythme d'un partenaire"
+        ],
+        "criteres_reussite": [
+          "L'élève maintient sa vitesse dans les changements",
+          "La transition entre les déplacements est fluide"
+        ]
+      },
+      "niveau3": {
+        "titre": "Avancé",
+        "description": "L'expert peut exécuter l'activité dans des contextes variés et exigeants. Pour « Miroir d'esquive en duo », voici les attentes à ce niveau.",
+        "consignes": [
+          "Optimiser ses trajectoires pour l'efficacité",
+          "Se déplacer en situation de jeu avec adversaire",
+          "Créer des feintes et des changements de rythme"
+        ],
+        "criteres_reussite": [
+          "L'élève se déplace avec agilité et efficacité",
+          "L'élève adapte ses déplacements à la situation de jeu"
+        ]
+      }
+    }
   },
   {
     "titre": "Esquive de cordes oscillantes",
@@ -56,8 +250,57 @@
     "variantes": "3 cordes (3 niveaux), cordes qui tournent au lieu d'osciller, traversée en reculons.",
     "adaptation": "1 seule corde, oscillation très lente, corde tenue fixe (juste enjamber).",
     "duree": 12,
-    "materiel": ["2 cordes longues (4-5 m)", "4 élèves pour les tenir"],
-    "tags": ["cordes", "oscillation", "timing", "niveaux"]
+    "materiel": [
+      "2 cordes longues (4-5 m)",
+      "4 élèves pour les tenir"
+    ],
+    "tags": [
+      "cordes",
+      "oscillation",
+      "timing",
+      "niveaux"
+    ],
+    "progression": {
+      "niveau1": {
+        "titre": "Débutant",
+        "description": "L'accent est mis sur la compréhension des consignes et la sécurité. Pour « Esquive de cordes oscillantes », voici les attentes à ce niveau.",
+        "consignes": [
+          "Respecter les limites de son espace",
+          "Pratiquer un seul type de déplacement à la fois",
+          "Se déplacer à vitesse lente dans un espace délimité"
+        ],
+        "criteres_reussite": [
+          "L'élève se déplace de façon contrôlée",
+          "L'élève freine et s'arrête sur commande"
+        ]
+      },
+      "niveau2": {
+        "titre": "Intermédiaire",
+        "description": "L'intermédiaire travaille la régularité et commence à combiner les habiletés. Pour « Esquive de cordes oscillantes », voici les attentes à ce niveau.",
+        "consignes": [
+          "Se déplacer en changeant de direction sur signal",
+          "Combiner déplacement et manipulation d'objet",
+          "Alterner entre deux types de déplacement"
+        ],
+        "criteres_reussite": [
+          "L'élève maintient sa vitesse dans les changements",
+          "L'élève change de direction sans perte d'équilibre"
+        ]
+      },
+      "niveau3": {
+        "titre": "Avancé",
+        "description": "À ce stade avancé, l'élève crée, innove et aide ses pairs. Pour « Esquive de cordes oscillantes », voici les attentes à ce niveau.",
+        "consignes": [
+          "Combiner plusieurs types de déplacement en enchaînement",
+          "Réagir rapidement aux changements d'environnement",
+          "Optimiser ses trajectoires pour l'efficacité"
+        ],
+        "criteres_reussite": [
+          "L'élève adapte ses déplacements à la situation de jeu",
+          "Les enchaînements sont fluides et rapides"
+        ]
+      }
+    }
   },
   {
     "titre": "Jeu du serpent à esquiver",
@@ -68,8 +311,56 @@
     "variantes": "2 serpents, serpent plus rapide, les élèves font le serpent à tour de rôle.",
     "adaptation": "Serpent très lent, sauter seulement quand le serpent est immobile, espace plus grand.",
     "duree": 8,
-    "materiel": ["Corde longue (3-4 m)"],
-    "tags": ["serpent", "esquive", "maternelle", "imagination"]
+    "materiel": [
+      "Corde longue (3-4 m)"
+    ],
+    "tags": [
+      "serpent",
+      "esquive",
+      "maternelle",
+      "imagination"
+    ],
+    "progression": {
+      "niveau1": {
+        "titre": "Débutant",
+        "description": "L'accent est mis sur la compréhension des consignes et la sécurité. Pour « Jeu du serpent à esquiver », voici les attentes à ce niveau.",
+        "consignes": [
+          "Pratiquer un seul type de déplacement à la fois",
+          "Suivre des lignes au sol ou des repères visuels",
+          "Respecter les limites de son espace"
+        ],
+        "criteres_reussite": [
+          "L'élève freine et s'arrête sur commande",
+          "Le patron moteur de base est reconnaissable"
+        ]
+      },
+      "niveau2": {
+        "titre": "Intermédiaire",
+        "description": "L'élève est capable d'exécuter l'activité de façon autonome avec quelques ajustements. Pour « Jeu du serpent à esquiver », voici les attentes à ce niveau.",
+        "consignes": [
+          "Alterner entre deux types de déplacement",
+          "Se déplacer en changeant de direction sur signal",
+          "S'adapter au rythme d'un partenaire"
+        ],
+        "criteres_reussite": [
+          "L'élève maintient sa vitesse dans les changements",
+          "La transition entre les déplacements est fluide"
+        ]
+      },
+      "niveau3": {
+        "titre": "Avancé",
+        "description": "À ce stade avancé, l'élève crée, innove et aide ses pairs. Pour « Jeu du serpent à esquiver », voici les attentes à ce niveau.",
+        "consignes": [
+          "Créer des feintes et des changements de rythme",
+          "Se déplacer en situation de jeu avec adversaire",
+          "Réagir rapidement aux changements d'environnement"
+        ],
+        "criteres_reussite": [
+          "L'élève adapte ses déplacements à la situation de jeu",
+          "L'élève se déplace avec agilité et efficacité"
+        ]
+      }
+    }
   },
   {
     "titre": "Esquive de ballons multiples",
@@ -80,8 +371,57 @@
     "variantes": "Lanceurs dans le terrain, esquiveurs avec cible à protéger, esquive en duo (protéger son partenaire).",
     "adaptation": "Moins de lanceurs, terrain plus grand, ballons très légers, vitesse de lancer réduite.",
     "duree": 15,
-    "materiel": ["5-6 ballons de mousse", "Cônes pour le terrain"],
-    "tags": ["ballons", "multiples", "esquive", "intensif"]
+    "materiel": [
+      "5-6 ballons de mousse",
+      "Cônes pour le terrain"
+    ],
+    "tags": [
+      "ballons",
+      "multiples",
+      "esquive",
+      "intensif"
+    ],
+    "progression": {
+      "niveau1": {
+        "titre": "Débutant",
+        "description": "À ce stade, l'objectif est d'apprivoiser l'exercice sans pression de performance. Pour « Esquive de ballons multiples », voici les attentes à ce niveau.",
+        "consignes": [
+          "Se déplacer à vitesse lente dans un espace délimité",
+          "Respecter les limites de son espace",
+          "Suivre des lignes au sol ou des repères visuels"
+        ],
+        "criteres_reussite": [
+          "L'élève se déplace de façon contrôlée",
+          "Le patron moteur de base est reconnaissable"
+        ]
+      },
+      "niveau2": {
+        "titre": "Intermédiaire",
+        "description": "L'élève est capable d'exécuter l'activité de façon autonome avec quelques ajustements. Pour « Esquive de ballons multiples », voici les attentes à ce niveau.",
+        "consignes": [
+          "S'adapter au rythme d'un partenaire",
+          "Alterner entre deux types de déplacement",
+          "Combiner déplacement et manipulation d'objet"
+        ],
+        "criteres_reussite": [
+          "L'élève change de direction sans perte d'équilibre",
+          "La transition entre les déplacements est fluide"
+        ]
+      },
+      "niveau3": {
+        "titre": "Avancé",
+        "description": "L'élève perfectionne sa technique et s'adapte à des situations complexes. Pour « Esquive de ballons multiples », voici les attentes à ce niveau.",
+        "consignes": [
+          "Réagir rapidement aux changements d'environnement",
+          "Se déplacer en situation de jeu avec adversaire",
+          "Combiner plusieurs types de déplacement en enchaînement"
+        ],
+        "criteres_reussite": [
+          "Les enchaînements sont fluides et rapides",
+          "L'élève se déplace avec agilité et efficacité"
+        ]
+      }
+    }
   },
   {
     "titre": "Course d'esquive entre les cônes",
@@ -92,8 +432,56 @@
     "variantes": "Courir en reculons, courir en pas chassés, ajouter des obstacles au sol.",
     "adaptation": "Moins de cônes, marche rapide, zone plus grande.",
     "duree": 10,
-    "materiel": ["15-20 cônes"],
-    "tags": ["cônes", "évitement", "vision", "espace"]
+    "materiel": [
+      "15-20 cônes"
+    ],
+    "tags": [
+      "cônes",
+      "évitement",
+      "vision",
+      "espace"
+    ],
+    "progression": {
+      "niveau1": {
+        "titre": "Débutant",
+        "description": "Le débutant explore les bases de l'activité avec un accompagnement soutenu. Pour « Course d'esquive entre les cônes », voici les attentes à ce niveau.",
+        "consignes": [
+          "Suivre des lignes au sol ou des repères visuels",
+          "Garder le contrôle de son corps en mouvement",
+          "Pratiquer un seul type de déplacement à la fois"
+        ],
+        "criteres_reussite": [
+          "Le patron moteur de base est reconnaissable",
+          "L'élève se déplace de façon contrôlée"
+        ]
+      },
+      "niveau2": {
+        "titre": "Intermédiaire",
+        "description": "L'élève maîtrise les bases et cherche à améliorer sa constance et sa fluidité. Pour « Course d'esquive entre les cônes », voici les attentes à ce niveau.",
+        "consignes": [
+          "Se déplacer en changeant de direction sur signal",
+          "Alterner entre deux types de déplacement",
+          "S'adapter au rythme d'un partenaire"
+        ],
+        "criteres_reussite": [
+          "La transition entre les déplacements est fluide",
+          "L'élève maintient sa vitesse dans les changements"
+        ]
+      },
+      "niveau3": {
+        "titre": "Avancé",
+        "description": "L'élève perfectionne sa technique et s'adapte à des situations complexes. Pour « Course d'esquive entre les cônes », voici les attentes à ce niveau.",
+        "consignes": [
+          "Se déplacer en situation de jeu avec adversaire",
+          "Réagir rapidement aux changements d'environnement",
+          "Créer des feintes et des changements de rythme"
+        ],
+        "criteres_reussite": [
+          "L'élève se déplace avec agilité et efficacité",
+          "L'élève adapte ses déplacements à la situation de jeu"
+        ]
+      }
+    }
   },
   {
     "titre": "Esquive en espace réduit progressif",
@@ -104,8 +492,57 @@
     "variantes": "2 chasseurs, terrain qui s'agrandit (inverse), terrain qui change de forme (cercle, triangle).",
     "adaptation": "Rétrécissement plus lent, zone minimale plus grande, 1 seul élève à esquiver.",
     "duree": 12,
-    "materiel": ["Cônes ajustables", "Sifflet"],
-    "tags": ["espace réduit", "progressif", "micro-esquive", "densité"]
+    "materiel": [
+      "Cônes ajustables",
+      "Sifflet"
+    ],
+    "tags": [
+      "espace réduit",
+      "progressif",
+      "micro-esquive",
+      "densité"
+    ],
+    "progression": {
+      "niveau1": {
+        "titre": "Débutant",
+        "description": "À ce stade, l'objectif est d'apprivoiser l'exercice sans pression de performance. Pour « Esquive en espace réduit progressif », voici les attentes à ce niveau.",
+        "consignes": [
+          "Suivre des lignes au sol ou des repères visuels",
+          "Respecter les limites de son espace",
+          "Pratiquer un seul type de déplacement à la fois"
+        ],
+        "criteres_reussite": [
+          "Le patron moteur de base est reconnaissable",
+          "L'élève freine et s'arrête sur commande"
+        ]
+      },
+      "niveau2": {
+        "titre": "Intermédiaire",
+        "description": "À ce niveau, on ajoute de la complexité tout en consolidant les acquis. Pour « Esquive en espace réduit progressif », voici les attentes à ce niveau.",
+        "consignes": [
+          "Combiner déplacement et manipulation d'objet",
+          "Alterner entre deux types de déplacement",
+          "S'adapter au rythme d'un partenaire"
+        ],
+        "criteres_reussite": [
+          "La transition entre les déplacements est fluide",
+          "L'élève change de direction sans perte d'équilibre"
+        ]
+      },
+      "niveau3": {
+        "titre": "Avancé",
+        "description": "À ce stade avancé, l'élève crée, innove et aide ses pairs. Pour « Esquive en espace réduit progressif », voici les attentes à ce niveau.",
+        "consignes": [
+          "Combiner plusieurs types de déplacement en enchaînement",
+          "Se déplacer en situation de jeu avec adversaire",
+          "Créer des feintes et des changements de rythme"
+        ],
+        "criteres_reussite": [
+          "L'élève se déplace avec agilité et efficacité",
+          "L'élève adapte ses déplacements à la situation de jeu"
+        ]
+      }
+    }
   },
   {
     "titre": "Jeu des queues (tag foulard)",
@@ -116,8 +553,57 @@
     "variantes": "2 foulards par élève, zones interdites, queues de couleurs (toucher seulement une couleur).",
     "adaptation": "Zone plus grande, foulard plus long (plus facile à protéger), marche rapide permise.",
     "duree": 12,
-    "materiel": ["Foulards (1-2 par élève)", "Cônes pour le terrain"],
-    "tags": ["queues", "foulard", "esquive", "feinte"]
+    "materiel": [
+      "Foulards (1-2 par élève)",
+      "Cônes pour le terrain"
+    ],
+    "tags": [
+      "queues",
+      "foulard",
+      "esquive",
+      "feinte"
+    ],
+    "progression": {
+      "niveau1": {
+        "titre": "Débutant",
+        "description": "L'accent est mis sur la compréhension des consignes et la sécurité. Pour « Jeu des queues (tag foulard) », voici les attentes à ce niveau.",
+        "consignes": [
+          "Respecter les limites de son espace",
+          "Suivre des lignes au sol ou des repères visuels",
+          "Se déplacer à vitesse lente dans un espace délimité"
+        ],
+        "criteres_reussite": [
+          "L'élève freine et s'arrête sur commande",
+          "L'élève se déplace de façon contrôlée"
+        ]
+      },
+      "niveau2": {
+        "titre": "Intermédiaire",
+        "description": "À ce niveau, on ajoute de la complexité tout en consolidant les acquis. Pour « Jeu des queues (tag foulard) », voici les attentes à ce niveau.",
+        "consignes": [
+          "Combiner déplacement et manipulation d'objet",
+          "Se déplacer en changeant de direction sur signal",
+          "Alterner entre deux types de déplacement"
+        ],
+        "criteres_reussite": [
+          "L'élève maintient sa vitesse dans les changements",
+          "L'élève change de direction sans perte d'équilibre"
+        ]
+      },
+      "niveau3": {
+        "titre": "Avancé",
+        "description": "L'expert peut exécuter l'activité dans des contextes variés et exigeants. Pour « Jeu des queues (tag foulard) », voici les attentes à ce niveau.",
+        "consignes": [
+          "Optimiser ses trajectoires pour l'efficacité",
+          "Se déplacer en situation de jeu avec adversaire",
+          "Réagir rapidement aux changements d'environnement"
+        ],
+        "criteres_reussite": [
+          "L'élève se déplace avec agilité et efficacité",
+          "Les enchaînements sont fluides et rapides"
+        ]
+      }
+    }
   },
   {
     "titre": "Esquive de ballon en cercle",
@@ -128,8 +614,57 @@
     "variantes": "2 ballons en jeu, cercle plus serré, 3 élèves au centre, temps de survie à battre.",
     "adaptation": "Cercle plus grand, ballon plus mou, lancer du bas seulement, toucher aux jambes seulement.",
     "duree": 12,
-    "materiel": ["1-2 ballons de mousse", "Espace pour former un cercle"],
-    "tags": ["cercle", "ballon", "esquive", "pivot"]
+    "materiel": [
+      "1-2 ballons de mousse",
+      "Espace pour former un cercle"
+    ],
+    "tags": [
+      "cercle",
+      "ballon",
+      "esquive",
+      "pivot"
+    ],
+    "progression": {
+      "niveau1": {
+        "titre": "Débutant",
+        "description": "L'accent est mis sur la compréhension des consignes et la sécurité. Pour « Esquive de ballon en cercle », voici les attentes à ce niveau.",
+        "consignes": [
+          "Respecter les limites de son espace",
+          "Garder le contrôle de son corps en mouvement",
+          "Pratiquer un seul type de déplacement à la fois"
+        ],
+        "criteres_reussite": [
+          "L'élève se déplace de façon contrôlée",
+          "Le patron moteur de base est reconnaissable"
+        ]
+      },
+      "niveau2": {
+        "titre": "Intermédiaire",
+        "description": "L'élève est capable d'exécuter l'activité de façon autonome avec quelques ajustements. Pour « Esquive de ballon en cercle », voici les attentes à ce niveau.",
+        "consignes": [
+          "Alterner entre deux types de déplacement",
+          "Se déplacer en changeant de direction sur signal",
+          "Augmenter la vitesse tout en gardant le contrôle"
+        ],
+        "criteres_reussite": [
+          "La transition entre les déplacements est fluide",
+          "L'élève change de direction sans perte d'équilibre"
+        ]
+      },
+      "niveau3": {
+        "titre": "Avancé",
+        "description": "À ce stade avancé, l'élève crée, innove et aide ses pairs. Pour « Esquive de ballon en cercle », voici les attentes à ce niveau.",
+        "consignes": [
+          "Optimiser ses trajectoires pour l'efficacité",
+          "Créer des feintes et des changements de rythme",
+          "Réagir rapidement aux changements d'environnement"
+        ],
+        "criteres_reussite": [
+          "L'élève adapte ses déplacements à la situation de jeu",
+          "Les enchaînements sont fluides et rapides"
+        ]
+      }
+    }
   },
   {
     "titre": "Jeu de la pieuvre",
@@ -140,8 +675,57 @@
     "variantes": "2 pieuvres, algues qui peuvent toucher les pieds, traversée en reculons.",
     "adaptation": "Terrain plus large, pieuvre qui marche, zones d'immunité aux murs.",
     "duree": 10,
-    "materiel": ["Dossard pour la pieuvre", "Espace dégagé"],
-    "tags": ["pieuvre", "traversée", "esquive", "maternelle"]
+    "materiel": [
+      "Dossard pour la pieuvre",
+      "Espace dégagé"
+    ],
+    "tags": [
+      "pieuvre",
+      "traversée",
+      "esquive",
+      "maternelle"
+    ],
+    "progression": {
+      "niveau1": {
+        "titre": "Débutant",
+        "description": "Le débutant explore les bases de l'activité avec un accompagnement soutenu. Pour « Jeu de la pieuvre », voici les attentes à ce niveau.",
+        "consignes": [
+          "Garder le contrôle de son corps en mouvement",
+          "Se déplacer à vitesse lente dans un espace délimité",
+          "Suivre des lignes au sol ou des repères visuels"
+        ],
+        "criteres_reussite": [
+          "Le patron moteur de base est reconnaissable",
+          "L'élève se déplace de façon contrôlée"
+        ]
+      },
+      "niveau2": {
+        "titre": "Intermédiaire",
+        "description": "L'intermédiaire travaille la régularité et commence à combiner les habiletés. Pour « Jeu de la pieuvre », voici les attentes à ce niveau.",
+        "consignes": [
+          "S'adapter au rythme d'un partenaire",
+          "Augmenter la vitesse tout en gardant le contrôle",
+          "Se déplacer en changeant de direction sur signal"
+        ],
+        "criteres_reussite": [
+          "L'élève maintient sa vitesse dans les changements",
+          "L'élève change de direction sans perte d'équilibre"
+        ]
+      },
+      "niveau3": {
+        "titre": "Avancé",
+        "description": "L'élève démontre une maîtrise complète et peut enseigner aux autres. Pour « Jeu de la pieuvre », voici les attentes à ce niveau.",
+        "consignes": [
+          "Optimiser ses trajectoires pour l'efficacité",
+          "Créer des feintes et des changements de rythme",
+          "Se déplacer en situation de jeu avec adversaire"
+        ],
+        "criteres_reussite": [
+          "Les enchaînements sont fluides et rapides",
+          "L'élève adapte ses déplacements à la situation de jeu"
+        ]
+      }
+    }
   },
   {
     "titre": "Esquive avec changement de niveau",
@@ -152,8 +736,57 @@
     "variantes": "2 lanceurs en même temps, esquive les yeux mi-clos, esquive avec objet à protéger.",
     "adaptation": "Lancers lents et annoncés, distance plus grande, ballon très mou.",
     "duree": 12,
-    "materiel": ["Ballons de mousse (1 par duo)", "Espace dégagé"],
-    "tags": ["niveau", "trajectoire", "réactivité", "duo"]
+    "materiel": [
+      "Ballons de mousse (1 par duo)",
+      "Espace dégagé"
+    ],
+    "tags": [
+      "niveau",
+      "trajectoire",
+      "réactivité",
+      "duo"
+    ],
+    "progression": {
+      "niveau1": {
+        "titre": "Débutant",
+        "description": "L'accent est mis sur la compréhension des consignes et la sécurité. Pour « Esquive avec changement de niveau », voici les attentes à ce niveau.",
+        "consignes": [
+          "Respecter les limites de son espace",
+          "Garder le contrôle de son corps en mouvement",
+          "Se déplacer à vitesse lente dans un espace délimité"
+        ],
+        "criteres_reussite": [
+          "Le patron moteur de base est reconnaissable",
+          "L'élève se déplace de façon contrôlée"
+        ]
+      },
+      "niveau2": {
+        "titre": "Intermédiaire",
+        "description": "L'intermédiaire travaille la régularité et commence à combiner les habiletés. Pour « Esquive avec changement de niveau », voici les attentes à ce niveau.",
+        "consignes": [
+          "Augmenter la vitesse tout en gardant le contrôle",
+          "S'adapter au rythme d'un partenaire",
+          "Alterner entre deux types de déplacement"
+        ],
+        "criteres_reussite": [
+          "L'élève change de direction sans perte d'équilibre",
+          "L'élève maintient sa vitesse dans les changements"
+        ]
+      },
+      "niveau3": {
+        "titre": "Avancé",
+        "description": "L'élève démontre une maîtrise complète et peut enseigner aux autres. Pour « Esquive avec changement de niveau », voici les attentes à ce niveau.",
+        "consignes": [
+          "Optimiser ses trajectoires pour l'efficacité",
+          "Créer des feintes et des changements de rythme",
+          "Se déplacer en situation de jeu avec adversaire"
+        ],
+        "criteres_reussite": [
+          "Les enchaînements sont fluides et rapides",
+          "L'élève adapte ses déplacements à la situation de jeu"
+        ]
+      }
+    }
   },
   {
     "titre": "Parcours d'esquive à obstacles mobiles",
@@ -164,8 +797,59 @@
     "variantes": "Parcours à l'envers, plus d'obstacles, parcours en duo synchronisé.",
     "adaptation": "Moins de stations, obstacles plus lents, pas de chronomètre.",
     "duree": 20,
-    "materiel": ["Ballons de mousse", "Cordes", "Cônes", "Chronomètre"],
-    "tags": ["parcours", "obstacles mobiles", "esquive", "circuit"]
+    "materiel": [
+      "Ballons de mousse",
+      "Cordes",
+      "Cônes",
+      "Chronomètre"
+    ],
+    "tags": [
+      "parcours",
+      "obstacles mobiles",
+      "esquive",
+      "circuit"
+    ],
+    "progression": {
+      "niveau1": {
+        "titre": "Débutant",
+        "description": "L'accent est mis sur la compréhension des consignes et la sécurité. Pour « Parcours d'esquive à obstacles mobiles », voici les attentes à ce niveau.",
+        "consignes": [
+          "Garder le contrôle de son corps en mouvement",
+          "Pratiquer un seul type de déplacement à la fois",
+          "Respecter les limites de son espace"
+        ],
+        "criteres_reussite": [
+          "L'élève freine et s'arrête sur commande",
+          "L'élève se déplace de façon contrôlée"
+        ]
+      },
+      "niveau2": {
+        "titre": "Intermédiaire",
+        "description": "À ce niveau, on ajoute de la complexité tout en consolidant les acquis. Pour « Parcours d'esquive à obstacles mobiles », voici les attentes à ce niveau.",
+        "consignes": [
+          "Alterner entre deux types de déplacement",
+          "S'adapter au rythme d'un partenaire",
+          "Augmenter la vitesse tout en gardant le contrôle"
+        ],
+        "criteres_reussite": [
+          "L'élève maintient sa vitesse dans les changements",
+          "L'élève change de direction sans perte d'équilibre"
+        ]
+      },
+      "niveau3": {
+        "titre": "Avancé",
+        "description": "L'expert peut exécuter l'activité dans des contextes variés et exigeants. Pour « Parcours d'esquive à obstacles mobiles », voici les attentes à ce niveau.",
+        "consignes": [
+          "Optimiser ses trajectoires pour l'efficacité",
+          "Réagir rapidement aux changements d'environnement",
+          "Créer des feintes et des changements de rythme"
+        ],
+        "criteres_reussite": [
+          "Les enchaînements sont fluides et rapides",
+          "L'élève adapte ses déplacements à la situation de jeu"
+        ]
+      }
+    }
   },
   {
     "titre": "Esquive latérale rapide (1 contre 1)",
@@ -176,8 +860,56 @@
     "variantes": "Corridor plus étroit, A avec ballon, 1 contre 2 (2 défenseurs).",
     "adaptation": "Corridor plus large, vitesse réduite, A annonce sa direction.",
     "duree": 12,
-    "materiel": ["Cônes pour le corridor"],
-    "tags": ["latérale", "1 contre 1", "feinte", "défense"]
+    "materiel": [
+      "Cônes pour le corridor"
+    ],
+    "tags": [
+      "latérale",
+      "1 contre 1",
+      "feinte",
+      "défense"
+    ],
+    "progression": {
+      "niveau1": {
+        "titre": "Débutant",
+        "description": "À ce stade, l'objectif est d'apprivoiser l'exercice sans pression de performance. Pour « Esquive latérale rapide (1 contre 1) », voici les attentes à ce niveau.",
+        "consignes": [
+          "Se déplacer à vitesse lente dans un espace délimité",
+          "Garder le contrôle de son corps en mouvement",
+          "Suivre des lignes au sol ou des repères visuels"
+        ],
+        "criteres_reussite": [
+          "L'élève freine et s'arrête sur commande",
+          "L'élève se déplace de façon contrôlée"
+        ]
+      },
+      "niveau2": {
+        "titre": "Intermédiaire",
+        "description": "À ce niveau, on ajoute de la complexité tout en consolidant les acquis. Pour « Esquive latérale rapide (1 contre 1) », voici les attentes à ce niveau.",
+        "consignes": [
+          "Combiner déplacement et manipulation d'objet",
+          "Alterner entre deux types de déplacement",
+          "Augmenter la vitesse tout en gardant le contrôle"
+        ],
+        "criteres_reussite": [
+          "L'élève maintient sa vitesse dans les changements",
+          "L'élève change de direction sans perte d'équilibre"
+        ]
+      },
+      "niveau3": {
+        "titre": "Avancé",
+        "description": "À ce stade avancé, l'élève crée, innove et aide ses pairs. Pour « Esquive latérale rapide (1 contre 1) », voici les attentes à ce niveau.",
+        "consignes": [
+          "Réagir rapidement aux changements d'environnement",
+          "Optimiser ses trajectoires pour l'efficacité",
+          "Créer des feintes et des changements de rythme"
+        ],
+        "criteres_reussite": [
+          "L'élève se déplace avec agilité et efficacité",
+          "Les enchaînements sont fluides et rapides"
+        ]
+      }
+    }
   },
   {
     "titre": "Jeu du chat perché (esquive verticale)",
@@ -188,8 +920,58 @@
     "variantes": "2 chats, moins de perchoirs, perchoirs qui changent de place, chat perché inversé.",
     "adaptation": "Plus de perchoirs, temps d'immunité plus long (5 sec), zone de jeu plus grande.",
     "duree": 10,
-    "materiel": ["Steps ou bancs (perchoirs)", "Dossard pour le chat", "Cônes"],
-    "tags": ["chat perché", "immunité", "perchoir", "décision"]
+    "materiel": [
+      "Steps ou bancs (perchoirs)",
+      "Dossard pour le chat",
+      "Cônes"
+    ],
+    "tags": [
+      "chat perché",
+      "immunité",
+      "perchoir",
+      "décision"
+    ],
+    "progression": {
+      "niveau1": {
+        "titre": "Débutant",
+        "description": "L'accent est mis sur la compréhension des consignes et la sécurité. Pour « Jeu du chat perché (esquive verticale) », voici les attentes à ce niveau.",
+        "consignes": [
+          "Respecter les limites de son espace",
+          "Suivre des lignes au sol ou des repères visuels",
+          "Se déplacer à vitesse lente dans un espace délimité"
+        ],
+        "criteres_reussite": [
+          "L'élève se déplace de façon contrôlée",
+          "L'élève freine et s'arrête sur commande"
+        ]
+      },
+      "niveau2": {
+        "titre": "Intermédiaire",
+        "description": "À ce niveau, on ajoute de la complexité tout en consolidant les acquis. Pour « Jeu du chat perché (esquive verticale) », voici les attentes à ce niveau.",
+        "consignes": [
+          "Combiner déplacement et manipulation d'objet",
+          "Alterner entre deux types de déplacement",
+          "Se déplacer en changeant de direction sur signal"
+        ],
+        "criteres_reussite": [
+          "L'élève change de direction sans perte d'équilibre",
+          "La transition entre les déplacements est fluide"
+        ]
+      },
+      "niveau3": {
+        "titre": "Avancé",
+        "description": "L'expert peut exécuter l'activité dans des contextes variés et exigeants. Pour « Jeu du chat perché (esquive verticale) », voici les attentes à ce niveau.",
+        "consignes": [
+          "Optimiser ses trajectoires pour l'efficacité",
+          "Réagir rapidement aux changements d'environnement",
+          "Créer des feintes et des changements de rythme"
+        ],
+        "criteres_reussite": [
+          "Les enchaînements sont fluides et rapides",
+          "L'élève adapte ses déplacements à la situation de jeu"
+        ]
+      }
+    }
   },
   {
     "titre": "Esquive avec protection d'objet",
@@ -200,8 +982,57 @@
     "variantes": "Cône dans la main tendue (bras tendu), ballon entre les genoux à protéger, 2 cônes à la fois.",
     "adaptation": "Moins de lanceurs, terrain plus grand, ballons lancés doucement.",
     "duree": 12,
-    "materiel": ["Cônes (1 par esquiveur)", "Ballons de mousse (3-4)"],
-    "tags": ["protection", "objet", "cône", "contrôle"]
+    "materiel": [
+      "Cônes (1 par esquiveur)",
+      "Ballons de mousse (3-4)"
+    ],
+    "tags": [
+      "protection",
+      "objet",
+      "cône",
+      "contrôle"
+    ],
+    "progression": {
+      "niveau1": {
+        "titre": "Débutant",
+        "description": "À ce stade, l'objectif est d'apprivoiser l'exercice sans pression de performance. Pour « Esquive avec protection d'objet », voici les attentes à ce niveau.",
+        "consignes": [
+          "Garder le contrôle de son corps en mouvement",
+          "Se déplacer à vitesse lente dans un espace délimité",
+          "Respecter les limites de son espace"
+        ],
+        "criteres_reussite": [
+          "L'élève freine et s'arrête sur commande",
+          "Le patron moteur de base est reconnaissable"
+        ]
+      },
+      "niveau2": {
+        "titre": "Intermédiaire",
+        "description": "L'élève maîtrise les bases et cherche à améliorer sa constance et sa fluidité. Pour « Esquive avec protection d'objet », voici les attentes à ce niveau.",
+        "consignes": [
+          "Se déplacer en changeant de direction sur signal",
+          "Augmenter la vitesse tout en gardant le contrôle",
+          "S'adapter au rythme d'un partenaire"
+        ],
+        "criteres_reussite": [
+          "La transition entre les déplacements est fluide",
+          "L'élève maintient sa vitesse dans les changements"
+        ]
+      },
+      "niveau3": {
+        "titre": "Avancé",
+        "description": "L'élève démontre une maîtrise complète et peut enseigner aux autres. Pour « Esquive avec protection d'objet », voici les attentes à ce niveau.",
+        "consignes": [
+          "Se déplacer en situation de jeu avec adversaire",
+          "Optimiser ses trajectoires pour l'efficacité",
+          "Combiner plusieurs types de déplacement en enchaînement"
+        ],
+        "criteres_reussite": [
+          "L'élève se déplace avec agilité et efficacité",
+          "L'élève adapte ses déplacements à la situation de jeu"
+        ]
+      }
+    }
   },
   {
     "titre": "Tag en chaîne (esquive de groupe)",
@@ -212,8 +1043,57 @@
     "variantes": "Chaîne qui peut se diviser en 2 quand elle atteint 4, 2 chaînes initiales, terrain plus petit.",
     "adaptation": "Terrain plus grand, chaîne qui marche, zones d'immunité.",
     "duree": 12,
-    "materiel": ["Cônes pour le terrain", "Dossards pour les chasseurs initiaux"],
-    "tags": ["chaîne", "groupe", "esquive", "croissance"]
+    "materiel": [
+      "Cônes pour le terrain",
+      "Dossards pour les chasseurs initiaux"
+    ],
+    "tags": [
+      "chaîne",
+      "groupe",
+      "esquive",
+      "croissance"
+    ],
+    "progression": {
+      "niveau1": {
+        "titre": "Débutant",
+        "description": "À ce stade, l'objectif est d'apprivoiser l'exercice sans pression de performance. Pour « Tag en chaîne (esquive de groupe) », voici les attentes à ce niveau.",
+        "consignes": [
+          "Respecter les limites de son espace",
+          "Garder le contrôle de son corps en mouvement",
+          "Pratiquer un seul type de déplacement à la fois"
+        ],
+        "criteres_reussite": [
+          "Le patron moteur de base est reconnaissable",
+          "L'élève freine et s'arrête sur commande"
+        ]
+      },
+      "niveau2": {
+        "titre": "Intermédiaire",
+        "description": "À ce niveau, on ajoute de la complexité tout en consolidant les acquis. Pour « Tag en chaîne (esquive de groupe) », voici les attentes à ce niveau.",
+        "consignes": [
+          "Augmenter la vitesse tout en gardant le contrôle",
+          "Se déplacer en changeant de direction sur signal",
+          "Alterner entre deux types de déplacement"
+        ],
+        "criteres_reussite": [
+          "L'élève maintient sa vitesse dans les changements",
+          "L'élève change de direction sans perte d'équilibre"
+        ]
+      },
+      "niveau3": {
+        "titre": "Avancé",
+        "description": "À ce stade avancé, l'élève crée, innove et aide ses pairs. Pour « Tag en chaîne (esquive de groupe) », voici les attentes à ce niveau.",
+        "consignes": [
+          "Optimiser ses trajectoires pour l'efficacité",
+          "Se déplacer en situation de jeu avec adversaire",
+          "Réagir rapidement aux changements d'environnement"
+        ],
+        "criteres_reussite": [
+          "L'élève se déplace avec agilité et efficacité",
+          "Les enchaînements sont fluides et rapides"
+        ]
+      }
+    }
   },
   {
     "titre": "Esquive de lancers en duo (un lance, un esquive)",
@@ -224,8 +1104,57 @@
     "variantes": "10 lancers, lancers de plus en plus rapides, B les yeux fermés (esquive au bruit).",
     "adaptation": "Zone d'esquive plus grande, lancers lents et prévisibles, ballon très mou.",
     "duree": 12,
-    "materiel": ["Ballons de mousse (5 par duo)", "Cerceaux ou cônes pour la zone"],
-    "tags": ["duo", "lancers", "esquive sur place", "rotation"]
+    "materiel": [
+      "Ballons de mousse (5 par duo)",
+      "Cerceaux ou cônes pour la zone"
+    ],
+    "tags": [
+      "duo",
+      "lancers",
+      "esquive sur place",
+      "rotation"
+    ],
+    "progression": {
+      "niveau1": {
+        "titre": "Débutant",
+        "description": "À ce stade, l'objectif est d'apprivoiser l'exercice sans pression de performance. Pour « Esquive de lancers en duo (un lance, un esquive) », voici les attentes à ce niveau.",
+        "consignes": [
+          "Suivre des lignes au sol ou des repères visuels",
+          "Respecter les limites de son espace",
+          "Se déplacer à vitesse lente dans un espace délimité"
+        ],
+        "criteres_reussite": [
+          "L'élève freine et s'arrête sur commande",
+          "L'élève se déplace de façon contrôlée"
+        ]
+      },
+      "niveau2": {
+        "titre": "Intermédiaire",
+        "description": "À ce niveau, on ajoute de la complexité tout en consolidant les acquis. Pour « Esquive de lancers en duo (un lance, un esquive) », voici les attentes à ce niveau.",
+        "consignes": [
+          "Se déplacer en changeant de direction sur signal",
+          "Combiner déplacement et manipulation d'objet",
+          "Augmenter la vitesse tout en gardant le contrôle"
+        ],
+        "criteres_reussite": [
+          "L'élève maintient sa vitesse dans les changements",
+          "L'élève change de direction sans perte d'équilibre"
+        ]
+      },
+      "niveau3": {
+        "titre": "Avancé",
+        "description": "L'expert peut exécuter l'activité dans des contextes variés et exigeants. Pour « Esquive de lancers en duo (un lance, un esquive) », voici les attentes à ce niveau.",
+        "consignes": [
+          "Combiner plusieurs types de déplacement en enchaînement",
+          "Réagir rapidement aux changements d'environnement",
+          "Créer des feintes et des changements de rythme"
+        ],
+        "criteres_reussite": [
+          "Les enchaînements sont fluides et rapides",
+          "L'élève se déplace avec agilité et efficacité"
+        ]
+      }
+    }
   },
   {
     "titre": "Jeu de l'électricité (esquive en ligne)",
@@ -236,8 +1165,56 @@
     "variantes": "2 lignes en compétition, signal visuel au lieu du serrage, le dernier doit attraper un objet au lieu d'esquiver.",
     "adaptation": "Ligne plus courte (5 élèves), signal verbal en plus du serrage, enseignant qui court lentement.",
     "duree": 8,
-    "materiel": ["Espace dégagé"],
-    "tags": ["électricité", "ligne", "réactivité", "maternelle"]
+    "materiel": [
+      "Espace dégagé"
+    ],
+    "tags": [
+      "électricité",
+      "ligne",
+      "réactivité",
+      "maternelle"
+    ],
+    "progression": {
+      "niveau1": {
+        "titre": "Débutant",
+        "description": "L'accent est mis sur la compréhension des consignes et la sécurité. Pour « Jeu de l'électricité (esquive en ligne) », voici les attentes à ce niveau.",
+        "consignes": [
+          "Se déplacer à vitesse lente dans un espace délimité",
+          "Pratiquer un seul type de déplacement à la fois",
+          "Respecter les limites de son espace"
+        ],
+        "criteres_reussite": [
+          "L'élève freine et s'arrête sur commande",
+          "L'élève se déplace de façon contrôlée"
+        ]
+      },
+      "niveau2": {
+        "titre": "Intermédiaire",
+        "description": "L'élève maîtrise les bases et cherche à améliorer sa constance et sa fluidité. Pour « Jeu de l'électricité (esquive en ligne) », voici les attentes à ce niveau.",
+        "consignes": [
+          "Combiner déplacement et manipulation d'objet",
+          "Alterner entre deux types de déplacement",
+          "S'adapter au rythme d'un partenaire"
+        ],
+        "criteres_reussite": [
+          "L'élève change de direction sans perte d'équilibre",
+          "La transition entre les déplacements est fluide"
+        ]
+      },
+      "niveau3": {
+        "titre": "Avancé",
+        "description": "L'élève démontre une maîtrise complète et peut enseigner aux autres. Pour « Jeu de l'électricité (esquive en ligne) », voici les attentes à ce niveau.",
+        "consignes": [
+          "Créer des feintes et des changements de rythme",
+          "Combiner plusieurs types de déplacement en enchaînement",
+          "Optimiser ses trajectoires pour l'efficacité"
+        ],
+        "criteres_reussite": [
+          "L'élève se déplace avec agilité et efficacité",
+          "L'élève adapte ses déplacements à la situation de jeu"
+        ]
+      }
+    }
   },
   {
     "titre": "Esquive en matrice (grille humaine)",
@@ -248,8 +1225,56 @@
     "variantes": "2 fuyards, pivots plus fréquents, grille plus serrée.",
     "adaptation": "Grille plus espacée, pivots annoncés à l'avance, chasseur qui marche.",
     "duree": 15,
-    "materiel": ["Espace pour la grille (20 élèves minimum)"],
-    "tags": ["matrice", "grille", "pivot", "stratégie"]
+    "materiel": [
+      "Espace pour la grille (20 élèves minimum)"
+    ],
+    "tags": [
+      "matrice",
+      "grille",
+      "pivot",
+      "stratégie"
+    ],
+    "progression": {
+      "niveau1": {
+        "titre": "Débutant",
+        "description": "L'accent est mis sur la compréhension des consignes et la sécurité. Pour « Esquive en matrice (grille humaine) », voici les attentes à ce niveau.",
+        "consignes": [
+          "Respecter les limites de son espace",
+          "Pratiquer un seul type de déplacement à la fois",
+          "Suivre des lignes au sol ou des repères visuels"
+        ],
+        "criteres_reussite": [
+          "Le patron moteur de base est reconnaissable",
+          "L'élève freine et s'arrête sur commande"
+        ]
+      },
+      "niveau2": {
+        "titre": "Intermédiaire",
+        "description": "À ce niveau, on ajoute de la complexité tout en consolidant les acquis. Pour « Esquive en matrice (grille humaine) », voici les attentes à ce niveau.",
+        "consignes": [
+          "Se déplacer en changeant de direction sur signal",
+          "S'adapter au rythme d'un partenaire",
+          "Combiner déplacement et manipulation d'objet"
+        ],
+        "criteres_reussite": [
+          "La transition entre les déplacements est fluide",
+          "L'élève maintient sa vitesse dans les changements"
+        ]
+      },
+      "niveau3": {
+        "titre": "Avancé",
+        "description": "L'expert peut exécuter l'activité dans des contextes variés et exigeants. Pour « Esquive en matrice (grille humaine) », voici les attentes à ce niveau.",
+        "consignes": [
+          "Réagir rapidement aux changements d'environnement",
+          "Optimiser ses trajectoires pour l'efficacité",
+          "Se déplacer en situation de jeu avec adversaire"
+        ],
+        "criteres_reussite": [
+          "L'élève adapte ses déplacements à la situation de jeu",
+          "L'élève se déplace avec agilité et efficacité"
+        ]
+      }
+    }
   },
   {
     "titre": "Esquive de cerceaux roulants",
@@ -260,8 +1285,56 @@
     "variantes": "Plusieurs cerceaux en même temps, cerceaux lancés par les élèves (en duo), cerceaux qui rebondissent.",
     "adaptation": "Cerceaux roulant lentement, 1 seul cerceau, plus d'espace.",
     "duree": 10,
-    "materiel": ["5-8 cerceaux"],
-    "tags": ["cerceaux", "roulant", "évitement", "perception"]
+    "materiel": [
+      "5-8 cerceaux"
+    ],
+    "tags": [
+      "cerceaux",
+      "roulant",
+      "évitement",
+      "perception"
+    ],
+    "progression": {
+      "niveau1": {
+        "titre": "Débutant",
+        "description": "À ce stade, l'objectif est d'apprivoiser l'exercice sans pression de performance. Pour « Esquive de cerceaux roulants », voici les attentes à ce niveau.",
+        "consignes": [
+          "Pratiquer un seul type de déplacement à la fois",
+          "Se déplacer à vitesse lente dans un espace délimité",
+          "Garder le contrôle de son corps en mouvement"
+        ],
+        "criteres_reussite": [
+          "Le patron moteur de base est reconnaissable",
+          "L'élève freine et s'arrête sur commande"
+        ]
+      },
+      "niveau2": {
+        "titre": "Intermédiaire",
+        "description": "L'intermédiaire travaille la régularité et commence à combiner les habiletés. Pour « Esquive de cerceaux roulants », voici les attentes à ce niveau.",
+        "consignes": [
+          "Alterner entre deux types de déplacement",
+          "S'adapter au rythme d'un partenaire",
+          "Se déplacer en changeant de direction sur signal"
+        ],
+        "criteres_reussite": [
+          "La transition entre les déplacements est fluide",
+          "L'élève change de direction sans perte d'équilibre"
+        ]
+      },
+      "niveau3": {
+        "titre": "Avancé",
+        "description": "L'élève perfectionne sa technique et s'adapte à des situations complexes. Pour « Esquive de cerceaux roulants », voici les attentes à ce niveau.",
+        "consignes": [
+          "Optimiser ses trajectoires pour l'efficacité",
+          "Créer des feintes et des changements de rythme",
+          "Réagir rapidement aux changements d'environnement"
+        ],
+        "criteres_reussite": [
+          "Les enchaînements sont fluides et rapides",
+          "L'élève se déplace avec agilité et efficacité"
+        ]
+      }
+    }
   },
   {
     "titre": "Combat de sumo d'esquive (sans contact)",
@@ -272,8 +1345,56 @@
     "variantes": "Cercle plus petit, mains derrière le dos, en sautant sur un pied.",
     "adaptation": "Cercle plus grand, pas de feintes agressives, match en 1 point seulement.",
     "duree": 12,
-    "materiel": ["Cerceaux ou ruban pour le cercle"],
-    "tags": ["sumo", "feinte", "cercle", "équilibre"]
+    "materiel": [
+      "Cerceaux ou ruban pour le cercle"
+    ],
+    "tags": [
+      "sumo",
+      "feinte",
+      "cercle",
+      "équilibre"
+    ],
+    "progression": {
+      "niveau1": {
+        "titre": "Débutant",
+        "description": "Le débutant explore les bases de l'activité avec un accompagnement soutenu. Pour « Combat de sumo d'esquive (sans contact) », voici les attentes à ce niveau.",
+        "consignes": [
+          "Pratiquer un seul type de déplacement à la fois",
+          "Se déplacer à vitesse lente dans un espace délimité",
+          "Respecter les limites de son espace"
+        ],
+        "criteres_reussite": [
+          "Le patron moteur de base est reconnaissable",
+          "L'élève se déplace de façon contrôlée"
+        ]
+      },
+      "niveau2": {
+        "titre": "Intermédiaire",
+        "description": "L'élève maîtrise les bases et cherche à améliorer sa constance et sa fluidité. Pour « Combat de sumo d'esquive (sans contact) », voici les attentes à ce niveau.",
+        "consignes": [
+          "Combiner déplacement et manipulation d'objet",
+          "Augmenter la vitesse tout en gardant le contrôle",
+          "Se déplacer en changeant de direction sur signal"
+        ],
+        "criteres_reussite": [
+          "La transition entre les déplacements est fluide",
+          "L'élève maintient sa vitesse dans les changements"
+        ]
+      },
+      "niveau3": {
+        "titre": "Avancé",
+        "description": "L'élève démontre une maîtrise complète et peut enseigner aux autres. Pour « Combat de sumo d'esquive (sans contact) », voici les attentes à ce niveau.",
+        "consignes": [
+          "Réagir rapidement aux changements d'environnement",
+          "Optimiser ses trajectoires pour l'efficacité",
+          "Se déplacer en situation de jeu avec adversaire"
+        ],
+        "criteres_reussite": [
+          "L'élève adapte ses déplacements à la situation de jeu",
+          "L'élève se déplace avec agilité et efficacité"
+        ]
+      }
+    }
   },
   {
     "titre": "Jeu des planètes (orbites d'esquive)",
@@ -284,8 +1405,57 @@
     "variantes": "Orbites de différentes tailles, 2 soleils, planètes qui changent d'orbite.",
     "adaptation": "Pas de ballons (juste tourner), ballons roulés au sol, orbite large.",
     "duree": 10,
-    "materiel": ["Ballons de mousse", "Cônes pour l'orbite"],
-    "tags": ["planètes", "orbite", "imaginaire", "esquive"]
+    "materiel": [
+      "Ballons de mousse",
+      "Cônes pour l'orbite"
+    ],
+    "tags": [
+      "planètes",
+      "orbite",
+      "imaginaire",
+      "esquive"
+    ],
+    "progression": {
+      "niveau1": {
+        "titre": "Débutant",
+        "description": "À ce stade, l'objectif est d'apprivoiser l'exercice sans pression de performance. Pour « Jeu des planètes (orbites d'esquive) », voici les attentes à ce niveau.",
+        "consignes": [
+          "Pratiquer un seul type de déplacement à la fois",
+          "Suivre des lignes au sol ou des repères visuels",
+          "Respecter les limites de son espace"
+        ],
+        "criteres_reussite": [
+          "L'élève se déplace de façon contrôlée",
+          "L'élève freine et s'arrête sur commande"
+        ]
+      },
+      "niveau2": {
+        "titre": "Intermédiaire",
+        "description": "À ce niveau, on ajoute de la complexité tout en consolidant les acquis. Pour « Jeu des planètes (orbites d'esquive) », voici les attentes à ce niveau.",
+        "consignes": [
+          "Combiner déplacement et manipulation d'objet",
+          "Alterner entre deux types de déplacement",
+          "Augmenter la vitesse tout en gardant le contrôle"
+        ],
+        "criteres_reussite": [
+          "L'élève maintient sa vitesse dans les changements",
+          "La transition entre les déplacements est fluide"
+        ]
+      },
+      "niveau3": {
+        "titre": "Avancé",
+        "description": "À ce stade avancé, l'élève crée, innove et aide ses pairs. Pour « Jeu des planètes (orbites d'esquive) », voici les attentes à ce niveau.",
+        "consignes": [
+          "Optimiser ses trajectoires pour l'efficacité",
+          "Combiner plusieurs types de déplacement en enchaînement",
+          "Se déplacer en situation de jeu avec adversaire"
+        ],
+        "criteres_reussite": [
+          "L'élève adapte ses déplacements à la situation de jeu",
+          "L'élève se déplace avec agilité et efficacité"
+        ]
+      }
+    }
   },
   {
     "titre": "Esquive avec contrainte (un bras dans le dos)",
@@ -296,8 +1466,57 @@
     "variantes": "Esquive sur un pied, esquive en zone réduite, esquive les yeux fermés (3 sec).",
     "adaptation": "Bras libre, terrain plus grand, moins de lanceurs.",
     "duree": 12,
-    "materiel": ["Ballons de mousse", "Cônes pour le terrain"],
-    "tags": ["contrainte", "bras", "adaptation", "créativité"]
+    "materiel": [
+      "Ballons de mousse",
+      "Cônes pour le terrain"
+    ],
+    "tags": [
+      "contrainte",
+      "bras",
+      "adaptation",
+      "créativité"
+    ],
+    "progression": {
+      "niveau1": {
+        "titre": "Débutant",
+        "description": "L'élève découvre l'activité et se familiarise avec les mouvements fondamentaux. Pour « Esquive avec contrainte (un bras dans le dos) », voici les attentes à ce niveau.",
+        "consignes": [
+          "Suivre des lignes au sol ou des repères visuels",
+          "Respecter les limites de son espace",
+          "Pratiquer un seul type de déplacement à la fois"
+        ],
+        "criteres_reussite": [
+          "L'élève freine et s'arrête sur commande",
+          "L'élève se déplace de façon contrôlée"
+        ]
+      },
+      "niveau2": {
+        "titre": "Intermédiaire",
+        "description": "L'intermédiaire travaille la régularité et commence à combiner les habiletés. Pour « Esquive avec contrainte (un bras dans le dos) », voici les attentes à ce niveau.",
+        "consignes": [
+          "Combiner déplacement et manipulation d'objet",
+          "Alterner entre deux types de déplacement",
+          "S'adapter au rythme d'un partenaire"
+        ],
+        "criteres_reussite": [
+          "La transition entre les déplacements est fluide",
+          "L'élève maintient sa vitesse dans les changements"
+        ]
+      },
+      "niveau3": {
+        "titre": "Avancé",
+        "description": "À ce stade avancé, l'élève crée, innove et aide ses pairs. Pour « Esquive avec contrainte (un bras dans le dos) », voici les attentes à ce niveau.",
+        "consignes": [
+          "Se déplacer en situation de jeu avec adversaire",
+          "Réagir rapidement aux changements d'environnement",
+          "Optimiser ses trajectoires pour l'efficacité"
+        ],
+        "criteres_reussite": [
+          "Les enchaînements sont fluides et rapides",
+          "L'élève se déplace avec agilité et efficacité"
+        ]
+      }
+    }
   },
   {
     "titre": "Parcours d'esquive ninja",
@@ -308,8 +1527,61 @@
     "variantes": "Parcours en reculons, parcours en duo, parcours avec plus d'obstacles.",
     "adaptation": "Moins de stations, obstacles plus faciles, pas de lanceurs, pas de chronomètre.",
     "duree": 20,
-    "materiel": ["Barres", "Obstacles", "Ballons de mousse", "Cônes", "Tunnel", "Chronomètre"],
-    "tags": ["ninja", "parcours", "combiné", "circuit"]
+    "materiel": [
+      "Barres",
+      "Obstacles",
+      "Ballons de mousse",
+      "Cônes",
+      "Tunnel",
+      "Chronomètre"
+    ],
+    "tags": [
+      "ninja",
+      "parcours",
+      "combiné",
+      "circuit"
+    ],
+    "progression": {
+      "niveau1": {
+        "titre": "Débutant",
+        "description": "À ce stade, l'objectif est d'apprivoiser l'exercice sans pression de performance. Pour « Parcours d'esquive ninja », voici les attentes à ce niveau.",
+        "consignes": [
+          "Respecter les limites de son espace",
+          "Garder le contrôle de son corps en mouvement",
+          "Se déplacer à vitesse lente dans un espace délimité"
+        ],
+        "criteres_reussite": [
+          "L'élève freine et s'arrête sur commande",
+          "Le patron moteur de base est reconnaissable"
+        ]
+      },
+      "niveau2": {
+        "titre": "Intermédiaire",
+        "description": "L'élève est capable d'exécuter l'activité de façon autonome avec quelques ajustements. Pour « Parcours d'esquive ninja », voici les attentes à ce niveau.",
+        "consignes": [
+          "S'adapter au rythme d'un partenaire",
+          "Alterner entre deux types de déplacement",
+          "Se déplacer en changeant de direction sur signal"
+        ],
+        "criteres_reussite": [
+          "La transition entre les déplacements est fluide",
+          "L'élève maintient sa vitesse dans les changements"
+        ]
+      },
+      "niveau3": {
+        "titre": "Avancé",
+        "description": "L'élève perfectionne sa technique et s'adapte à des situations complexes. Pour « Parcours d'esquive ninja », voici les attentes à ce niveau.",
+        "consignes": [
+          "Créer des feintes et des changements de rythme",
+          "Optimiser ses trajectoires pour l'efficacité",
+          "Combiner plusieurs types de déplacement en enchaînement"
+        ],
+        "criteres_reussite": [
+          "L'élève se déplace avec agilité et efficacité",
+          "Les enchaînements sont fluides et rapides"
+        ]
+      }
+    }
   },
   {
     "titre": "Esquive en ligne (traversée dangereuse)",
@@ -320,8 +1592,57 @@
     "variantes": "Traversée en duo (protéger l'autre), lanceurs illimités, traversée en reculons.",
     "adaptation": "1-2 lanceurs seulement, terrain large, traversée en marchant.",
     "duree": 12,
-    "materiel": ["Ballons de mousse (3-4)", "Cônes pour les zones"],
-    "tags": ["traversée", "lanceurs", "feinte", "vitesse"]
+    "materiel": [
+      "Ballons de mousse (3-4)",
+      "Cônes pour les zones"
+    ],
+    "tags": [
+      "traversée",
+      "lanceurs",
+      "feinte",
+      "vitesse"
+    ],
+    "progression": {
+      "niveau1": {
+        "titre": "Débutant",
+        "description": "À ce stade, l'objectif est d'apprivoiser l'exercice sans pression de performance. Pour « Esquive en ligne (traversée dangereuse) », voici les attentes à ce niveau.",
+        "consignes": [
+          "Pratiquer un seul type de déplacement à la fois",
+          "Se déplacer à vitesse lente dans un espace délimité",
+          "Garder le contrôle de son corps en mouvement"
+        ],
+        "criteres_reussite": [
+          "L'élève se déplace de façon contrôlée",
+          "Le patron moteur de base est reconnaissable"
+        ]
+      },
+      "niveau2": {
+        "titre": "Intermédiaire",
+        "description": "L'élève maîtrise les bases et cherche à améliorer sa constance et sa fluidité. Pour « Esquive en ligne (traversée dangereuse) », voici les attentes à ce niveau.",
+        "consignes": [
+          "Alterner entre deux types de déplacement",
+          "Se déplacer en changeant de direction sur signal",
+          "S'adapter au rythme d'un partenaire"
+        ],
+        "criteres_reussite": [
+          "La transition entre les déplacements est fluide",
+          "L'élève maintient sa vitesse dans les changements"
+        ]
+      },
+      "niveau3": {
+        "titre": "Avancé",
+        "description": "L'élève démontre une maîtrise complète et peut enseigner aux autres. Pour « Esquive en ligne (traversée dangereuse) », voici les attentes à ce niveau.",
+        "consignes": [
+          "Réagir rapidement aux changements d'environnement",
+          "Combiner plusieurs types de déplacement en enchaînement",
+          "Créer des feintes et des changements de rythme"
+        ],
+        "criteres_reussite": [
+          "L'élève adapte ses déplacements à la situation de jeu",
+          "L'élève se déplace avec agilité et efficacité"
+        ]
+      }
+    }
   },
   {
     "titre": "Réaction et esquive au signal",
@@ -332,8 +1653,56 @@
     "variantes": "Pas d'appel de nom (surprise), 2 ballons en jeu, l'élève qui esquive devient lanceur.",
     "adaptation": "Lancer lent et prévisible, distance plus grande, toujours appeler le nom 2 secondes avant.",
     "duree": 10,
-    "materiel": ["Ballon de mousse"],
-    "tags": ["signal", "nom", "réaction", "décision"]
+    "materiel": [
+      "Ballon de mousse"
+    ],
+    "tags": [
+      "signal",
+      "nom",
+      "réaction",
+      "décision"
+    ],
+    "progression": {
+      "niveau1": {
+        "titre": "Débutant",
+        "description": "À ce stade, l'objectif est d'apprivoiser l'exercice sans pression de performance. Pour « Réaction et esquive au signal », voici les attentes à ce niveau.",
+        "consignes": [
+          "Garder le contrôle de son corps en mouvement",
+          "Pratiquer un seul type de déplacement à la fois",
+          "Suivre des lignes au sol ou des repères visuels"
+        ],
+        "criteres_reussite": [
+          "L'élève freine et s'arrête sur commande",
+          "L'élève se déplace de façon contrôlée"
+        ]
+      },
+      "niveau2": {
+        "titre": "Intermédiaire",
+        "description": "L'intermédiaire travaille la régularité et commence à combiner les habiletés. Pour « Réaction et esquive au signal », voici les attentes à ce niveau.",
+        "consignes": [
+          "Alterner entre deux types de déplacement",
+          "Combiner déplacement et manipulation d'objet",
+          "S'adapter au rythme d'un partenaire"
+        ],
+        "criteres_reussite": [
+          "L'élève maintient sa vitesse dans les changements",
+          "La transition entre les déplacements est fluide"
+        ]
+      },
+      "niveau3": {
+        "titre": "Avancé",
+        "description": "À ce stade avancé, l'élève crée, innove et aide ses pairs. Pour « Réaction et esquive au signal », voici les attentes à ce niveau.",
+        "consignes": [
+          "Se déplacer en situation de jeu avec adversaire",
+          "Réagir rapidement aux changements d'environnement",
+          "Combiner plusieurs types de déplacement en enchaînement"
+        ],
+        "criteres_reussite": [
+          "Les enchaînements sont fluides et rapides",
+          "L'élève adapte ses déplacements à la situation de jeu"
+        ]
+      }
+    }
   },
   {
     "titre": "Esquive en danse (freestyle d'esquive)",
@@ -344,8 +1713,57 @@
     "variantes": "Chorégraphie en duo, esquive avec mouvements de danse intégrés, présentation devant le groupe.",
     "adaptation": "Mouvements guidés par l'enseignant, pas de chorégraphie (juste imiter), musique lente.",
     "duree": 15,
-    "materiel": ["Haut-parleur et musique", "Espace dégagé"],
-    "tags": ["danse", "freestyle", "chorégraphie", "créativité"]
+    "materiel": [
+      "Haut-parleur et musique",
+      "Espace dégagé"
+    ],
+    "tags": [
+      "danse",
+      "freestyle",
+      "chorégraphie",
+      "créativité"
+    ],
+    "progression": {
+      "niveau1": {
+        "titre": "Débutant",
+        "description": "Le débutant explore les bases de l'activité avec un accompagnement soutenu. Pour « Esquive en danse (freestyle d'esquive) », voici les attentes à ce niveau.",
+        "consignes": [
+          "Respecter les limites de son espace",
+          "Pratiquer un seul type de déplacement à la fois",
+          "Se déplacer à vitesse lente dans un espace délimité"
+        ],
+        "criteres_reussite": [
+          "L'élève freine et s'arrête sur commande",
+          "L'élève se déplace de façon contrôlée"
+        ]
+      },
+      "niveau2": {
+        "titre": "Intermédiaire",
+        "description": "À ce niveau, on ajoute de la complexité tout en consolidant les acquis. Pour « Esquive en danse (freestyle d'esquive) », voici les attentes à ce niveau.",
+        "consignes": [
+          "Se déplacer en changeant de direction sur signal",
+          "Alterner entre deux types de déplacement",
+          "Augmenter la vitesse tout en gardant le contrôle"
+        ],
+        "criteres_reussite": [
+          "L'élève maintient sa vitesse dans les changements",
+          "La transition entre les déplacements est fluide"
+        ]
+      },
+      "niveau3": {
+        "titre": "Avancé",
+        "description": "L'expert peut exécuter l'activité dans des contextes variés et exigeants. Pour « Esquive en danse (freestyle d'esquive) », voici les attentes à ce niveau.",
+        "consignes": [
+          "Optimiser ses trajectoires pour l'efficacité",
+          "Réagir rapidement aux changements d'environnement",
+          "Créer des feintes et des changements de rythme"
+        ],
+        "criteres_reussite": [
+          "Les enchaînements sont fluides et rapides",
+          "L'élève se déplace avec agilité et efficacité"
+        ]
+      }
+    }
   },
   {
     "titre": "Tag inversé (le touché devient chasseur)",
@@ -356,8 +1774,57 @@
     "variantes": "2 dossards (2 chasseurs qui changent), tag inversé en duo, tag avec ballon (passer le ballon = transmettre le tag).",
     "adaptation": "Dossard très visible (couleur vive), annonce verbale du nouveau chasseur, terrain plus grand.",
     "duree": 10,
-    "materiel": ["1-2 dossards de couleur vive", "Cônes pour le terrain"],
-    "tags": ["tag inversé", "attention", "changement", "vision"]
+    "materiel": [
+      "1-2 dossards de couleur vive",
+      "Cônes pour le terrain"
+    ],
+    "tags": [
+      "tag inversé",
+      "attention",
+      "changement",
+      "vision"
+    ],
+    "progression": {
+      "niveau1": {
+        "titre": "Débutant",
+        "description": "À ce stade, l'objectif est d'apprivoiser l'exercice sans pression de performance. Pour « Tag inversé (le touché devient chasseur) », voici les attentes à ce niveau.",
+        "consignes": [
+          "Suivre des lignes au sol ou des repères visuels",
+          "Respecter les limites de son espace",
+          "Pratiquer un seul type de déplacement à la fois"
+        ],
+        "criteres_reussite": [
+          "L'élève se déplace de façon contrôlée",
+          "L'élève freine et s'arrête sur commande"
+        ]
+      },
+      "niveau2": {
+        "titre": "Intermédiaire",
+        "description": "L'élève maîtrise les bases et cherche à améliorer sa constance et sa fluidité. Pour « Tag inversé (le touché devient chasseur) », voici les attentes à ce niveau.",
+        "consignes": [
+          "Combiner déplacement et manipulation d'objet",
+          "S'adapter au rythme d'un partenaire",
+          "Augmenter la vitesse tout en gardant le contrôle"
+        ],
+        "criteres_reussite": [
+          "L'élève maintient sa vitesse dans les changements",
+          "L'élève change de direction sans perte d'équilibre"
+        ]
+      },
+      "niveau3": {
+        "titre": "Avancé",
+        "description": "L'expert peut exécuter l'activité dans des contextes variés et exigeants. Pour « Tag inversé (le touché devient chasseur) », voici les attentes à ce niveau.",
+        "consignes": [
+          "Créer des feintes et des changements de rythme",
+          "Optimiser ses trajectoires pour l'efficacité",
+          "Se déplacer en situation de jeu avec adversaire"
+        ],
+        "criteres_reussite": [
+          "Les enchaînements sont fluides et rapides",
+          "L'élève adapte ses déplacements à la situation de jeu"
+        ]
+      }
+    }
   },
   {
     "titre": "Esquive sur une jambe (flamant rose)",
@@ -368,8 +1835,57 @@
     "variantes": "Yeux fermés, zone plus petite, 10 lancers consécutifs.",
     "adaptation": "2 pieds au sol mais ne pas bouger, 3 lancers seulement, lancer lent.",
     "duree": 10,
-    "materiel": ["Ballons de mousse", "Cônes pour la zone"],
-    "tags": ["unipodal", "flamant", "équilibre", "proprioception"]
+    "materiel": [
+      "Ballons de mousse",
+      "Cônes pour la zone"
+    ],
+    "tags": [
+      "unipodal",
+      "flamant",
+      "équilibre",
+      "proprioception"
+    ],
+    "progression": {
+      "niveau1": {
+        "titre": "Débutant",
+        "description": "Le débutant explore les bases de l'activité avec un accompagnement soutenu. Pour « Esquive sur une jambe (flamant rose) », voici les attentes à ce niveau.",
+        "consignes": [
+          "Garder le contrôle de son corps en mouvement",
+          "Respecter les limites de son espace",
+          "Se déplacer à vitesse lente dans un espace délimité"
+        ],
+        "criteres_reussite": [
+          "L'élève freine et s'arrête sur commande",
+          "Le patron moteur de base est reconnaissable"
+        ]
+      },
+      "niveau2": {
+        "titre": "Intermédiaire",
+        "description": "L'élève maîtrise les bases et cherche à améliorer sa constance et sa fluidité. Pour « Esquive sur une jambe (flamant rose) », voici les attentes à ce niveau.",
+        "consignes": [
+          "Augmenter la vitesse tout en gardant le contrôle",
+          "Combiner déplacement et manipulation d'objet",
+          "Alterner entre deux types de déplacement"
+        ],
+        "criteres_reussite": [
+          "L'élève change de direction sans perte d'équilibre",
+          "La transition entre les déplacements est fluide"
+        ]
+      },
+      "niveau3": {
+        "titre": "Avancé",
+        "description": "L'élève démontre une maîtrise complète et peut enseigner aux autres. Pour « Esquive sur une jambe (flamant rose) », voici les attentes à ce niveau.",
+        "consignes": [
+          "Réagir rapidement aux changements d'environnement",
+          "Optimiser ses trajectoires pour l'efficacité",
+          "Créer des feintes et des changements de rythme"
+        ],
+        "criteres_reussite": [
+          "L'élève se déplace avec agilité et efficacité",
+          "L'élève adapte ses déplacements à la situation de jeu"
+        ]
+      }
+    }
   },
   {
     "titre": "Jeu du requin et des poissons",
@@ -380,8 +1896,58 @@
     "variantes": "Plus de requins, moins d'îles, poissons qui libèrent les algues en les touchant.",
     "adaptation": "Plus d'îles, temps d'immunité plus long, requins qui marchent.",
     "duree": 10,
-    "materiel": ["Dossards (requins)", "Cerceaux (îles)", "Cônes pour l'océan"],
-    "tags": ["requin", "poissons", "océan", "maternelle"]
+    "materiel": [
+      "Dossards (requins)",
+      "Cerceaux (îles)",
+      "Cônes pour l'océan"
+    ],
+    "tags": [
+      "requin",
+      "poissons",
+      "océan",
+      "maternelle"
+    ],
+    "progression": {
+      "niveau1": {
+        "titre": "Débutant",
+        "description": "À ce stade, l'objectif est d'apprivoiser l'exercice sans pression de performance. Pour « Jeu du requin et des poissons », voici les attentes à ce niveau.",
+        "consignes": [
+          "Garder le contrôle de son corps en mouvement",
+          "Pratiquer un seul type de déplacement à la fois",
+          "Se déplacer à vitesse lente dans un espace délimité"
+        ],
+        "criteres_reussite": [
+          "L'élève se déplace de façon contrôlée",
+          "L'élève freine et s'arrête sur commande"
+        ]
+      },
+      "niveau2": {
+        "titre": "Intermédiaire",
+        "description": "À ce niveau, on ajoute de la complexité tout en consolidant les acquis. Pour « Jeu du requin et des poissons », voici les attentes à ce niveau.",
+        "consignes": [
+          "Alterner entre deux types de déplacement",
+          "Se déplacer en changeant de direction sur signal",
+          "Combiner déplacement et manipulation d'objet"
+        ],
+        "criteres_reussite": [
+          "L'élève maintient sa vitesse dans les changements",
+          "L'élève change de direction sans perte d'équilibre"
+        ]
+      },
+      "niveau3": {
+        "titre": "Avancé",
+        "description": "L'élève perfectionne sa technique et s'adapte à des situations complexes. Pour « Jeu du requin et des poissons », voici les attentes à ce niveau.",
+        "consignes": [
+          "Optimiser ses trajectoires pour l'efficacité",
+          "Créer des feintes et des changements de rythme",
+          "Réagir rapidement aux changements d'environnement"
+        ],
+        "criteres_reussite": [
+          "L'élève se déplace avec agilité et efficacité",
+          "L'élève adapte ses déplacements à la situation de jeu"
+        ]
+      }
+    }
   },
   {
     "titre": "Défi esquive: 30 secondes de survie",
@@ -392,8 +1958,58 @@
     "variantes": "Tous les lanceurs en même temps, 45 secondes, esquiveur les yeux bandés (15 sec).",
     "adaptation": "20 secondes, 2 lanceurs seulement, carré plus grand.",
     "duree": 15,
-    "materiel": ["Ballons de mousse (8)", "Cônes pour le carré", "Chronomètre"],
-    "tags": ["survie", "30 secondes", "défi", "record"]
+    "materiel": [
+      "Ballons de mousse (8)",
+      "Cônes pour le carré",
+      "Chronomètre"
+    ],
+    "tags": [
+      "survie",
+      "30 secondes",
+      "défi",
+      "record"
+    ],
+    "progression": {
+      "niveau1": {
+        "titre": "Débutant",
+        "description": "Le débutant explore les bases de l'activité avec un accompagnement soutenu. Pour « Défi esquive: 30 secondes de survie », voici les attentes à ce niveau.",
+        "consignes": [
+          "Pratiquer un seul type de déplacement à la fois",
+          "Garder le contrôle de son corps en mouvement",
+          "Se déplacer à vitesse lente dans un espace délimité"
+        ],
+        "criteres_reussite": [
+          "L'élève se déplace de façon contrôlée",
+          "L'élève freine et s'arrête sur commande"
+        ]
+      },
+      "niveau2": {
+        "titre": "Intermédiaire",
+        "description": "À ce niveau, on ajoute de la complexité tout en consolidant les acquis. Pour « Défi esquive: 30 secondes de survie », voici les attentes à ce niveau.",
+        "consignes": [
+          "S'adapter au rythme d'un partenaire",
+          "Combiner déplacement et manipulation d'objet",
+          "Alterner entre deux types de déplacement"
+        ],
+        "criteres_reussite": [
+          "L'élève maintient sa vitesse dans les changements",
+          "La transition entre les déplacements est fluide"
+        ]
+      },
+      "niveau3": {
+        "titre": "Avancé",
+        "description": "L'expert peut exécuter l'activité dans des contextes variés et exigeants. Pour « Défi esquive: 30 secondes de survie », voici les attentes à ce niveau.",
+        "consignes": [
+          "Combiner plusieurs types de déplacement en enchaînement",
+          "Créer des feintes et des changements de rythme",
+          "Optimiser ses trajectoires pour l'efficacité"
+        ],
+        "criteres_reussite": [
+          "Les enchaînements sont fluides et rapides",
+          "L'élève adapte ses déplacements à la situation de jeu"
+        ]
+      }
+    }
   },
   {
     "titre": "Esquive en tunnel de lanceurs",
@@ -404,8 +2020,57 @@
     "variantes": "Tunnel plus étroit, lancers illimités, traversée en reculons, en duo.",
     "adaptation": "Tunnel plus large, moins de lanceurs, lancers doux.",
     "duree": 15,
-    "materiel": ["Ballons de mousse (1 par lanceur)", "Cônes pour le tunnel"],
-    "tags": ["tunnel", "lanceurs", "traversée", "intensif"]
+    "materiel": [
+      "Ballons de mousse (1 par lanceur)",
+      "Cônes pour le tunnel"
+    ],
+    "tags": [
+      "tunnel",
+      "lanceurs",
+      "traversée",
+      "intensif"
+    ],
+    "progression": {
+      "niveau1": {
+        "titre": "Débutant",
+        "description": "L'élève découvre l'activité et se familiarise avec les mouvements fondamentaux. Pour « Esquive en tunnel de lanceurs », voici les attentes à ce niveau.",
+        "consignes": [
+          "Respecter les limites de son espace",
+          "Suivre des lignes au sol ou des repères visuels",
+          "Pratiquer un seul type de déplacement à la fois"
+        ],
+        "criteres_reussite": [
+          "L'élève freine et s'arrête sur commande",
+          "Le patron moteur de base est reconnaissable"
+        ]
+      },
+      "niveau2": {
+        "titre": "Intermédiaire",
+        "description": "L'intermédiaire travaille la régularité et commence à combiner les habiletés. Pour « Esquive en tunnel de lanceurs », voici les attentes à ce niveau.",
+        "consignes": [
+          "Combiner déplacement et manipulation d'objet",
+          "S'adapter au rythme d'un partenaire",
+          "Augmenter la vitesse tout en gardant le contrôle"
+        ],
+        "criteres_reussite": [
+          "L'élève maintient sa vitesse dans les changements",
+          "La transition entre les déplacements est fluide"
+        ]
+      },
+      "niveau3": {
+        "titre": "Avancé",
+        "description": "L'élève démontre une maîtrise complète et peut enseigner aux autres. Pour « Esquive en tunnel de lanceurs », voici les attentes à ce niveau.",
+        "consignes": [
+          "Combiner plusieurs types de déplacement en enchaînement",
+          "Créer des feintes et des changements de rythme",
+          "Optimiser ses trajectoires pour l'efficacité"
+        ],
+        "criteres_reussite": [
+          "L'élève se déplace avec agilité et efficacité",
+          "L'élève adapte ses déplacements à la situation de jeu"
+        ]
+      }
+    }
   },
   {
     "titre": "Esquive en musique (freeze esquive)",
@@ -416,8 +2081,57 @@
     "variantes": "Plusieurs ballons, musique qui s'arrête souvent, esquive les yeux fermés.",
     "adaptation": "Pas de ballon (juste freeze), ballon roulé au sol, mouvement de pieds permis.",
     "duree": 10,
-    "materiel": ["Haut-parleur et musique", "Ballons de mousse"],
-    "tags": ["musique", "freeze", "tronc", "esquive"]
+    "materiel": [
+      "Haut-parleur et musique",
+      "Ballons de mousse"
+    ],
+    "tags": [
+      "musique",
+      "freeze",
+      "tronc",
+      "esquive"
+    ],
+    "progression": {
+      "niveau1": {
+        "titre": "Débutant",
+        "description": "Le débutant explore les bases de l'activité avec un accompagnement soutenu. Pour « Esquive en musique (freeze esquive) », voici les attentes à ce niveau.",
+        "consignes": [
+          "Respecter les limites de son espace",
+          "Suivre des lignes au sol ou des repères visuels",
+          "Se déplacer à vitesse lente dans un espace délimité"
+        ],
+        "criteres_reussite": [
+          "L'élève freine et s'arrête sur commande",
+          "Le patron moteur de base est reconnaissable"
+        ]
+      },
+      "niveau2": {
+        "titre": "Intermédiaire",
+        "description": "L'intermédiaire travaille la régularité et commence à combiner les habiletés. Pour « Esquive en musique (freeze esquive) », voici les attentes à ce niveau.",
+        "consignes": [
+          "Alterner entre deux types de déplacement",
+          "Augmenter la vitesse tout en gardant le contrôle",
+          "Combiner déplacement et manipulation d'objet"
+        ],
+        "criteres_reussite": [
+          "La transition entre les déplacements est fluide",
+          "L'élève maintient sa vitesse dans les changements"
+        ]
+      },
+      "niveau3": {
+        "titre": "Avancé",
+        "description": "À ce stade avancé, l'élève crée, innove et aide ses pairs. Pour « Esquive en musique (freeze esquive) », voici les attentes à ce niveau.",
+        "consignes": [
+          "Créer des feintes et des changements de rythme",
+          "Se déplacer en situation de jeu avec adversaire",
+          "Combiner plusieurs types de déplacement en enchaînement"
+        ],
+        "criteres_reussite": [
+          "Les enchaînements sont fluides et rapides",
+          "L'élève se déplace avec agilité et efficacité"
+        ]
+      }
+    }
   },
   {
     "titre": "Carré défensif en basket (esquive-feinte)",
@@ -428,8 +2142,56 @@
     "variantes": "Attaquant avec ballon, 2 défenseurs contre 1, carré plus petit.",
     "adaptation": "Attaquant sans feinte (juste déplacement), carré plus grand, vitesse réduite.",
     "duree": 15,
-    "materiel": ["Cônes pour le carré"],
-    "tags": ["défensif", "basketball", "feinte", "pas chassés"]
+    "materiel": [
+      "Cônes pour le carré"
+    ],
+    "tags": [
+      "défensif",
+      "basketball",
+      "feinte",
+      "pas chassés"
+    ],
+    "progression": {
+      "niveau1": {
+        "titre": "Débutant",
+        "description": "L'élève découvre l'activité et se familiarise avec les mouvements fondamentaux. Pour « Carré défensif en basket (esquive-feinte) », voici les attentes à ce niveau.",
+        "consignes": [
+          "Garder le contrôle de son corps en mouvement",
+          "Se déplacer à vitesse lente dans un espace délimité",
+          "Suivre des lignes au sol ou des repères visuels"
+        ],
+        "criteres_reussite": [
+          "L'élève freine et s'arrête sur commande",
+          "Le patron moteur de base est reconnaissable"
+        ]
+      },
+      "niveau2": {
+        "titre": "Intermédiaire",
+        "description": "À ce niveau, on ajoute de la complexité tout en consolidant les acquis. Pour « Carré défensif en basket (esquive-feinte) », voici les attentes à ce niveau.",
+        "consignes": [
+          "S'adapter au rythme d'un partenaire",
+          "Alterner entre deux types de déplacement",
+          "Combiner déplacement et manipulation d'objet"
+        ],
+        "criteres_reussite": [
+          "L'élève maintient sa vitesse dans les changements",
+          "L'élève change de direction sans perte d'équilibre"
+        ]
+      },
+      "niveau3": {
+        "titre": "Avancé",
+        "description": "L'expert peut exécuter l'activité dans des contextes variés et exigeants. Pour « Carré défensif en basket (esquive-feinte) », voici les attentes à ce niveau.",
+        "consignes": [
+          "Créer des feintes et des changements de rythme",
+          "Se déplacer en situation de jeu avec adversaire",
+          "Combiner plusieurs types de déplacement en enchaînement"
+        ],
+        "criteres_reussite": [
+          "L'élève adapte ses déplacements à la situation de jeu",
+          "Les enchaînements sont fluides et rapides"
+        ]
+      }
+    }
   },
   {
     "titre": "Jeu du lutin et du dragon",
@@ -440,8 +2202,58 @@
     "variantes": "Dragon qui voit, 2 trésors, lutins en duo.",
     "adaptation": "Dragon immobile, zone d'approche large, lutins peuvent marcher seulement.",
     "duree": 10,
-    "materiel": ["Cône doré (trésor)", "Bandeau pour le dragon", "Cônes pour les limites"],
-    "tags": ["dragon", "lutin", "trésor", "approche"]
+    "materiel": [
+      "Cône doré (trésor)",
+      "Bandeau pour le dragon",
+      "Cônes pour les limites"
+    ],
+    "tags": [
+      "dragon",
+      "lutin",
+      "trésor",
+      "approche"
+    ],
+    "progression": {
+      "niveau1": {
+        "titre": "Débutant",
+        "description": "À ce stade, l'objectif est d'apprivoiser l'exercice sans pression de performance. Pour « Jeu du lutin et du dragon », voici les attentes à ce niveau.",
+        "consignes": [
+          "Se déplacer à vitesse lente dans un espace délimité",
+          "Respecter les limites de son espace",
+          "Garder le contrôle de son corps en mouvement"
+        ],
+        "criteres_reussite": [
+          "L'élève freine et s'arrête sur commande",
+          "L'élève se déplace de façon contrôlée"
+        ]
+      },
+      "niveau2": {
+        "titre": "Intermédiaire",
+        "description": "L'intermédiaire travaille la régularité et commence à combiner les habiletés. Pour « Jeu du lutin et du dragon », voici les attentes à ce niveau.",
+        "consignes": [
+          "Alterner entre deux types de déplacement",
+          "Se déplacer en changeant de direction sur signal",
+          "S'adapter au rythme d'un partenaire"
+        ],
+        "criteres_reussite": [
+          "L'élève change de direction sans perte d'équilibre",
+          "L'élève maintient sa vitesse dans les changements"
+        ]
+      },
+      "niveau3": {
+        "titre": "Avancé",
+        "description": "À ce stade avancé, l'élève crée, innove et aide ses pairs. Pour « Jeu du lutin et du dragon », voici les attentes à ce niveau.",
+        "consignes": [
+          "Réagir rapidement aux changements d'environnement",
+          "Se déplacer en situation de jeu avec adversaire",
+          "Optimiser ses trajectoires pour l'efficacité"
+        ],
+        "criteres_reussite": [
+          "L'élève adapte ses déplacements à la situation de jeu",
+          "L'élève se déplace avec agilité et efficacité"
+        ]
+      }
+    }
   },
   {
     "titre": "Esquive réactive avec frites de piscine",
@@ -452,8 +2264,56 @@
     "variantes": "2 frites (haut et bas), frite qui vise le tronc, esquive en zone réduite.",
     "adaptation": "Frite lente, zone plus grande, juste esquiver 5 coups puis échange.",
     "duree": 10,
-    "materiel": ["Frites de piscine (1 par duo)"],
-    "tags": ["frites", "réactif", "jambes", "duo"]
+    "materiel": [
+      "Frites de piscine (1 par duo)"
+    ],
+    "tags": [
+      "frites",
+      "réactif",
+      "jambes",
+      "duo"
+    ],
+    "progression": {
+      "niveau1": {
+        "titre": "Débutant",
+        "description": "À ce stade, l'objectif est d'apprivoiser l'exercice sans pression de performance. Pour « Esquive réactive avec frites de piscine », voici les attentes à ce niveau.",
+        "consignes": [
+          "Pratiquer un seul type de déplacement à la fois",
+          "Se déplacer à vitesse lente dans un espace délimité",
+          "Respecter les limites de son espace"
+        ],
+        "criteres_reussite": [
+          "Le patron moteur de base est reconnaissable",
+          "L'élève freine et s'arrête sur commande"
+        ]
+      },
+      "niveau2": {
+        "titre": "Intermédiaire",
+        "description": "À ce niveau, on ajoute de la complexité tout en consolidant les acquis. Pour « Esquive réactive avec frites de piscine », voici les attentes à ce niveau.",
+        "consignes": [
+          "S'adapter au rythme d'un partenaire",
+          "Combiner déplacement et manipulation d'objet",
+          "Se déplacer en changeant de direction sur signal"
+        ],
+        "criteres_reussite": [
+          "La transition entre les déplacements est fluide",
+          "L'élève maintient sa vitesse dans les changements"
+        ]
+      },
+      "niveau3": {
+        "titre": "Avancé",
+        "description": "À ce stade avancé, l'élève crée, innove et aide ses pairs. Pour « Esquive réactive avec frites de piscine », voici les attentes à ce niveau.",
+        "consignes": [
+          "Combiner plusieurs types de déplacement en enchaînement",
+          "Créer des feintes et des changements de rythme",
+          "Optimiser ses trajectoires pour l'efficacité"
+        ],
+        "criteres_reussite": [
+          "L'élève se déplace avec agilité et efficacité",
+          "L'élève adapte ses déplacements à la situation de jeu"
+        ]
+      }
+    }
   },
   {
     "titre": "Esquive en groupe: le chasseur aveugle",
@@ -464,8 +2324,57 @@
     "variantes": "2 chasseurs aveugles, cercle plus petit, esquiveurs qui doivent faire du bruit.",
     "adaptation": "Cercle plus grand, chasseur avec un œil ouvert, moins d'esquiveurs.",
     "duree": 12,
-    "materiel": ["Bandeau pour les yeux", "Cônes pour le cercle"],
-    "tags": ["aveugle", "silence", "cercle", "spatial"]
+    "materiel": [
+      "Bandeau pour les yeux",
+      "Cônes pour le cercle"
+    ],
+    "tags": [
+      "aveugle",
+      "silence",
+      "cercle",
+      "spatial"
+    ],
+    "progression": {
+      "niveau1": {
+        "titre": "Débutant",
+        "description": "Le débutant explore les bases de l'activité avec un accompagnement soutenu. Pour « Esquive en groupe: le chasseur aveugle », voici les attentes à ce niveau.",
+        "consignes": [
+          "Pratiquer un seul type de déplacement à la fois",
+          "Suivre des lignes au sol ou des repères visuels",
+          "Se déplacer à vitesse lente dans un espace délimité"
+        ],
+        "criteres_reussite": [
+          "L'élève freine et s'arrête sur commande",
+          "L'élève se déplace de façon contrôlée"
+        ]
+      },
+      "niveau2": {
+        "titre": "Intermédiaire",
+        "description": "L'élève maîtrise les bases et cherche à améliorer sa constance et sa fluidité. Pour « Esquive en groupe: le chasseur aveugle », voici les attentes à ce niveau.",
+        "consignes": [
+          "Se déplacer en changeant de direction sur signal",
+          "Augmenter la vitesse tout en gardant le contrôle",
+          "S'adapter au rythme d'un partenaire"
+        ],
+        "criteres_reussite": [
+          "L'élève maintient sa vitesse dans les changements",
+          "La transition entre les déplacements est fluide"
+        ]
+      },
+      "niveau3": {
+        "titre": "Avancé",
+        "description": "L'élève démontre une maîtrise complète et peut enseigner aux autres. Pour « Esquive en groupe: le chasseur aveugle », voici les attentes à ce niveau.",
+        "consignes": [
+          "Créer des feintes et des changements de rythme",
+          "Réagir rapidement aux changements d'environnement",
+          "Se déplacer en situation de jeu avec adversaire"
+        ],
+        "criteres_reussite": [
+          "Les enchaînements sont fluides et rapides",
+          "L'élève se déplace avec agilité et efficacité"
+        ]
+      }
+    }
   },
   {
     "titre": "Tag araignée (au sol)",
@@ -476,8 +2385,57 @@
     "variantes": "Araignée ventre vers le bas (ours), araignée qui traîne un foulard, zone réduite.",
     "adaptation": "Se déplacer à genoux, zone grande, 1 seul chasseur.",
     "duree": 10,
-    "materiel": ["Dossards pour les chasseurs", "Espace dégagé"],
-    "tags": ["araignée", "sol", "crabe", "tag"]
+    "materiel": [
+      "Dossards pour les chasseurs",
+      "Espace dégagé"
+    ],
+    "tags": [
+      "araignée",
+      "sol",
+      "crabe",
+      "tag"
+    ],
+    "progression": {
+      "niveau1": {
+        "titre": "Débutant",
+        "description": "À ce stade, l'objectif est d'apprivoiser l'exercice sans pression de performance. Pour « Tag araignée (au sol) », voici les attentes à ce niveau.",
+        "consignes": [
+          "Garder le contrôle de son corps en mouvement",
+          "Se déplacer à vitesse lente dans un espace délimité",
+          "Suivre des lignes au sol ou des repères visuels"
+        ],
+        "criteres_reussite": [
+          "L'élève freine et s'arrête sur commande",
+          "Le patron moteur de base est reconnaissable"
+        ]
+      },
+      "niveau2": {
+        "titre": "Intermédiaire",
+        "description": "À ce niveau, on ajoute de la complexité tout en consolidant les acquis. Pour « Tag araignée (au sol) », voici les attentes à ce niveau.",
+        "consignes": [
+          "S'adapter au rythme d'un partenaire",
+          "Augmenter la vitesse tout en gardant le contrôle",
+          "Alterner entre deux types de déplacement"
+        ],
+        "criteres_reussite": [
+          "L'élève maintient sa vitesse dans les changements",
+          "La transition entre les déplacements est fluide"
+        ]
+      },
+      "niveau3": {
+        "titre": "Avancé",
+        "description": "L'élève démontre une maîtrise complète et peut enseigner aux autres. Pour « Tag araignée (au sol) », voici les attentes à ce niveau.",
+        "consignes": [
+          "Réagir rapidement aux changements d'environnement",
+          "Se déplacer en situation de jeu avec adversaire",
+          "Optimiser ses trajectoires pour l'efficacité"
+        ],
+        "criteres_reussite": [
+          "L'élève se déplace avec agilité et efficacité",
+          "Les enchaînements sont fluides et rapides"
+        ]
+      }
+    }
   },
   {
     "titre": "Boxe esquive (shadow boxing adapté)",
@@ -488,8 +2446,56 @@
     "variantes": "Avec gants de mousse (touche légère), en miroir, enchaînement de 3 esquives.",
     "adaptation": "Mouvements très lents, 1 type d'esquive à la fois, plus de distance entre les duo.",
     "duree": 15,
-    "materiel": ["Espace dégagé"],
-    "tags": ["boxe", "shadow", "slip", "duck"]
+    "materiel": [
+      "Espace dégagé"
+    ],
+    "tags": [
+      "boxe",
+      "shadow",
+      "slip",
+      "duck"
+    ],
+    "progression": {
+      "niveau1": {
+        "titre": "Débutant",
+        "description": "Le débutant explore les bases de l'activité avec un accompagnement soutenu. Pour « Boxe esquive (shadow boxing adapté) », voici les attentes à ce niveau.",
+        "consignes": [
+          "Garder le contrôle de son corps en mouvement",
+          "Se déplacer à vitesse lente dans un espace délimité",
+          "Pratiquer un seul type de déplacement à la fois"
+        ],
+        "criteres_reussite": [
+          "L'élève se déplace de façon contrôlée",
+          "L'élève freine et s'arrête sur commande"
+        ]
+      },
+      "niveau2": {
+        "titre": "Intermédiaire",
+        "description": "L'élève maîtrise les bases et cherche à améliorer sa constance et sa fluidité. Pour « Boxe esquive (shadow boxing adapté) », voici les attentes à ce niveau.",
+        "consignes": [
+          "Alterner entre deux types de déplacement",
+          "S'adapter au rythme d'un partenaire",
+          "Se déplacer en changeant de direction sur signal"
+        ],
+        "criteres_reussite": [
+          "L'élève maintient sa vitesse dans les changements",
+          "La transition entre les déplacements est fluide"
+        ]
+      },
+      "niveau3": {
+        "titre": "Avancé",
+        "description": "À ce stade avancé, l'élève crée, innove et aide ses pairs. Pour « Boxe esquive (shadow boxing adapté) », voici les attentes à ce niveau.",
+        "consignes": [
+          "Réagir rapidement aux changements d'environnement",
+          "Combiner plusieurs types de déplacement en enchaînement",
+          "Se déplacer en situation de jeu avec adversaire"
+        ],
+        "criteres_reussite": [
+          "Les enchaînements sont fluides et rapides",
+          "L'élève adapte ses déplacements à la situation de jeu"
+        ]
+      }
+    }
   },
   {
     "titre": "Jeu de l'orage (esquiver la foudre)",
@@ -500,8 +2506,58 @@
     "variantes": "Plus de foudre (balles), moins d'abris, orage avec tonnerre (tambourin).",
     "adaptation": "Balles roulées au sol, beaucoup d'abris, orage court (10 sec).",
     "duree": 10,
-    "materiel": ["Balles de mousse (8-10)", "Cerceaux (abris)", "Tambourin"],
-    "tags": ["orage", "foudre", "abri", "imaginaire"]
+    "materiel": [
+      "Balles de mousse (8-10)",
+      "Cerceaux (abris)",
+      "Tambourin"
+    ],
+    "tags": [
+      "orage",
+      "foudre",
+      "abri",
+      "imaginaire"
+    ],
+    "progression": {
+      "niveau1": {
+        "titre": "Débutant",
+        "description": "À ce stade, l'objectif est d'apprivoiser l'exercice sans pression de performance. Pour « Jeu de l'orage (esquiver la foudre) », voici les attentes à ce niveau.",
+        "consignes": [
+          "Suivre des lignes au sol ou des repères visuels",
+          "Pratiquer un seul type de déplacement à la fois",
+          "Se déplacer à vitesse lente dans un espace délimité"
+        ],
+        "criteres_reussite": [
+          "L'élève se déplace de façon contrôlée",
+          "Le patron moteur de base est reconnaissable"
+        ]
+      },
+      "niveau2": {
+        "titre": "Intermédiaire",
+        "description": "L'élève est capable d'exécuter l'activité de façon autonome avec quelques ajustements. Pour « Jeu de l'orage (esquiver la foudre) », voici les attentes à ce niveau.",
+        "consignes": [
+          "Combiner déplacement et manipulation d'objet",
+          "Alterner entre deux types de déplacement",
+          "S'adapter au rythme d'un partenaire"
+        ],
+        "criteres_reussite": [
+          "L'élève change de direction sans perte d'équilibre",
+          "La transition entre les déplacements est fluide"
+        ]
+      },
+      "niveau3": {
+        "titre": "Avancé",
+        "description": "L'expert peut exécuter l'activité dans des contextes variés et exigeants. Pour « Jeu de l'orage (esquiver la foudre) », voici les attentes à ce niveau.",
+        "consignes": [
+          "Combiner plusieurs types de déplacement en enchaînement",
+          "Réagir rapidement aux changements d'environnement",
+          "Optimiser ses trajectoires pour l'efficacité"
+        ],
+        "criteres_reussite": [
+          "L'élève adapte ses déplacements à la situation de jeu",
+          "Les enchaînements sont fluides et rapides"
+        ]
+      }
+    }
   },
   {
     "titre": "Esquive et contre-attaque",
@@ -512,8 +2568,57 @@
     "variantes": "2 ballons en simultané, esquive + lancer au panier (cible), trio en triangle.",
     "adaptation": "Lancers lents, 3 secondes entre chaque lancer, distance plus grande.",
     "duree": 12,
-    "materiel": ["Ballons de mousse (3-4 par duo)", "Cônes"],
-    "tags": ["contre-attaque", "transition", "réactivité", "duo"]
+    "materiel": [
+      "Ballons de mousse (3-4 par duo)",
+      "Cônes"
+    ],
+    "tags": [
+      "contre-attaque",
+      "transition",
+      "réactivité",
+      "duo"
+    ],
+    "progression": {
+      "niveau1": {
+        "titre": "Débutant",
+        "description": "L'accent est mis sur la compréhension des consignes et la sécurité. Pour « Esquive et contre-attaque », voici les attentes à ce niveau.",
+        "consignes": [
+          "Respecter les limites de son espace",
+          "Se déplacer à vitesse lente dans un espace délimité",
+          "Garder le contrôle de son corps en mouvement"
+        ],
+        "criteres_reussite": [
+          "L'élève se déplace de façon contrôlée",
+          "Le patron moteur de base est reconnaissable"
+        ]
+      },
+      "niveau2": {
+        "titre": "Intermédiaire",
+        "description": "L'élève est capable d'exécuter l'activité de façon autonome avec quelques ajustements. Pour « Esquive et contre-attaque », voici les attentes à ce niveau.",
+        "consignes": [
+          "Augmenter la vitesse tout en gardant le contrôle",
+          "Se déplacer en changeant de direction sur signal",
+          "Combiner déplacement et manipulation d'objet"
+        ],
+        "criteres_reussite": [
+          "L'élève maintient sa vitesse dans les changements",
+          "La transition entre les déplacements est fluide"
+        ]
+      },
+      "niveau3": {
+        "titre": "Avancé",
+        "description": "À ce stade avancé, l'élève crée, innove et aide ses pairs. Pour « Esquive et contre-attaque », voici les attentes à ce niveau.",
+        "consignes": [
+          "Créer des feintes et des changements de rythme",
+          "Se déplacer en situation de jeu avec adversaire",
+          "Optimiser ses trajectoires pour l'efficacité"
+        ],
+        "criteres_reussite": [
+          "L'élève se déplace avec agilité et efficacité",
+          "L'élève adapte ses déplacements à la situation de jeu"
+        ]
+      }
+    }
   },
   {
     "titre": "Relais esquive en tunnel",
@@ -524,8 +2629,57 @@
     "variantes": "Tunnel plus long, plus de lanceurs, traversée en reculons.",
     "adaptation": "Tunnel sans lanceurs (juste la course), 1 seul lanceur, distance réduite.",
     "duree": 15,
-    "materiel": ["Ballons de mousse", "Cônes pour le tunnel"],
-    "tags": ["relais", "tunnel", "esquive", "pression"]
+    "materiel": [
+      "Ballons de mousse",
+      "Cônes pour le tunnel"
+    ],
+    "tags": [
+      "relais",
+      "tunnel",
+      "esquive",
+      "pression"
+    ],
+    "progression": {
+      "niveau1": {
+        "titre": "Débutant",
+        "description": "L'élève découvre l'activité et se familiarise avec les mouvements fondamentaux. Pour « Relais esquive en tunnel », voici les attentes à ce niveau.",
+        "consignes": [
+          "Suivre des lignes au sol ou des repères visuels",
+          "Garder le contrôle de son corps en mouvement",
+          "Pratiquer un seul type de déplacement à la fois"
+        ],
+        "criteres_reussite": [
+          "L'élève freine et s'arrête sur commande",
+          "Le patron moteur de base est reconnaissable"
+        ]
+      },
+      "niveau2": {
+        "titre": "Intermédiaire",
+        "description": "L'élève est capable d'exécuter l'activité de façon autonome avec quelques ajustements. Pour « Relais esquive en tunnel », voici les attentes à ce niveau.",
+        "consignes": [
+          "Se déplacer en changeant de direction sur signal",
+          "Augmenter la vitesse tout en gardant le contrôle",
+          "S'adapter au rythme d'un partenaire"
+        ],
+        "criteres_reussite": [
+          "L'élève maintient sa vitesse dans les changements",
+          "La transition entre les déplacements est fluide"
+        ]
+      },
+      "niveau3": {
+        "titre": "Avancé",
+        "description": "L'expert peut exécuter l'activité dans des contextes variés et exigeants. Pour « Relais esquive en tunnel », voici les attentes à ce niveau.",
+        "consignes": [
+          "Se déplacer en situation de jeu avec adversaire",
+          "Optimiser ses trajectoires pour l'efficacité",
+          "Créer des feintes et des changements de rythme"
+        ],
+        "criteres_reussite": [
+          "Les enchaînements sont fluides et rapides",
+          "L'élève adapte ses déplacements à la situation de jeu"
+        ]
+      }
+    }
   },
   {
     "titre": "Esquive sur surface instable",
@@ -536,8 +2690,57 @@
     "variantes": "Sur un pied sur le coussin, BOSU côté plat en haut, yeux mi-clos.",
     "adaptation": "Sur le sol (pas de coussin), ballon roulé au sol, esquiver seulement 3 lancers.",
     "duree": 10,
-    "materiel": ["Coussins d'équilibre ou BOSU", "Ballons de mousse"],
-    "tags": ["instable", "équilibre", "BOSU", "gainage"]
+    "materiel": [
+      "Coussins d'équilibre ou BOSU",
+      "Ballons de mousse"
+    ],
+    "tags": [
+      "instable",
+      "équilibre",
+      "BOSU",
+      "gainage"
+    ],
+    "progression": {
+      "niveau1": {
+        "titre": "Débutant",
+        "description": "Le débutant explore les bases de l'activité avec un accompagnement soutenu. Pour « Esquive sur surface instable », voici les attentes à ce niveau.",
+        "consignes": [
+          "Garder le contrôle de son corps en mouvement",
+          "Suivre des lignes au sol ou des repères visuels",
+          "Respecter les limites de son espace"
+        ],
+        "criteres_reussite": [
+          "L'élève freine et s'arrête sur commande",
+          "L'élève se déplace de façon contrôlée"
+        ]
+      },
+      "niveau2": {
+        "titre": "Intermédiaire",
+        "description": "L'élève maîtrise les bases et cherche à améliorer sa constance et sa fluidité. Pour « Esquive sur surface instable », voici les attentes à ce niveau.",
+        "consignes": [
+          "Combiner déplacement et manipulation d'objet",
+          "Se déplacer en changeant de direction sur signal",
+          "Alterner entre deux types de déplacement"
+        ],
+        "criteres_reussite": [
+          "L'élève maintient sa vitesse dans les changements",
+          "L'élève change de direction sans perte d'équilibre"
+        ]
+      },
+      "niveau3": {
+        "titre": "Avancé",
+        "description": "L'élève perfectionne sa technique et s'adapte à des situations complexes. Pour « Esquive sur surface instable », voici les attentes à ce niveau.",
+        "consignes": [
+          "Se déplacer en situation de jeu avec adversaire",
+          "Combiner plusieurs types de déplacement en enchaînement",
+          "Optimiser ses trajectoires pour l'efficacité"
+        ],
+        "criteres_reussite": [
+          "L'élève adapte ses déplacements à la situation de jeu",
+          "L'élève se déplace avec agilité et efficacité"
+        ]
+      }
+    }
   },
   {
     "titre": "Tag coopératif (sauver ses amis)",
@@ -548,8 +2751,57 @@
     "variantes": "Libérer en faisant une roulade sous les bras, 3 chasseurs, les figés font des exercices.",
     "adaptation": "1 seul chasseur, terrain plus grand, figé pendant 5 sec seulement (auto-libération).",
     "duree": 12,
-    "materiel": ["Dossards (2)", "Cônes pour le terrain"],
-    "tags": ["coopératif", "sauver", "entraide", "tag"]
+    "materiel": [
+      "Dossards (2)",
+      "Cônes pour le terrain"
+    ],
+    "tags": [
+      "coopératif",
+      "sauver",
+      "entraide",
+      "tag"
+    ],
+    "progression": {
+      "niveau1": {
+        "titre": "Débutant",
+        "description": "L'accent est mis sur la compréhension des consignes et la sécurité. Pour « Tag coopératif (sauver ses amis) », voici les attentes à ce niveau.",
+        "consignes": [
+          "Pratiquer un seul type de déplacement à la fois",
+          "Garder le contrôle de son corps en mouvement",
+          "Se déplacer à vitesse lente dans un espace délimité"
+        ],
+        "criteres_reussite": [
+          "Le patron moteur de base est reconnaissable",
+          "L'élève se déplace de façon contrôlée"
+        ]
+      },
+      "niveau2": {
+        "titre": "Intermédiaire",
+        "description": "L'élève maîtrise les bases et cherche à améliorer sa constance et sa fluidité. Pour « Tag coopératif (sauver ses amis) », voici les attentes à ce niveau.",
+        "consignes": [
+          "Combiner déplacement et manipulation d'objet",
+          "Alterner entre deux types de déplacement",
+          "Augmenter la vitesse tout en gardant le contrôle"
+        ],
+        "criteres_reussite": [
+          "L'élève change de direction sans perte d'équilibre",
+          "L'élève maintient sa vitesse dans les changements"
+        ]
+      },
+      "niveau3": {
+        "titre": "Avancé",
+        "description": "L'élève démontre une maîtrise complète et peut enseigner aux autres. Pour « Tag coopératif (sauver ses amis) », voici les attentes à ce niveau.",
+        "consignes": [
+          "Optimiser ses trajectoires pour l'efficacité",
+          "Réagir rapidement aux changements d'environnement",
+          "Combiner plusieurs types de déplacement en enchaînement"
+        ],
+        "criteres_reussite": [
+          "L'élève adapte ses déplacements à la situation de jeu",
+          "L'élève se déplace avec agilité et efficacité"
+        ]
+      }
+    }
   },
   {
     "titre": "Esquive en ligne de mire (laser)",
@@ -560,8 +2812,56 @@
     "variantes": "2 lasers en même temps, laser avec feintes, zone réduite pour l'esquiveur.",
     "adaptation": "Mouvements de laser lents, zone plus grande, pauses entre les manches.",
     "duree": 10,
-    "materiel": ["Cônes (1 par duo)"],
-    "tags": ["laser", "ligne de mire", "anticipation", "micro-déplacement"]
+    "materiel": [
+      "Cônes (1 par duo)"
+    ],
+    "tags": [
+      "laser",
+      "ligne de mire",
+      "anticipation",
+      "micro-déplacement"
+    ],
+    "progression": {
+      "niveau1": {
+        "titre": "Débutant",
+        "description": "À ce stade, l'objectif est d'apprivoiser l'exercice sans pression de performance. Pour « Esquive en ligne de mire (laser) », voici les attentes à ce niveau.",
+        "consignes": [
+          "Suivre des lignes au sol ou des repères visuels",
+          "Respecter les limites de son espace",
+          "Se déplacer à vitesse lente dans un espace délimité"
+        ],
+        "criteres_reussite": [
+          "L'élève se déplace de façon contrôlée",
+          "Le patron moteur de base est reconnaissable"
+        ]
+      },
+      "niveau2": {
+        "titre": "Intermédiaire",
+        "description": "L'élève est capable d'exécuter l'activité de façon autonome avec quelques ajustements. Pour « Esquive en ligne de mire (laser) », voici les attentes à ce niveau.",
+        "consignes": [
+          "S'adapter au rythme d'un partenaire",
+          "Se déplacer en changeant de direction sur signal",
+          "Alterner entre deux types de déplacement"
+        ],
+        "criteres_reussite": [
+          "La transition entre les déplacements est fluide",
+          "L'élève maintient sa vitesse dans les changements"
+        ]
+      },
+      "niveau3": {
+        "titre": "Avancé",
+        "description": "L'élève perfectionne sa technique et s'adapte à des situations complexes. Pour « Esquive en ligne de mire (laser) », voici les attentes à ce niveau.",
+        "consignes": [
+          "Se déplacer en situation de jeu avec adversaire",
+          "Réagir rapidement aux changements d'environnement",
+          "Combiner plusieurs types de déplacement en enchaînement"
+        ],
+        "criteres_reussite": [
+          "Les enchaînements sont fluides et rapides",
+          "L'élève se déplace avec agilité et efficacité"
+        ]
+      }
+    }
   },
   {
     "titre": "Épervier (jeu traditionnel d'esquive)",
@@ -572,8 +2872,57 @@
     "variantes": "Éperviers qui se tiennent par la main, traversée en reculons, épervier avec ballon.",
     "adaptation": "Terrain plus large, 1 seul épervier fixe, zones d'immunité près des murs.",
     "duree": 12,
-    "materiel": ["Dossards pour les éperviers", "Cônes"],
-    "tags": ["épervier", "traditionnel", "traversée", "feinte"]
+    "materiel": [
+      "Dossards pour les éperviers",
+      "Cônes"
+    ],
+    "tags": [
+      "épervier",
+      "traditionnel",
+      "traversée",
+      "feinte"
+    ],
+    "progression": {
+      "niveau1": {
+        "titre": "Débutant",
+        "description": "À ce stade, l'objectif est d'apprivoiser l'exercice sans pression de performance. Pour « Épervier (jeu traditionnel d'esquive) », voici les attentes à ce niveau.",
+        "consignes": [
+          "Pratiquer un seul type de déplacement à la fois",
+          "Respecter les limites de son espace",
+          "Suivre des lignes au sol ou des repères visuels"
+        ],
+        "criteres_reussite": [
+          "Le patron moteur de base est reconnaissable",
+          "L'élève freine et s'arrête sur commande"
+        ]
+      },
+      "niveau2": {
+        "titre": "Intermédiaire",
+        "description": "L'élève est capable d'exécuter l'activité de façon autonome avec quelques ajustements. Pour « Épervier (jeu traditionnel d'esquive) », voici les attentes à ce niveau.",
+        "consignes": [
+          "Alterner entre deux types de déplacement",
+          "Combiner déplacement et manipulation d'objet",
+          "S'adapter au rythme d'un partenaire"
+        ],
+        "criteres_reussite": [
+          "La transition entre les déplacements est fluide",
+          "L'élève change de direction sans perte d'équilibre"
+        ]
+      },
+      "niveau3": {
+        "titre": "Avancé",
+        "description": "L'élève démontre une maîtrise complète et peut enseigner aux autres. Pour « Épervier (jeu traditionnel d'esquive) », voici les attentes à ce niveau.",
+        "consignes": [
+          "Créer des feintes et des changements de rythme",
+          "Optimiser ses trajectoires pour l'efficacité",
+          "Combiner plusieurs types de déplacement en enchaînement"
+        ],
+        "criteres_reussite": [
+          "Les enchaînements sont fluides et rapides",
+          "L'élève se déplace avec agilité et efficacité"
+        ]
+      }
+    }
   },
   {
     "titre": "Esquive en déplacement continu",
@@ -584,8 +2933,57 @@
     "variantes": "4 lanceurs, course à reculons sur certaines sections, sprint sur les zones de tir.",
     "adaptation": "Marche rapide, 2 lanceurs, 1 tour par série.",
     "duree": 12,
-    "materiel": ["Ballons de mousse (3-4)", "Espace de course"],
-    "tags": ["continu", "mouvement", "esquive", "endurance"]
+    "materiel": [
+      "Ballons de mousse (3-4)",
+      "Espace de course"
+    ],
+    "tags": [
+      "continu",
+      "mouvement",
+      "esquive",
+      "endurance"
+    ],
+    "progression": {
+      "niveau1": {
+        "titre": "Débutant",
+        "description": "Le débutant explore les bases de l'activité avec un accompagnement soutenu. Pour « Esquive en déplacement continu », voici les attentes à ce niveau.",
+        "consignes": [
+          "Pratiquer un seul type de déplacement à la fois",
+          "Respecter les limites de son espace",
+          "Suivre des lignes au sol ou des repères visuels"
+        ],
+        "criteres_reussite": [
+          "L'élève se déplace de façon contrôlée",
+          "L'élève freine et s'arrête sur commande"
+        ]
+      },
+      "niveau2": {
+        "titre": "Intermédiaire",
+        "description": "L'élève est capable d'exécuter l'activité de façon autonome avec quelques ajustements. Pour « Esquive en déplacement continu », voici les attentes à ce niveau.",
+        "consignes": [
+          "Augmenter la vitesse tout en gardant le contrôle",
+          "Combiner déplacement et manipulation d'objet",
+          "S'adapter au rythme d'un partenaire"
+        ],
+        "criteres_reussite": [
+          "L'élève change de direction sans perte d'équilibre",
+          "L'élève maintient sa vitesse dans les changements"
+        ]
+      },
+      "niveau3": {
+        "titre": "Avancé",
+        "description": "L'élève démontre une maîtrise complète et peut enseigner aux autres. Pour « Esquive en déplacement continu », voici les attentes à ce niveau.",
+        "consignes": [
+          "Optimiser ses trajectoires pour l'efficacité",
+          "Se déplacer en situation de jeu avec adversaire",
+          "Combiner plusieurs types de déplacement en enchaînement"
+        ],
+        "criteres_reussite": [
+          "L'élève adapte ses déplacements à la situation de jeu",
+          "L'élève se déplace avec agilité et efficacité"
+        ]
+      }
+    }
   },
   {
     "titre": "Jeu du loup-garou (esquive de nuit)",
@@ -596,7 +2994,57 @@
     "variantes": "Loup-garou qui grandit (touchés deviennent loups), 3 loups, villages (zones) de refuge.",
     "adaptation": "Lumières normales, plus de cachettes, 1 seul loup lent.",
     "duree": 12,
-    "materiel": ["Dossards", "Obstacles (tapis, bancs)", "Cônes"],
-    "tags": ["loup-garou", "furtivité", "cachette", "imaginaire"]
+    "materiel": [
+      "Dossards",
+      "Obstacles (tapis, bancs)",
+      "Cônes"
+    ],
+    "tags": [
+      "loup-garou",
+      "furtivité",
+      "cachette",
+      "imaginaire"
+    ],
+    "progression": {
+      "niveau1": {
+        "titre": "Débutant",
+        "description": "À ce stade, l'objectif est d'apprivoiser l'exercice sans pression de performance. Pour « Jeu du loup-garou (esquive de nuit) », voici les attentes à ce niveau.",
+        "consignes": [
+          "Se déplacer à vitesse lente dans un espace délimité",
+          "Garder le contrôle de son corps en mouvement",
+          "Respecter les limites de son espace"
+        ],
+        "criteres_reussite": [
+          "L'élève se déplace de façon contrôlée",
+          "Le patron moteur de base est reconnaissable"
+        ]
+      },
+      "niveau2": {
+        "titre": "Intermédiaire",
+        "description": "L'élève est capable d'exécuter l'activité de façon autonome avec quelques ajustements. Pour « Jeu du loup-garou (esquive de nuit) », voici les attentes à ce niveau.",
+        "consignes": [
+          "Combiner déplacement et manipulation d'objet",
+          "S'adapter au rythme d'un partenaire",
+          "Augmenter la vitesse tout en gardant le contrôle"
+        ],
+        "criteres_reussite": [
+          "La transition entre les déplacements est fluide",
+          "L'élève maintient sa vitesse dans les changements"
+        ]
+      },
+      "niveau3": {
+        "titre": "Avancé",
+        "description": "À ce stade avancé, l'élève crée, innove et aide ses pairs. Pour « Jeu du loup-garou (esquive de nuit) », voici les attentes à ce niveau.",
+        "consignes": [
+          "Se déplacer en situation de jeu avec adversaire",
+          "Réagir rapidement aux changements d'environnement",
+          "Combiner plusieurs types de déplacement en enchaînement"
+        ],
+        "criteres_reussite": [
+          "Les enchaînements sont fluides et rapides",
+          "L'élève adapte ses déplacements à la situation de jeu"
+        ]
+      }
+    }
   }
 ]

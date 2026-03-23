@@ -8,8 +8,56 @@
     "variantes": "Cloche-pied en reculant, en zigzag, avec obstacles, cloche-pied dans cerceaux.",
     "adaptation": "Tenir un mur ou une barre d'appui. Réduire la distance. Travailler d'abord en statique.",
     "duree": 10,
-    "materiel": ["Espace dégagé de 10 m"],
-    "tags": ["cloche-pied", "équilibre", "saut", "jambe"]
+    "materiel": [
+      "Espace dégagé de 10 m"
+    ],
+    "tags": [
+      "cloche-pied",
+      "équilibre",
+      "saut",
+      "jambe"
+    ],
+    "progression": {
+      "niveau1": {
+        "titre": "Débutant",
+        "description": "Le débutant explore les bases de l'activité avec un accompagnement soutenu. Pour « Saut cloche-pied enchaîné », voici les attentes à ce niveau.",
+        "consignes": [
+          "Suivre des lignes au sol ou des repères visuels",
+          "Garder le contrôle de son corps en mouvement",
+          "Se déplacer à vitesse lente dans un espace délimité"
+        ],
+        "criteres_reussite": [
+          "Le patron moteur de base est reconnaissable",
+          "L'élève se déplace de façon contrôlée"
+        ]
+      },
+      "niveau2": {
+        "titre": "Intermédiaire",
+        "description": "L'élève maîtrise les bases et cherche à améliorer sa constance et sa fluidité. Pour « Saut cloche-pied enchaîné », voici les attentes à ce niveau.",
+        "consignes": [
+          "S'adapter au rythme d'un partenaire",
+          "Augmenter la vitesse tout en gardant le contrôle",
+          "Combiner déplacement et manipulation d'objet"
+        ],
+        "criteres_reussite": [
+          "L'élève change de direction sans perte d'équilibre",
+          "L'élève maintient sa vitesse dans les changements"
+        ]
+      },
+      "niveau3": {
+        "titre": "Avancé",
+        "description": "L'élève démontre une maîtrise complète et peut enseigner aux autres. Pour « Saut cloche-pied enchaîné », voici les attentes à ce niveau.",
+        "consignes": [
+          "Créer des feintes et des changements de rythme",
+          "Réagir rapidement aux changements d'environnement",
+          "Se déplacer en situation de jeu avec adversaire"
+        ],
+        "criteres_reussite": [
+          "L'élève adapte ses déplacements à la situation de jeu",
+          "Les enchaînements sont fluides et rapides"
+        ]
+      }
+    }
   },
   {
     "titre": "Saut longueur debout",
@@ -20,8 +68,58 @@
     "variantes": "Saut depuis step, saut avec retournement en l'air, compétition progressive.",
     "adaptation": "Saut depuis une légère élévation pour faciliter. Mesurer les progrès personnels, pas entre élèves.",
     "duree": 15,
-    "materiel": ["Ligne de départ", "Ruban à mesurer", "Tapis d'atterrissage"],
-    "tags": ["longueur", "saut", "impulsion", "mesure"]
+    "materiel": [
+      "Ligne de départ",
+      "Ruban à mesurer",
+      "Tapis d'atterrissage"
+    ],
+    "tags": [
+      "longueur",
+      "saut",
+      "impulsion",
+      "mesure"
+    ],
+    "progression": {
+      "niveau1": {
+        "titre": "Débutant",
+        "description": "À ce stade, l'objectif est d'apprivoiser l'exercice sans pression de performance. Pour « Saut longueur debout », voici les attentes à ce niveau.",
+        "consignes": [
+          "Suivre des lignes au sol ou des repères visuels",
+          "Respecter les limites de son espace",
+          "Pratiquer un seul type de déplacement à la fois"
+        ],
+        "criteres_reussite": [
+          "Le patron moteur de base est reconnaissable",
+          "L'élève freine et s'arrête sur commande"
+        ]
+      },
+      "niveau2": {
+        "titre": "Intermédiaire",
+        "description": "L'élève est capable d'exécuter l'activité de façon autonome avec quelques ajustements. Pour « Saut longueur debout », voici les attentes à ce niveau.",
+        "consignes": [
+          "Se déplacer en changeant de direction sur signal",
+          "S'adapter au rythme d'un partenaire",
+          "Augmenter la vitesse tout en gardant le contrôle"
+        ],
+        "criteres_reussite": [
+          "L'élève change de direction sans perte d'équilibre",
+          "La transition entre les déplacements est fluide"
+        ]
+      },
+      "niveau3": {
+        "titre": "Avancé",
+        "description": "À ce stade avancé, l'élève crée, innove et aide ses pairs. Pour « Saut longueur debout », voici les attentes à ce niveau.",
+        "consignes": [
+          "Combiner plusieurs types de déplacement en enchaînement",
+          "Optimiser ses trajectoires pour l'efficacité",
+          "Réagir rapidement aux changements d'environnement"
+        ],
+        "criteres_reussite": [
+          "L'élève adapte ses déplacements à la situation de jeu",
+          "Les enchaînements sont fluides et rapides"
+        ]
+      }
+    }
   },
   {
     "titre": "Saut dans les cerceaux",
@@ -32,8 +130,56 @@
     "variantes": "Sauter dans l'ordre des couleurs, sauter en reculant, sauter avec ballon tenu.",
     "adaptation": "Cerceaux collés (distance minimale), aider l'élève par la main.",
     "duree": 10,
-    "materiel": ["8-10 cerceaux"],
-    "tags": ["cerceaux", "saut", "maternelle", "distance"]
+    "materiel": [
+      "8-10 cerceaux"
+    ],
+    "tags": [
+      "cerceaux",
+      "saut",
+      "maternelle",
+      "distance"
+    ],
+    "progression": {
+      "niveau1": {
+        "titre": "Débutant",
+        "description": "À ce stade, l'objectif est d'apprivoiser l'exercice sans pression de performance. Pour « Saut dans les cerceaux », voici les attentes à ce niveau.",
+        "consignes": [
+          "Suivre des lignes au sol ou des repères visuels",
+          "Se déplacer à vitesse lente dans un espace délimité",
+          "Garder le contrôle de son corps en mouvement"
+        ],
+        "criteres_reussite": [
+          "Le patron moteur de base est reconnaissable",
+          "L'élève se déplace de façon contrôlée"
+        ]
+      },
+      "niveau2": {
+        "titre": "Intermédiaire",
+        "description": "L'intermédiaire travaille la régularité et commence à combiner les habiletés. Pour « Saut dans les cerceaux », voici les attentes à ce niveau.",
+        "consignes": [
+          "Augmenter la vitesse tout en gardant le contrôle",
+          "Se déplacer en changeant de direction sur signal",
+          "Combiner déplacement et manipulation d'objet"
+        ],
+        "criteres_reussite": [
+          "L'élève maintient sa vitesse dans les changements",
+          "L'élève change de direction sans perte d'équilibre"
+        ]
+      },
+      "niveau3": {
+        "titre": "Avancé",
+        "description": "L'expert peut exécuter l'activité dans des contextes variés et exigeants. Pour « Saut dans les cerceaux », voici les attentes à ce niveau.",
+        "consignes": [
+          "Réagir rapidement aux changements d'environnement",
+          "Optimiser ses trajectoires pour l'efficacité",
+          "Combiner plusieurs types de déplacement en enchaînement"
+        ],
+        "criteres_reussite": [
+          "L'élève adapte ses déplacements à la situation de jeu",
+          "L'élève se déplace avec agilité et efficacité"
+        ]
+      }
+    }
   },
   {
     "titre": "Sauts rythmiques corde",
@@ -44,8 +190,56 @@
     "variantes": "Saut en musique, saut à la corde géante en groupe, créer une chorégraphie.",
     "adaptation": "Sauter sur place sans corde au rythme voulu. Corde tenue bas.",
     "duree": 15,
-    "materiel": ["1 corde à sauter par élève"],
-    "tags": ["corde", "rythme", "saut", "endurance"]
+    "materiel": [
+      "1 corde à sauter par élève"
+    ],
+    "tags": [
+      "corde",
+      "rythme",
+      "saut",
+      "endurance"
+    ],
+    "progression": {
+      "niveau1": {
+        "titre": "Débutant",
+        "description": "À ce stade, l'objectif est d'apprivoiser l'exercice sans pression de performance. Pour « Sauts rythmiques corde », voici les attentes à ce niveau.",
+        "consignes": [
+          "Suivre des lignes au sol ou des repères visuels",
+          "Se déplacer à vitesse lente dans un espace délimité",
+          "Respecter les limites de son espace"
+        ],
+        "criteres_reussite": [
+          "L'élève se déplace de façon contrôlée",
+          "L'élève freine et s'arrête sur commande"
+        ]
+      },
+      "niveau2": {
+        "titre": "Intermédiaire",
+        "description": "L'intermédiaire travaille la régularité et commence à combiner les habiletés. Pour « Sauts rythmiques corde », voici les attentes à ce niveau.",
+        "consignes": [
+          "Se déplacer en changeant de direction sur signal",
+          "Augmenter la vitesse tout en gardant le contrôle",
+          "Combiner déplacement et manipulation d'objet"
+        ],
+        "criteres_reussite": [
+          "L'élève maintient sa vitesse dans les changements",
+          "La transition entre les déplacements est fluide"
+        ]
+      },
+      "niveau3": {
+        "titre": "Avancé",
+        "description": "L'élève démontre une maîtrise complète et peut enseigner aux autres. Pour « Sauts rythmiques corde », voici les attentes à ce niveau.",
+        "consignes": [
+          "Optimiser ses trajectoires pour l'efficacité",
+          "Créer des feintes et des changements de rythme",
+          "Réagir rapidement aux changements d'environnement"
+        ],
+        "criteres_reussite": [
+          "L'élève se déplace avec agilité et efficacité",
+          "Les enchaînements sont fluides et rapides"
+        ]
+      }
+    }
   },
   {
     "titre": "Triple saut simplifié",
@@ -56,8 +250,58 @@
     "variantes": "Triple saut depuis élan, triple saut latéral, compétition personnelle sur série.",
     "adaptation": "Diviser en segments: d'abord saut-saut seulement. Tapis pour l'atterrissage.",
     "duree": 15,
-    "materiel": ["Ligne de départ", "Ruban à mesurer", "Zone d'atterrissage sécuritaire"],
-    "tags": ["triple saut", "impulsion", "coordination", "mesure"]
+    "materiel": [
+      "Ligne de départ",
+      "Ruban à mesurer",
+      "Zone d'atterrissage sécuritaire"
+    ],
+    "tags": [
+      "triple saut",
+      "impulsion",
+      "coordination",
+      "mesure"
+    ],
+    "progression": {
+      "niveau1": {
+        "titre": "Débutant",
+        "description": "L'élève découvre l'activité et se familiarise avec les mouvements fondamentaux. Pour « Triple saut simplifié », voici les attentes à ce niveau.",
+        "consignes": [
+          "Respecter les limites de son espace",
+          "Pratiquer un seul type de déplacement à la fois",
+          "Garder le contrôle de son corps en mouvement"
+        ],
+        "criteres_reussite": [
+          "L'élève se déplace de façon contrôlée",
+          "L'élève freine et s'arrête sur commande"
+        ]
+      },
+      "niveau2": {
+        "titre": "Intermédiaire",
+        "description": "L'intermédiaire travaille la régularité et commence à combiner les habiletés. Pour « Triple saut simplifié », voici les attentes à ce niveau.",
+        "consignes": [
+          "Alterner entre deux types de déplacement",
+          "S'adapter au rythme d'un partenaire",
+          "Se déplacer en changeant de direction sur signal"
+        ],
+        "criteres_reussite": [
+          "L'élève change de direction sans perte d'équilibre",
+          "L'élève maintient sa vitesse dans les changements"
+        ]
+      },
+      "niveau3": {
+        "titre": "Avancé",
+        "description": "L'élève perfectionne sa technique et s'adapte à des situations complexes. Pour « Triple saut simplifié », voici les attentes à ce niveau.",
+        "consignes": [
+          "Combiner plusieurs types de déplacement en enchaînement",
+          "Réagir rapidement aux changements d'environnement",
+          "Se déplacer en situation de jeu avec adversaire"
+        ],
+        "criteres_reussite": [
+          "Les enchaînements sont fluides et rapides",
+          "L'élève se déplace avec agilité et efficacité"
+        ]
+      }
+    }
   },
   {
     "titre": "Saut haie basse avec élan",
@@ -68,8 +312,57 @@
     "variantes": "Haies de hauteurs variables, haies avec espacement inégal, haies en duo synchronisé.",
     "adaptation": "Haies très basses (15 cm ou cônes), franchir en marchant lentement.",
     "duree": 15,
-    "materiel": ["3-5 haies basses", "Cônes de départ"],
-    "tags": ["haie", "saut", "rythme", "élan"]
+    "materiel": [
+      "3-5 haies basses",
+      "Cônes de départ"
+    ],
+    "tags": [
+      "haie",
+      "saut",
+      "rythme",
+      "élan"
+    ],
+    "progression": {
+      "niveau1": {
+        "titre": "Débutant",
+        "description": "L'accent est mis sur la compréhension des consignes et la sécurité. Pour « Saut haie basse avec élan », voici les attentes à ce niveau.",
+        "consignes": [
+          "Se déplacer à vitesse lente dans un espace délimité",
+          "Pratiquer un seul type de déplacement à la fois",
+          "Respecter les limites de son espace"
+        ],
+        "criteres_reussite": [
+          "L'élève freine et s'arrête sur commande",
+          "L'élève se déplace de façon contrôlée"
+        ]
+      },
+      "niveau2": {
+        "titre": "Intermédiaire",
+        "description": "L'intermédiaire travaille la régularité et commence à combiner les habiletés. Pour « Saut haie basse avec élan », voici les attentes à ce niveau.",
+        "consignes": [
+          "Se déplacer en changeant de direction sur signal",
+          "Alterner entre deux types de déplacement",
+          "Augmenter la vitesse tout en gardant le contrôle"
+        ],
+        "criteres_reussite": [
+          "La transition entre les déplacements est fluide",
+          "L'élève change de direction sans perte d'équilibre"
+        ]
+      },
+      "niveau3": {
+        "titre": "Avancé",
+        "description": "L'élève démontre une maîtrise complète et peut enseigner aux autres. Pour « Saut haie basse avec élan », voici les attentes à ce niveau.",
+        "consignes": [
+          "Combiner plusieurs types de déplacement en enchaînement",
+          "Créer des feintes et des changements de rythme",
+          "Se déplacer en situation de jeu avec adversaire"
+        ],
+        "criteres_reussite": [
+          "L'élève se déplace avec agilité et efficacité",
+          "Les enchaînements sont fluides et rapides"
+        ]
+      }
+    }
   },
   {
     "titre": "Course-saut-réception",
@@ -80,8 +373,58 @@
     "variantes": "Saut avec rotation, saut avec attrape d'objet en vol, saut depuis différentes hauteurs.",
     "adaptation": "Élan réduit, hauteur de saut moindre, tapis plus épais pour amortir.",
     "duree": 18,
-    "materiel": ["Planche d'impulsion", "Tapis d'atterrissage", "Mesure"],
-    "tags": ["saut", "élan", "réception", "équilibre"]
+    "materiel": [
+      "Planche d'impulsion",
+      "Tapis d'atterrissage",
+      "Mesure"
+    ],
+    "tags": [
+      "saut",
+      "élan",
+      "réception",
+      "équilibre"
+    ],
+    "progression": {
+      "niveau1": {
+        "titre": "Débutant",
+        "description": "L'accent est mis sur la compréhension des consignes et la sécurité. Pour « Course-saut-réception », voici les attentes à ce niveau.",
+        "consignes": [
+          "Suivre des lignes au sol ou des repères visuels",
+          "Se déplacer à vitesse lente dans un espace délimité",
+          "Pratiquer un seul type de déplacement à la fois"
+        ],
+        "criteres_reussite": [
+          "L'élève freine et s'arrête sur commande",
+          "L'élève se déplace de façon contrôlée"
+        ]
+      },
+      "niveau2": {
+        "titre": "Intermédiaire",
+        "description": "L'élève est capable d'exécuter l'activité de façon autonome avec quelques ajustements. Pour « Course-saut-réception », voici les attentes à ce niveau.",
+        "consignes": [
+          "Augmenter la vitesse tout en gardant le contrôle",
+          "Alterner entre deux types de déplacement",
+          "Combiner déplacement et manipulation d'objet"
+        ],
+        "criteres_reussite": [
+          "L'élève change de direction sans perte d'équilibre",
+          "L'élève maintient sa vitesse dans les changements"
+        ]
+      },
+      "niveau3": {
+        "titre": "Avancé",
+        "description": "L'élève perfectionne sa technique et s'adapte à des situations complexes. Pour « Course-saut-réception », voici les attentes à ce niveau.",
+        "consignes": [
+          "Créer des feintes et des changements de rythme",
+          "Réagir rapidement aux changements d'environnement",
+          "Se déplacer en situation de jeu avec adversaire"
+        ],
+        "criteres_reussite": [
+          "L'élève se déplace avec agilité et efficacité",
+          "Les enchaînements sont fluides et rapides"
+        ]
+      }
+    }
   },
   {
     "titre": "Saut de grenouille en parcours",
@@ -92,8 +435,57 @@
     "variantes": "Grenouille sur nénuphars (cerceaux), grenouille qui attrape des mouches (toucher des objets en hauteur), course de grenouilles.",
     "adaptation": "Sauts plus petits, aide par les mains au sol, cerceaux rapprochés.",
     "duree": 8,
-    "materiel": ["Cerceaux (nénuphars)", "Espace dégagé"],
-    "tags": ["grenouille", "accroupi", "maternelle", "impulsion"]
+    "materiel": [
+      "Cerceaux (nénuphars)",
+      "Espace dégagé"
+    ],
+    "tags": [
+      "grenouille",
+      "accroupi",
+      "maternelle",
+      "impulsion"
+    ],
+    "progression": {
+      "niveau1": {
+        "titre": "Débutant",
+        "description": "L'élève découvre l'activité et se familiarise avec les mouvements fondamentaux. Pour « Saut de grenouille en parcours », voici les attentes à ce niveau.",
+        "consignes": [
+          "Suivre des lignes au sol ou des repères visuels",
+          "Respecter les limites de son espace",
+          "Se déplacer à vitesse lente dans un espace délimité"
+        ],
+        "criteres_reussite": [
+          "Le patron moteur de base est reconnaissable",
+          "L'élève freine et s'arrête sur commande"
+        ]
+      },
+      "niveau2": {
+        "titre": "Intermédiaire",
+        "description": "À ce niveau, on ajoute de la complexité tout en consolidant les acquis. Pour « Saut de grenouille en parcours », voici les attentes à ce niveau.",
+        "consignes": [
+          "Alterner entre deux types de déplacement",
+          "Combiner déplacement et manipulation d'objet",
+          "Augmenter la vitesse tout en gardant le contrôle"
+        ],
+        "criteres_reussite": [
+          "La transition entre les déplacements est fluide",
+          "L'élève maintient sa vitesse dans les changements"
+        ]
+      },
+      "niveau3": {
+        "titre": "Avancé",
+        "description": "L'expert peut exécuter l'activité dans des contextes variés et exigeants. Pour « Saut de grenouille en parcours », voici les attentes à ce niveau.",
+        "consignes": [
+          "Combiner plusieurs types de déplacement en enchaînement",
+          "Créer des feintes et des changements de rythme",
+          "Réagir rapidement aux changements d'environnement"
+        ],
+        "criteres_reussite": [
+          "L'élève se déplace avec agilité et efficacité",
+          "Les enchaînements sont fluides et rapides"
+        ]
+      }
+    }
   },
   {
     "titre": "Saut en hauteur ciseaux",
@@ -104,8 +496,58 @@
     "variantes": "Ciseau sans barre (au-dessus d'un élastique), ciseau depuis l'autre côté, compétition progressive.",
     "adaptation": "Élastique au lieu de barre (plus sécuritaire), hauteur très basse, franchir en marchant.",
     "duree": 20,
-    "materiel": ["Barre de saut ou élastique", "Poteaux", "Tapis de réception épais"],
-    "tags": ["hauteur", "ciseaux", "technique", "barre"]
+    "materiel": [
+      "Barre de saut ou élastique",
+      "Poteaux",
+      "Tapis de réception épais"
+    ],
+    "tags": [
+      "hauteur",
+      "ciseaux",
+      "technique",
+      "barre"
+    ],
+    "progression": {
+      "niveau1": {
+        "titre": "Débutant",
+        "description": "À ce stade, l'objectif est d'apprivoiser l'exercice sans pression de performance. Pour « Saut en hauteur ciseaux », voici les attentes à ce niveau.",
+        "consignes": [
+          "Garder le contrôle de son corps en mouvement",
+          "Suivre des lignes au sol ou des repères visuels",
+          "Respecter les limites de son espace"
+        ],
+        "criteres_reussite": [
+          "L'élève se déplace de façon contrôlée",
+          "Le patron moteur de base est reconnaissable"
+        ]
+      },
+      "niveau2": {
+        "titre": "Intermédiaire",
+        "description": "L'élève est capable d'exécuter l'activité de façon autonome avec quelques ajustements. Pour « Saut en hauteur ciseaux », voici les attentes à ce niveau.",
+        "consignes": [
+          "Augmenter la vitesse tout en gardant le contrôle",
+          "Combiner déplacement et manipulation d'objet",
+          "Alterner entre deux types de déplacement"
+        ],
+        "criteres_reussite": [
+          "L'élève maintient sa vitesse dans les changements",
+          "L'élève change de direction sans perte d'équilibre"
+        ]
+      },
+      "niveau3": {
+        "titre": "Avancé",
+        "description": "L'expert peut exécuter l'activité dans des contextes variés et exigeants. Pour « Saut en hauteur ciseaux », voici les attentes à ce niveau.",
+        "consignes": [
+          "Créer des feintes et des changements de rythme",
+          "Optimiser ses trajectoires pour l'efficacité",
+          "Combiner plusieurs types de déplacement en enchaînement"
+        ],
+        "criteres_reussite": [
+          "L'élève adapte ses déplacements à la situation de jeu",
+          "L'élève se déplace avec agilité et efficacité"
+        ]
+      }
+    }
   },
   {
     "titre": "Saut en contrebas (profondeur)",
@@ -116,8 +558,57 @@
     "variantes": "Saut en contrebas + sprint immédiat, saut en contrebas + saut vertical enchaîné, depuis différentes hauteurs.",
     "adaptation": "Hauteur réduite (step bas 15 cm), réception sur tapis épais, aide d'un partenaire.",
     "duree": 10,
-    "materiel": ["Banc suédois ou step", "Tapis de réception"],
-    "tags": ["contrebas", "pliométrie", "amortissement", "réception"]
+    "materiel": [
+      "Banc suédois ou step",
+      "Tapis de réception"
+    ],
+    "tags": [
+      "contrebas",
+      "pliométrie",
+      "amortissement",
+      "réception"
+    ],
+    "progression": {
+      "niveau1": {
+        "titre": "Débutant",
+        "description": "L'accent est mis sur la compréhension des consignes et la sécurité. Pour « Saut en contrebas (profondeur) », voici les attentes à ce niveau.",
+        "consignes": [
+          "Pratiquer un seul type de déplacement à la fois",
+          "Se déplacer à vitesse lente dans un espace délimité",
+          "Respecter les limites de son espace"
+        ],
+        "criteres_reussite": [
+          "Le patron moteur de base est reconnaissable",
+          "L'élève freine et s'arrête sur commande"
+        ]
+      },
+      "niveau2": {
+        "titre": "Intermédiaire",
+        "description": "À ce niveau, on ajoute de la complexité tout en consolidant les acquis. Pour « Saut en contrebas (profondeur) », voici les attentes à ce niveau.",
+        "consignes": [
+          "S'adapter au rythme d'un partenaire",
+          "Augmenter la vitesse tout en gardant le contrôle",
+          "Combiner déplacement et manipulation d'objet"
+        ],
+        "criteres_reussite": [
+          "L'élève maintient sa vitesse dans les changements",
+          "La transition entre les déplacements est fluide"
+        ]
+      },
+      "niveau3": {
+        "titre": "Avancé",
+        "description": "L'expert peut exécuter l'activité dans des contextes variés et exigeants. Pour « Saut en contrebas (profondeur) », voici les attentes à ce niveau.",
+        "consignes": [
+          "Réagir rapidement aux changements d'environnement",
+          "Créer des feintes et des changements de rythme",
+          "Se déplacer en situation de jeu avec adversaire"
+        ],
+        "criteres_reussite": [
+          "L'élève se déplace avec agilité et efficacité",
+          "Les enchaînements sont fluides et rapides"
+        ]
+      }
+    }
   },
   {
     "titre": "Saut vertical avec touche murale",
@@ -128,8 +619,58 @@
     "variantes": "Saut avec élan d'un pas, saut après 3 pas, saut depuis un step, saut avec rotation.",
     "adaptation": "Saut sans mesure (toucher un objet suspendu), aide au décollage, surface souple.",
     "duree": 12,
-    "materiel": ["Craie", "Mur lisse", "Ruban à mesurer"],
-    "tags": ["vertical", "détente", "mesure", "mur"]
+    "materiel": [
+      "Craie",
+      "Mur lisse",
+      "Ruban à mesurer"
+    ],
+    "tags": [
+      "vertical",
+      "détente",
+      "mesure",
+      "mur"
+    ],
+    "progression": {
+      "niveau1": {
+        "titre": "Débutant",
+        "description": "L'accent est mis sur la compréhension des consignes et la sécurité. Pour « Saut vertical avec touche murale », voici les attentes à ce niveau.",
+        "consignes": [
+          "Garder le contrôle de son corps en mouvement",
+          "Pratiquer un seul type de déplacement à la fois",
+          "Suivre des lignes au sol ou des repères visuels"
+        ],
+        "criteres_reussite": [
+          "L'élève se déplace de façon contrôlée",
+          "Le patron moteur de base est reconnaissable"
+        ]
+      },
+      "niveau2": {
+        "titre": "Intermédiaire",
+        "description": "À ce niveau, on ajoute de la complexité tout en consolidant les acquis. Pour « Saut vertical avec touche murale », voici les attentes à ce niveau.",
+        "consignes": [
+          "Se déplacer en changeant de direction sur signal",
+          "Combiner déplacement et manipulation d'objet",
+          "Alterner entre deux types de déplacement"
+        ],
+        "criteres_reussite": [
+          "L'élève maintient sa vitesse dans les changements",
+          "La transition entre les déplacements est fluide"
+        ]
+      },
+      "niveau3": {
+        "titre": "Avancé",
+        "description": "À ce stade avancé, l'élève crée, innove et aide ses pairs. Pour « Saut vertical avec touche murale », voici les attentes à ce niveau.",
+        "consignes": [
+          "Réagir rapidement aux changements d'environnement",
+          "Créer des feintes et des changements de rythme",
+          "Optimiser ses trajectoires pour l'efficacité"
+        ],
+        "criteres_reussite": [
+          "Les enchaînements sont fluides et rapides",
+          "L'élève adapte ses déplacements à la situation de jeu"
+        ]
+      }
+    }
   },
   {
     "titre": "Saut à la corde collective (grande corde)",
@@ -140,8 +681,56 @@
     "variantes": "Entrer à 2 en même temps, sauter sur un pied, faire un demi-tour en sautant, ajouter des gestes.",
     "adaptation": "Corde oscillante (pas de tour complet), entrer avec aide, sauter à côté de la corde d'abord.",
     "duree": 15,
-    "materiel": ["Grande corde à sauter (5-6 m)"],
-    "tags": ["corde collective", "timing", "rythme", "groupe"]
+    "materiel": [
+      "Grande corde à sauter (5-6 m)"
+    ],
+    "tags": [
+      "corde collective",
+      "timing",
+      "rythme",
+      "groupe"
+    ],
+    "progression": {
+      "niveau1": {
+        "titre": "Débutant",
+        "description": "Le débutant explore les bases de l'activité avec un accompagnement soutenu. Pour « Saut à la corde collective (grande corde) », voici les attentes à ce niveau.",
+        "consignes": [
+          "Se déplacer à vitesse lente dans un espace délimité",
+          "Pratiquer un seul type de déplacement à la fois",
+          "Garder le contrôle de son corps en mouvement"
+        ],
+        "criteres_reussite": [
+          "L'élève freine et s'arrête sur commande",
+          "L'élève se déplace de façon contrôlée"
+        ]
+      },
+      "niveau2": {
+        "titre": "Intermédiaire",
+        "description": "L'élève est capable d'exécuter l'activité de façon autonome avec quelques ajustements. Pour « Saut à la corde collective (grande corde) », voici les attentes à ce niveau.",
+        "consignes": [
+          "S'adapter au rythme d'un partenaire",
+          "Augmenter la vitesse tout en gardant le contrôle",
+          "Se déplacer en changeant de direction sur signal"
+        ],
+        "criteres_reussite": [
+          "L'élève change de direction sans perte d'équilibre",
+          "L'élève maintient sa vitesse dans les changements"
+        ]
+      },
+      "niveau3": {
+        "titre": "Avancé",
+        "description": "L'élève perfectionne sa technique et s'adapte à des situations complexes. Pour « Saut à la corde collective (grande corde) », voici les attentes à ce niveau.",
+        "consignes": [
+          "Combiner plusieurs types de déplacement en enchaînement",
+          "Optimiser ses trajectoires pour l'efficacité",
+          "Créer des feintes et des changements de rythme"
+        ],
+        "criteres_reussite": [
+          "L'élève adapte ses déplacements à la situation de jeu",
+          "L'élève se déplace avec agilité et efficacité"
+        ]
+      }
+    }
   },
   {
     "titre": "Saut kangourou avec ballon",
@@ -152,8 +741,57 @@
     "variantes": "Ballon entre les chevilles, ballon tenu au-dessus de la tête en sautant, parcours avec virages.",
     "adaptation": "Ballon plus gros (plus facile à tenir), distance réduite, marche avec ballon d'abord.",
     "duree": 10,
-    "materiel": ["Ballons de mousse (1 par élève)", "Cônes"],
-    "tags": ["kangourou", "ballon", "coordination", "relais"]
+    "materiel": [
+      "Ballons de mousse (1 par élève)",
+      "Cônes"
+    ],
+    "tags": [
+      "kangourou",
+      "ballon",
+      "coordination",
+      "relais"
+    ],
+    "progression": {
+      "niveau1": {
+        "titre": "Débutant",
+        "description": "À ce stade, l'objectif est d'apprivoiser l'exercice sans pression de performance. Pour « Saut kangourou avec ballon », voici les attentes à ce niveau.",
+        "consignes": [
+          "Respecter les limites de son espace",
+          "Se déplacer à vitesse lente dans un espace délimité",
+          "Suivre des lignes au sol ou des repères visuels"
+        ],
+        "criteres_reussite": [
+          "L'élève freine et s'arrête sur commande",
+          "L'élève se déplace de façon contrôlée"
+        ]
+      },
+      "niveau2": {
+        "titre": "Intermédiaire",
+        "description": "L'élève est capable d'exécuter l'activité de façon autonome avec quelques ajustements. Pour « Saut kangourou avec ballon », voici les attentes à ce niveau.",
+        "consignes": [
+          "Se déplacer en changeant de direction sur signal",
+          "Combiner déplacement et manipulation d'objet",
+          "Alterner entre deux types de déplacement"
+        ],
+        "criteres_reussite": [
+          "La transition entre les déplacements est fluide",
+          "L'élève maintient sa vitesse dans les changements"
+        ]
+      },
+      "niveau3": {
+        "titre": "Avancé",
+        "description": "L'élève démontre une maîtrise complète et peut enseigner aux autres. Pour « Saut kangourou avec ballon », voici les attentes à ce niveau.",
+        "consignes": [
+          "Créer des feintes et des changements de rythme",
+          "Optimiser ses trajectoires pour l'efficacité",
+          "Combiner plusieurs types de déplacement en enchaînement"
+        ],
+        "criteres_reussite": [
+          "L'élève adapte ses déplacements à la situation de jeu",
+          "Les enchaînements sont fluides et rapides"
+        ]
+      }
+    }
   },
   {
     "titre": "Saut de l'élastique (jeu traditionnel)",
@@ -164,8 +802,56 @@
     "variantes": "Figures plus complexes, élastique en triangle (3 porteurs), compétition de figures.",
     "adaptation": "Élastique seulement aux chevilles, figures simples, aide visuelle des étapes.",
     "duree": 15,
-    "materiel": ["Élastiques de jeu (1 par groupe de 3)"],
-    "tags": ["élastique", "traditionnel", "figures", "précision"]
+    "materiel": [
+      "Élastiques de jeu (1 par groupe de 3)"
+    ],
+    "tags": [
+      "élastique",
+      "traditionnel",
+      "figures",
+      "précision"
+    ],
+    "progression": {
+      "niveau1": {
+        "titre": "Débutant",
+        "description": "À ce stade, l'objectif est d'apprivoiser l'exercice sans pression de performance. Pour « Saut de l'élastique (jeu traditionnel) », voici les attentes à ce niveau.",
+        "consignes": [
+          "Se déplacer à vitesse lente dans un espace délimité",
+          "Suivre des lignes au sol ou des repères visuels",
+          "Pratiquer un seul type de déplacement à la fois"
+        ],
+        "criteres_reussite": [
+          "L'élève freine et s'arrête sur commande",
+          "Le patron moteur de base est reconnaissable"
+        ]
+      },
+      "niveau2": {
+        "titre": "Intermédiaire",
+        "description": "À ce niveau, on ajoute de la complexité tout en consolidant les acquis. Pour « Saut de l'élastique (jeu traditionnel) », voici les attentes à ce niveau.",
+        "consignes": [
+          "Augmenter la vitesse tout en gardant le contrôle",
+          "Alterner entre deux types de déplacement",
+          "Se déplacer en changeant de direction sur signal"
+        ],
+        "criteres_reussite": [
+          "L'élève change de direction sans perte d'équilibre",
+          "La transition entre les déplacements est fluide"
+        ]
+      },
+      "niveau3": {
+        "titre": "Avancé",
+        "description": "À ce stade avancé, l'élève crée, innove et aide ses pairs. Pour « Saut de l'élastique (jeu traditionnel) », voici les attentes à ce niveau.",
+        "consignes": [
+          "Combiner plusieurs types de déplacement en enchaînement",
+          "Réagir rapidement aux changements d'environnement",
+          "Créer des feintes et des changements de rythme"
+        ],
+        "criteres_reussite": [
+          "Les enchaînements sont fluides et rapides",
+          "L'élève adapte ses déplacements à la situation de jeu"
+        ]
+      }
+    }
   },
   {
     "titre": "Sauts pieds joints par-dessus bâtons",
@@ -176,8 +862,57 @@
     "variantes": "Bâtons surélevés (sur cônes), sauter en reculant, sauter latéralement.",
     "adaptation": "Lignes au sol au lieu de bâtons, espacement réduit, sauter un bâton à la fois avec pause.",
     "duree": 10,
-    "materiel": ["5 bâtons ou lattes de mousse", "Cônes (optionnel)"],
-    "tags": ["bâtons", "pieds joints", "enchaînement", "précision"]
+    "materiel": [
+      "5 bâtons ou lattes de mousse",
+      "Cônes (optionnel)"
+    ],
+    "tags": [
+      "bâtons",
+      "pieds joints",
+      "enchaînement",
+      "précision"
+    ],
+    "progression": {
+      "niveau1": {
+        "titre": "Débutant",
+        "description": "L'élève découvre l'activité et se familiarise avec les mouvements fondamentaux. Pour « Sauts pieds joints par-dessus bâtons », voici les attentes à ce niveau.",
+        "consignes": [
+          "Respecter les limites de son espace",
+          "Se déplacer à vitesse lente dans un espace délimité",
+          "Garder le contrôle de son corps en mouvement"
+        ],
+        "criteres_reussite": [
+          "L'élève se déplace de façon contrôlée",
+          "L'élève freine et s'arrête sur commande"
+        ]
+      },
+      "niveau2": {
+        "titre": "Intermédiaire",
+        "description": "L'élève maîtrise les bases et cherche à améliorer sa constance et sa fluidité. Pour « Sauts pieds joints par-dessus bâtons », voici les attentes à ce niveau.",
+        "consignes": [
+          "Se déplacer en changeant de direction sur signal",
+          "Alterner entre deux types de déplacement",
+          "Combiner déplacement et manipulation d'objet"
+        ],
+        "criteres_reussite": [
+          "L'élève change de direction sans perte d'équilibre",
+          "L'élève maintient sa vitesse dans les changements"
+        ]
+      },
+      "niveau3": {
+        "titre": "Avancé",
+        "description": "L'élève démontre une maîtrise complète et peut enseigner aux autres. Pour « Sauts pieds joints par-dessus bâtons », voici les attentes à ce niveau.",
+        "consignes": [
+          "Réagir rapidement aux changements d'environnement",
+          "Optimiser ses trajectoires pour l'efficacité",
+          "Combiner plusieurs types de déplacement en enchaînement"
+        ],
+        "criteres_reussite": [
+          "Les enchaînements sont fluides et rapides",
+          "L'élève adapte ses déplacements à la situation de jeu"
+        ]
+      }
+    }
   },
   {
     "titre": "Saut Fosbury simplifié",
@@ -188,8 +923,58 @@
     "variantes": "Fosbury avec élan complet (8 pas), compétition progressive, analyse vidéo de la technique.",
     "adaptation": "Seulement la rotation sans saut, élastique au sol, matelas très épais pour la confiance.",
     "duree": 25,
-    "materiel": ["Matelas de réception épais (Fosbury)", "Élastique ou barre", "Poteaux"],
-    "tags": ["Fosbury", "hauteur", "technique", "dorsal"]
+    "materiel": [
+      "Matelas de réception épais (Fosbury)",
+      "Élastique ou barre",
+      "Poteaux"
+    ],
+    "tags": [
+      "Fosbury",
+      "hauteur",
+      "technique",
+      "dorsal"
+    ],
+    "progression": {
+      "niveau1": {
+        "titre": "Débutant",
+        "description": "À ce stade, l'objectif est d'apprivoiser l'exercice sans pression de performance. Pour « Saut Fosbury simplifié », voici les attentes à ce niveau.",
+        "consignes": [
+          "Se déplacer à vitesse lente dans un espace délimité",
+          "Pratiquer un seul type de déplacement à la fois",
+          "Suivre des lignes au sol ou des repères visuels"
+        ],
+        "criteres_reussite": [
+          "Le patron moteur de base est reconnaissable",
+          "L'élève freine et s'arrête sur commande"
+        ]
+      },
+      "niveau2": {
+        "titre": "Intermédiaire",
+        "description": "L'élève maîtrise les bases et cherche à améliorer sa constance et sa fluidité. Pour « Saut Fosbury simplifié », voici les attentes à ce niveau.",
+        "consignes": [
+          "Se déplacer en changeant de direction sur signal",
+          "Combiner déplacement et manipulation d'objet",
+          "S'adapter au rythme d'un partenaire"
+        ],
+        "criteres_reussite": [
+          "L'élève maintient sa vitesse dans les changements",
+          "La transition entre les déplacements est fluide"
+        ]
+      },
+      "niveau3": {
+        "titre": "Avancé",
+        "description": "L'élève perfectionne sa technique et s'adapte à des situations complexes. Pour « Saut Fosbury simplifié », voici les attentes à ce niveau.",
+        "consignes": [
+          "Optimiser ses trajectoires pour l'efficacité",
+          "Combiner plusieurs types de déplacement en enchaînement",
+          "Se déplacer en situation de jeu avec adversaire"
+        ],
+        "criteres_reussite": [
+          "Les enchaînements sont fluides et rapides",
+          "L'élève adapte ses déplacements à la situation de jeu"
+        ]
+      }
+    }
   },
   {
     "titre": "Saut en étoile sur place",
@@ -200,8 +985,56 @@
     "variantes": "Étoile avec demi-tour, étoile avec toucher les pieds en l'air, étoile alternée avec saut groupé.",
     "adaptation": "Écarter seulement les bras (pas les jambes), sauts plus petits, tenir la main d'un ami.",
     "duree": 5,
-    "materiel": ["Espace dégagé"],
-    "tags": ["étoile", "coordination", "maternelle", "sur place"]
+    "materiel": [
+      "Espace dégagé"
+    ],
+    "tags": [
+      "étoile",
+      "coordination",
+      "maternelle",
+      "sur place"
+    ],
+    "progression": {
+      "niveau1": {
+        "titre": "Débutant",
+        "description": "L'accent est mis sur la compréhension des consignes et la sécurité. Pour « Saut en étoile sur place », voici les attentes à ce niveau.",
+        "consignes": [
+          "Pratiquer un seul type de déplacement à la fois",
+          "Garder le contrôle de son corps en mouvement",
+          "Suivre des lignes au sol ou des repères visuels"
+        ],
+        "criteres_reussite": [
+          "L'élève freine et s'arrête sur commande",
+          "L'élève se déplace de façon contrôlée"
+        ]
+      },
+      "niveau2": {
+        "titre": "Intermédiaire",
+        "description": "L'élève est capable d'exécuter l'activité de façon autonome avec quelques ajustements. Pour « Saut en étoile sur place », voici les attentes à ce niveau.",
+        "consignes": [
+          "S'adapter au rythme d'un partenaire",
+          "Se déplacer en changeant de direction sur signal",
+          "Combiner déplacement et manipulation d'objet"
+        ],
+        "criteres_reussite": [
+          "La transition entre les déplacements est fluide",
+          "L'élève change de direction sans perte d'équilibre"
+        ]
+      },
+      "niveau3": {
+        "titre": "Avancé",
+        "description": "L'élève perfectionne sa technique et s'adapte à des situations complexes. Pour « Saut en étoile sur place », voici les attentes à ce niveau.",
+        "consignes": [
+          "Combiner plusieurs types de déplacement en enchaînement",
+          "Optimiser ses trajectoires pour l'efficacité",
+          "Créer des feintes et des changements de rythme"
+        ],
+        "criteres_reussite": [
+          "Les enchaînements sont fluides et rapides",
+          "L'élève adapte ses déplacements à la situation de jeu"
+        ]
+      }
+    }
   },
   {
     "titre": "Parcours de sauts multidirectionnels",
@@ -212,8 +1045,57 @@
     "variantes": "Sauts en diagonale ajoutés, séquences mémorisées (avant-droite-arrière-gauche), yeux fermés.",
     "adaptation": "Seulement 2 directions, sauts plus petits, tempo lent.",
     "duree": 12,
-    "materiel": ["Cônes en croix", "Ruban adhésif au sol"],
-    "tags": ["multidirectionnel", "croix", "puissance", "réactivité"]
+    "materiel": [
+      "Cônes en croix",
+      "Ruban adhésif au sol"
+    ],
+    "tags": [
+      "multidirectionnel",
+      "croix",
+      "puissance",
+      "réactivité"
+    ],
+    "progression": {
+      "niveau1": {
+        "titre": "Débutant",
+        "description": "L'accent est mis sur la compréhension des consignes et la sécurité. Pour « Parcours de sauts multidirectionnels », voici les attentes à ce niveau.",
+        "consignes": [
+          "Se déplacer à vitesse lente dans un espace délimité",
+          "Suivre des lignes au sol ou des repères visuels",
+          "Pratiquer un seul type de déplacement à la fois"
+        ],
+        "criteres_reussite": [
+          "L'élève freine et s'arrête sur commande",
+          "L'élève se déplace de façon contrôlée"
+        ]
+      },
+      "niveau2": {
+        "titre": "Intermédiaire",
+        "description": "L'élève maîtrise les bases et cherche à améliorer sa constance et sa fluidité. Pour « Parcours de sauts multidirectionnels », voici les attentes à ce niveau.",
+        "consignes": [
+          "Combiner déplacement et manipulation d'objet",
+          "Se déplacer en changeant de direction sur signal",
+          "Alterner entre deux types de déplacement"
+        ],
+        "criteres_reussite": [
+          "L'élève maintient sa vitesse dans les changements",
+          "La transition entre les déplacements est fluide"
+        ]
+      },
+      "niveau3": {
+        "titre": "Avancé",
+        "description": "À ce stade avancé, l'élève crée, innove et aide ses pairs. Pour « Parcours de sauts multidirectionnels », voici les attentes à ce niveau.",
+        "consignes": [
+          "Réagir rapidement aux changements d'environnement",
+          "Créer des feintes et des changements de rythme",
+          "Optimiser ses trajectoires pour l'efficacité"
+        ],
+        "criteres_reussite": [
+          "L'élève adapte ses déplacements à la situation de jeu",
+          "Les enchaînements sont fluides et rapides"
+        ]
+      }
+    }
   },
   {
     "titre": "Saut en longueur avec élan progressif",
@@ -224,8 +1106,59 @@
     "variantes": "Saut depuis élan illimité, saut avec marques au sol pour la foulée, compétition personnelle.",
     "adaptation": "Élan de 3 pas maximum, saut dans le sable si disponible, pas de planche d'appel.",
     "duree": 20,
-    "materiel": ["Zone de saut", "Ruban à mesurer", "Tapis ou sable", "Planche d'appel (optionnel)"],
-    "tags": ["longueur", "élan", "impulsion", "technique"]
+    "materiel": [
+      "Zone de saut",
+      "Ruban à mesurer",
+      "Tapis ou sable",
+      "Planche d'appel (optionnel)"
+    ],
+    "tags": [
+      "longueur",
+      "élan",
+      "impulsion",
+      "technique"
+    ],
+    "progression": {
+      "niveau1": {
+        "titre": "Débutant",
+        "description": "L'élève découvre l'activité et se familiarise avec les mouvements fondamentaux. Pour « Saut en longueur avec élan progressif », voici les attentes à ce niveau.",
+        "consignes": [
+          "Respecter les limites de son espace",
+          "Garder le contrôle de son corps en mouvement",
+          "Se déplacer à vitesse lente dans un espace délimité"
+        ],
+        "criteres_reussite": [
+          "L'élève se déplace de façon contrôlée",
+          "L'élève freine et s'arrête sur commande"
+        ]
+      },
+      "niveau2": {
+        "titre": "Intermédiaire",
+        "description": "L'élève est capable d'exécuter l'activité de façon autonome avec quelques ajustements. Pour « Saut en longueur avec élan progressif », voici les attentes à ce niveau.",
+        "consignes": [
+          "S'adapter au rythme d'un partenaire",
+          "Combiner déplacement et manipulation d'objet",
+          "Alterner entre deux types de déplacement"
+        ],
+        "criteres_reussite": [
+          "L'élève maintient sa vitesse dans les changements",
+          "L'élève change de direction sans perte d'équilibre"
+        ]
+      },
+      "niveau3": {
+        "titre": "Avancé",
+        "description": "L'expert peut exécuter l'activité dans des contextes variés et exigeants. Pour « Saut en longueur avec élan progressif », voici les attentes à ce niveau.",
+        "consignes": [
+          "Réagir rapidement aux changements d'environnement",
+          "Optimiser ses trajectoires pour l'efficacité",
+          "Créer des feintes et des changements de rythme"
+        ],
+        "criteres_reussite": [
+          "L'élève adapte ses déplacements à la situation de jeu",
+          "L'élève se déplace avec agilité et efficacité"
+        ]
+      }
+    }
   },
   {
     "titre": "Sauts de cabri (bonds alternés)",
@@ -236,8 +1169,57 @@
     "variantes": "Bonds uniquement pied droit (5) puis pied gauche (5), bonds avec obstacles entre chaque, bonds en montée.",
     "adaptation": "Bonds plus courts et bas, sur tapis, avec appui mural.",
     "duree": 10,
-    "materiel": ["Espace dégagé de 20 m", "Cônes"],
-    "tags": ["bonds", "cabri", "amplitude", "alternance"]
+    "materiel": [
+      "Espace dégagé de 20 m",
+      "Cônes"
+    ],
+    "tags": [
+      "bonds",
+      "cabri",
+      "amplitude",
+      "alternance"
+    ],
+    "progression": {
+      "niveau1": {
+        "titre": "Débutant",
+        "description": "À ce stade, l'objectif est d'apprivoiser l'exercice sans pression de performance. Pour « Sauts de cabri (bonds alternés) », voici les attentes à ce niveau.",
+        "consignes": [
+          "Respecter les limites de son espace",
+          "Se déplacer à vitesse lente dans un espace délimité",
+          "Pratiquer un seul type de déplacement à la fois"
+        ],
+        "criteres_reussite": [
+          "L'élève freine et s'arrête sur commande",
+          "Le patron moteur de base est reconnaissable"
+        ]
+      },
+      "niveau2": {
+        "titre": "Intermédiaire",
+        "description": "L'intermédiaire travaille la régularité et commence à combiner les habiletés. Pour « Sauts de cabri (bonds alternés) », voici les attentes à ce niveau.",
+        "consignes": [
+          "Combiner déplacement et manipulation d'objet",
+          "Se déplacer en changeant de direction sur signal",
+          "Alterner entre deux types de déplacement"
+        ],
+        "criteres_reussite": [
+          "L'élève change de direction sans perte d'équilibre",
+          "La transition entre les déplacements est fluide"
+        ]
+      },
+      "niveau3": {
+        "titre": "Avancé",
+        "description": "À ce stade avancé, l'élève crée, innove et aide ses pairs. Pour « Sauts de cabri (bonds alternés) », voici les attentes à ce niveau.",
+        "consignes": [
+          "Optimiser ses trajectoires pour l'efficacité",
+          "Combiner plusieurs types de déplacement en enchaînement",
+          "Réagir rapidement aux changements d'environnement"
+        ],
+        "criteres_reussite": [
+          "L'élève se déplace avec agilité et efficacité",
+          "L'élève adapte ses déplacements à la situation de jeu"
+        ]
+      }
+    }
   },
   {
     "titre": "Saut groupé tuck jump",
@@ -248,8 +1230,57 @@
     "variantes": "Tuck jump + sprint de 5 m, tuck jump avec demi-tour, enchaîner tuck jump et saut écarté.",
     "adaptation": "Genoux montés à la taille seulement, 3 sauts par série, récupération plus longue.",
     "duree": 10,
-    "materiel": ["Surface souple (tapis ou gazon)", "Espace dégagé"],
-    "tags": ["tuck jump", "pliométrie", "groupé", "puissance"]
+    "materiel": [
+      "Surface souple (tapis ou gazon)",
+      "Espace dégagé"
+    ],
+    "tags": [
+      "tuck jump",
+      "pliométrie",
+      "groupé",
+      "puissance"
+    ],
+    "progression": {
+      "niveau1": {
+        "titre": "Débutant",
+        "description": "À ce stade, l'objectif est d'apprivoiser l'exercice sans pression de performance. Pour « Saut groupé tuck jump », voici les attentes à ce niveau.",
+        "consignes": [
+          "Garder le contrôle de son corps en mouvement",
+          "Respecter les limites de son espace",
+          "Se déplacer à vitesse lente dans un espace délimité"
+        ],
+        "criteres_reussite": [
+          "L'élève se déplace de façon contrôlée",
+          "Le patron moteur de base est reconnaissable"
+        ]
+      },
+      "niveau2": {
+        "titre": "Intermédiaire",
+        "description": "L'intermédiaire travaille la régularité et commence à combiner les habiletés. Pour « Saut groupé tuck jump », voici les attentes à ce niveau.",
+        "consignes": [
+          "Combiner déplacement et manipulation d'objet",
+          "Alterner entre deux types de déplacement",
+          "Augmenter la vitesse tout en gardant le contrôle"
+        ],
+        "criteres_reussite": [
+          "L'élève change de direction sans perte d'équilibre",
+          "L'élève maintient sa vitesse dans les changements"
+        ]
+      },
+      "niveau3": {
+        "titre": "Avancé",
+        "description": "L'élève perfectionne sa technique et s'adapte à des situations complexes. Pour « Saut groupé tuck jump », voici les attentes à ce niveau.",
+        "consignes": [
+          "Créer des feintes et des changements de rythme",
+          "Optimiser ses trajectoires pour l'efficacité",
+          "Combiner plusieurs types de déplacement en enchaînement"
+        ],
+        "criteres_reussite": [
+          "L'élève adapte ses déplacements à la situation de jeu",
+          "Les enchaînements sont fluides et rapides"
+        ]
+      }
+    }
   },
   {
     "titre": "Marelle géante",
@@ -260,8 +1291,57 @@
     "variantes": "Marelle avec chiffres (compter en sautant), marelle avec couleurs, marelle en forme de serpent.",
     "adaptation": "Cases plus grandes, pas de lancer de sac, sauter à 2 pieds partout.",
     "duree": 12,
-    "materiel": ["Ruban adhésif ou craie", "Petits sacs de sable"],
-    "tags": ["marelle", "équilibre", "précision", "traditionnel"]
+    "materiel": [
+      "Ruban adhésif ou craie",
+      "Petits sacs de sable"
+    ],
+    "tags": [
+      "marelle",
+      "équilibre",
+      "précision",
+      "traditionnel"
+    ],
+    "progression": {
+      "niveau1": {
+        "titre": "Débutant",
+        "description": "L'accent est mis sur la compréhension des consignes et la sécurité. Pour « Marelle géante », voici les attentes à ce niveau.",
+        "consignes": [
+          "Se déplacer à vitesse lente dans un espace délimité",
+          "Suivre des lignes au sol ou des repères visuels",
+          "Respecter les limites de son espace"
+        ],
+        "criteres_reussite": [
+          "L'élève se déplace de façon contrôlée",
+          "L'élève freine et s'arrête sur commande"
+        ]
+      },
+      "niveau2": {
+        "titre": "Intermédiaire",
+        "description": "L'intermédiaire travaille la régularité et commence à combiner les habiletés. Pour « Marelle géante », voici les attentes à ce niveau.",
+        "consignes": [
+          "Combiner déplacement et manipulation d'objet",
+          "Se déplacer en changeant de direction sur signal",
+          "S'adapter au rythme d'un partenaire"
+        ],
+        "criteres_reussite": [
+          "La transition entre les déplacements est fluide",
+          "L'élève change de direction sans perte d'équilibre"
+        ]
+      },
+      "niveau3": {
+        "titre": "Avancé",
+        "description": "L'expert peut exécuter l'activité dans des contextes variés et exigeants. Pour « Marelle géante », voici les attentes à ce niveau.",
+        "consignes": [
+          "Créer des feintes et des changements de rythme",
+          "Combiner plusieurs types de déplacement en enchaînement",
+          "Se déplacer en situation de jeu avec adversaire"
+        ],
+        "criteres_reussite": [
+          "Les enchaînements sont fluides et rapides",
+          "L'élève se déplace avec agilité et efficacité"
+        ]
+      }
+    }
   },
   {
     "titre": "Saut avec rotation 180°",
@@ -272,8 +1352,57 @@
     "variantes": "Rotation 360°, rotation avec élan, rotation depuis un step, enchaîner 180°+180° sans arrêt.",
     "adaptation": "Quart de tour seulement (90°), sur tapis, aide d'un partenaire pour la rotation.",
     "duree": 12,
-    "materiel": ["Tapis", "Espace dégagé"],
-    "tags": ["rotation", "180°", "équilibre", "gainage"]
+    "materiel": [
+      "Tapis",
+      "Espace dégagé"
+    ],
+    "tags": [
+      "rotation",
+      "180°",
+      "équilibre",
+      "gainage"
+    ],
+    "progression": {
+      "niveau1": {
+        "titre": "Débutant",
+        "description": "Le débutant explore les bases de l'activité avec un accompagnement soutenu. Pour « Saut avec rotation 180° », voici les attentes à ce niveau.",
+        "consignes": [
+          "Garder le contrôle de son corps en mouvement",
+          "Respecter les limites de son espace",
+          "Se déplacer à vitesse lente dans un espace délimité"
+        ],
+        "criteres_reussite": [
+          "L'élève se déplace de façon contrôlée",
+          "L'élève freine et s'arrête sur commande"
+        ]
+      },
+      "niveau2": {
+        "titre": "Intermédiaire",
+        "description": "À ce niveau, on ajoute de la complexité tout en consolidant les acquis. Pour « Saut avec rotation 180° », voici les attentes à ce niveau.",
+        "consignes": [
+          "Se déplacer en changeant de direction sur signal",
+          "Combiner déplacement et manipulation d'objet",
+          "Augmenter la vitesse tout en gardant le contrôle"
+        ],
+        "criteres_reussite": [
+          "L'élève maintient sa vitesse dans les changements",
+          "L'élève change de direction sans perte d'équilibre"
+        ]
+      },
+      "niveau3": {
+        "titre": "Avancé",
+        "description": "À ce stade avancé, l'élève crée, innove et aide ses pairs. Pour « Saut avec rotation 180° », voici les attentes à ce niveau.",
+        "consignes": [
+          "Combiner plusieurs types de déplacement en enchaînement",
+          "Créer des feintes et des changements de rythme",
+          "Optimiser ses trajectoires pour l'efficacité"
+        ],
+        "criteres_reussite": [
+          "L'élève se déplace avec agilité et efficacité",
+          "L'élève adapte ses déplacements à la situation de jeu"
+        ]
+      }
+    }
   },
   {
     "titre": "Sauts pliométriques en boîte",
@@ -284,8 +1413,57 @@
     "variantes": "Box jump avec rotation, step-up alterné explosif, box jump + sprint, hauteurs progressives.",
     "adaptation": "Step bas (20 cm), monter un pied à la fois, moins de répétitions.",
     "duree": 15,
-    "materiel": ["Boxes pliométriques ou steps empilés", "Surface antidérapante"],
-    "tags": ["pliométrie", "box jump", "explosivité", "step"]
+    "materiel": [
+      "Boxes pliométriques ou steps empilés",
+      "Surface antidérapante"
+    ],
+    "tags": [
+      "pliométrie",
+      "box jump",
+      "explosivité",
+      "step"
+    ],
+    "progression": {
+      "niveau1": {
+        "titre": "Débutant",
+        "description": "L'élève découvre l'activité et se familiarise avec les mouvements fondamentaux. Pour « Sauts pliométriques en boîte », voici les attentes à ce niveau.",
+        "consignes": [
+          "Garder le contrôle de son corps en mouvement",
+          "Pratiquer un seul type de déplacement à la fois",
+          "Respecter les limites de son espace"
+        ],
+        "criteres_reussite": [
+          "Le patron moteur de base est reconnaissable",
+          "L'élève freine et s'arrête sur commande"
+        ]
+      },
+      "niveau2": {
+        "titre": "Intermédiaire",
+        "description": "À ce niveau, on ajoute de la complexité tout en consolidant les acquis. Pour « Sauts pliométriques en boîte », voici les attentes à ce niveau.",
+        "consignes": [
+          "Augmenter la vitesse tout en gardant le contrôle",
+          "Combiner déplacement et manipulation d'objet",
+          "Alterner entre deux types de déplacement"
+        ],
+        "criteres_reussite": [
+          "L'élève maintient sa vitesse dans les changements",
+          "L'élève change de direction sans perte d'équilibre"
+        ]
+      },
+      "niveau3": {
+        "titre": "Avancé",
+        "description": "L'élève perfectionne sa technique et s'adapte à des situations complexes. Pour « Sauts pliométriques en boîte », voici les attentes à ce niveau.",
+        "consignes": [
+          "Se déplacer en situation de jeu avec adversaire",
+          "Créer des feintes et des changements de rythme",
+          "Optimiser ses trajectoires pour l'efficacité"
+        ],
+        "criteres_reussite": [
+          "L'élève se déplace avec agilité et efficacité",
+          "Les enchaînements sont fluides et rapides"
+        ]
+      }
+    }
   },
   {
     "titre": "Saut en longueur pieds joints progressif",
@@ -296,8 +1474,57 @@
     "variantes": "Saut depuis un petit step, saut par-dessus un obstacle plat, compétition amicale.",
     "adaptation": "Lignes plus rapprochées, saut sur tapis mou, aide au balancement des bras.",
     "duree": 10,
-    "materiel": ["Ruban adhésif ou craie pour les lignes", "Espace dégagé"],
-    "tags": ["longueur", "pieds joints", "progressif", "lignes"]
+    "materiel": [
+      "Ruban adhésif ou craie pour les lignes",
+      "Espace dégagé"
+    ],
+    "tags": [
+      "longueur",
+      "pieds joints",
+      "progressif",
+      "lignes"
+    ],
+    "progression": {
+      "niveau1": {
+        "titre": "Débutant",
+        "description": "Le débutant explore les bases de l'activité avec un accompagnement soutenu. Pour « Saut en longueur pieds joints progressif », voici les attentes à ce niveau.",
+        "consignes": [
+          "Pratiquer un seul type de déplacement à la fois",
+          "Se déplacer à vitesse lente dans un espace délimité",
+          "Respecter les limites de son espace"
+        ],
+        "criteres_reussite": [
+          "L'élève se déplace de façon contrôlée",
+          "L'élève freine et s'arrête sur commande"
+        ]
+      },
+      "niveau2": {
+        "titre": "Intermédiaire",
+        "description": "À ce niveau, on ajoute de la complexité tout en consolidant les acquis. Pour « Saut en longueur pieds joints progressif », voici les attentes à ce niveau.",
+        "consignes": [
+          "S'adapter au rythme d'un partenaire",
+          "Alterner entre deux types de déplacement",
+          "Augmenter la vitesse tout en gardant le contrôle"
+        ],
+        "criteres_reussite": [
+          "L'élève change de direction sans perte d'équilibre",
+          "La transition entre les déplacements est fluide"
+        ]
+      },
+      "niveau3": {
+        "titre": "Avancé",
+        "description": "L'élève démontre une maîtrise complète et peut enseigner aux autres. Pour « Saut en longueur pieds joints progressif », voici les attentes à ce niveau.",
+        "consignes": [
+          "Optimiser ses trajectoires pour l'efficacité",
+          "Se déplacer en situation de jeu avec adversaire",
+          "Combiner plusieurs types de déplacement en enchaînement"
+        ],
+        "criteres_reussite": [
+          "L'élève adapte ses déplacements à la situation de jeu",
+          "Les enchaînements sont fluides et rapides"
+        ]
+      }
+    }
   },
   {
     "titre": "Sauts sur trampoline éducatif",
@@ -308,8 +1535,57 @@
     "variantes": "Enchaînements de 3 sauts différents, saut sur trampoline + roulade sur tapis, saut avec attrape de ballon.",
     "adaptation": "Saut droit seulement, aide d'un partenaire, step au lieu de trampoline.",
     "duree": 20,
-    "materiel": ["Mini-trampoline", "Tapis de réception épais"],
-    "tags": ["trampoline", "aérien", "figures", "contrôle"]
+    "materiel": [
+      "Mini-trampoline",
+      "Tapis de réception épais"
+    ],
+    "tags": [
+      "trampoline",
+      "aérien",
+      "figures",
+      "contrôle"
+    ],
+    "progression": {
+      "niveau1": {
+        "titre": "Débutant",
+        "description": "L'élève découvre l'activité et se familiarise avec les mouvements fondamentaux. Pour « Sauts sur trampoline éducatif », voici les attentes à ce niveau.",
+        "consignes": [
+          "Garder le contrôle de son corps en mouvement",
+          "Suivre des lignes au sol ou des repères visuels",
+          "Se déplacer à vitesse lente dans un espace délimité"
+        ],
+        "criteres_reussite": [
+          "L'élève se déplace de façon contrôlée",
+          "Le patron moteur de base est reconnaissable"
+        ]
+      },
+      "niveau2": {
+        "titre": "Intermédiaire",
+        "description": "L'élève est capable d'exécuter l'activité de façon autonome avec quelques ajustements. Pour « Sauts sur trampoline éducatif », voici les attentes à ce niveau.",
+        "consignes": [
+          "Augmenter la vitesse tout en gardant le contrôle",
+          "S'adapter au rythme d'un partenaire",
+          "Se déplacer en changeant de direction sur signal"
+        ],
+        "criteres_reussite": [
+          "L'élève change de direction sans perte d'équilibre",
+          "L'élève maintient sa vitesse dans les changements"
+        ]
+      },
+      "niveau3": {
+        "titre": "Avancé",
+        "description": "L'élève démontre une maîtrise complète et peut enseigner aux autres. Pour « Sauts sur trampoline éducatif », voici les attentes à ce niveau.",
+        "consignes": [
+          "Créer des feintes et des changements de rythme",
+          "Combiner plusieurs types de déplacement en enchaînement",
+          "Réagir rapidement aux changements d'environnement"
+        ],
+        "criteres_reussite": [
+          "L'élève se déplace avec agilité et efficacité",
+          "L'élève adapte ses déplacements à la situation de jeu"
+        ]
+      }
+    }
   },
   {
     "titre": "Saut de haie latéral enchaîné",
@@ -320,8 +1596,56 @@
     "variantes": "Haies plus hautes, sauts latéraux sur un pied, enchaîner latéral + frontal.",
     "adaptation": "Lignes au sol au lieu de haies, 3 haies seulement, sauts plus lents.",
     "duree": 10,
-    "materiel": ["5 haies basses (20 cm)"],
-    "tags": ["latéral", "haie", "explosivité", "enchaînement"]
+    "materiel": [
+      "5 haies basses (20 cm)"
+    ],
+    "tags": [
+      "latéral",
+      "haie",
+      "explosivité",
+      "enchaînement"
+    ],
+    "progression": {
+      "niveau1": {
+        "titre": "Débutant",
+        "description": "L'accent est mis sur la compréhension des consignes et la sécurité. Pour « Saut de haie latéral enchaîné », voici les attentes à ce niveau.",
+        "consignes": [
+          "Pratiquer un seul type de déplacement à la fois",
+          "Suivre des lignes au sol ou des repères visuels",
+          "Garder le contrôle de son corps en mouvement"
+        ],
+        "criteres_reussite": [
+          "Le patron moteur de base est reconnaissable",
+          "L'élève se déplace de façon contrôlée"
+        ]
+      },
+      "niveau2": {
+        "titre": "Intermédiaire",
+        "description": "L'intermédiaire travaille la régularité et commence à combiner les habiletés. Pour « Saut de haie latéral enchaîné », voici les attentes à ce niveau.",
+        "consignes": [
+          "Alterner entre deux types de déplacement",
+          "Se déplacer en changeant de direction sur signal",
+          "Augmenter la vitesse tout en gardant le contrôle"
+        ],
+        "criteres_reussite": [
+          "L'élève change de direction sans perte d'équilibre",
+          "L'élève maintient sa vitesse dans les changements"
+        ]
+      },
+      "niveau3": {
+        "titre": "Avancé",
+        "description": "L'élève démontre une maîtrise complète et peut enseigner aux autres. Pour « Saut de haie latéral enchaîné », voici les attentes à ce niveau.",
+        "consignes": [
+          "Optimiser ses trajectoires pour l'efficacité",
+          "Créer des feintes et des changements de rythme",
+          "Réagir rapidement aux changements d'environnement"
+        ],
+        "criteres_reussite": [
+          "L'élève se déplace avec agilité et efficacité",
+          "L'élève adapte ses déplacements à la situation de jeu"
+        ]
+      }
+    }
   },
   {
     "titre": "Saut en profondeur + saut vertical (drop jump)",
@@ -332,8 +1656,57 @@
     "variantes": "Hauteurs de step progressives (20, 30, 40 cm), drop jump + sprint, drop jump latéral.",
     "adaptation": "Step de 15 cm, temps de contact plus long permis, saut vertical sous-maximal.",
     "duree": 12,
-    "materiel": ["Step ou banc (30 cm)", "Tapis de réception"],
-    "tags": ["drop jump", "pliométrie", "réactif", "puissance"]
+    "materiel": [
+      "Step ou banc (30 cm)",
+      "Tapis de réception"
+    ],
+    "tags": [
+      "drop jump",
+      "pliométrie",
+      "réactif",
+      "puissance"
+    ],
+    "progression": {
+      "niveau1": {
+        "titre": "Débutant",
+        "description": "À ce stade, l'objectif est d'apprivoiser l'exercice sans pression de performance. Pour « Saut en profondeur + saut vertical (drop jump) », voici les attentes à ce niveau.",
+        "consignes": [
+          "Respecter les limites de son espace",
+          "Garder le contrôle de son corps en mouvement",
+          "Pratiquer un seul type de déplacement à la fois"
+        ],
+        "criteres_reussite": [
+          "L'élève freine et s'arrête sur commande",
+          "L'élève se déplace de façon contrôlée"
+        ]
+      },
+      "niveau2": {
+        "titre": "Intermédiaire",
+        "description": "L'élève maîtrise les bases et cherche à améliorer sa constance et sa fluidité. Pour « Saut en profondeur + saut vertical (drop jump) », voici les attentes à ce niveau.",
+        "consignes": [
+          "S'adapter au rythme d'un partenaire",
+          "Se déplacer en changeant de direction sur signal",
+          "Augmenter la vitesse tout en gardant le contrôle"
+        ],
+        "criteres_reussite": [
+          "L'élève change de direction sans perte d'équilibre",
+          "La transition entre les déplacements est fluide"
+        ]
+      },
+      "niveau3": {
+        "titre": "Avancé",
+        "description": "L'élève perfectionne sa technique et s'adapte à des situations complexes. Pour « Saut en profondeur + saut vertical (drop jump) », voici les attentes à ce niveau.",
+        "consignes": [
+          "Optimiser ses trajectoires pour l'efficacité",
+          "Combiner plusieurs types de déplacement en enchaînement",
+          "Réagir rapidement aux changements d'environnement"
+        ],
+        "criteres_reussite": [
+          "L'élève se déplace avec agilité et efficacité",
+          "L'élève adapte ses déplacements à la situation de jeu"
+        ]
+      }
+    }
   },
   {
     "titre": "Parcours de cerceaux multicolores",
@@ -344,8 +1717,56 @@
     "variantes": "2 couleurs en même temps, sauter dans l'ordre arc-en-ciel, sauter en évitant une couleur.",
     "adaptation": "Une seule couleur, cerceaux plus rapprochés, marcher entre les cerceaux au lieu de sauter.",
     "duree": 10,
-    "materiel": ["15-20 cerceaux de 4 couleurs différentes"],
-    "tags": ["cerceaux", "couleurs", "décision", "maternelle"]
+    "materiel": [
+      "15-20 cerceaux de 4 couleurs différentes"
+    ],
+    "tags": [
+      "cerceaux",
+      "couleurs",
+      "décision",
+      "maternelle"
+    ],
+    "progression": {
+      "niveau1": {
+        "titre": "Débutant",
+        "description": "Le débutant explore les bases de l'activité avec un accompagnement soutenu. Pour « Parcours de cerceaux multicolores », voici les attentes à ce niveau.",
+        "consignes": [
+          "Pratiquer un seul type de déplacement à la fois",
+          "Respecter les limites de son espace",
+          "Suivre des lignes au sol ou des repères visuels"
+        ],
+        "criteres_reussite": [
+          "Le patron moteur de base est reconnaissable",
+          "L'élève freine et s'arrête sur commande"
+        ]
+      },
+      "niveau2": {
+        "titre": "Intermédiaire",
+        "description": "L'élève est capable d'exécuter l'activité de façon autonome avec quelques ajustements. Pour « Parcours de cerceaux multicolores », voici les attentes à ce niveau.",
+        "consignes": [
+          "Se déplacer en changeant de direction sur signal",
+          "S'adapter au rythme d'un partenaire",
+          "Augmenter la vitesse tout en gardant le contrôle"
+        ],
+        "criteres_reussite": [
+          "La transition entre les déplacements est fluide",
+          "L'élève maintient sa vitesse dans les changements"
+        ]
+      },
+      "niveau3": {
+        "titre": "Avancé",
+        "description": "L'élève démontre une maîtrise complète et peut enseigner aux autres. Pour « Parcours de cerceaux multicolores », voici les attentes à ce niveau.",
+        "consignes": [
+          "Créer des feintes et des changements de rythme",
+          "Se déplacer en situation de jeu avec adversaire",
+          "Optimiser ses trajectoires pour l'efficacité"
+        ],
+        "criteres_reussite": [
+          "Les enchaînements sont fluides et rapides",
+          "L'élève se déplace avec agilité et efficacité"
+        ]
+      }
+    }
   },
   {
     "titre": "Saut en croix au sol",
@@ -356,8 +1777,56 @@
     "variantes": "Croix avec un pied, sauter dans l'ordre inverse, sauter au hasard selon l'appel, yeux fermés.",
     "adaptation": "Seulement avant-arrière d'abord, puis ajouter latéral, pauses entre chaque saut.",
     "duree": 8,
-    "materiel": ["Ruban adhésif ou craie (croix au sol)"],
-    "tags": ["croix", "quadrant", "orientation", "rythme"]
+    "materiel": [
+      "Ruban adhésif ou craie (croix au sol)"
+    ],
+    "tags": [
+      "croix",
+      "quadrant",
+      "orientation",
+      "rythme"
+    ],
+    "progression": {
+      "niveau1": {
+        "titre": "Débutant",
+        "description": "Le débutant explore les bases de l'activité avec un accompagnement soutenu. Pour « Saut en croix au sol », voici les attentes à ce niveau.",
+        "consignes": [
+          "Pratiquer un seul type de déplacement à la fois",
+          "Se déplacer à vitesse lente dans un espace délimité",
+          "Suivre des lignes au sol ou des repères visuels"
+        ],
+        "criteres_reussite": [
+          "L'élève freine et s'arrête sur commande",
+          "Le patron moteur de base est reconnaissable"
+        ]
+      },
+      "niveau2": {
+        "titre": "Intermédiaire",
+        "description": "À ce niveau, on ajoute de la complexité tout en consolidant les acquis. Pour « Saut en croix au sol », voici les attentes à ce niveau.",
+        "consignes": [
+          "Se déplacer en changeant de direction sur signal",
+          "Augmenter la vitesse tout en gardant le contrôle",
+          "Combiner déplacement et manipulation d'objet"
+        ],
+        "criteres_reussite": [
+          "La transition entre les déplacements est fluide",
+          "L'élève change de direction sans perte d'équilibre"
+        ]
+      },
+      "niveau3": {
+        "titre": "Avancé",
+        "description": "L'expert peut exécuter l'activité dans des contextes variés et exigeants. Pour « Saut en croix au sol », voici les attentes à ce niveau.",
+        "consignes": [
+          "Réagir rapidement aux changements d'environnement",
+          "Créer des feintes et des changements de rythme",
+          "Combiner plusieurs types de déplacement en enchaînement"
+        ],
+        "criteres_reussite": [
+          "Les enchaînements sont fluides et rapides",
+          "L'élève adapte ses déplacements à la situation de jeu"
+        ]
+      }
+    }
   },
   {
     "titre": "Saut en hauteur avec élastique progressif",
@@ -368,8 +1837,58 @@
     "variantes": "Saut en ciseaux, saut en rouleau ventral simplifié, saut avec rotation.",
     "adaptation": "Commencer à 20 cm, élastique qui tombe facilement, aide de l'enseignant.",
     "duree": 18,
-    "materiel": ["Élastique long", "2 poteaux ou chaises", "Tapis de réception"],
-    "tags": ["hauteur", "élastique", "progressif", "confiance"]
+    "materiel": [
+      "Élastique long",
+      "2 poteaux ou chaises",
+      "Tapis de réception"
+    ],
+    "tags": [
+      "hauteur",
+      "élastique",
+      "progressif",
+      "confiance"
+    ],
+    "progression": {
+      "niveau1": {
+        "titre": "Débutant",
+        "description": "À ce stade, l'objectif est d'apprivoiser l'exercice sans pression de performance. Pour « Saut en hauteur avec élastique progressif », voici les attentes à ce niveau.",
+        "consignes": [
+          "Pratiquer un seul type de déplacement à la fois",
+          "Garder le contrôle de son corps en mouvement",
+          "Respecter les limites de son espace"
+        ],
+        "criteres_reussite": [
+          "L'élève freine et s'arrête sur commande",
+          "L'élève se déplace de façon contrôlée"
+        ]
+      },
+      "niveau2": {
+        "titre": "Intermédiaire",
+        "description": "L'intermédiaire travaille la régularité et commence à combiner les habiletés. Pour « Saut en hauteur avec élastique progressif », voici les attentes à ce niveau.",
+        "consignes": [
+          "Se déplacer en changeant de direction sur signal",
+          "Augmenter la vitesse tout en gardant le contrôle",
+          "S'adapter au rythme d'un partenaire"
+        ],
+        "criteres_reussite": [
+          "L'élève maintient sa vitesse dans les changements",
+          "La transition entre les déplacements est fluide"
+        ]
+      },
+      "niveau3": {
+        "titre": "Avancé",
+        "description": "L'élève perfectionne sa technique et s'adapte à des situations complexes. Pour « Saut en hauteur avec élastique progressif », voici les attentes à ce niveau.",
+        "consignes": [
+          "Se déplacer en situation de jeu avec adversaire",
+          "Optimiser ses trajectoires pour l'efficacité",
+          "Réagir rapidement aux changements d'environnement"
+        ],
+        "criteres_reussite": [
+          "L'élève adapte ses déplacements à la situation de jeu",
+          "L'élève se déplace avec agilité et efficacité"
+        ]
+      }
+    }
   },
   {
     "titre": "Relais en sauts de lapin",
@@ -380,8 +1899,56 @@
     "variantes": "Lapin avec objet dans la bouche (foulard), lapin en reculons, parcours avec obstacles.",
     "adaptation": "Distance réduite à 5 m, faire le lapin à genoux, alterner lapin et marche.",
     "duree": 12,
-    "materiel": ["Cônes (2 par équipe)"],
-    "tags": ["lapin", "relais", "coordination", "ludique"]
+    "materiel": [
+      "Cônes (2 par équipe)"
+    ],
+    "tags": [
+      "lapin",
+      "relais",
+      "coordination",
+      "ludique"
+    ],
+    "progression": {
+      "niveau1": {
+        "titre": "Débutant",
+        "description": "À ce stade, l'objectif est d'apprivoiser l'exercice sans pression de performance. Pour « Relais en sauts de lapin », voici les attentes à ce niveau.",
+        "consignes": [
+          "Pratiquer un seul type de déplacement à la fois",
+          "Suivre des lignes au sol ou des repères visuels",
+          "Se déplacer à vitesse lente dans un espace délimité"
+        ],
+        "criteres_reussite": [
+          "L'élève freine et s'arrête sur commande",
+          "Le patron moteur de base est reconnaissable"
+        ]
+      },
+      "niveau2": {
+        "titre": "Intermédiaire",
+        "description": "L'intermédiaire travaille la régularité et commence à combiner les habiletés. Pour « Relais en sauts de lapin », voici les attentes à ce niveau.",
+        "consignes": [
+          "Combiner déplacement et manipulation d'objet",
+          "Se déplacer en changeant de direction sur signal",
+          "Alterner entre deux types de déplacement"
+        ],
+        "criteres_reussite": [
+          "La transition entre les déplacements est fluide",
+          "L'élève maintient sa vitesse dans les changements"
+        ]
+      },
+      "niveau3": {
+        "titre": "Avancé",
+        "description": "L'expert peut exécuter l'activité dans des contextes variés et exigeants. Pour « Relais en sauts de lapin », voici les attentes à ce niveau.",
+        "consignes": [
+          "Créer des feintes et des changements de rythme",
+          "Optimiser ses trajectoires pour l'efficacité",
+          "Réagir rapidement aux changements d'environnement"
+        ],
+        "criteres_reussite": [
+          "Les enchaînements sont fluides et rapides",
+          "L'élève se déplace avec agilité et efficacité"
+        ]
+      }
+    }
   },
   {
     "titre": "Saut à pieds joints par-dessus partenaire",
@@ -392,8 +1959,57 @@
     "variantes": "Saute-mouton en file (4-5 élèves), saut sans appui des mains, saut avec élan.",
     "adaptation": "A très bas (presque à plat), B saute à côté d'abord pour s'habituer, tapis obligatoire.",
     "duree": 15,
-    "materiel": ["Tapis", "Espace dégagé"],
-    "tags": ["saute-mouton", "duo", "confiance", "partenaire"]
+    "materiel": [
+      "Tapis",
+      "Espace dégagé"
+    ],
+    "tags": [
+      "saute-mouton",
+      "duo",
+      "confiance",
+      "partenaire"
+    ],
+    "progression": {
+      "niveau1": {
+        "titre": "Débutant",
+        "description": "L'accent est mis sur la compréhension des consignes et la sécurité. Pour « Saut à pieds joints par-dessus partenaire », voici les attentes à ce niveau.",
+        "consignes": [
+          "Respecter les limites de son espace",
+          "Se déplacer à vitesse lente dans un espace délimité",
+          "Suivre des lignes au sol ou des repères visuels"
+        ],
+        "criteres_reussite": [
+          "L'élève se déplace de façon contrôlée",
+          "Le patron moteur de base est reconnaissable"
+        ]
+      },
+      "niveau2": {
+        "titre": "Intermédiaire",
+        "description": "L'élève est capable d'exécuter l'activité de façon autonome avec quelques ajustements. Pour « Saut à pieds joints par-dessus partenaire », voici les attentes à ce niveau.",
+        "consignes": [
+          "Alterner entre deux types de déplacement",
+          "S'adapter au rythme d'un partenaire",
+          "Combiner déplacement et manipulation d'objet"
+        ],
+        "criteres_reussite": [
+          "La transition entre les déplacements est fluide",
+          "L'élève maintient sa vitesse dans les changements"
+        ]
+      },
+      "niveau3": {
+        "titre": "Avancé",
+        "description": "À ce stade avancé, l'élève crée, innove et aide ses pairs. Pour « Saut à pieds joints par-dessus partenaire », voici les attentes à ce niveau.",
+        "consignes": [
+          "Créer des feintes et des changements de rythme",
+          "Réagir rapidement aux changements d'environnement",
+          "Optimiser ses trajectoires pour l'efficacité"
+        ],
+        "criteres_reussite": [
+          "L'élève adapte ses déplacements à la situation de jeu",
+          "Les enchaînements sont fluides et rapides"
+        ]
+      }
+    }
   },
   {
     "titre": "Saut sur step avec enchaînement",
@@ -404,8 +2020,57 @@
     "variantes": "Créer sa propre chorégraphie, step avec poids légers, step en duo synchronisé.",
     "adaptation": "Step très bas, enchaînement de 4 temps seulement, sans musique (au rythme de chacun).",
     "duree": 10,
-    "materiel": ["Steps aérobie (1 par élève)", "Musique"],
-    "tags": ["step", "chorégraphie", "rythme", "endurance"]
+    "materiel": [
+      "Steps aérobie (1 par élève)",
+      "Musique"
+    ],
+    "tags": [
+      "step",
+      "chorégraphie",
+      "rythme",
+      "endurance"
+    ],
+    "progression": {
+      "niveau1": {
+        "titre": "Débutant",
+        "description": "L'élève découvre l'activité et se familiarise avec les mouvements fondamentaux. Pour « Saut sur step avec enchaînement », voici les attentes à ce niveau.",
+        "consignes": [
+          "Pratiquer un seul type de déplacement à la fois",
+          "Se déplacer à vitesse lente dans un espace délimité",
+          "Suivre des lignes au sol ou des repères visuels"
+        ],
+        "criteres_reussite": [
+          "L'élève freine et s'arrête sur commande",
+          "Le patron moteur de base est reconnaissable"
+        ]
+      },
+      "niveau2": {
+        "titre": "Intermédiaire",
+        "description": "À ce niveau, on ajoute de la complexité tout en consolidant les acquis. Pour « Saut sur step avec enchaînement », voici les attentes à ce niveau.",
+        "consignes": [
+          "Combiner déplacement et manipulation d'objet",
+          "S'adapter au rythme d'un partenaire",
+          "Augmenter la vitesse tout en gardant le contrôle"
+        ],
+        "criteres_reussite": [
+          "La transition entre les déplacements est fluide",
+          "L'élève change de direction sans perte d'équilibre"
+        ]
+      },
+      "niveau3": {
+        "titre": "Avancé",
+        "description": "L'élève perfectionne sa technique et s'adapte à des situations complexes. Pour « Saut sur step avec enchaînement », voici les attentes à ce niveau.",
+        "consignes": [
+          "Se déplacer en situation de jeu avec adversaire",
+          "Combiner plusieurs types de déplacement en enchaînement",
+          "Créer des feintes et des changements de rythme"
+        ],
+        "criteres_reussite": [
+          "L'élève se déplace avec agilité et efficacité",
+          "L'élève adapte ses déplacements à la situation de jeu"
+        ]
+      }
+    }
   },
   {
     "titre": "Saut de chat (parkour simplifié)",
@@ -416,8 +2081,57 @@
     "variantes": "Saut de chat en passant les jambes entre les bras, saut de chat avec rotation, obstacles variés.",
     "adaptation": "Obstacle plus bas, traverser en rampant d'abord, aide de l'enseignant.",
     "duree": 15,
-    "materiel": ["Cheval de gym ou plinth bas", "Tapis de réception"],
-    "tags": ["parkour", "saut de chat", "obstacle", "confiance"]
+    "materiel": [
+      "Cheval de gym ou plinth bas",
+      "Tapis de réception"
+    ],
+    "tags": [
+      "parkour",
+      "saut de chat",
+      "obstacle",
+      "confiance"
+    ],
+    "progression": {
+      "niveau1": {
+        "titre": "Débutant",
+        "description": "À ce stade, l'objectif est d'apprivoiser l'exercice sans pression de performance. Pour « Saut de chat (parkour simplifié) », voici les attentes à ce niveau.",
+        "consignes": [
+          "Pratiquer un seul type de déplacement à la fois",
+          "Se déplacer à vitesse lente dans un espace délimité",
+          "Respecter les limites de son espace"
+        ],
+        "criteres_reussite": [
+          "L'élève freine et s'arrête sur commande",
+          "Le patron moteur de base est reconnaissable"
+        ]
+      },
+      "niveau2": {
+        "titre": "Intermédiaire",
+        "description": "L'élève maîtrise les bases et cherche à améliorer sa constance et sa fluidité. Pour « Saut de chat (parkour simplifié) », voici les attentes à ce niveau.",
+        "consignes": [
+          "Alterner entre deux types de déplacement",
+          "Combiner déplacement et manipulation d'objet",
+          "S'adapter au rythme d'un partenaire"
+        ],
+        "criteres_reussite": [
+          "L'élève change de direction sans perte d'équilibre",
+          "L'élève maintient sa vitesse dans les changements"
+        ]
+      },
+      "niveau3": {
+        "titre": "Avancé",
+        "description": "L'expert peut exécuter l'activité dans des contextes variés et exigeants. Pour « Saut de chat (parkour simplifié) », voici les attentes à ce niveau.",
+        "consignes": [
+          "Combiner plusieurs types de déplacement en enchaînement",
+          "Réagir rapidement aux changements d'environnement",
+          "Optimiser ses trajectoires pour l'efficacité"
+        ],
+        "criteres_reussite": [
+          "L'élève adapte ses déplacements à la situation de jeu",
+          "Les enchaînements sont fluides et rapides"
+        ]
+      }
+    }
   },
   {
     "titre": "Sauts en vagues (ocean waves)",
@@ -428,8 +2142,56 @@
     "variantes": "2 cordes (double vague), sauter la vague en reculant, sauter la vague à cloche-pied.",
     "adaptation": "Corde immobile au sol (juste enjamber), vague très lente, tenir la main d'un ami.",
     "duree": 10,
-    "materiel": ["Corde longue (3-4 m)"],
-    "tags": ["vagues", "corde", "timing", "imaginaire"]
+    "materiel": [
+      "Corde longue (3-4 m)"
+    ],
+    "tags": [
+      "vagues",
+      "corde",
+      "timing",
+      "imaginaire"
+    ],
+    "progression": {
+      "niveau1": {
+        "titre": "Débutant",
+        "description": "Le débutant explore les bases de l'activité avec un accompagnement soutenu. Pour « Sauts en vagues (ocean waves) », voici les attentes à ce niveau.",
+        "consignes": [
+          "Garder le contrôle de son corps en mouvement",
+          "Suivre des lignes au sol ou des repères visuels",
+          "Se déplacer à vitesse lente dans un espace délimité"
+        ],
+        "criteres_reussite": [
+          "L'élève se déplace de façon contrôlée",
+          "Le patron moteur de base est reconnaissable"
+        ]
+      },
+      "niveau2": {
+        "titre": "Intermédiaire",
+        "description": "À ce niveau, on ajoute de la complexité tout en consolidant les acquis. Pour « Sauts en vagues (ocean waves) », voici les attentes à ce niveau.",
+        "consignes": [
+          "Augmenter la vitesse tout en gardant le contrôle",
+          "S'adapter au rythme d'un partenaire",
+          "Alterner entre deux types de déplacement"
+        ],
+        "criteres_reussite": [
+          "L'élève maintient sa vitesse dans les changements",
+          "La transition entre les déplacements est fluide"
+        ]
+      },
+      "niveau3": {
+        "titre": "Avancé",
+        "description": "À ce stade avancé, l'élève crée, innove et aide ses pairs. Pour « Sauts en vagues (ocean waves) », voici les attentes à ce niveau.",
+        "consignes": [
+          "Se déplacer en situation de jeu avec adversaire",
+          "Optimiser ses trajectoires pour l'efficacité",
+          "Combiner plusieurs types de déplacement en enchaînement"
+        ],
+        "criteres_reussite": [
+          "L'élève adapte ses déplacements à la situation de jeu",
+          "L'élève se déplace avec agilité et efficacité"
+        ]
+      }
+    }
   },
   {
     "titre": "Saut latéral par-dessus banc",
@@ -440,8 +2202,57 @@
     "variantes": "Sauts en avançant le long du banc, sauts sur un pied, sauts avec rotation.",
     "adaptation": "Ligne au sol au lieu du banc, banc très bas, pause entre chaque saut.",
     "duree": 10,
-    "materiel": ["Banc suédois", "Tapis de chaque côté"],
-    "tags": ["latéral", "banc", "explosivité", "enchaînement"]
+    "materiel": [
+      "Banc suédois",
+      "Tapis de chaque côté"
+    ],
+    "tags": [
+      "latéral",
+      "banc",
+      "explosivité",
+      "enchaînement"
+    ],
+    "progression": {
+      "niveau1": {
+        "titre": "Débutant",
+        "description": "À ce stade, l'objectif est d'apprivoiser l'exercice sans pression de performance. Pour « Saut latéral par-dessus banc », voici les attentes à ce niveau.",
+        "consignes": [
+          "Se déplacer à vitesse lente dans un espace délimité",
+          "Pratiquer un seul type de déplacement à la fois",
+          "Suivre des lignes au sol ou des repères visuels"
+        ],
+        "criteres_reussite": [
+          "L'élève se déplace de façon contrôlée",
+          "L'élève freine et s'arrête sur commande"
+        ]
+      },
+      "niveau2": {
+        "titre": "Intermédiaire",
+        "description": "À ce niveau, on ajoute de la complexité tout en consolidant les acquis. Pour « Saut latéral par-dessus banc », voici les attentes à ce niveau.",
+        "consignes": [
+          "Combiner déplacement et manipulation d'objet",
+          "Augmenter la vitesse tout en gardant le contrôle",
+          "Alterner entre deux types de déplacement"
+        ],
+        "criteres_reussite": [
+          "La transition entre les déplacements est fluide",
+          "L'élève change de direction sans perte d'équilibre"
+        ]
+      },
+      "niveau3": {
+        "titre": "Avancé",
+        "description": "L'expert peut exécuter l'activité dans des contextes variés et exigeants. Pour « Saut latéral par-dessus banc », voici les attentes à ce niveau.",
+        "consignes": [
+          "Se déplacer en situation de jeu avec adversaire",
+          "Réagir rapidement aux changements d'environnement",
+          "Combiner plusieurs types de déplacement en enchaînement"
+        ],
+        "criteres_reussite": [
+          "L'élève se déplace avec agilité et efficacité",
+          "L'élève adapte ses déplacements à la situation de jeu"
+        ]
+      }
+    }
   },
   {
     "titre": "Circuit de sauts variés (5 stations)",
@@ -452,8 +2263,60 @@
     "variantes": "6 stations avec saut latéral ajouté, stations en duo, stations chronométrées.",
     "adaptation": "3 stations seulement, durée réduite à 1 min par station, exercices simplifiés.",
     "duree": 15,
-    "materiel": ["Cerceaux", "Cônes", "Cordes à sauter", "Objet suspendu", "Ruban à mesurer"],
-    "tags": ["circuit", "stations", "variété", "rotation"]
+    "materiel": [
+      "Cerceaux",
+      "Cônes",
+      "Cordes à sauter",
+      "Objet suspendu",
+      "Ruban à mesurer"
+    ],
+    "tags": [
+      "circuit",
+      "stations",
+      "variété",
+      "rotation"
+    ],
+    "progression": {
+      "niveau1": {
+        "titre": "Débutant",
+        "description": "L'élève découvre l'activité et se familiarise avec les mouvements fondamentaux. Pour « Circuit de sauts variés (5 stations) », voici les attentes à ce niveau.",
+        "consignes": [
+          "Garder le contrôle de son corps en mouvement",
+          "Respecter les limites de son espace",
+          "Suivre des lignes au sol ou des repères visuels"
+        ],
+        "criteres_reussite": [
+          "L'élève se déplace de façon contrôlée",
+          "L'élève freine et s'arrête sur commande"
+        ]
+      },
+      "niveau2": {
+        "titre": "Intermédiaire",
+        "description": "À ce niveau, on ajoute de la complexité tout en consolidant les acquis. Pour « Circuit de sauts variés (5 stations) », voici les attentes à ce niveau.",
+        "consignes": [
+          "Alterner entre deux types de déplacement",
+          "Combiner déplacement et manipulation d'objet",
+          "Se déplacer en changeant de direction sur signal"
+        ],
+        "criteres_reussite": [
+          "La transition entre les déplacements est fluide",
+          "L'élève maintient sa vitesse dans les changements"
+        ]
+      },
+      "niveau3": {
+        "titre": "Avancé",
+        "description": "À ce stade avancé, l'élève crée, innove et aide ses pairs. Pour « Circuit de sauts variés (5 stations) », voici les attentes à ce niveau.",
+        "consignes": [
+          "Optimiser ses trajectoires pour l'efficacité",
+          "Créer des feintes et des changements de rythme",
+          "Combiner plusieurs types de déplacement en enchaînement"
+        ],
+        "criteres_reussite": [
+          "L'élève adapte ses déplacements à la situation de jeu",
+          "Les enchaînements sont fluides et rapides"
+        ]
+      }
+    }
   },
   {
     "titre": "Saut en longueur depuis step",
@@ -464,8 +2327,58 @@
     "variantes": "Step de différentes hauteurs, saut avec élan depuis le step, saut en longueur + roulade.",
     "adaptation": "Step très bas, tapis de réception épais, pas de mesure compétitive.",
     "duree": 15,
-    "materiel": ["Step aérobie", "Tapis de réception", "Ruban à mesurer"],
-    "tags": ["longueur", "step", "vol", "mesure"]
+    "materiel": [
+      "Step aérobie",
+      "Tapis de réception",
+      "Ruban à mesurer"
+    ],
+    "tags": [
+      "longueur",
+      "step",
+      "vol",
+      "mesure"
+    ],
+    "progression": {
+      "niveau1": {
+        "titre": "Débutant",
+        "description": "L'élève découvre l'activité et se familiarise avec les mouvements fondamentaux. Pour « Saut en longueur depuis step », voici les attentes à ce niveau.",
+        "consignes": [
+          "Garder le contrôle de son corps en mouvement",
+          "Respecter les limites de son espace",
+          "Pratiquer un seul type de déplacement à la fois"
+        ],
+        "criteres_reussite": [
+          "Le patron moteur de base est reconnaissable",
+          "L'élève freine et s'arrête sur commande"
+        ]
+      },
+      "niveau2": {
+        "titre": "Intermédiaire",
+        "description": "L'intermédiaire travaille la régularité et commence à combiner les habiletés. Pour « Saut en longueur depuis step », voici les attentes à ce niveau.",
+        "consignes": [
+          "Combiner déplacement et manipulation d'objet",
+          "S'adapter au rythme d'un partenaire",
+          "Augmenter la vitesse tout en gardant le contrôle"
+        ],
+        "criteres_reussite": [
+          "L'élève maintient sa vitesse dans les changements",
+          "L'élève change de direction sans perte d'équilibre"
+        ]
+      },
+      "niveau3": {
+        "titre": "Avancé",
+        "description": "À ce stade avancé, l'élève crée, innove et aide ses pairs. Pour « Saut en longueur depuis step », voici les attentes à ce niveau.",
+        "consignes": [
+          "Se déplacer en situation de jeu avec adversaire",
+          "Combiner plusieurs types de déplacement en enchaînement",
+          "Réagir rapidement aux changements d'environnement"
+        ],
+        "criteres_reussite": [
+          "L'élève adapte ses déplacements à la situation de jeu",
+          "Les enchaînements sont fluides et rapides"
+        ]
+      }
+    }
   },
   {
     "titre": "Sauts à cloche-pied en parcours chronométré",
@@ -476,8 +2389,58 @@
     "variantes": "Parcours en zigzag, avec obstacles à enjamber, yeux fermés sur une portion.",
     "adaptation": "Distance réduite, 2 changements seulement, pas de chronomètre.",
     "duree": 12,
-    "materiel": ["Cônes", "Ruban au sol pour les changements", "Chronomètre"],
-    "tags": ["cloche-pied", "chrono", "équilibre", "latéralité"]
+    "materiel": [
+      "Cônes",
+      "Ruban au sol pour les changements",
+      "Chronomètre"
+    ],
+    "tags": [
+      "cloche-pied",
+      "chrono",
+      "équilibre",
+      "latéralité"
+    ],
+    "progression": {
+      "niveau1": {
+        "titre": "Débutant",
+        "description": "L'accent est mis sur la compréhension des consignes et la sécurité. Pour « Sauts à cloche-pied en parcours chronométré », voici les attentes à ce niveau.",
+        "consignes": [
+          "Garder le contrôle de son corps en mouvement",
+          "Suivre des lignes au sol ou des repères visuels",
+          "Se déplacer à vitesse lente dans un espace délimité"
+        ],
+        "criteres_reussite": [
+          "Le patron moteur de base est reconnaissable",
+          "L'élève freine et s'arrête sur commande"
+        ]
+      },
+      "niveau2": {
+        "titre": "Intermédiaire",
+        "description": "L'élève est capable d'exécuter l'activité de façon autonome avec quelques ajustements. Pour « Sauts à cloche-pied en parcours chronométré », voici les attentes à ce niveau.",
+        "consignes": [
+          "Se déplacer en changeant de direction sur signal",
+          "Augmenter la vitesse tout en gardant le contrôle",
+          "S'adapter au rythme d'un partenaire"
+        ],
+        "criteres_reussite": [
+          "La transition entre les déplacements est fluide",
+          "L'élève change de direction sans perte d'équilibre"
+        ]
+      },
+      "niveau3": {
+        "titre": "Avancé",
+        "description": "L'élève perfectionne sa technique et s'adapte à des situations complexes. Pour « Sauts à cloche-pied en parcours chronométré », voici les attentes à ce niveau.",
+        "consignes": [
+          "Créer des feintes et des changements de rythme",
+          "Optimiser ses trajectoires pour l'efficacité",
+          "Combiner plusieurs types de déplacement en enchaînement"
+        ],
+        "criteres_reussite": [
+          "L'élève adapte ses déplacements à la situation de jeu",
+          "L'élève se déplace avec agilité et efficacité"
+        ]
+      }
+    }
   },
   {
     "titre": "Saut avec réception en équilibre (3 sec)",
@@ -488,8 +2451,57 @@
     "variantes": "Réception sur un pied, réception yeux fermés, saut avec rotation + réception stable.",
     "adaptation": "Réception 1 seconde seulement, sur surface souple, aide d'un partenaire.",
     "duree": 10,
-    "materiel": ["Lignes au sol", "Espace dégagé"],
-    "tags": ["réception", "équilibre", "stabilité", "contrôle"]
+    "materiel": [
+      "Lignes au sol",
+      "Espace dégagé"
+    ],
+    "tags": [
+      "réception",
+      "équilibre",
+      "stabilité",
+      "contrôle"
+    ],
+    "progression": {
+      "niveau1": {
+        "titre": "Débutant",
+        "description": "Le débutant explore les bases de l'activité avec un accompagnement soutenu. Pour « Saut avec réception en équilibre (3 sec) », voici les attentes à ce niveau.",
+        "consignes": [
+          "Garder le contrôle de son corps en mouvement",
+          "Se déplacer à vitesse lente dans un espace délimité",
+          "Suivre des lignes au sol ou des repères visuels"
+        ],
+        "criteres_reussite": [
+          "L'élève freine et s'arrête sur commande",
+          "Le patron moteur de base est reconnaissable"
+        ]
+      },
+      "niveau2": {
+        "titre": "Intermédiaire",
+        "description": "L'élève est capable d'exécuter l'activité de façon autonome avec quelques ajustements. Pour « Saut avec réception en équilibre (3 sec) », voici les attentes à ce niveau.",
+        "consignes": [
+          "Combiner déplacement et manipulation d'objet",
+          "Alterner entre deux types de déplacement",
+          "Augmenter la vitesse tout en gardant le contrôle"
+        ],
+        "criteres_reussite": [
+          "La transition entre les déplacements est fluide",
+          "L'élève maintient sa vitesse dans les changements"
+        ]
+      },
+      "niveau3": {
+        "titre": "Avancé",
+        "description": "L'expert peut exécuter l'activité dans des contextes variés et exigeants. Pour « Saut avec réception en équilibre (3 sec) », voici les attentes à ce niveau.",
+        "consignes": [
+          "Combiner plusieurs types de déplacement en enchaînement",
+          "Optimiser ses trajectoires pour l'efficacité",
+          "Se déplacer en situation de jeu avec adversaire"
+        ],
+        "criteres_reussite": [
+          "Les enchaînements sont fluides et rapides",
+          "L'élève se déplace avec agilité et efficacité"
+        ]
+      }
+    }
   },
   {
     "titre": "Saut à la perche simplifié",
@@ -500,8 +2512,58 @@
     "variantes": "Perche plus longue, élan plus long, franchissement d'obstacle avec perche.",
     "adaptation": "Exercice de suspension à la perche sans saut, saut assisté avec l'enseignant, hauteur minimale.",
     "duree": 25,
-    "materiel": ["Perches légères (bambou 2 m)", "Matelas de réception très épais", "Zone de plantation"],
-    "tags": ["perche", "athlétisme", "technique", "envol"]
+    "materiel": [
+      "Perches légères (bambou 2 m)",
+      "Matelas de réception très épais",
+      "Zone de plantation"
+    ],
+    "tags": [
+      "perche",
+      "athlétisme",
+      "technique",
+      "envol"
+    ],
+    "progression": {
+      "niveau1": {
+        "titre": "Débutant",
+        "description": "À ce stade, l'objectif est d'apprivoiser l'exercice sans pression de performance. Pour « Saut à la perche simplifié », voici les attentes à ce niveau.",
+        "consignes": [
+          "Pratiquer un seul type de déplacement à la fois",
+          "Respecter les limites de son espace",
+          "Suivre des lignes au sol ou des repères visuels"
+        ],
+        "criteres_reussite": [
+          "L'élève se déplace de façon contrôlée",
+          "L'élève freine et s'arrête sur commande"
+        ]
+      },
+      "niveau2": {
+        "titre": "Intermédiaire",
+        "description": "L'élève maîtrise les bases et cherche à améliorer sa constance et sa fluidité. Pour « Saut à la perche simplifié », voici les attentes à ce niveau.",
+        "consignes": [
+          "S'adapter au rythme d'un partenaire",
+          "Augmenter la vitesse tout en gardant le contrôle",
+          "Alterner entre deux types de déplacement"
+        ],
+        "criteres_reussite": [
+          "La transition entre les déplacements est fluide",
+          "L'élève maintient sa vitesse dans les changements"
+        ]
+      },
+      "niveau3": {
+        "titre": "Avancé",
+        "description": "L'élève perfectionne sa technique et s'adapte à des situations complexes. Pour « Saut à la perche simplifié », voici les attentes à ce niveau.",
+        "consignes": [
+          "Se déplacer en situation de jeu avec adversaire",
+          "Combiner plusieurs types de déplacement en enchaînement",
+          "Réagir rapidement aux changements d'environnement"
+        ],
+        "criteres_reussite": [
+          "L'élève se déplace avec agilité et efficacité",
+          "L'élève adapte ses déplacements à la situation de jeu"
+        ]
+      }
+    }
   },
   {
     "titre": "Sauts enchaînés sur musique",
@@ -512,8 +2574,57 @@
     "variantes": "Musiques de tempos différents, élèves créent leur enchaînement, sauts en duo synchronisé.",
     "adaptation": "Tempo lent, seulement 2 types de sauts, marquer le rythme en tapant des mains d'abord.",
     "duree": 10,
-    "materiel": ["Haut-parleur et musique rythmée", "Espace dégagé"],
-    "tags": ["musique", "rythme", "enchaînement", "coordination"]
+    "materiel": [
+      "Haut-parleur et musique rythmée",
+      "Espace dégagé"
+    ],
+    "tags": [
+      "musique",
+      "rythme",
+      "enchaînement",
+      "coordination"
+    ],
+    "progression": {
+      "niveau1": {
+        "titre": "Débutant",
+        "description": "À ce stade, l'objectif est d'apprivoiser l'exercice sans pression de performance. Pour « Sauts enchaînés sur musique », voici les attentes à ce niveau.",
+        "consignes": [
+          "Pratiquer un seul type de déplacement à la fois",
+          "Se déplacer à vitesse lente dans un espace délimité",
+          "Respecter les limites de son espace"
+        ],
+        "criteres_reussite": [
+          "Le patron moteur de base est reconnaissable",
+          "L'élève freine et s'arrête sur commande"
+        ]
+      },
+      "niveau2": {
+        "titre": "Intermédiaire",
+        "description": "À ce niveau, on ajoute de la complexité tout en consolidant les acquis. Pour « Sauts enchaînés sur musique », voici les attentes à ce niveau.",
+        "consignes": [
+          "Se déplacer en changeant de direction sur signal",
+          "Augmenter la vitesse tout en gardant le contrôle",
+          "Combiner déplacement et manipulation d'objet"
+        ],
+        "criteres_reussite": [
+          "La transition entre les déplacements est fluide",
+          "L'élève change de direction sans perte d'équilibre"
+        ]
+      },
+      "niveau3": {
+        "titre": "Avancé",
+        "description": "À ce stade avancé, l'élève crée, innove et aide ses pairs. Pour « Sauts enchaînés sur musique », voici les attentes à ce niveau.",
+        "consignes": [
+          "Optimiser ses trajectoires pour l'efficacité",
+          "Réagir rapidement aux changements d'environnement",
+          "Combiner plusieurs types de déplacement en enchaînement"
+        ],
+        "criteres_reussite": [
+          "L'élève adapte ses déplacements à la situation de jeu",
+          "L'élève se déplace avec agilité et efficacité"
+        ]
+      }
+    }
   },
   {
     "titre": "Saut vertical avec touche d'objet suspendu",
@@ -524,8 +2635,57 @@
     "variantes": "Toucher avec la tête, toucher 2 objets différents en un saut, saut depuis un step.",
     "adaptation": "Objets très bas, sauter pour toucher un objet tenu par l'enseignant, pas de mesure.",
     "duree": 10,
-    "materiel": ["Foulards ou ballons suspendus à des fils", "Support (barre haute, panier de basketball)"],
-    "tags": ["vertical", "objet", "hauteur", "motivation"]
+    "materiel": [
+      "Foulards ou ballons suspendus à des fils",
+      "Support (barre haute, panier de basketball)"
+    ],
+    "tags": [
+      "vertical",
+      "objet",
+      "hauteur",
+      "motivation"
+    ],
+    "progression": {
+      "niveau1": {
+        "titre": "Débutant",
+        "description": "Le débutant explore les bases de l'activité avec un accompagnement soutenu. Pour « Saut vertical avec touche d'objet suspendu », voici les attentes à ce niveau.",
+        "consignes": [
+          "Se déplacer à vitesse lente dans un espace délimité",
+          "Respecter les limites de son espace",
+          "Pratiquer un seul type de déplacement à la fois"
+        ],
+        "criteres_reussite": [
+          "L'élève freine et s'arrête sur commande",
+          "L'élève se déplace de façon contrôlée"
+        ]
+      },
+      "niveau2": {
+        "titre": "Intermédiaire",
+        "description": "L'élève maîtrise les bases et cherche à améliorer sa constance et sa fluidité. Pour « Saut vertical avec touche d'objet suspendu », voici les attentes à ce niveau.",
+        "consignes": [
+          "S'adapter au rythme d'un partenaire",
+          "Combiner déplacement et manipulation d'objet",
+          "Augmenter la vitesse tout en gardant le contrôle"
+        ],
+        "criteres_reussite": [
+          "L'élève change de direction sans perte d'équilibre",
+          "L'élève maintient sa vitesse dans les changements"
+        ]
+      },
+      "niveau3": {
+        "titre": "Avancé",
+        "description": "À ce stade avancé, l'élève crée, innove et aide ses pairs. Pour « Saut vertical avec touche d'objet suspendu », voici les attentes à ce niveau.",
+        "consignes": [
+          "Se déplacer en situation de jeu avec adversaire",
+          "Combiner plusieurs types de déplacement en enchaînement",
+          "Optimiser ses trajectoires pour l'efficacité"
+        ],
+        "criteres_reussite": [
+          "L'élève se déplace avec agilité et efficacité",
+          "Les enchaînements sont fluides et rapides"
+        ]
+      }
+    }
   },
   {
     "titre": "Saut de banc en banc (rivière)",
@@ -536,8 +2696,57 @@
     "variantes": "Bancs en diagonale, sauter en arrière, transporter un objet en sautant.",
     "adaptation": "2 bancs seulement, bancs rapprochés, tapis entre les bancs pour la sécurité.",
     "duree": 15,
-    "materiel": ["3 bancs suédois", "Tapis de sécurité"],
-    "tags": ["bancs", "précision", "rivière", "équilibre"]
+    "materiel": [
+      "3 bancs suédois",
+      "Tapis de sécurité"
+    ],
+    "tags": [
+      "bancs",
+      "précision",
+      "rivière",
+      "équilibre"
+    ],
+    "progression": {
+      "niveau1": {
+        "titre": "Débutant",
+        "description": "À ce stade, l'objectif est d'apprivoiser l'exercice sans pression de performance. Pour « Saut de banc en banc (rivière) », voici les attentes à ce niveau.",
+        "consignes": [
+          "Respecter les limites de son espace",
+          "Se déplacer à vitesse lente dans un espace délimité",
+          "Suivre des lignes au sol ou des repères visuels"
+        ],
+        "criteres_reussite": [
+          "L'élève freine et s'arrête sur commande",
+          "Le patron moteur de base est reconnaissable"
+        ]
+      },
+      "niveau2": {
+        "titre": "Intermédiaire",
+        "description": "À ce niveau, on ajoute de la complexité tout en consolidant les acquis. Pour « Saut de banc en banc (rivière) », voici les attentes à ce niveau.",
+        "consignes": [
+          "Augmenter la vitesse tout en gardant le contrôle",
+          "S'adapter au rythme d'un partenaire",
+          "Alterner entre deux types de déplacement"
+        ],
+        "criteres_reussite": [
+          "L'élève change de direction sans perte d'équilibre",
+          "La transition entre les déplacements est fluide"
+        ]
+      },
+      "niveau3": {
+        "titre": "Avancé",
+        "description": "L'élève démontre une maîtrise complète et peut enseigner aux autres. Pour « Saut de banc en banc (rivière) », voici les attentes à ce niveau.",
+        "consignes": [
+          "Réagir rapidement aux changements d'environnement",
+          "Combiner plusieurs types de déplacement en enchaînement",
+          "Créer des feintes et des changements de rythme"
+        ],
+        "criteres_reussite": [
+          "L'élève adapte ses déplacements à la situation de jeu",
+          "L'élève se déplace avec agilité et efficacité"
+        ]
+      }
+    }
   },
   {
     "titre": "Double dutch initiation",
@@ -548,8 +2757,56 @@
     "variantes": "Double dutch en duo, figures dans le double dutch, compétition de durée.",
     "adaptation": "Une seule corde d'abord, cordes oscillantes (pas de tour complet), entrer avec l'enseignant.",
     "duree": 20,
-    "materiel": ["2 grandes cordes (5-6 m chacune)"],
-    "tags": ["double dutch", "corde", "timing", "avancé"]
+    "materiel": [
+      "2 grandes cordes (5-6 m chacune)"
+    ],
+    "tags": [
+      "double dutch",
+      "corde",
+      "timing",
+      "avancé"
+    ],
+    "progression": {
+      "niveau1": {
+        "titre": "Débutant",
+        "description": "À ce stade, l'objectif est d'apprivoiser l'exercice sans pression de performance. Pour « Double dutch initiation », voici les attentes à ce niveau.",
+        "consignes": [
+          "Suivre des lignes au sol ou des repères visuels",
+          "Respecter les limites de son espace",
+          "Se déplacer à vitesse lente dans un espace délimité"
+        ],
+        "criteres_reussite": [
+          "Le patron moteur de base est reconnaissable",
+          "L'élève se déplace de façon contrôlée"
+        ]
+      },
+      "niveau2": {
+        "titre": "Intermédiaire",
+        "description": "À ce niveau, on ajoute de la complexité tout en consolidant les acquis. Pour « Double dutch initiation », voici les attentes à ce niveau.",
+        "consignes": [
+          "Augmenter la vitesse tout en gardant le contrôle",
+          "Se déplacer en changeant de direction sur signal",
+          "Combiner déplacement et manipulation d'objet"
+        ],
+        "criteres_reussite": [
+          "La transition entre les déplacements est fluide",
+          "L'élève maintient sa vitesse dans les changements"
+        ]
+      },
+      "niveau3": {
+        "titre": "Avancé",
+        "description": "À ce stade avancé, l'élève crée, innove et aide ses pairs. Pour « Double dutch initiation », voici les attentes à ce niveau.",
+        "consignes": [
+          "Optimiser ses trajectoires pour l'efficacité",
+          "Se déplacer en situation de jeu avec adversaire",
+          "Réagir rapidement aux changements d'environnement"
+        ],
+        "criteres_reussite": [
+          "L'élève se déplace avec agilité et efficacité",
+          "L'élève adapte ses déplacements à la situation de jeu"
+        ]
+      }
+    }
   },
   {
     "titre": "Sauts de puce (rebonds rapides)",
@@ -560,8 +2817,57 @@
     "variantes": "Sauts de puce en avançant, sauts de puce latéraux, alternance puce lente-puce rapide.",
     "adaptation": "15 secondes par série, sur surface souple, amplitude plus grande permise.",
     "duree": 8,
-    "materiel": ["Chronomètre", "Surface stable"],
-    "tags": ["puce", "fréquence", "mollets", "stiffness"]
+    "materiel": [
+      "Chronomètre",
+      "Surface stable"
+    ],
+    "tags": [
+      "puce",
+      "fréquence",
+      "mollets",
+      "stiffness"
+    ],
+    "progression": {
+      "niveau1": {
+        "titre": "Débutant",
+        "description": "L'élève découvre l'activité et se familiarise avec les mouvements fondamentaux. Pour « Sauts de puce (rebonds rapides) », voici les attentes à ce niveau.",
+        "consignes": [
+          "Respecter les limites de son espace",
+          "Se déplacer à vitesse lente dans un espace délimité",
+          "Garder le contrôle de son corps en mouvement"
+        ],
+        "criteres_reussite": [
+          "Le patron moteur de base est reconnaissable",
+          "L'élève se déplace de façon contrôlée"
+        ]
+      },
+      "niveau2": {
+        "titre": "Intermédiaire",
+        "description": "L'élève est capable d'exécuter l'activité de façon autonome avec quelques ajustements. Pour « Sauts de puce (rebonds rapides) », voici les attentes à ce niveau.",
+        "consignes": [
+          "Se déplacer en changeant de direction sur signal",
+          "Combiner déplacement et manipulation d'objet",
+          "S'adapter au rythme d'un partenaire"
+        ],
+        "criteres_reussite": [
+          "La transition entre les déplacements est fluide",
+          "L'élève maintient sa vitesse dans les changements"
+        ]
+      },
+      "niveau3": {
+        "titre": "Avancé",
+        "description": "L'élève démontre une maîtrise complète et peut enseigner aux autres. Pour « Sauts de puce (rebonds rapides) », voici les attentes à ce niveau.",
+        "consignes": [
+          "Créer des feintes et des changements de rythme",
+          "Optimiser ses trajectoires pour l'efficacité",
+          "Réagir rapidement aux changements d'environnement"
+        ],
+        "criteres_reussite": [
+          "L'élève adapte ses déplacements à la situation de jeu",
+          "Les enchaînements sont fluides et rapides"
+        ]
+      }
+    }
   },
   {
     "titre": "Saut en ciseau alterné",
@@ -572,8 +2878,57 @@
     "variantes": "Ciseaux avec bras en opposition, ciseaux avec déplacement avant, ciseaux avec demi-tour.",
     "adaptation": "Ciseaux lents sans saut (fente alternée), 5 ciseaux par série, sur surface souple.",
     "duree": 10,
-    "materiel": ["Espace dégagé", "Tapis (optionnel)"],
-    "tags": ["ciseau", "alterné", "coordination", "jambes"]
+    "materiel": [
+      "Espace dégagé",
+      "Tapis (optionnel)"
+    ],
+    "tags": [
+      "ciseau",
+      "alterné",
+      "coordination",
+      "jambes"
+    ],
+    "progression": {
+      "niveau1": {
+        "titre": "Débutant",
+        "description": "À ce stade, l'objectif est d'apprivoiser l'exercice sans pression de performance. Pour « Saut en ciseau alterné », voici les attentes à ce niveau.",
+        "consignes": [
+          "Pratiquer un seul type de déplacement à la fois",
+          "Garder le contrôle de son corps en mouvement",
+          "Se déplacer à vitesse lente dans un espace délimité"
+        ],
+        "criteres_reussite": [
+          "L'élève freine et s'arrête sur commande",
+          "Le patron moteur de base est reconnaissable"
+        ]
+      },
+      "niveau2": {
+        "titre": "Intermédiaire",
+        "description": "L'intermédiaire travaille la régularité et commence à combiner les habiletés. Pour « Saut en ciseau alterné », voici les attentes à ce niveau.",
+        "consignes": [
+          "Alterner entre deux types de déplacement",
+          "Augmenter la vitesse tout en gardant le contrôle",
+          "S'adapter au rythme d'un partenaire"
+        ],
+        "criteres_reussite": [
+          "L'élève maintient sa vitesse dans les changements",
+          "La transition entre les déplacements est fluide"
+        ]
+      },
+      "niveau3": {
+        "titre": "Avancé",
+        "description": "L'expert peut exécuter l'activité dans des contextes variés et exigeants. Pour « Saut en ciseau alterné », voici les attentes à ce niveau.",
+        "consignes": [
+          "Combiner plusieurs types de déplacement en enchaînement",
+          "Optimiser ses trajectoires pour l'efficacité",
+          "Se déplacer en situation de jeu avec adversaire"
+        ],
+        "criteres_reussite": [
+          "Les enchaînements sont fluides et rapides",
+          "L'élève adapte ses déplacements à la situation de jeu"
+        ]
+      }
+    }
   },
   {
     "titre": "Saut en longueur par-dessus rivière",
@@ -584,8 +2939,56 @@
     "variantes": "Rivière en virage, rivière avec courant (corde qui bouge), sauter la rivière en reculons.",
     "adaptation": "Rivière très étroite (20 cm), enjamber au lieu de sauter, aide de l'enseignant.",
     "duree": 10,
-    "materiel": ["2 cordes longues ou ruban adhésif"],
-    "tags": ["rivière", "longueur", "progressif", "confiance"]
+    "materiel": [
+      "2 cordes longues ou ruban adhésif"
+    ],
+    "tags": [
+      "rivière",
+      "longueur",
+      "progressif",
+      "confiance"
+    ],
+    "progression": {
+      "niveau1": {
+        "titre": "Débutant",
+        "description": "À ce stade, l'objectif est d'apprivoiser l'exercice sans pression de performance. Pour « Saut en longueur par-dessus rivière », voici les attentes à ce niveau.",
+        "consignes": [
+          "Se déplacer à vitesse lente dans un espace délimité",
+          "Pratiquer un seul type de déplacement à la fois",
+          "Suivre des lignes au sol ou des repères visuels"
+        ],
+        "criteres_reussite": [
+          "L'élève se déplace de façon contrôlée",
+          "L'élève freine et s'arrête sur commande"
+        ]
+      },
+      "niveau2": {
+        "titre": "Intermédiaire",
+        "description": "L'intermédiaire travaille la régularité et commence à combiner les habiletés. Pour « Saut en longueur par-dessus rivière », voici les attentes à ce niveau.",
+        "consignes": [
+          "Combiner déplacement et manipulation d'objet",
+          "Augmenter la vitesse tout en gardant le contrôle",
+          "S'adapter au rythme d'un partenaire"
+        ],
+        "criteres_reussite": [
+          "L'élève maintient sa vitesse dans les changements",
+          "L'élève change de direction sans perte d'équilibre"
+        ]
+      },
+      "niveau3": {
+        "titre": "Avancé",
+        "description": "L'élève démontre une maîtrise complète et peut enseigner aux autres. Pour « Saut en longueur par-dessus rivière », voici les attentes à ce niveau.",
+        "consignes": [
+          "Optimiser ses trajectoires pour l'efficacité",
+          "Se déplacer en situation de jeu avec adversaire",
+          "Combiner plusieurs types de déplacement en enchaînement"
+        ],
+        "criteres_reussite": [
+          "L'élève se déplace avec agilité et efficacité",
+          "L'élève adapte ses déplacements à la situation de jeu"
+        ]
+      }
+    }
   },
   {
     "titre": "Saut de puissance: squat jump mesuré",
@@ -596,7 +2999,57 @@
     "variantes": "Squat jump avec charge légère (médecine-ball), squat jump avec rotation, squat jump en longueur.",
     "adaptation": "Demi-squat seulement, 3 sauts par série, pas de mesure compétitive.",
     "duree": 12,
-    "materiel": ["Mur pour mesure", "Craie", "Chronomètre"],
-    "tags": ["squat jump", "puissance", "concentrique", "mesure"]
+    "materiel": [
+      "Mur pour mesure",
+      "Craie",
+      "Chronomètre"
+    ],
+    "tags": [
+      "squat jump",
+      "puissance",
+      "concentrique",
+      "mesure"
+    ],
+    "progression": {
+      "niveau1": {
+        "titre": "Débutant",
+        "description": "Le débutant explore les bases de l'activité avec un accompagnement soutenu. Pour « Saut de puissance: squat jump mesuré », voici les attentes à ce niveau.",
+        "consignes": [
+          "Pratiquer un seul type de déplacement à la fois",
+          "Garder le contrôle de son corps en mouvement",
+          "Suivre des lignes au sol ou des repères visuels"
+        ],
+        "criteres_reussite": [
+          "Le patron moteur de base est reconnaissable",
+          "L'élève freine et s'arrête sur commande"
+        ]
+      },
+      "niveau2": {
+        "titre": "Intermédiaire",
+        "description": "À ce niveau, on ajoute de la complexité tout en consolidant les acquis. Pour « Saut de puissance: squat jump mesuré », voici les attentes à ce niveau.",
+        "consignes": [
+          "Augmenter la vitesse tout en gardant le contrôle",
+          "Combiner déplacement et manipulation d'objet",
+          "Alterner entre deux types de déplacement"
+        ],
+        "criteres_reussite": [
+          "La transition entre les déplacements est fluide",
+          "L'élève change de direction sans perte d'équilibre"
+        ]
+      },
+      "niveau3": {
+        "titre": "Avancé",
+        "description": "L'expert peut exécuter l'activité dans des contextes variés et exigeants. Pour « Saut de puissance: squat jump mesuré », voici les attentes à ce niveau.",
+        "consignes": [
+          "Se déplacer en situation de jeu avec adversaire",
+          "Combiner plusieurs types de déplacement en enchaînement",
+          "Créer des feintes et des changements de rythme"
+        ],
+        "criteres_reussite": [
+          "Les enchaînements sont fluides et rapides",
+          "L'élève se déplace avec agilité et efficacité"
+        ]
+      }
+    }
   }
 ]

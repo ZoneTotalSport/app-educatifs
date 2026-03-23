@@ -727,6 +727,29 @@ function openModal(edu) {
     </div>
     ` : ''}
 
+    ${edu.progression ? `
+    <div class="modal-section">
+      <div class="modal-section-label">📈 Progression par niveau</div>
+      <div class="progression-levels">
+        ${['niveau1','niveau2','niveau3'].map(nk => {
+          const p = edu.progression[nk];
+          if (!p) return '';
+          const emoji = nk === 'niveau1' ? '🟢' : nk === 'niveau2' ? '🟠' : '🔴';
+          const color = nk === 'niveau1' ? '#4CAF50' : nk === 'niveau2' ? '#FF9800' : '#f44336';
+          return `
+          <div class="progression-card" style="border-left: 4px solid ${color};">
+            <div class="progression-title">${emoji} ${escapeHtml(p.titre)}</div>
+            <p class="progression-desc">${escapeHtml(p.description)}</p>
+            <div class="progression-sub">📋 Consignes :</div>
+            <ul class="progression-list">${p.consignes.map(c => '<li>' + escapeHtml(c) + '</li>').join('')}</ul>
+            <div class="progression-sub">✅ Critères de réussite :</div>
+            <ul class="progression-list">${p.criteres_reussite.map(c => '<li>' + escapeHtml(c) + '</li>').join('')}</ul>
+          </div>`;
+        }).join('')}
+      </div>
+    </div>
+    ` : ''}
+
     ${tagsHtml ? `
     <div class="modal-divider"></div>
     <div class="modal-section">
@@ -776,6 +799,10 @@ function openModal(edu) {
   p { font-size: 1.2rem; line-height: 1.8; }
   .materiel span { display: inline-block; background: #FFF8E1; border: 1px solid #FFB74D; padding: 4px 12px; border-radius: 8px; margin: 3px; font-size: 1rem; }
   .footer { margin-top: 40px; text-align: center; color: #999; font-size: 0.9rem; font-family: 'Fredoka', sans-serif; }
+  .prog-card { border-left: 4px solid #ccc; padding: 10px 14px; margin: 8px 0; background: #fafafa; border-radius: 8px; }
+  .prog-card h3 { font-family: 'Bangers', cursive; font-size: 1.1rem; margin: 0 0 4px; }
+  .prog-card ul { margin: 4px 0; padding-left: 20px; font-size: 0.95rem; }
+  .prog-card .sub { font-weight: 700; font-size: 0.9rem; margin-top: 8px; }
 </style></head><body>
 <h1>${escapeHtml(edu.titre)}</h1>
 <div class="badges">
@@ -788,6 +815,21 @@ function openModal(edu) {
 ${edu.materiel ? '<h2>🎒 Matériel</h2><div class="materiel">' + edu.materiel.map(m => '<span>' + escapeHtml(m) + '</span>').join('') + '</div>' : ''}
 ${edu.variantes ? '<h2>🔄 Variantes</h2><p>' + escapeHtml(edu.variantes) + '</p>' : ''}
 ${edu.adaptation ? '<h2>♿ Adaptations</h2><p>' + escapeHtml(edu.adaptation) + '</p>' : ''}
+${edu.progression ? (() => {
+  let h = '<h2>📈 Progression par niveau</h2>';
+  ['niveau1','niveau2','niveau3'].forEach(nk => {
+    const p = edu.progression[nk]; if(!p) return;
+    const clr = nk==='niveau1'?'#4CAF50':nk==='niveau2'?'#FF9800':'#f44336';
+    const em = nk==='niveau1'?'🟢':nk==='niveau2'?'🟠':'🔴';
+    h += '<div class="prog-card" style="border-left-color:'+clr+'">';
+    h += '<h3>'+em+' '+escapeHtml(p.titre)+'</h3>';
+    h += '<p style="font-size:0.95rem;color:#555;">'+escapeHtml(p.description)+'</p>';
+    h += '<div class="sub">📋 Consignes :</div><ul>'+p.consignes.map(c=>'<li>'+escapeHtml(c)+'</li>').join('')+'</ul>';
+    h += '<div class="sub">✅ Critères de réussite :</div><ul>'+p.criteres_reussite.map(c=>'<li>'+escapeHtml(c)+'</li>').join('')+'</ul>';
+    h += '</div>';
+  });
+  return h;
+})() : ''}
 <div class="footer"><a href="https://zonetotalsport.ca" target="_blank" style="display:inline-block; background:#fff; border-radius:12px; padding:10px 20px;"><img src="${window.location.origin + '/img/logo-zonetotalsport.png'}" alt="ZoneTotalSport.ca" style="max-width:260px; height:auto; display:block;" /></a><br><a href="https://zonetotalsport.ca" target="_blank">zonetotalsport.ca</a> — Éducatifs ÉPS</div>
 </body></html>`);
     printWin.document.close();
