@@ -1223,7 +1223,7 @@ button {
 }
 
 .modal-card {
-  background: rgba(15, 30, 50, 0.92);
+  background: url('img/gym-bg-roots.jpg') center/cover no-repeat;
   border: 3px solid #FFD700;
   color: #fff;
   border-radius: var(--radius-lg);
@@ -1265,6 +1265,10 @@ button {
   display: flex;
   align-items: center;
   gap: 20px;
+  background: rgba(15, 30, 50, 0.85);
+  padding: 20px;
+  border-radius: 12px;
+  border: 1px solid rgba(255, 255, 255, 0.1);
 }
 
 .modal-mascot {
@@ -1283,6 +1287,13 @@ button {
   display: block;
 }
 
+.modal-header-zone {
+  background: rgba(15, 30, 50, 0.85);
+  padding: 20px;
+  border-radius: 12px;
+  margin-bottom: 20px;
+  border: 1px solid rgba(255, 255, 255, 0.1);
+}
 .modal-title {
   font-family: 'Bangers', cursive;
   font-weight: 400;
@@ -1303,6 +1314,10 @@ button {
 
 .modal-section {
   margin-bottom: 20px;
+  background: rgba(15, 30, 50, 0.85);
+  padding: 16px 20px;
+  border-radius: 12px;
+  border: 1px solid rgba(255, 255, 255, 0.1);
 }
 
 .modal-section-label {
@@ -1530,6 +1545,10 @@ button {
   gap: 8px;
   margin-bottom: 20px;
   flex-wrap: wrap;
+  background: rgba(15, 30, 50, 0.85);
+  padding: 14px 20px;
+  border-radius: 12px;
+  border: 1px solid rgba(255, 255, 255, 0.1);
 }
 
 .modal-action-btn {
