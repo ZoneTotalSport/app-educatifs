@@ -1265,10 +1265,11 @@ button {
   display: flex;
   align-items: center;
   gap: 20px;
-  background: rgba(15, 30, 50, 0.85);
+  background: rgba(255, 255, 255, 0.75);
   padding: 20px;
   border-radius: 12px;
-  border: 1px solid rgba(255, 255, 255, 0.1);
+  border: 2px solid rgba(255, 255, 255, 0.3);
+  box-shadow: 0 4px 15px rgba(0,0,0,0.1);
 }
 
 .modal-mascot {
@@ -1287,22 +1288,15 @@ button {
   display: block;
 }
 
-.modal-header-zone {
-  background: rgba(15, 30, 50, 0.85);
-  padding: 20px;
-  border-radius: 12px;
-  margin-bottom: 20px;
-  border: 1px solid rgba(255, 255, 255, 0.1);
-}
 .modal-title {
   font-family: 'Luckiest Guy', cursive;
   font-weight: 400;
   font-size: 2.2rem;
-  color: #FFD700;
+  color: #0F0F2E;
   line-height: 1.15;
   margin-bottom: 10px;
   letter-spacing: 2px;
-  text-shadow: 0 2px 8px rgba(0,0,0,0.3);
+  text-shadow: none;
 }
 
 .modal-badges {
@@ -1314,11 +1308,19 @@ button {
 
 .modal-section {
   margin-bottom: 20px;
-  background: rgba(15, 30, 50, 0.85);
+  background: rgba(255, 255, 255, 0.75);
   padding: 16px 20px;
   border-radius: 12px;
-  border: 1px solid rgba(255, 255, 255, 0.1);
+  border: 2px solid rgba(255, 255, 255, 0.3);
+  box-shadow: 0 4px 15px rgba(0,0,0,0.1);
+  color: #1a1a1a;
 }
+.modal-section:nth-child(6n+1) .modal-section-label { color: #00E5FF; }
+.modal-section:nth-child(6n+2) .modal-section-label { color: #FFD700; }
+.modal-section:nth-child(6n+3) .modal-section-label { color: #FF6B00; }
+.modal-section:nth-child(6n+4) .modal-section-label { color: #00E676; }
+.modal-section:nth-child(6n+5) .modal-section-label { color: #FF2A7A; }
+.modal-section:nth-child(6n+6) .modal-section-label { color: #8B5CF6; }
 
 .modal-section-label {
   font-family: 'Luckiest Guy', cursive;
@@ -1341,10 +1343,10 @@ button {
 }
 
 .modal-desc {
-  font-family: 'Barriecito', cursive;
+  font-family: 'Schoolbell', cursive;
   font-size: 1.4rem;
   font-weight: 400;
-  color: #f0f0f0;
+  color: #1a1a1a;
   line-height: 1.9;
 }
 
@@ -1545,10 +1547,11 @@ button {
   gap: 8px;
   margin-bottom: 20px;
   flex-wrap: wrap;
-  background: rgba(15, 30, 50, 0.85);
+  background: rgba(255, 255, 255, 0.75);
   padding: 14px 20px;
   border-radius: 12px;
-  border: 1px solid rgba(255, 255, 255, 0.1);
+  border: 2px solid rgba(255, 255, 255, 0.3);
+  box-shadow: 0 4px 15px rgba(0,0,0,0.1);
 }
 
 .modal-action-btn {
