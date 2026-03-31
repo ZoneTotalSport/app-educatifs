@@ -174,7 +174,7 @@ button {
 .header-inner {
   max-width: 1400px;
   margin: 0 auto;
-  padding: 0 24px;
+  padding: 0 24px 0 140px;
   height: 100%;
   display: flex;
   align-items: center;
@@ -200,7 +200,7 @@ button {
 }
 
 .logo-title {
-  font-family: 'Bangers', cursive;
+  font-family: 'Luckiest Guy', cursive;
   font-weight: 400;
   font-size: 1.3rem;
   letter-spacing: 2px;
@@ -219,9 +219,10 @@ button {
 }
 
 .logo-sub {
+  font-family: 'Luckiest Guy', cursive;
   font-size: 0.7rem;
   color: var(--accent);
-  font-weight: 700;
+  font-weight: 400;
   letter-spacing: 0.5px;
 }
 
