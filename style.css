@@ -47,7 +47,7 @@ html {
 body {
   background-color: #f5f5dc;
   color: var(--text);
-  font-family: 'Comic Neue', 'Nunito', sans-serif;
+  font-family: 'Comic Neue', 'Schoolbell', sans-serif;
   font-weight: 600;
   line-height: 1.7;
   min-height: 100vh;
@@ -150,7 +150,7 @@ button {
 
 .loading-text {
   color: var(--text-muted);
-  font-family: 'Fredoka', sans-serif;
+  font-family: 'Schoolbell', sans-serif;
   font-weight: 600;
   font-size: 0.95rem;
   letter-spacing: 1px;
@@ -247,7 +247,7 @@ button {
 .stat-pill:nth-child(3) { border-color: var(--secondary); background: rgba(255, 140, 0, 0.1); }
 
 .stat-num {
-  font-family: 'Bangers', cursive;
+  font-family: 'Luckiest Guy', cursive;
   font-weight: 400;
   font-size: 0.95rem;
   color: var(--accent);
@@ -267,7 +267,7 @@ button {
 .nav-link {
   padding: 6px 14px;
   border-radius: var(--radius-sm);
-  font-family: 'Fredoka', sans-serif;
+  font-family: 'Schoolbell', sans-serif;
   font-size: 0.82rem;
   font-weight: 600;
   color: var(--text-muted);
@@ -332,7 +332,7 @@ button {
   border: 1px solid rgba(0, 229, 255, 0.3);
   border-radius: 20px;
   padding: 6px 16px;
-  font-family: 'Fredoka', sans-serif;
+  font-family: 'Schoolbell', sans-serif;
   font-size: 0.78rem;
   font-weight: 600;
   color: var(--primary);
@@ -355,7 +355,7 @@ button {
 }
 
 .hero-title {
-  font-family: 'Bangers', cursive;
+  font-family: 'Luckiest Guy', cursive;
   font-weight: 400;
   font-size: clamp(2.4rem, 6vw, 4.5rem);
   letter-spacing: 3px;
@@ -406,7 +406,7 @@ button {
   border-radius: 12px;
   padding: 10px 16px;
   color: #1a1a1a;
-  font-family: 'Nunito', sans-serif;
+  font-family: 'Schoolbell', sans-serif;
   font-size: 0.95rem;
   font-weight: 600;
   text-shadow: none;
@@ -435,7 +435,7 @@ button {
   backdrop-filter: blur(8px);
   -webkit-backdrop-filter: blur(8px);
   color: #1a1a1a;
-  font-family: 'Bangers', cursive;
+  font-family: 'Luckiest Guy', cursive;
   font-weight: 400;
   font-size: 1.1rem;
   letter-spacing: 1.5px;
@@ -460,7 +460,7 @@ button {
 .btn-primary {
   background: linear-gradient(135deg, #FF8C00, #E91E63);
   color: #fff;
-  font-family: 'Bangers', cursive;
+  font-family: 'Luckiest Guy', cursive;
   font-weight: 400;
   font-size: 1.15rem;
   letter-spacing: 2px;
@@ -572,7 +572,7 @@ button {
   border: none;
   outline: none;
   color: var(--text);
-  font-family: 'Nunito', sans-serif;
+  font-family: 'Schoolbell', sans-serif;
   font-size: 0.92rem;
   font-weight: 600;
   padding: 14px 0;
@@ -633,7 +633,7 @@ button {
   background: rgba(255, 255, 255, 0.05);
   border: 1px solid rgba(255, 255, 255, 0.1);
   color: var(--text-muted);
-  font-family: 'Fredoka', sans-serif;
+  font-family: 'Schoolbell', sans-serif;
   font-weight: 600;
   font-size: 0.85rem;
   cursor: pointer;
@@ -693,7 +693,7 @@ button {
 }
 
 .taxonomy-section-title {
-  font-family: 'Bangers', cursive;
+  font-family: 'Luckiest Guy', cursive;
   font-size: 1.1rem;
   font-weight: 400;
   text-transform: uppercase;
@@ -785,7 +785,7 @@ button {
 }
 
 .tile-name {
-  font-family: 'Bangers', cursive;
+  font-family: 'Luckiest Guy', cursive;
   font-size: 1.2rem;
   font-weight: 400;
   color: #1a1a1a;
@@ -845,7 +845,7 @@ button {
   color: var(--primary);
   border-radius: 50px;
   padding: 8px 18px;
-  font-family: 'Fredoka', sans-serif;
+  font-family: 'Schoolbell', sans-serif;
   font-weight: 700;
   font-size: 0.85rem;
   transition: var(--transition);
@@ -886,7 +886,7 @@ button {
   font-weight: 700;
   color: var(--text-muted);
   white-space: nowrap;
-  font-family: 'Fredoka', sans-serif;
+  font-family: 'Schoolbell', sans-serif;
 }
 
 .filter-select {
@@ -895,7 +895,7 @@ button {
   color: var(--text);
   border-radius: var(--radius-sm);
   padding: 6px 12px;
-  font-family: 'Nunito', sans-serif;
+  font-family: 'Schoolbell', sans-serif;
   font-size: 0.82rem;
   font-weight: 600;
   outline: none;
@@ -948,7 +948,7 @@ button {
 }
 
 .cat-header-info h2 {
-  font-family: 'Fredoka', sans-serif;
+  font-family: 'Schoolbell', sans-serif;
   font-weight: 700;
   font-size: 2rem;
   color: var(--text);
@@ -1032,7 +1032,7 @@ button {
 }
 
 .edu-card-title {
-  font-family: 'Bangers', cursive;
+  font-family: 'Luckiest Guy', cursive;
   font-weight: 400;
   font-size: 1.5rem;
   color: var(--primary);
@@ -1106,7 +1106,7 @@ button {
   padding: 5px 14px;
   font-size: 0.8rem;
   font-weight: 700;
-  font-family: 'Bangers', cursive, 'Fredoka', sans-serif;
+  font-family: 'Luckiest Guy', cursive, 'Schoolbell', sans-serif;
   white-space: nowrap;
 }
 
@@ -1295,7 +1295,7 @@ button {
   border: 1px solid rgba(255, 255, 255, 0.1);
 }
 .modal-title {
-  font-family: 'Bangers', cursive;
+  font-family: 'Luckiest Guy', cursive;
   font-weight: 400;
   font-size: 2.2rem;
   color: #FFD700;
@@ -1321,7 +1321,7 @@ button {
 }
 
 .modal-section-label {
-  font-family: 'Bangers', cursive;
+  font-family: 'Luckiest Guy', cursive;
   font-size: 1rem;
   font-weight: 400;
   text-transform: uppercase;
@@ -1361,7 +1361,7 @@ button {
   padding: 14px 16px;
 }
 .progression-title {
-  font-family: 'Bangers', cursive;
+  font-family: 'Luckiest Guy', cursive;
   font-size: 1.15rem;
   letter-spacing: 1px;
   margin-bottom: 4px;
@@ -1374,7 +1374,7 @@ button {
   line-height: 1.5;
 }
 .progression-sub {
-  font-family: 'Fredoka', sans-serif;
+  font-family: 'Schoolbell', sans-serif;
   font-weight: 700;
   font-size: 0.8rem;
   color: rgba(255,255,255,0.85);
@@ -1465,11 +1465,11 @@ button {
   letter-spacing: 1px;
   color: rgba(255,255,255,0.5);
   margin-bottom: 4px;
-  font-family: 'Fredoka', sans-serif;
+  font-family: 'Schoolbell', sans-serif;
 }
 
 .meta-item-value {
-  font-family: 'Fredoka', sans-serif;
+  font-family: 'Schoolbell', sans-serif;
   font-weight: 700;
   font-size: 1.05rem;
   color: #fff;
@@ -1518,7 +1518,7 @@ button {
   background: rgba(255, 215, 0, 0.08);
   border: 1px solid rgba(255, 215, 0, 0.2);
   color: var(--text-muted);
-  font-family: 'Fredoka', sans-serif;
+  font-family: 'Schoolbell', sans-serif;
   font-weight: 700;
   font-size: 0.82rem;
   cursor: pointer;
@@ -1560,7 +1560,7 @@ button {
   background: rgba(255, 255, 255, 0.12);
   border: 1px solid rgba(255, 255, 255, 0.25);
   color: #fff;
-  font-family: 'Fredoka', sans-serif;
+  font-family: 'Schoolbell', sans-serif;
   font-size: 0.85rem;
   font-weight: 700;
   cursor: pointer;
@@ -1589,7 +1589,7 @@ button {
   color: #fff;
   padding: 12px 24px;
   border-radius: 10px;
-  font-family: 'Nunito', sans-serif;
+  font-family: 'Schoolbell', sans-serif;
   font-size: 0.88rem;
   font-weight: 700;
   z-index: 9999;
@@ -2072,7 +2072,7 @@ button {
   border-radius: 11px;
   background: var(--red);
   color: #fff;
-  font-family: 'Fredoka', sans-serif;
+  font-family: 'Schoolbell', sans-serif;
   font-size: 0.75rem;
   font-weight: 700;
   display: flex;
@@ -2106,7 +2106,7 @@ button {
 }
 
 .cours-title {
-  font-family: 'Bangers', cursive;
+  font-family: 'Luckiest Guy', cursive;
   font-size: 2rem;
   color: var(--primary);
   letter-spacing: 2px;
@@ -2114,7 +2114,7 @@ button {
 }
 
 .cours-subtitle {
-  font-family: 'Nunito', sans-serif;
+  font-family: 'Schoolbell', sans-serif;
   color: var(--text-muted);
   font-size: 1rem;
 }
@@ -2144,7 +2144,7 @@ button {
 }
 
 .cours-label {
-  font-family: 'Fredoka', sans-serif;
+  font-family: 'Schoolbell', sans-serif;
   font-weight: 600;
   font-size: 0.85rem;
   color: var(--primary);
@@ -2153,7 +2153,7 @@ button {
 }
 
 .cours-input, .cours-select, .cours-textarea {
-  font-family: 'Nunito', sans-serif;
+  font-family: 'Schoolbell', sans-serif;
   font-size: 0.95rem;
   padding: 10px 14px;
   border: 2px solid rgba(0,119,204,0.2);
@@ -2187,14 +2187,14 @@ button {
 }
 
 .cours-list-header h3 {
-  font-family: 'Bangers', cursive;
+  font-family: 'Luckiest Guy', cursive;
   font-size: 1.3rem;
   color: var(--text);
   letter-spacing: 1px;
 }
 
 .cours-clear-btn {
-  font-family: 'Fredoka', sans-serif;
+  font-family: 'Schoolbell', sans-serif;
   font-size: 0.85rem;
   font-weight: 600;
   background: rgba(211,47,47,0.1);
@@ -2223,7 +2223,7 @@ button {
   text-align: center;
   padding: 40px 20px;
   color: var(--text-muted);
-  font-family: 'Nunito', sans-serif;
+  font-family: 'Schoolbell', sans-serif;
 }
 
 .cours-empty-icon {
@@ -2252,7 +2252,7 @@ button {
   display: flex;
   align-items: center;
   justify-content: center;
-  font-family: 'Bangers', cursive;
+  font-family: 'Luckiest Guy', cursive;
   font-size: 1.3rem;
   color: #fff;
   background: var(--primary);
@@ -2273,7 +2273,7 @@ button {
 }
 
 .cours-item-title {
-  font-family: 'Bangers', cursive;
+  font-family: 'Luckiest Guy', cursive;
   font-size: 1.1rem;
   color: var(--text);
   letter-spacing: 0.5px;
@@ -2286,7 +2286,7 @@ button {
 }
 
 .cours-item-meta {
-  font-family: 'Nunito', sans-serif;
+  font-family: 'Schoolbell', sans-serif;
   font-size: 0.8rem;
   color: var(--text-muted);
   display: flex;
@@ -2299,7 +2299,7 @@ button {
 }
 
 .cours-item-note input {
-  font-family: 'Nunito', sans-serif;
+  font-family: 'Schoolbell', sans-serif;
   font-size: 0.85rem;
   padding: 5px 10px;
   border: 1px dashed rgba(0,119,204,0.3);
@@ -2362,7 +2362,7 @@ button {
 }
 
 .cours-total-duration {
-  font-family: 'Fredoka', sans-serif;
+  font-family: 'Schoolbell', sans-serif;
   font-size: 1rem;
   color: var(--text);
 }
@@ -2374,7 +2374,7 @@ button {
 }
 
 .cours-btn {
-  font-family: 'Fredoka', sans-serif;
+  font-family: 'Schoolbell', sans-serif;
   font-weight: 600;
   font-size: 0.9rem;
   padding: 10px 20px;
@@ -2427,7 +2427,7 @@ button {
 }
 
 .cours-browser-title {
-  font-family: 'Bangers', cursive;
+  font-family: 'Luckiest Guy', cursive;
   font-size: 1.3rem;
   color: var(--primary);
   letter-spacing: 1px;
@@ -2466,13 +2466,13 @@ button {
 .cours-browser-hint {
   text-align: center;
   color: var(--text-muted);
-  font-family: 'Nunito', sans-serif;
+  font-family: 'Schoolbell', sans-serif;
   font-size: 0.9rem;
   padding: 20px;
 }
 
 .cours-browser-count {
-  font-family: 'Fredoka', sans-serif;
+  font-family: 'Schoolbell', sans-serif;
   font-size: 0.85rem;
   color: var(--text-muted);
   margin-bottom: 8px;
@@ -2505,7 +2505,7 @@ button {
 }
 
 .cours-browse-item-title {
-  font-family: 'Bangers', cursive;
+  font-family: 'Luckiest Guy', cursive;
   font-size: 1rem;
   color: var(--text);
   letter-spacing: 0.5px;
@@ -2515,7 +2515,7 @@ button {
 }
 
 .cours-browse-item-meta {
-  font-family: 'Nunito', sans-serif;
+  font-family: 'Schoolbell', sans-serif;
   font-size: 0.78rem;
   color: var(--text-muted);
   display: flex;
@@ -2530,7 +2530,7 @@ button {
   border: 2px solid var(--primary);
   background: rgba(0,119,204,0.08);
   color: var(--primary);
-  font-family: 'Fredoka', sans-serif;
+  font-family: 'Schoolbell', sans-serif;
   font-weight: 700;
   font-size: 0.82rem;
   cursor: pointer;
@@ -2612,4 +2612,4 @@ button {
 
 /* ===== LANG SELECTOR ===== */
 .lang-selector{margin-left:8px;}
-.lang-select{font-family:'Bangers';font-size:0.8rem;padding:2px 6px;border-radius:6px;border:2px solid rgba(255,255,255,0.3);background:rgba(0,0,0,0.3);color:#fff;cursor:pointer;}
+.lang-select{font-family:'Luckiest Guy';font-size:0.8rem;padding:2px 6px;border-radius:6px;border:2px solid rgba(255,255,255,0.3);background:rgba(0,0,0,0.3);color:#fff;cursor:pointer;}
