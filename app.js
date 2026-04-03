@@ -785,22 +785,22 @@ function openModal(edu) {
     const printWin = window.open('', '_blank');
     printWin.document.write(`<!DOCTYPE html>
 <html><head><title>${escapeHtml(edu.titre)} — Zone Total Sport</title>
-<link href="https://fonts.googleapis.com/css2?family=Bangers&family=Barriecito&family=Fredoka:wght@400;700&display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=Luckiest+Guy&family=Bangers&family=Schoolbell&display=swap" rel="stylesheet">
 <style>
-  body { font-family: 'Barriecito', cursive; margin: 40px; color: #222; }
-  h1 { font-family: 'Bangers', cursive; font-size: 2.5rem; color: #0077CC; letter-spacing: 2px; margin-bottom: 8px; }
-  .badges span { display: inline-block; padding: 4px 14px; border-radius: 20px; font-family: 'Fredoka', sans-serif; font-size: 0.9rem; font-weight: 700; margin-right: 8px; }
+  body { font-family: 'Schoolbell', cursive; margin: 40px; color: #222; }
+  h1 { font-family: 'Luckiest Guy', cursive; font-size: 2.5rem; color: #0077CC; letter-spacing: 2px; margin-bottom: 8px; }
+  .badges span { display: inline-block; padding: 4px 14px; border-radius: 20px; font-family: 'Bangers', cursive; font-size: 0.9rem; font-weight: 700; margin-right: 8px; }
   .badge-green { background: #E8F5E9; color: #2E7D32; border: 2px solid #66BB6A; }
   .badge-orange { background: #FFF3E0; color: #E65100; border: 2px solid #FF9800; }
   .badge-red { background: #FFEBEE; color: #C62828; border: 2px solid #EF5350; }
   .badge-blue { background: #E3F2FD; color: #0D47A1; border: 2px solid #42A5F5; }
-  .meta { display: flex; gap: 30px; margin: 20px 0; font-family: 'Fredoka', sans-serif; font-size: 1.1rem; color: #555; }
-  h2 { font-family: 'Bangers', cursive; font-size: 1.3rem; color: #E91E63; letter-spacing: 1px; margin-top: 24px; margin-bottom: 8px; border-bottom: 2px solid #E91E63; padding-bottom: 4px; }
+  .meta { display: flex; gap: 30px; margin: 20px 0; font-family: 'Luckiest Guy', cursive; font-size: 1.1rem; color: #555; }
+  h2 { font-family: 'Luckiest Guy', cursive; font-size: 1.3rem; color: #E91E63; letter-spacing: 1px; margin-top: 24px; margin-bottom: 8px; border-bottom: 2px solid #E91E63; padding-bottom: 4px; }
   p { font-size: 1.2rem; line-height: 1.8; }
   .materiel span { display: inline-block; background: #FFF8E1; border: 1px solid #FFB74D; padding: 4px 12px; border-radius: 8px; margin: 3px; font-size: 1rem; }
-  .footer { margin-top: 40px; text-align: center; color: #999; font-size: 0.9rem; font-family: 'Fredoka', sans-serif; }
+  .footer { margin-top: 40px; text-align: center; color: #999; font-size: 0.9rem; font-family: 'Bangers', cursive; }
   .prog-card { border-left: 4px solid #ccc; padding: 10px 14px; margin: 8px 0; background: #fafafa; border-radius: 8px; }
-  .prog-card h3 { font-family: 'Bangers', cursive; font-size: 1.1rem; margin: 0 0 4px; }
+  .prog-card h3 { font-family: 'Luckiest Guy', cursive; font-size: 1.1rem; margin: 0 0 4px; }
   .prog-card ul { margin: 4px 0; padding-left: 20px; font-size: 0.95rem; }
   .prog-card .sub { font-weight: 700; font-size: 0.9rem; margin-top: 8px; }
 </style></head><body>
@@ -1303,15 +1303,15 @@ function buildCoursHTML() {
     edusHTML += `
       <div style="border:1px solid #ddd; border-radius:12px; padding:16px; margin-bottom:12px; page-break-inside:avoid; background:#fafafa;">
         <div style="display:flex; align-items:center; gap:12px; margin-bottom:8px;">
-          <div style="width:36px; height:36px; border-radius:50%; background:#0077CC; color:#fff; display:flex; align-items:center; justify-content:center; font-family:'Fredoka',sans-serif; font-weight:700; font-size:1.1rem; flex-shrink:0;">${i + 1}</div>
+          <div style="width:36px; height:36px; border-radius:50%; background:#0077CC; color:#fff; display:flex; align-items:center; justify-content:center; font-family:'Bangers',cursive; font-weight:700; font-size:1.1rem; flex-shrink:0;">${i + 1}</div>
           <div>
-            <div style="font-family:'Bangers',cursive; font-size:1.2rem; letter-spacing:1px; color:#222;">${escapeHtml(edu.titre)}</div>
-            <div style="font-size:0.85rem; color:#666; font-family:'Nunito',sans-serif;">
+            <div style="font-family:'Luckiest Guy',cursive; font-size:1.2rem; letter-spacing:1px; color:#222;">${escapeHtml(edu.titre)}</div>
+            <div style="font-size:0.85rem; color:#666; font-family:'Schoolbell',cursive;">
               ${edu._catEmoji || ''} ${escapeHtml(edu._catName || '')} · ⏱ ${edu.duree} min · ${escapeHtml(diffLabel[edu.difficulte] || '')} · ${escapeHtml(edu.niveau)}
             </div>
           </div>
         </div>
-        <p style="font-size:0.95rem; line-height:1.6; color:#333; font-family:'Nunito',sans-serif; margin:8px 0;">${escapeHtml(edu.desc)}</p>
+        <p style="font-size:0.95rem; line-height:1.6; color:#333; font-family:'Schoolbell',cursive; margin:8px 0;">${escapeHtml(edu.desc)}</p>
         ${edu.materiel && edu.materiel.length > 0 && edu.materiel[0] !== 'Aucun' ? '<div style="font-size:0.85rem; color:#555; margin-top:6px;"><strong>Matériel :</strong> ' + edu.materiel.map(m => escapeHtml(m)).join(', ') + '</div>' : ''}
         ${edu._note ? '<div style="font-size:0.85rem; color:#0077CC; margin-top:6px; font-style:italic;">📝 Note : ' + escapeHtml(edu._note) + '</div>' : ''}
       </div>
@@ -1321,17 +1321,17 @@ function buildCoursHTML() {
   return `<!DOCTYPE html>
 <html lang="fr"><head><meta charset="UTF-8">
 <title>${escapeHtml(config.titre || 'Mon cours')} — Zone Total Sport</title>
-<link href="https://fonts.googleapis.com/css2?family=Bangers&family=Fredoka:wght@400;700&family=Nunito:wght@400;600;700&display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=Luckiest+Guy&family=Bangers&family=Schoolbell&display=swap" rel="stylesheet">
 <style>
   @page { margin: 20mm 15mm 25mm 15mm; }
-  body { font-family: 'Nunito', sans-serif; margin: 0; padding: 30px; color: #222; }
+  body { font-family: 'Schoolbell', cursive; margin: 0; padding: 30px; color: #222; }
   .header { text-align: center; margin-bottom: 24px; border-bottom: 3px solid #0077CC; padding-bottom: 16px; }
-  .header h1 { font-family: 'Bangers', cursive; font-size: 2.2rem; color: #0077CC; letter-spacing: 2px; margin: 0 0 6px; }
+  .header h1 { font-family: 'Luckiest Guy', cursive; font-size: 2.2rem; color: #0077CC; letter-spacing: 2px; margin: 0 0 6px; }
   .header .info { font-size: 0.95rem; color: #555; }
   .header .info strong { color: #333; }
   .notes { background: #f0f7ff; border: 1px solid #b3d4fc; border-radius: 10px; padding: 14px 18px; margin-bottom: 20px; font-size: 0.95rem; line-height: 1.6; }
-  .notes-label { font-family: 'Fredoka', sans-serif; font-weight: 700; color: #0077CC; margin-bottom: 4px; }
-  .footer { position: fixed; bottom: 0; left: 0; right: 0; text-align: center; font-family: 'Fredoka', sans-serif; font-size: 0.8rem; color: #999; padding: 10px; border-top: 1px solid #ddd; background: #fff; }
+  .notes-label { font-family: 'Bangers', cursive; font-weight: 700; color: #0077CC; margin-bottom: 4px; }
+  .footer { position: fixed; bottom: 0; left: 0; right: 0; text-align: center; font-family: 'Bangers', cursive; font-size: 0.8rem; color: #999; padding: 10px; border-top: 1px solid #ddd; background: #fff; }
   .footer a { color: #0077CC; text-decoration: none; }
   @media print { .footer { position: fixed; bottom: 0; } }
 </style></head><body>
