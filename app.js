@@ -1306,12 +1306,12 @@ function buildCoursHTML() {
           <div style="width:36px; height:36px; border-radius:50%; background:#0077CC; color:#fff; display:flex; align-items:center; justify-content:center; font-family:'Bangers',cursive; font-weight:700; font-size:1.1rem; flex-shrink:0;">${i + 1}</div>
           <div>
             <div style="font-family:'Luckiest Guy',cursive; font-size:1.2rem; letter-spacing:1px; color:#222;">${escapeHtml(edu.titre)}</div>
-            <div style="font-size:0.85rem; color:#666; font-family:'Schoolbell',cursive;">
+            <div style="font-size:0.85rem; color:#666; font-family:Schoolbell,cursive;">
               ${edu._catEmoji || ''} ${escapeHtml(edu._catName || '')} · ⏱ ${edu.duree} min · ${escapeHtml(diffLabel[edu.difficulte] || '')} · ${escapeHtml(edu.niveau)}
             </div>
           </div>
         </div>
-        <p style="font-size:0.95rem; line-height:1.6; color:#333; font-family:'Schoolbell',cursive; margin:8px 0;">${escapeHtml(edu.desc)}</p>
+        <p style="font-size:0.95rem; line-height:1.6; color:#333; font-family:Schoolbell,cursive; margin:8px 0;">${escapeHtml(edu.desc)}</p>
         ${edu.materiel && edu.materiel.length > 0 && edu.materiel[0] !== 'Aucun' ? '<div style="font-size:0.85rem; color:#555; margin-top:6px;"><strong>Matériel :</strong> ' + edu.materiel.map(m => escapeHtml(m)).join(', ') + '</div>' : ''}
         ${edu._note ? '<div style="font-size:0.85rem; color:#0077CC; margin-top:6px; font-style:italic;">📝 Note : ' + escapeHtml(edu._note) + '</div>' : ''}
       </div>
