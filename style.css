@@ -1547,11 +1547,12 @@ button {
   gap: 8px;
   margin-bottom: 20px;
   flex-wrap: wrap;
-  background: rgba(255, 255, 255, 0.75);
+  background: rgba(15, 15, 46, 0.88);
+  backdrop-filter: blur(8px);
   padding: 14px 20px;
   border-radius: 12px;
-  border: 2px solid rgba(255, 255, 255, 0.3);
-  box-shadow: 0 4px 15px rgba(0,0,0,0.1);
+  border: 2px solid rgba(255, 255, 255, 0.15);
+  box-shadow: 0 4px 20px rgba(0,0,0,0.3);
 }
 
 .modal-action-btn {
